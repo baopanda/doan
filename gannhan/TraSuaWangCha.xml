@@ -1,0 +1,633 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="TraSuaWangCha1">
+		<sentences>
+			<sentence id="TraSuaWangCha1:0">
+				<text>Trà sữa ở đây khá chất_lượng , vị rất thơm , không quá ngọt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha1:1">
+				<text>Trân_châu trắng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha1:2">
+				<text>Nhân_viên nhiệt_tình vui_vẻ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha1:3">
+				<text>Không_gian khá thoáng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha1:4">
+				<text>Giá hơi cao xíu nhưng bù lại chất_lượng rất ok .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha1:5" OutOfScope="TRUE">
+				<text>Tiền_nào_của_nấy .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha1:6">
+				<text>Gần nhà nên đi_lại cũng thuận_tiện</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha2">
+		<sentences>
+			<sentence id="TraSuaWangCha2:0" OutOfScope="TRUE">
+				<text>Hôm_nay Delivery giảm tới 50% tranh_thủ 3 đứa làm 3ly .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha2:1">
+				<text>2 ly sencha và 1 trà xanh đều thơm và ngon nhưng mình thấy sencha ở đây là ngon nhất .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha2:2" OutOfScope="TRUE">
+				<text>Cứ gg thế_này mình lên kg mất 😋 😋</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha3">
+		<sentences>
+			<sentence id="TraSuaWangCha3:0">
+				<text>Trà sữa thì ngày_càng mọc nhiều nơi mà thích uống mỗi chỗ ni .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha3:1">
+				<text>Thức uống đa_dạng và rất ngon , thích nhất vị trà xanh sữa kem chéese bỏ thêm trân_châu trắng vừa uống vừa nhai_nhai phê hết chỗ chê , thứ 2 là món Trà_Đào , rồi cuối_cùng là món Đường_Hổ_Ca Cao , không_gian rộng_rãi và view đẹp tha_hồ ngồi chơi nói_chuyện với bạn_bè thoải_mái .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha3:2">
+				<text>Nói_chung là hệ_thống WangCha rất tuyệt , lẫn về nhân_viên phục_vụ tốt và thức uống cực ngon .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha3:3">
+				<text>Riêng bản_thân mình thì nếu đánh_giá ở đây mình cho 10 điểm kkk .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha4">
+		<sentences>
+			<sentence id="TraSuaWangCha4:0" OutOfScope="TRUE">
+				<text>Lâu lắm rồi ghé lại thấy có nhiều trò boardgame chơi cũng hay .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha4:1">
+				<text>Chất_lượng và ngân viên cũng_như ngày nào , nói_chung khá hài_lòng 😙</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha5">
+		<sentences>
+			<sentence id="TraSuaWangCha5:0" OutOfScope="TRUE">
+				<text>Tập tẹ chơi foody tiện_thể mình kiếm điểm thưởng để có nhiều ưu_đãi .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha5:1">
+				<text>Tối_qua mình có ghé trà sữa wangcha và order 2 ly trà trái_cây là trà nho đen táo và trà cam xả .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha5:2">
+				<text>Theo mình thấy thì trà trái_cây ở đây có vị khá ngon so với những quán mà mình đã thử qua .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha5:3">
+				<text>Vị trà và vị trái_cây mình đều cảm_nhận được khá là ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha5:4">
+				<text>Nhân_viên thì thân_thiện , không_gian rộng_rãi thoáng mát thích_hợp để tụ_tập bạn_bè .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha5:5">
+				<text>Mới ghé lần đầu mà đã thích thế_này thì mình nghĩ sẽ ghé quán dài_dài</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha6">
+		<sentences>
+			<sentence id="TraSuaWangCha6:0">
+				<text>Thử món mới của quán , thấy quá ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha6:1">
+				<text>Mình order 1 ly cacao đường hổ size L , thấy vị lạ , hình_như đặc_trưng là mùi sữa chứ không phải trà đâu cb .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha6:2" OutOfScope="TRUE">
+				<text>Chắc cái này phù_hợp cho những bạn sợ mất_ngủ : ) ) ) ) .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha6:3">
+				<text>Bữa trước mình cũng đã thử ly Đường_Hổ sữa vị , và cực thích món này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha6:4" OutOfScope="TRUE">
+				<text>Hôm_nay thì thử 1 trong 3 ly khác của Đường_Hổ .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha6:5" OutOfScope="TRUE">
+				<text>Thấy tuyệt .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha6:6" OutOfScope="TRUE">
+				<text>Cái này các bạn nên khuyaays đều trước khi uống mới ngon chứ để không uống sẽ lạc .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha6:7">
+				<text>Nhân_viên tư_vấn tận_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha7">
+		<sentences>
+			<sentence id="TraSuaWangCha7:0">
+				<text>Món_Đường_Hổ trân_châu ngon tuyệt_cú mèo ! ! !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha8">
+		<sentences>
+			<sentence id="TraSuaWangCha8:0">
+				<text>Thấy quán mới cũng bon_chen rủ đồng_bọn order , má ơi chất_lượng tệ ơi_là tệ , mình order ly nho đen - táo . . má ơi hút 1 miếng xong là vức ly nước lun !</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha8:1">
+				<text>Vị ngọt đắng , mùi thì kiểu gì ấy , không_thể uống nỗi Một lần ko có lần thứ 2 lun ... hic ... tiếc tiền dễ_sợ</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha9">
+		<sentences>
+			<sentence id="TraSuaWangCha9:0" OutOfScope="TRUE">
+				<text>Hôm bữa thấy trên Deli chạy chương_trình giảm_giá cho quán này tới 50% nên mình cũng háo_hức order liền .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha9:1" OutOfScope="TRUE">
+				<text>Ly của mình là Trà_Fruit_Wang_Cha thượng_hạng đó , thêm topping trân_châu trắng nữa_là giá 55k .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha9:2">
+				<text>May được giảm_giá 50% nên thấy mạnh_dạn hẳn : ) ) ) Thú_thực là uống ly này mình cực_kỳ thất_vọng luôn í .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha9:3">
+				<text>Vị trà ko rõ gì hết , cũng chẳng thấy vị trái_cây tươi nào , chỉ nghe giống vị siro nho thôi , uống chán lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha9:4">
+				<text>Nói_chung là mình thấy quá tệ cho 1 ly trà trái_cây thượng_hạng luôn : ( ( ( May_mà được giảm_giá chứ chắc tiếc đứt hết cả ruột đó .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha9:5">
+				<text>Mong quán cải_thiện thêm về chất_lượng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha10">
+		<sentences>
+			<sentence id="TraSuaWangCha10:0" OutOfScope="TRUE">
+				<text>Thật_tình không biết nói sao luôn Quán xa nhà nên đi ngang qua vài lần mà chưa có dịp thử Hôm_nay thấy sale 40% ... chưa bao_giờ uống nên mới ham_hố order thử .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha10:1">
+				<text>Thiệt không phải nói chứ 1 quán ts lớn vậy khai_trương rầm_rộ vậy_mà cách training nhân_viên cẩu_thả vậy . . hay do quán bảo mấy bạn nhân_viên hôm nào sale là bỏ ít lại Mình hay uống ts đồ nên mỗi lần uống gì đều order size L hết ... mà tri_ân khách bằng cách giảm tận 40% mà ly trà có nữa ly vậy sale làm_gì ... nhìn cứ như_ai uống rồi ... thà đừng có sale mà có 1 ly chất_lượng còn hơn tệ vậy . . trà thì ko nghe mùi trà toàn mùi sữa đặc . . trân_châu dai thôi rồi luôn ... chắc chừa luôn . . uống cứ như sữa đặc pha nước . . dở òm 😔 😔</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha11">
+		<sentences>
+			<sentence id="TraSuaWangCha11:0" OutOfScope="TRUE">
+				<text>Có_lẽ thức uống ở đây ko hợp với mình</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha12">
+		<sentences>
+			<sentence id="TraSuaWangCha12:0" OutOfScope="TRUE">
+				<text>Thử cả 3 vị của món đư ờng hổ mới ra là matcha , cacao , với sữa .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha12:1">
+				<text>Thấy matcha ngon nhứt luôn đường hổ ngọt vừa_phải mà ngọt thanh hòa matcha lạ_lạ khá ngon trân_châu mềm ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha12:2">
+				<text>Ca cao hơi bị ngọt còn sữa thì k có j lạ hết .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha12:3" OutOfScope="TRUE">
+				<text>Nói_chung duyệt .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha12:4">
+				<text>Quán view thì đẹp không_gian rộng_rãi nhân_viên thân_thiện có nhiều boardgame để chơi nữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha13">
+		<sentences>
+			<sentence id="TraSuaWangCha13:0" OutOfScope="TRUE">
+				<text>Ghé quán hôm trời hơi nắng_nóng mần thử Trà_Đào .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha13:1">
+				<text>Nói_chung ngọt vừa_phải khá thích_hợp để giải_khát .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha13:2" OutOfScope="TRUE">
+				<text>Nghe nv bảo còn vài loại trà trái_cây ngon hơn_nữa mà do hôm_nay đi có 1 mình nên chưa thử 😂 hẹn hôm_sau quán nha = ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha14">
+		<sentences>
+			<sentence id="TraSuaWangCha14:0" OutOfScope="TRUE">
+				<text>Có dịp ghé wangcha uống thử món mới là cacao đường hổ .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha14:1">
+				<text>Cacao hơi nhạt dù uống liền trong 5ph lúc mới pha .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha14:2">
+				<text>Trân_châu ngon nhưng hơi sượng cứng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="TraSuaWangCha14:3" OutOfScope="TRUE">
+				<text>Mềm tí mình thích hơn .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha14:4">
+				<text>Bánh sữa_chua lạ , ngon , mềm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha14:5">
+				<text>Ăn rất thích .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha15">
+		<sentences>
+			<sentence id="TraSuaWangCha15:0">
+				<text>Hôm_nay rảnh cùng bạn ghé lại quán thử nốt món Đường_Hổ_Câcao , công_nhận vị kết_hợp lạ ghê , Đường_Hổ trân_châu đã lạ và ngon rồi nhưng vẫn chưa bằng vị Cacao_Đường_Hổ , uống xong thấy ghiền hẳn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha15:1">
+				<text>Nhà có điều_kiện mình chơi lun ly size L , đúng là nhìn ngay từ đầu đã ngon_mắt thi ngon_miệng là điều dễ hiểu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha15:2">
+				<text>Quyết_định trung_thành lun với món này , tuy_nhiên quán cho trân_châu hơi ít , nhiều nhiều tí nữa thì có_lẽ là tuyệt_vời .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha16">
+		<sentences>
+			<sentence id="TraSuaWangCha16:0" OutOfScope="TRUE">
+				<text>Vì giảm 50% nên order 4 ly , 3 ly kia đầy nhóc dù đều đặt 50% đá .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha16:1" OutOfScope="TRUE">
+				<text>Duy có ly đường hổ nhìn cứ như bị uống mất nửa vậy đó .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha16:2" OutOfScope="TRUE">
+				<text>Nhìn mà mất hết thiện_cảm , không biết quán có lý_do gì cho việc này không ?</text>
+			</sentence>
+			<sentence id="TraSuaWangCha16:3" OutOfScope="TRUE">
+				<text>Chứ bình_thường mình đến quán uống ly nào cunhx đầy full ly</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha17">
+		<sentences>
+			<sentence id="TraSuaWangCha17:0">
+				<text>Trà hơi ngọt so với minh , 70% đường nhưng vẫn thấy ngọt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha17:1" OutOfScope="TRUE">
+				<text>Mình thích uống đắng .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha17:2" OutOfScope="TRUE">
+				<text>Ở đà nẵng thích nhở , đơn tối_thiểu 50k là đặt được rồi .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha18">
+		<sentences>
+			<sentence id="TraSuaWangCha18:0">
+				<text>Quán có món mới đg hổ đc giảm_giá 50% từ 8-11 / 3 , quán có ko gian sống ảo so deep , kute , đồ uống hơi tạm , ko có j đặc_sắc , giá_cả ok sau khi giảm , nhân_viên nhiệt_tình , quán ở vị_trí dễ tìm</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha19">
+		<sentences>
+			<sentence id="TraSuaWangCha19:0" OutOfScope="TRUE">
+				<text>Mình thấy quán có món mới được off 50% nên chạy ra quán mua về uống thử .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:1" OutOfScope="TRUE">
+				<text>Mình mua ly Đường hổ Trân_châu sữa size L .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:2">
+				<text>Đầu_tiên là ly trà sữa khá đẹp , chắc_chắn , sạch_sẽ , được 1 điểm cộng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha19:3">
+				<text>Về mùi_vị thì lại không được như kỳ_vọng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha19:4" OutOfScope="TRUE">
+				<text>Nó khá giống sữa đặc và nước đường .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:5">
+				<text>Nói_chung khá ngọt , không thơm béo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha19:6" OutOfScope="TRUE">
+				<text>Dù trong ly rất nhiều đá .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:7" OutOfScope="TRUE">
+				<text>Đá chiếm hết 2/3 ly .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:8" OutOfScope="TRUE">
+				<text>Không biết có phải do khuyến_mãi nên quán hào_phóng đá vậy không .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:9">
+				<text>Và vì đá quá nhiều nên muốn ăn trân_châu cũng khó , cắm ống hút mà gặp toàn đá với đá .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha19:10">
+				<text>Trân_châu thì cứng , không dai mềm gì cả .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha19:11" OutOfScope="TRUE">
+				<text>Tóm_lại là món mới của quán không ghi_điểm được với mình .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha19:12" OutOfScope="TRUE">
+				<text>Uống 1 lần cho_biết . Với giá ban_đầu của ly này là 47k thì thà uống quán khác chất_lượng hơn .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha20">
+		<sentences>
+			<sentence id="TraSuaWangCha20:0" OutOfScope="TRUE">
+				<text>Vì là chưa đến quán bao_giờ nên điểm mình cho ở đây tập_trung vào chất_lượng của thức uống , nên số điểm bình_quân ra có_lẽ sẽ thấp .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha20:1" OutOfScope="TRUE">
+				<text>Mình order của quán 4 ly , 2 ly gọi_là giá cao nhất của quán , một ly ca cao đường hổ , một ly trà nho đen - táo .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha20:2">
+				<text>Tất_cả thức uống đều ngon , hợp vị_tất cả người uống ... mặc_dù đây là lần đầu_tiên gọi uống của quán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha20:3">
+				<text>Ngay cả ly đựng nhìn cũng đẹp_mắt .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha20:4">
+				<text>Vị trà vừa_phải , kem không quá béo , pudding trứng hay thạch gì cũng đều có vị vừa_phải , giòn ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha20:5" OutOfScope="TRUE">
+				<text>Vì mãi mê chụp hình ly của mình nên không kịp chụp cho những ly còn lại ☺ ️ ☺ ️</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha21">
+		<sentences>
+			<sentence id="TraSuaWangCha21:0">
+				<text>Cũng hay ghé quán này uống lắm , không_gian thì Ok rồi nhưng thích nước uống ở đây khá ngon , với_lại cái ly cũng đẹp nữa , nhân_viên khá thân_thiện .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha21:1">
+				<text>cái tiện nhất_là gần nhà mà toàn lũ bạn thích trà sữa .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha22">
+		<sentences>
+			<sentence id="TraSuaWangCha22:0" OutOfScope="TRUE">
+				<text>Quán ni nhiều mấy đồ_chơi nhỏ nhỏ như cờ cá_ngựa , cờ tỉ_phú , rút gỗ , uno , ...</text>
+			</sentence>
+			<sentence id="TraSuaWangCha22:1" OutOfScope="TRUE">
+				<text>Đi tụ_tập bạn_bè đông đông cũng khá hợp_lý nè .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha22:2">
+				<text>Giá cũng k quá cao , tầm 30k trở_lên .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha22:3">
+				<text>Đồ uống mình thấy k đặc_sắc , bth thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha23">
+		<sentences>
+			<sentence id="TraSuaWangCha23:0">
+				<text>Đường hổ trân_châu sữa rất ngon lun , hôm_qua uống ly nhỏ ngon quá hôm_nay deli giảm 40% quất lun ly lớn , lại đc freeship airpay nên ly này có 28k à quá rẻ</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha23:1">
+				<text>Món này chắc là sữa và trân_châu , hem phải trà sữa , chẳng có vị trà , mà sữa cũng lạt nhách , may mua về nhà nên lấy thêm lon sữa đặc đổ vô mới vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha24">
+		<sentences>
+			<sentence id="TraSuaWangCha24:0">
+				<text>Trà nhạt , ko ngon , nếu ko có giảm_giá thì trà vậy_là quá đắt , uống thử cho_biết chứ ko thấy hạp .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha25">
+		<sentences>
+			<sentence id="TraSuaWangCha25:0">
+				<text>Nói thật_là bị nghiện cái hương_vị của trà sữa Wang cha Thượng_hạng ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha25:1">
+				<text>Vị như ngũ_cốc những uống rất thích , k quá ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha25:2">
+				<text>Mua ly lớn uống thả ga , bỏ thêm topping trân_châu trắng nhai sật sật nữa thì quá tuyệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha25:3">
+				<text>So với mình thì giá hơi cao , nhưng lâu_lâu đầu_tư thì vẫn ok .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha25:4" OutOfScope="TRUE">
+				<text>Quán có ship trên deli , và rất hay có nhiều chương_trình ưu_đãi giảm_giá nên cũng an_ủi phần_nào .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha26">
+		<sentences>
+			<sentence id="TraSuaWangCha26:0">
+				<text>Quay lại WangCha lần này may_mắn được chủ quán cho trải_nghiệm món mới với cái tên rất vui_tai " Đường_Hổ_Trân_Châu " chuẩn_bị ra_mắt sắp tới , cảm_giác vị lạ , ngọt thơm và nhâm_nhi từng hạt trân_châu ngon khó tả , vị này mình đã từng thấy giống 1 đồ uống ở bên Singapore và rất ưng_ý món này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha26:1" OutOfScope="TRUE">
+				<text>Bỏ_qua món trà sữa WangCha thượng_hạng mà trung_thành với cái món này thôi .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha26:2" OutOfScope="TRUE">
+				<text>Măm . . măm . . măm</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha27">
+		<sentences>
+			<sentence id="TraSuaWangCha27:0">
+				<text>Trà này thường_xuyên giảm_giá đậm , nghe bảo không được ngon nên dù mặt_bằng đẹp thì vẫn rơi vào thảm_cảnh " ế triền miền " .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha27:1">
+				<text>Bữa đi mục_sở_thị , bạn mình gọi trà milkfoam uống thì thấy đúng dở thiệt , rất chán .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha27:2">
+				<text>Riêng món trà nho đen gì gì của mình thì uống lại rất ok nhé .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha27:3" OutOfScope="TRUE">
+				<text>Nếu có dịp đến lại sẽ trung_thành với mỗi món này thôi cho chắc hé hé .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha27:4">
+				<text>Quán rộng_rãi , vắng người .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha27:5" OutOfScope="TRUE">
+				<text>Bồng trẻ_con lên được cho chúng ngồi thoải_mái .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha28">
+		<sentences>
+			<sentence id="TraSuaWangCha28:0">
+				<text>Vừa nghỉ têt xong đến Đà_Nẵng là phải tạc qua WangCha mần ngay ly Wangcha_Cacao_Mix ☺ ️ phải nói ngon cực , vị ngọt vừa_phải , có cả lớp kem bên trên nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha28:1">
+				<text>Chắc tết đến xuân về nên cho lớp kem nhiều ơi_là nhiều 🤣 Mình rất thích nước uống của quán , hẹn hôm_sau tới thử các món khác nữa 😃 😃 Sẵn tiện chúc quán năm mới phát_tài nhé ☺ </text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha29">
+		<sentences>
+			<sentence id="TraSuaWangCha29:0" OutOfScope="TRUE">
+				<text>Tình_hình là thèm trà sữa nên vào foody xem , thấy quán đc rất nhiều review khen mà_lại có giảm_giá nữa nên cũng od uống thử .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha29:1" OutOfScope="TRUE">
+				<text>Mình uống trà sữa wang cha thượng hạn , size L 50% đá 70% đường .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha29:2">
+				<text>Mặc_dù chọn ít đá nhưng sao khi uống vẫn thấy lạt ơi_là lạt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha29:3">
+				<text>Ly của mình cũng vì ít đá nên lưng_chừng , ko rõ mùi_vị như nào nhưng_mà dỡ quá dỡ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TraSuaWangCha29:4" OutOfScope="TRUE">
+				<text>Thiết_nghĩ vẫn nên trung_thành vs những quán hay ún thì hơn , không nên bon_chen xí xọn .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha29:5" OutOfScope="TRUE">
+				<text>P / s : mà cũng có_thể do mình chọn loại ko ngon , bạn nào uống nhiều rồi cho mình ít kiến_thức trà sữa đi 🤗</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha30">
+		<sentences>
+			<sentence id="TraSuaWangCha30:0">
+				<text>Wangcha vừa_rồi có giảm 50% nên ghé lại uống Wangcha_Macchiato nè : 3 Không hiểu sao uống đợt này thấy cứ ngấy ngấy , kem macchiato béo quá lại không có vị mặn hay gì khác nên ngán cực T . T</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha31">
+		<sentences>
+			<sentence id="TraSuaWangCha31:0" OutOfScope="TRUE">
+				<text>Nghe tin Wangcha giảm_giá 50% là chạy qua mua uống thử liền : ) ) giảm từ ngày 1 đến ngày 4 tháng 2 đó mấy bạn : 3 Mình uống trà sữa matcha thêm trân_châu trắng 3Q .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha31:1">
+				<text>Trà sữa rõ vị matcha , thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha31:2">
+				<text>Trân_châu ngon , sần_sật , nhai vui_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha31:3" OutOfScope="TRUE">
+				<text>Ly M nên uống chưa đã lắm , biết thế gọi luôn ly L : ) ) mà nếu mua ly này giá chưa giảm thì cũng khá là chát ấy .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha31:4">
+				<text>Không_gian tầng 1 cũng ổn , mình thấy có nhiều bộ boardgame để khách chơi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha31:5">
+				<text>Nhân_viên dễ_thương .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha31:6" OutOfScope="TRUE">
+				<text>Quán có chương_trình tích điểm để nhận son nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TraSuaWangCha32">
+		<sentences>
+			<sentence id="TraSuaWangCha32:0" OutOfScope="TRUE">
+				<text>Wang đồng giá 25k nên cũng theo trào_lưu đặt order liền_tay .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha32:1" OutOfScope="TRUE">
+				<text>Mình gọi trà Royal_Ceylon_Machiato thêm trân_châu trắng .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha32:2">
+				<text>Vị này uống ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha32:3">
+				<text>Lớp machiato béo , uống kết_hợp vs trà ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha32:4" OutOfScope="TRUE">
+				<text>Ăn k thì béo lắm .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha32:5">
+				<text>Ly size M uống vừa_vặn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha32:6" OutOfScope="TRUE">
+				<text>Nhỏ em mình uống trà Nho đen - Táo .</text>
+			</sentence>
+			<sentence id="TraSuaWangCha32:7">
+				<text>Vị thơm , chọn lượng đường 50% là vừa đủ ngon rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha32:8">
+				<text>Quán cũng gần nên ship nhanh vèo_vèo .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TraSuaWangCha32:9">
+				<text>Shipper thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

@@ -1,0 +1,589 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="SasinMiCay7CapDoHanQuoc1">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc1:0">
+				<text>Đa_số các loại mì cay ở đây mình đều nếm thử rồi nên thấy rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc1:1">
+				<text>Nhưng takoyaki thì hơi nhiều bột , ăn một cục thôi đã rất ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc1:2">
+				<text>Phục_vụ nhanh , quán sạch_sẽ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc2">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc2:0" OutOfScope="TRUE">
+				<text>Minh tới quán order 30p xong vẫn chưa thấy mang đồ_ăn lên .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc2:1" OutOfScope="TRUE">
+				<text>Hỏi nhân_viên sao lâu quá vậy , thì lúc sau một nhân_viên khác lên nói mình order lại .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc2:2">
+				<text>Ngán ngẫm mình bỏ về luôn . không biết họ phục_vụ kiểu gì vậy</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc3">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:0" OutOfScope="TRUE">
+				<text>Mình hay ăn mì cay ở đây nhưng dạo này thấy ko còn cay như khi xưa nữa , ăn cấp_độ 7 vẫn bt chứ ko hít_hà nữa .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:1">
+				<text>Hương_vị vẫn ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:2">
+				<text>Có_điều mì gà sốt cay ko ngon , sốt bt ko có vị gì đặc_biệt , khi xé gà thì ở trong đùi còn máu đỏ nên mình nhợn ko dám ăn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:3">
+				<text>Hình_như quán mới đổi thiết_kế + phục_vụ nên thấy sơ_sài .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:4" OutOfScope="TRUE">
+				<text>Lúc trc ở dưới cũng ngồi_bệt nhìn rộng_rãi hơn .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:5">
+				<text>Bây h ghế cao thấy chật_chội .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:6" OutOfScope="TRUE">
+				<text>Với_lại lúc trc khi vào quán có để sẵn khăn lạnh in Sasin luôn , bây h gọi mới đem ra loại khăn bt .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc3:7">
+				<text>Mình hơi trọng hình_thức nên khá để_ý ^ ^ Còn món ăn thì tính ra mì cay vẫn ổn ^ ^</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc4">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc4:0">
+				<text>Mình đến ăn lần thứ 2 và sẽ ko bao_giờ quay lại_nữa . mì thì tạm đc còn cơm trộn thì mình khuyên đừng nên thử dù chỉ 1 lần .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc4:1">
+				<text>Cơm thì nhãi thôi khỏi bàn luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc4:2">
+				<text>Sốt thì ngọt ngọt ăn ko hết_nổi phải bỏ hơn_nữa tô .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc4:3">
+				<text>Đc nhân_viên gửi xe thì ok còn lại thì ngàn chấm</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc5">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc5:0">
+				<text>Thực_đơn phong_phú .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc5:1">
+				<text>Phục_vụ nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc5:2">
+				<text>Chỗ gởi xe thoải_mái .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc5:3" OutOfScope="TRUE">
+				<text>Giá mỳ dao_động từ 3 9 0 0 0 VND đến 5 9 0 0 0 VND .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc6">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:0" OutOfScope="TRUE">
+				<text>Mình gọi 2 tô kim_chi hải_sản .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:1" OutOfScope="TRUE">
+				<text>Mỗi tô có 2 con tôm 2 con bạch tuột và ít cải tím , toàn nước là nước .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:2">
+				<text>Tôm gì mà làm không sạch , nhìn gớm chả mún ăn , bạn_trai mình thử thì ôi_thôi nó ươn rồi , bạch tuột cũng thế mình thử thì nó nhừ ra chắc là để lâu quá rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:3" OutOfScope="TRUE">
+				<text>Nói thật chứ trước đó mình ăn_ở hot hot ngon hơn nhiều , thức_ăn ngon sạch_sẽ nhìn là muốn ăn ngay , vị cũng đậm_đà nữa .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:4">
+				<text>Còn ở đây thì ... lần đâu tiên thử quán này và không bao h ăn lại đây nữa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc6:5">
+				<text>Qá thất_vọng về chất_lượng cũng_như giá_cả .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc7">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc7:0">
+				<text>Mình đi ăn từ mùng 28 Còn 2 ngày nữa mới tới Tết mà Sasin đã lấy tiền phụ_thu rồi , mong_muốn kiếm tiền nhanh quá Đổi menu mới , mỳ bò với mỳ hải_sản 55k / tô , mỳ thập_cẩm 95k : ) ) ) Với chất_lượng đồ_ăn và với mức giá_như vậy_thì k đáng Phục_vụ nhanh_nhẹn , quán đông Ăn lần đầu cũng_như lần cuối , ăn quán khác ngon hơn</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc8">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc8:0">
+				<text>Thích mì cay nhất</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc9">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:0" OutOfScope="TRUE">
+				<text>Mình hay ăn mì cay ở quán này nhất .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:1" OutOfScope="TRUE">
+				<text>Cũng đọc được nhiều review khá tệ về quán nhưng mình cũng vẫn hay ghé ăn hoặc mua về vì mình thích mì ở đây .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:2" OutOfScope="TRUE">
+				<text>Nhưng chuyện tối nay làm mình rất là khó_chịu và bực_mình .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:3" OutOfScope="TRUE">
+				<text>Mình đến quán lúc 7 giờ , order 1 mì bò và 1 mì hải_sản .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:4" OutOfScope="TRUE">
+				<text>Nhưng đến hơn 7 rưỡi mình vẫn chưa có mì , mặc_dù 3 bàn đến sau mình đã có mì và có bàn đã ăn gần hết .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:5" OutOfScope="TRUE">
+				<text>Mình cũng nhắc_chừng nhân_viên mấy lần .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:6" OutOfScope="TRUE">
+				<text>Rồi bạn mình đứng_dậy ra hỏi bé nhân_viên thì bạn đó còn cãi lại : “ là do lỗi của bếp chớ đâu phải lỗi của em ” .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:7">
+				<text>Ôi thật_sự là lần đầu_tiên mình thấy phục_vụ cãi lại khách .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:8" OutOfScope="TRUE">
+				<text>Vào ngồi đợi chừng 15 phút nữa vẫn không thấy nên tụi mình bực_mình bỏ về luôn .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc9:9" OutOfScope="TRUE">
+				<text>Sẽ không_bao_giờ ghé quán này nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc10">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:0">
+				<text>haizz phải gọi_là trên cả thất_vọng và tiếc tiền .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:1">
+				<text>Thật_sự chất_lượng thì chả có gì đặc_sắc . </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:2">
+				<text>1 tô mì 55k so với chất_lượng ko đáng một_chút nào .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:3">
+				<text>Phục_vụ thì ôi_thôi . Tại_sao lại có kiểu phục_vụ như kiểu hét vào mặt khách như_thế ạ .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:4">
+				<text>Lần đầu_tiên mình ăn một quán_ăn mà nhân_viên la lên hỏi khách ở đâu , bàn số mấy , rồi bưng đồ_ăn ra thì hỏi từng khách ai kêu cái này .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:5" OutOfScope="TRUE">
+				<text>Thật_sự ngồi ăn mà khó_chịu lắm mọi người ạ . </text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:6" OutOfScope="TRUE">
+				<text>Ăn trong tâm_trạng thoải_mái , chất_lượng ngon , giá_cả hợp_lí thì ai cũng muốn .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc10:7">
+				<text>Nhưng nếu giá_cả quá mắc so với chất_lượng thì nên cho khách_hàng ăn một_cách thoải_mái chứ . Không_bao_giờ quay lại một lần nào nữa</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc11">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc11:0">
+				<text>Thái_độ phục_vụ quá kém , order thì không thèm ghi , lúc sau quay ra lại nói mất bill Đến tờ giấy_ăn cũng không có , kiếm tiền thì cũng ở mức_độ vừa_phải thôi .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc12">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc12:0" OutOfScope="TRUE">
+				<text>Ở đn , ăn mì cay thì mình thik ăn_ở sasin nhất .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc12:1">
+				<text>Ngon , rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc12:2">
+				<text>Chỉ là đợi hơi lâu , không_gian đông người , bàn sạch nhưng nhìn mấy cái nệm ngồi hơi ko thẩm_mỹ lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc12:3">
+				<text>Menu hơi ít món , quán chỉ có khăn ướt , ko phục_vụ khăn giấy , hơi bất_tiện cho phái nữ , và 1 số người ko thik khăn ướt</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc13">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc13:0">
+				<text>Tệ , mình gọi mì bạch_tuộc , bạch_tuộc 2 con nhưng 1 con lại nhỏ_xíu như ngón_cái , con còn lại chỉ gấp đôi con kia , rất không phù_hợp với cái giá mình trả , cũng không biết các món khác thì_sao .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc13:1" OutOfScope="TRUE">
+				<text>không có khăn giấy , muốn lau gì mời dùng khăn ướt .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc13:2">
+				<text>gọi 1 phần kim_chi thêm , nhắc_nhở thêm vài lần vẫn không thấy bóng_dáng .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc13:3">
+				<text>đặc_biệt không_gian chật_hẹp , tầng 1 còn tốt , nhưng tầng 2 quả_thực kín_mít , mình ngồi cùng phòng một nhóm học_sinh mà bị ồn đến phải chạy ra hành_lang đứng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc13:4" OutOfScope="TRUE">
+				<text>Tự_nhủ lần sau sẽ không đến nữa</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc14">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc14:0">
+				<text>Mỳ cay bình_thường Mỳ xào hơi ngọt Chén nước có nấm kim châm đi kèm sống_nhăn Thái_độ nhân_viên tệ Xin cái chén 2-3 lần vẫn k cho</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc15">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc15:0">
+				<text>Mùi cá viên hơi kì , cơm thì okay , mỳ thì hình_như vơi đi hơn trước , cọng mỳ còn cứng cứng</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc16">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc16:0">
+				<text>Chất_lượng : Mình gọi 2 suất mì kim_chi bò cay cấp_độ 2 thấy khá ổn , chờ khoảng 10-15 ' thì_có lúc đó quán khá vắng khách .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc16:1">
+				<text>Mình gọi 2 tô , 1 lon coca với 2 khăn giấy ướt hết tổng 100k Thái_độ nhân_viên thì tệ , hời_hợt , cần cải_thiện. </text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc17">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:0" OutOfScope="TRUE">
+				<text>Ăn_ở đây nhiều rồi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:1">
+				<text>Vì ở Đà_Nẵng quán mì cay nhiều nhưng có mỗi đây là hợp vị .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:2" OutOfScope="TRUE">
+				<text>Mình không ăn được cay nên toàn ăn cấp 1 hoặc cấp không .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:3">
+				<text>Không_gian ở đây chật lắm , nhân_viên phục_vụ thì vui .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:4">
+				<text>Nhưng quán không có khăn khô để lau đũa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc17:5">
+				<text>Chỉ thích mỗi vị mì ở đây thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc18">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:0">
+				<text>Không_gian quán nhỏ , có 2 tầng ấm_cúng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:1">
+				<text>Chỗ để dép hơi lộn_xộn một_chút , ngồi_bệt .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:2" OutOfScope="TRUE">
+				<text>Khăn ướt thì_phải mua 2 ngàn .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:3" OutOfScope="TRUE">
+				<text>Buổi tối quán sẽ đông chờ hơi lâu một_chút .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:4" OutOfScope="TRUE">
+				<text>Quay lại đây sau một thời_gian dài không ăn mỳ cay .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:6">
+				<text>Phải nói là mình thất_vọng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:7">
+				<text>Mì cay gọi cấp_độ 4 chỉ thấy cay thôi chứ nước với cá nhạt kinh_khủng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:8">
+				<text>Cơm trộn , cơm thì nhão nhẹt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:9">
+				<text>Tokoyaki thì dầu_mỡ + bột quá nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:10">
+				<text>Kimbap thì vẫn ngon như trước thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc18:11">
+				<text>Thấy quán đông mình tưởng sẽ duy_trì được phong_độ ai dè không .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc19">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc19:0" OutOfScope="TRUE">
+				<text>Lại quay lại sau 1 thời_gian dài .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc19:1" OutOfScope="TRUE">
+				<text>Giá_cả hay vị món ăn_ở đây cũng vẫn vậy thôi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc19:2" OutOfScope="TRUE">
+				<text>Và quán vẫn đông dù_cho cơn_sốt mỳ cay đã qua lâu rồi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc19:3" OutOfScope="TRUE">
+				<text>Ngoài mỳ cay vẫn kèm thêm vài món ăn khác nữa .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc19:3" OutOfScope="TRUE">
+				<text>Sẽ quay lại_nữa</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc20">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc20:0">
+				<text>Món ăn_ở đây okay .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc20:1">
+				<text>Nhân_viên phục_vụ okay .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc20:2" OutOfScope="TRUE">
+				<text>Nhưng cánh cửa nên dán đẩy vào hay kéo ra .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc20:3">
+				<text>Bình đựng nước khá dơ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc20:4" OutOfScope="TRUE">
+				<text>Nên kiểm_tra trước khi uống 😞</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc21">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc21:0">
+				<text>Tạm ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc21:1">
+				<text>Gà thì quá bỡ , nước khá ít .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc21:2" OutOfScope="TRUE">
+				<text>Nv phục_vụ có_vẻ đoán để pv chứ k biết tô nào_là cấp nào .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc21:3" OutOfScope="TRUE">
+				<text>Nchung cần cải_thiện về mặt nấu và nguyên_liệu</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc22">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc22:0">
+				<text>Chất_lượng quán quá tệ 🤢 🤢 E và bạn đi ăn , kêu tô bò và gà . . khoảng đợi_chờ và thái_độ phục_vụ chảnh chó của nhân_viên thì khỏi phải bàn , ngồi chờ gần nửa tiếng mà gọi hỏi có đồ_ăn chưa thì đi luôn hixx . . quán_xá thì nó dơ khỏi nói 😰 .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc22:1">
+				<text>Mang 2 tô mì lên , tô gà thì thịt bở rệt , o trg xương còn máu 😡 .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc22:2">
+				<text>Tô bò thì nguyên cục bò đông_lạnh nấu vội chưa chín hết , tanh ko ăn dc . .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc22:3" OutOfScope="TRUE">
+				<text>VĨNH_BIỆT_QUÁN_SASIN_TỪ_ĐÂY</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc23">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:0">
+				<text>Quán phục_vụ quá tệ lại chậm nữa kiểu lười_biếng .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:1">
+				<text>Bàn dơ kinh_khủng đĩa chén thì_thôi rồi .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:2">
+				<text>Ly nước mà toàn cặn chịu không nỗi .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:3">
+				<text>Đã_vậy giấy còn phả mua .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:4">
+				<text>Mình ăn mỳ hải_sản cấp 2 mà nhợn vì toàn kiến hôi đầy tô mình còn đếm được hơn 20 con nên nói với phục_vụ anh ơi có kiến nhiều quá .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc23:5">
+				<text>Vậy_mà chẳng thèm để_ý đến khách .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc24">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc24:0">
+				<text>Thất_vọng quá 😟 😟 Lâu_nay chỉ ăn bên Sơn_Trà cho gần nhưng chất_lượng cũng k tốt nên qua Nguyên_Văn_Linh ăn , nhưng khi ăn lại thất_vọng vô_cùng , nước thì cạn , chưa ăn đã thấy cạn r , nhanh nguội , mỳ nở hết trơn , kiểu như để lâu r k đem ra , ăn k đc chi hết .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc24:1">
+				<text>Ngon nhưng mỳ bở như vậy_sao mà ăn , bàn mình ord trc nhưng đến khi đem ra thì đem cùng bàn bên_cạnh là mỳ sắp nguội và nở rồi , nhờ nv đổi cho ngon cho nóng thì nv chỉ trả_lời " mỳ nào cũng_như nhau c ạ , nấu ra hắn như v đấy " nhưng lâu_nay ăn k có tình_trạng như_vậy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc24:2" OutOfScope="TRUE">
+				<text>Buồn ghia , mong lần sau tới k còn tình_trạng này</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc25">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:0" OutOfScope="TRUE">
+				<text>Đến đây chắc cũng đc 5 - 6 lần .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:1" OutOfScope="TRUE">
+				<text>Hi_hi </text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:2">
+				<text>Mì ở đây nước ngon hết_sẩy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:3" OutOfScope="TRUE">
+				<text>Thích nhất mì bò kim_chi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:4">
+				<text>Ở đây chỉ ăn cấp_độ 2 là vừa_miệng và ngon rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:5" OutOfScope="TRUE">
+				<text>Chứ ăn cay quá chỉ có hành_xác mình thôi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:6" OutOfScope="TRUE">
+				<text>Ko có thưởng_thức đc độ ngon_ngọt của nước_dùng .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:7">
+				<text>Chưa thử các mì khác nhưng chắc ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:8">
+				<text>Có_điều khi quán đông làm vội nên thiếu ngược thiếu xuôi , lúc thì ko có xúc xich .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc25:9" OutOfScope="TRUE">
+				<text>Lúc thì ko có chả viên , lúc thì chả viên cực nheieur : ) ) ) Hi_vọng quán khắc_phục đc những lỗi đó và nệm ngôi nên giặt thg xuyên 👌</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc26">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc26:0">
+				<text>thức_ăn okay nhưng đệm ngồi hơi bẩn vs thấy khá nhiều ruồi</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc27">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:0">
+				<text>Đây là quán mì cay mình thích nhất .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:1" OutOfScope="TRUE">
+				<text>Đặc_biệt trời lạnh như mùa này mà ăn mì cay thì ngon hết_sảy , lạnh lạnh mà ăn đồ cay_cay , nóng_hổi , ăn là nghiện liền .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:2">
+				<text>Khi nào vào quán cũng đông_đúc , nhưng dù có đông mấy thì phục_vụ vẫn rất tốt .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:3">
+				<text>Nhân_viên rất tận_tình và dễ mến .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:4">
+				<text>À , còn món takoyaki nữa , mới bữa đầu ăn ngon hết_sảy nhưng_mà dạo gần đây thấy không còn như bữa trước .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:5" OutOfScope="TRUE">
+				<text>Hoặc do mình nghĩ thế vì ăn ngon lắm , hết thích rồi .</text>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc27:6">
+				<text>Dù_sao quán vẫn là số 1 , vân là lựa_chọn đầu_tiên khi mình muốn ăn mì cay</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="SasinMiCay7CapDoHanQuoc28">
+		<sentences>
+			<sentence id="SasinMiCay7CapDoHanQuoc28:0">
+				<text>hông_thể chấp_nhận được chất_lượng càng lúc càng xuống_cấp .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="SasinMiCay7CapDoHanQuoc28:1">
+				<text>Gọi phần mỳ xào tương đen ( thịt thì quá hạng , ăn nghe mùi thịt hỏng ) chén nước kèm thì dùng dùng chén sứt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>	
+</Reviews>

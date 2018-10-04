@@ -1,0 +1,585 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="RunamCafe1">
+		<sentences>
+			<sentence id="RunamCafe1:0">
+				<text>Đồ_ăn trang_trí bắt_mắt khẩu_vị vừa_ý mình 👍 🏽 Thích cái bình trà vì có nến làm nóng nên trà luôn nóng 🥂 Vị_trí ngay sông Hàn view khá tốt , quầy bar cực bắt_mắt , phục_vụ chuẩn 5 sao 🤩 Cảm_giác theo mình chứ mỗi người mỗi khẩu_vị , mỗi kiểu thưởng_thức nha 😊</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe2">
+		<sentences>
+			<sentence id="RunamCafe2:0">
+				<text>Đúng chuẩn một Runam sang chảnh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:1">
+				<text>không_gian sang_trọng , view sông Hàn và đường Bạch_Đằng đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:2">
+				<text>không_gian sang_trọng , view sông Hàn và đường Bạch_Đằng đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:3">
+				<text>Mình rất ân tượng với quầy pha_chế , vừa tinh_tế , vừa dễ_thương .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:4">
+				<text>Mình gọi matcha trà xanh đá xay sữa rất ngon , có bánh biscuit tráng_miệng nữa , rất đẹp_mắt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:5">
+				<text>Matcha ngọt so với mình nên hơi ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe2:6">
+				<text>Nói_chung mọi thứ rất OK , đẳng_cấp .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe2:7" OutOfScope="TRUE">
+				<text>Chỉ có_điều 5% phí phục_vụ ? ? ? ?</text>
+			</sentence>
+			<sentence id="RunamCafe2:8" OutOfScope="TRUE">
+				<text>Không hiểu nổi : v : v : v</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe3">
+		<sentences>
+			<sentence id="RunamCafe3:0" OutOfScope="TRUE">
+				<text>Ghé runam hôm lễ 8-3 mình đi buổi tối thấy cũng vắng chủ_yếu thấy khách tây và hàn quốc ... nghe runam sang chảnh lâu_nay nhưng giờ mới có dịp ghé thử .</text>
+			</sentence>
+			<sentence id="RunamCafe3:1">
+				<text>Về không_gian thì sang_trọng ấm_cúng , nhân_viên phục_vụ chu_đáo , về nước uống ngon đồ_ăn thì decor đẹp chất_lượng ổn , giá_cả khá cao so với chất_lượng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe3:2">
+				<text>Mọi thứ đều ok trừ vụ phí phục_vụ 5%</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe4">
+		<sentences>
+			<sentence id="RunamCafe4:0" OutOfScope="TRUE">
+				<text>Hôm_nay mình ghé Runam .</text>
+			</sentence>
+			<sentence id="RunamCafe4:1" OutOfScope="TRUE">
+				<text>Ban_đầu mình không kì_vọng quá nhiều .</text>
+			</sentence>
+			<sentence id="RunamCafe4:2">
+				<text>Nhưng đến đây mình cảm_thấy khá hài_lòng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:3">
+				<text>KHÔNG_GIAN : Vị_trí dễ tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:4">
+				<text>Không_gian buổi tối nhìn sang hơn buổi_sáng vì ánh đèn_vàng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:5" OutOfScope="TRUE">
+				<text>Có không_gian ngồi bên ngoài và bên trong .</text>
+			</sentence>
+			<sentence id="RunamCafe4:6" OutOfScope="TRUE">
+				<text>Mình chọn ngồi bên trong góc .</text>
+			</sentence>
+			<sentence id="RunamCafe4:7">
+				<text>Quán đông khách nhưng ngồi mình cảm_thấy riêng_tư .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:8">
+				<text>Phù_hợp để hẹn_hò vì thấy Runam có phần beefsteak cho couple .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:9">
+				<text>Nhạc bên Runam mình không thấy thích lắm vì phần này hình_như Runam không chú_trọng nhiều .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe4:10" OutOfScope="TRUE">
+				<text>Lúc mình vào thì k có nhạc nhưng lúc sau quán đông lại mở .</text>
+			</sentence>
+			<sentence id="RunamCafe4:11">
+				<text>DỊCH_VỤ : Đồ_ăn đợi cũng khá nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:12">
+				<text>Nhân_viên dễ_thương và có bảng tên của các bạn nên dễ xưng_hô .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:13">
+				<text>Nhưng mình khá không hài_lòng vì sau đó có bạn xin info của mình , điều đó không chuyên_nghiệp một_chút nào cả nếu xét về việc tranning nhân_sự trong một nhà_hàng như Runam nhưng mình là khách du_lịch tới Đà_Nẵng , làm_quen bạn mới cũng khá thoải_mái .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe4:14" OutOfScope="TRUE">
+				<text>Hy_vọng Runam sẽ tranning lại nhân_viên về khoản này vì có bạn mình không cho info cũng tìm fb cá_nhân để liên_hệ với mình .</text>
+			</sentence>
+			<sentence id="RunamCafe4:15">
+				<text>GIÁ_CẢ : Mình thấy về giá cũng rẻ với một nhà_hàng như Runam và chất_lượng phục_vụ cũng_như không_gian .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:16" OutOfScope="TRUE">
+				<text>CHẤT_LƯỢNG_ĐỒ_ĂN : Mình gọi trà đào , súp măng_tây sò điệp và salad gà nướng kèm trứng phía trên .</text>
+			</sentence>
+			<sentence id="RunamCafe4:17" OutOfScope="TRUE">
+				<text>Mình hay ghé những quán khá sang_trọng nên thường mình không hi_vọng đồ uống , thường các quán nhà_hàng sẽ ăn_lời đồ uống .</text>
+			</sentence>
+			<sentence id="RunamCafe4:18" OutOfScope="TRUE">
+				<text>Nhưng thực_sự trà đào làm mình khá bất_ngờ .</text>
+			</sentence>
+			<sentence id="RunamCafe4:19">
+				<text>Đây là li trà đào ngon nhất mình từng uống 🤣 🤣 🤣 Nếu có_thể ở Đà_Nẵng thì đây là chỗ mình sẽ ghé mua trà đào take away rồi đi quá = ) ) ) ) nước uống ngon thật_sự .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:20">
+				<text>Súp măng_tây làm mình cũng bất_ngờ vì ngon lắm , béo vừa_phải , đang lạnh run mà ăn súp nóng cảm_thấy ấm_áp vô_cùng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:21">
+				<text>Salad gà nướng kèm trứng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:22">
+				<text>Một phần như_vậy đủ no rồi vì lúc gọi ra mình tưởng bé lắm ai_ngờ nhiều dễ_sợ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:23" OutOfScope="TRUE">
+				<text>Mình ăn được nửa phần nhờ nhân_viên gói lại .</text>
+			</sentence>
+			<sentence id="RunamCafe4:24">
+				<text>Hộp gói cũng đẹp và sạch_sẽ , không phải hộp xốp ngoài đường .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:25">
+				<text>Có khăn giấy kèm muỗng đi cùng nữa ^ ^ dễ_thương .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:26" OutOfScope="TRUE">
+				<text>Điểm này mình thấy Runam tinh_tế hơn những nhà_hàng khác mình từng ghé .</text>
+			</sentence>
+			<sentence id="RunamCafe4:27">
+				<text>KHÂU_THANH_TOÁN : Runam khá dễ_thương khi thanh_toán có kèm card visit .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe4:28" OutOfScope="TRUE">
+				<text>Sau_này sẽ dẫn bạn_bè và giới_thiệu tới Runam khi tới Đà_Nẵng .</text>
+			</sentence>
+			<sentence id="RunamCafe4:29" OutOfScope="TRUE">
+				<text>Tuy_vậy , lần tới hi_vọng các bạn nhân_viên kẹp tờ feedback mới cho mình vì lúc thanh_toán các bạn để tờ feedback cũ của khách khác dù mình rất muốn viết feedback cho Runam .</text>
+			</sentence>
+			<sentence id="RunamCafe4:30" OutOfScope="TRUE">
+				<text>Mình là người tới chơi Đà_Nẵng , nghe tiếng Runam khá lâu , hôm_nay có dịp ghé qua .</text>
+			</sentence>
+			<sentence id="RunamCafe4:31" OutOfScope="TRUE">
+				<text>Mai mình sẽ ghé tiếp để ăn sáng .</text>
+			</sentence>
+			<sentence id="RunamCafe4:32">
+				<text>cảm_ơn Runam đã cho mình một buổi ăn tối khá hài_lòng và thoải_mái .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe5">
+		<sentences>
+			<sentence id="RunamCafe5:0">
+				<text>Tất_cả mọi thứ ở đây đều ok , view đẹp , đồ uống ngon , nhân_viên chuyên_nghiệp .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe5:1">
+				<text>Chỉ có_điều giá khá cao một_chút ! ! !</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe6">
+		<sentences>
+			<sentence id="RunamCafe6:0" OutOfScope="TRUE">
+				<text>Mỗi lần mà bước zô đây thì nhớ chuẩn_bị tiền triệu nghe mấy chế .</text>
+			</sentence>
+			<sentence id="RunamCafe6:1">
+				<text>Vì món nào trung_bình cũng cả 100k rồi .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe6:2" OutOfScope="TRUE">
+				<text>Chưa kể đồ_ăn nữa .</text>
+			</sentence>
+			<sentence id="RunamCafe6:3">
+				<text>Ở đây có món bánh_xèo bạch_tuộc ngon dã mạn rợ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe6:4">
+				<text>Tuy giá cao nhưng ăn thử đi , mê lun đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe6:5">
+				<text>Beefsteak ngon mềm , nước sốt khá đăc sắc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe6:6">
+				<text>Vì bistro nên menu sẽ cực đa_dạng từ các dòng trà , cafe , đồ uống cho tới đồ_ăn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe6:7">
+				<text>Mà đã ăn_ở đây là đảm_bảo no ngon , trình_bày đẹp .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe6:8">
+				<text>Giá cao khủng_khiếp nhưng vì_thế khâu phục_vụ rất tuyệt_vời luôn , ko chê vào đâu được .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe7">
+		<sentences>
+			<sentence id="RunamCafe7:0">
+				<text>Mình thấy về mảng bistro thì chỗ này đúng chất đẳng_cấp nhất .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe7:1">
+				<text>Món gì cũng ngon và tinh_tế .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe7:2" OutOfScope="TRUE">
+				<text>Trà hoa_cúc mật_ong luôn kèm theo một_chút mứt .</text>
+			</sentence>
+			<sentence id="RunamCafe7:3">
+				<text>Cafe thơm nồng_nàn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe7:4">
+				<text>Vô đây thì luôn đẹp sang , yên_tĩnh , ấm_cúng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe7:5">
+				<text>Giá thì lạnh_lùng quá_thể , đã đắt rồi mà_còn thêm 10% phí thuế gì nữa .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe8">
+		<sentences>
+			<sentence id="RunamCafe8:0">
+				<text>Nằm ngay trên con phố Bạch_Đằng , quán to dễ nhìn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe8:1">
+				<text>Điểm cộng là sạch_sẽ sang_trọng , điểm trừ của quán là_hơi tối , menu chưa đa_dạng nhưng món nào gọi ra cũng đầy_đặn , trong ảnh là salad gà và nước tắc sả rất thơm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe9">
+		<sentences>
+			<sentence id="RunamCafe9:0" OutOfScope="TRUE">
+				<text>Thuộc top quán sang chảnh ở Đà_Nẵng thì_phải .</text>
+			</sentence>
+			<sentence id="RunamCafe9:1">
+				<text>Không_gian sang_trọng , được trang_trí khá đẹp , lên hình thì_phải nói siêu ảo và lung_linh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe9:2" OutOfScope="TRUE">
+				<text>Đồ_ăn , Thức uống ở đây thì phục_vụ giống phong_cách Châu_Âu .</text>
+			</sentence>
+			<sentence id="RunamCafe9:2">
+				<text>Thấy các món ăn từ tráng_miệng , nước uống đến món chính đều trang_trí rất đẹp và bắt_mắt .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe9:3">
+				<text>Các bạn nhân_viên phục_vụ ổn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe9:4">
+				<text>Có_điều quán đông nên order đợi hơi bị lâu .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe9:5">
+				<text>Giá_cả thì cao rồi nhưng_mà tiền_nào_của_nấy mà .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="RunamCafe9:6" OutOfScope="TRUE">
+				<text>Nếu có dịp hoặc được ai mời thì chắc_chắn sẽ quay lại quán .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe10">
+		<sentences>
+			<sentence id="RunamCafe10:0" OutOfScope="TRUE">
+				<text>Quán không bật điều_hoà , dùng quạt .</text>
+			</sentence>
+			<sentence id="RunamCafe10:1">
+				<text>Quá nóng , đồ_ăn chất_lượng vừa_phải , không xứng với giá tiền .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe11">
+		<sentences>
+			<sentence id="RunamCafe11:0">
+				<text>Vị_trí : nằm ngay ngã 3 đường Nguyễn_Du nối Bạch_Đằng , quẹo tay_trái là thấy liền , quán 2 mặt_tiền _ Không_gian : rộng_rãi , khu ngồi ngoài hóng gió mát đường_phố , khu ngồi trong thì máy_lạnh mát_mẻ _ Món ăn : thực_đơn đa_dạng , kiểu_cách phương tây ✔ ️ cơm chung đôi : Cơm màu xanh là lấy màu từ nước rau .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe11:1" OutOfScope="TRUE">
+				<text>Cơm màu cam là vị cải .</text>
+			</sentence>
+			<sentence id="RunamCafe11:2" OutOfScope="TRUE">
+				<text>Hải_sản xóc vị cari luôn .</text>
+			</sentence>
+			<sentence id="RunamCafe11:3">
+				<text>Cơm nhiều , hải_sản thì ít .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+			<sentence id="RunamCafe11:4">
+				<text>Mùi_vị ngon , ăn vừa_miệng , khay cơm to_đùng luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe11:5">
+				<text>salad tôm và bơ kèm sốt cooktai : salad ăn ngậy vị béo của sốt , rau củ thì_có ớt chuông trong đó nữa , ăn ko ngán , khai_vị ngon , vừa_miệng ko ngán ✔ ️ bánh filo các loại : lớp bánh mỏng , giòn_tan .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe11:6">
+				<text>Đánh_giá chung giữa các loại nhân đều rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe11:7" OutOfScope="TRUE">
+				<text>Ko thấy khó ăn đâu .</text>
+			</sentence>
+			<sentence id="RunamCafe11:8">
+				<text>Chỉ có_điều là cái bánh nó nhỏ , nhân cũng k nhiều .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe11:9">
+				<text> blue hawaii : là soda cho siro blue vào , vị hơi the , ngon ✔ ️ Runam cooktai : vị nước lạ_lạ , thấy có vị hơi rượu trong đó , nhưng ko nồng , chỉ thoảng thoảng 👌 🏻 👌 🏻 👌 🏻 Các món ăn và thức uống đều được trang_trí rất đẹp , tỉ_mỉ và trau_chuốt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe11:10">
+				<text> Thấy sáng_tạo lắm 💰 💰 giá_cả ở đây khá cao , ko có món nào gọi_là rẻ đâu , mình ăn 2 ng hơn 1 triệu luôn _ phục_vụ chu_đáo , nhiệt_tình , nhân_viên niềm_nở và lịch_sự .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe12">
+		<sentences>
+			<sentence id="RunamCafe12:0" OutOfScope="TRUE">
+				<text>Mình đến runam vào buổi tối rất oi nóng .</text>
+			</sentence>
+			<sentence id="RunamCafe12:1">
+				<text>Quán khá đông nhưng rất nền_nã lịch_sự .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:2">
+				<text>Không_gian quá " chảnh " và cao_cấp nên mức giá theo mình cũng khá là kinh_khủng .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe12:3" OutOfScope="TRUE">
+				<text>Toàn từ 70k trở_lên cho các món đồ uống và dessert nhé .</text>
+			</sentence>
+			<sentence id="RunamCafe12:4">
+				<text>Nói về ngon thì chưa hẳn nhưng về độ lạ thì vô đối vs menu ăn_uống dài lòng_thòng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:5">
+				<text>Mỗi món ăn là 1 sự tinh_tế và chăm_chút đến cầu_kỳ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:6">
+				<text>Nói_chung thấy hay_ho lắm luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:7">
+				<text>Món ngọt nào trình_bày cũng đẹp .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:8">
+				<text>Trà cũng rất thơm có_điều bỏ tiền zô đây uống trà ko thấy hơi zô ziên nên mình thấy ăn bánh , kem và dessert thì sẽ xứng hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe12:9" OutOfScope="TRUE">
+				<text>Có tính thêm tùm_lum loại thuế_má nữa .</text>
+			</sentence>
+			<sentence id="RunamCafe12:10" OutOfScope="TRUE">
+				<text>Cầm hoá_đơn thấy có chút " nức_nở " .</text>
+			</sentence>
+			<sentence id="RunamCafe12:11">
+				<text>Cách phục_vụ thì quá là ok luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe13">
+		<sentences>
+			<sentence id="RunamCafe13:0" OutOfScope="TRUE">
+				<text>Đến ăn sáng cuối tuần .</text>
+			</sentence>
+			<sentence id="RunamCafe13:1" OutOfScope="TRUE">
+				<text>Mình gọi phở áp_chảo , cao_lầu , mì hoành_thánh , cơm tấm .</text>
+			</sentence>
+			<sentence id="RunamCafe13:2">
+				<text>Bày_biện đẹp , ăn cũng vừa_miệng và khẩu_phần rất lớn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe13:3">
+				<text>Tuy giá cao nhưng đồ_ăn đồ uống ngon nên cungz đáng tiền chỗ ngồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe13:4">
+				<text>Do buổi_sáng đông các bạn phục_vụ khá chậm , cần luyện kỹ_năng hơn .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe14">
+		<sentences>
+			<sentence id="RunamCafe14:0" OutOfScope="TRUE">
+				<text>Vì không muốn chen_chúc xem Chung_kết pháo_hoa quốc_tế ở bên khán_đài bán vé nên nhờ bạn book giúp bàn ở đây để có view ven sông Hàn xem pháo .</text>
+			</sentence>
+			<sentence id="RunamCafe14:1">
+				<text>Ấn_tượng đầu là quán đẹp , không_gian phía ngoài thoáng_đãng , thức uống cũng ok nhưng có_điều không có phục_vụ nước_lọc ( ! ! ! ) .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe14:2">
+				<text>Đi ăn đi uống sang_trọng cỡ nào thì ở đâu cũng cho khách một ly trà / nước kèm theo để uống , đằng này khách lên không cho nước đã_đành , tới chừng uống hết_nước đã kêu mà hỏi nước_trắng cũng không có , hỏi hai ba lượt thì nhân_viên kêu hết ly 😂 , nhắn_nhủ lại bạn đó nói chủ quán nhớ mua thêm ly thì bản biểu " Chuyện này em không có chịu trách_nhiệm " .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe14:3" OutOfScope="TRUE">
+				<text>Nếu_không phải chờ pháo_hoa thì chắc đứng_dậy đi dìa liền luôn , một hồi gần đi_về thì đem ra ba ly nước_lọc cho bàn 6 người .</text>
+			</sentence>
+			<sentence id="RunamCafe14:4" OutOfScope="TRUE">
+				<text>Bực_mình thêm 1 chuyện là bạn mình đặt_cọc 500k để book bàn , mà tới chừng trả lại tờ 500k cho bạn mình thì nhân_viên bấm tiền vô bill .</text>
+			</sentence>
+			<sentence id="RunamCafe14:5" OutOfScope="TRUE">
+				<text>Bó_tay , không hiểu sao tờ 500k mới cáu mà lấy kim bấm_bấm vô luôn .</text>
+			</sentence>
+			<sentence id="RunamCafe14:6">
+				<text>Nói_chung trừ phục_vụ ra thì quán ok , view khá ổn để xem pháo_hoa cự_ly gần , lúc bắn pháo_hoa thì quán tắt đèn và bật nhạc trực_tiếp của chương_trình pháo_hoa để khách nghe , tính ra cũng có tâm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe15">
+		<sentences>
+			<sentence id="RunamCafe15:0">
+				<text>Đồ_ăn ở đây , ngon , cách bố_trí k chê vào đâu được luôn , ko gian tuyệt_vời : ) ai dắt đi sẽ vào lại đây , haha</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe16">
+		<sentences>
+			<sentence id="RunamCafe16:0">
+				<text>Gần chỗ làm_nên bé em rủ vào ngồi nghỉ trưa Không_gian quán đẹp , Nhân_viên lịch_sự , thân_thiện , chu_đáo nữa ...</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe16:1">
+				<text>trưa nóng quá nên mình chỉ ord nước dừa uống cho mát nên k có review về nước uống Giá thì_có hơi " sang chảnh " Có 5% phí phục_vụ nữa : ) Không_gian đẹp</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe17">
+		<sentences>
+			<sentence id="RunamCafe17:0">
+				<text>Những ngày Đà_Nẵng siu nóng mà muốn thử cafe trứng Đà_Nẵng có gì khác Hà_Nội , rất thơm , may là không_gian mát_mẻ nên hưởng trọn trứng cà fe . . mà hóng pháo_bông quá_xá , nghe_nói rất gần để xem hoa trời lung_linh rực_rỡ . .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RunamCafe18">
+		<sentences>
+			<sentence id="RunamCafe18:0" OutOfScope="TRUE">
+				<text>Khi nào mà lắm tiền nhiều của hoặc ăn ké thì hẵng bước vào đây .</text>
+			</sentence>
+			<sentence id="RunamCafe18:1">
+				<text>Đơn_giản vì giá quá là chát .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RunamCafe18:2" OutOfScope="TRUE">
+				<text>Ahihi ko hợp với túi_tiền học_sinh sinh_viên tí nào .</text>
+			</sentence>
+			<sentence id="RunamCafe18:3">
+				<text>Đồ_ăn thức uống về cơ_bản là ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe18:4">
+				<text>Bánh mosse chanh dây hay bánh bắp rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe18:5">
+				<text>Đồ uống thì trình_bày đẹp .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe18:6" OutOfScope="TRUE">
+				<text>Khi bỏ tiền ra ăn món nào thì cảm_thấy được chăm_chút cầu_kỳ món đó .</text>
+			</sentence>
+			<sentence id="RunamCafe18:7">
+				<text>Không_gian khá đẹp và sang_trọng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe18:8">
+				<text>Nhân_viên thì quá_xá lịch_thiệp luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RunamCafe18:9" OutOfScope="TRUE">
+				<text>Ăn no uống say ko quên trả bill kèm phí VAT thúi thúi là 10% và 5% phí phục_vụ .</text>
+			</sentence>
+			<sentence id="RunamCafe18:10" OutOfScope="TRUE">
+				<text>Gía chồng giá lên nhau nên chỉ dám zô 1 lần cho_biết .</text>
+			</sentence>
+			<sentence id="RunamCafe18:11" OutOfScope="TRUE">
+				<text>Bằng tiền đó đi ra ngoài ăn_uống cả tá quán ngon hơn , rẻ hơn mà đẹp hơn gấp mấy lần .</text>
+			</sentence>
+			<sentence id="RunamCafe18:12" OutOfScope="TRUE">
+				<text>Theo mình được biết thì thương_hiệu runam này hổng phải của Lý_Qúy khánh mà của cô dì chú bác gì đó mượn danh thui .</text>
+			</sentence>
+			<sentence id="RunamCafe18:13">
+				<text>Hem biết có đúng hem nhưng nói_chung " làm_giá " ghê quá .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+			
+		
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	

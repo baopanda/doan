@@ -1,0 +1,556 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="HoaQuaDamHoaBeoToTich1">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich1:0">
+				<text>Mình đã ăn sữa_chua nếp_cẩm ở nhiều nơi trên HN nhưng đây là nơi ưng nhất của mình .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich1:1">
+				<text>Best sữa_chua nếp_cẩm luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich1:2">
+				<text>Hoa_quả dầm cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich1:3">
+				<text>Quán đông nhưng phục_vụ rất nhanh , chỗ ngồi chật tí thôi .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich1:4">
+				<text>Giá_cả hợp_lý , phục_vụ được</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich2">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich2:0" OutOfScope="TRUE"> <!-- sua -->
+				<text>Mình vốn_dĩ ko thích món hoa_quả dầm cho lắm nhưng vì mấy bạn cùng oder nên cũng đặt về ăn cho chống móm , . gọi_là có ji ăn chiều vậy !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich2:1">
+				<text>Mình gọi caramen dầm hoa_quả , thấy nó ko ăn_nhập với nhau cho lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich2:2" OutOfScope="TRUE">
+				<text>mình ăn riêng mỗi caramen thôi còn đâu hoa_quả dầm thì cho đứa bạn !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich2:3">
+				<text>Mình ko ưng nhất_là xoài ở đây , xoài mùi chín quá bị hơi rượu thì_phải , ăn rất khó_chịu , nước_cốt cũng ít nên trộn ko tới , nó cứ lổn_nhổn sao ý !</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich2:4">
+				<text>Được phần caramen thơm ngon , béo ngậy kéo_lại !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich3">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich3:0">
+				<text>Hoa_Béo này ăn bao lần cũng không bị chán thì_phải .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich3:1">
+				<text>Cả lũ công_ty mình gọi ship về qua Deli_Now : ) ) ship khá nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich3:2" OutOfScope="TRUE">
+				<text>Gọi các thể_loại nào_là hoa_quả dầm , sữa_chua mít , caramel mít , thạch dừa hoa_quả các loại .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich3:3" OutOfScope="TRUE">
+				<text>Quán báo về hết mít nên thay thành các loại hoa_quả khác .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich3:4">
+				<text>Mình cứ tưởng thạch dừa hoa_quả là cốc to to_cao cao mà hoá_ra lại là cốc nhỏ nhất = ) ) Nói_chung bao lần thì mình thấy ăn cũng được và giá cũng hợp_lý .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich3:5">
+				<text>Chỉ có cái là sữa đặc hơi bị ngọt so với khẩu_vị của mình .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich4">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich4:0">
+				<text>quán này thì quá quen_thuộc với giới trẻ khi lên hồ chơi rồi , chỉ với 20k phần hoa_quả đẫy đĩa trộn với sữa ăn hoà_quyện cùng nhau thì ngon tuyệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich4:1">
+				<text>do nằm trong hẻm có mấy quán cùng bán hoa_quả đâm nhưng mình vẫn hay vào quán Hoa_Béo thôi , vừa vào đã có nhân_viên ra vẫy khách nhiệt_tình lắm nhé : ) chỗ ngồi ở phố nên hơi chật_chội tý nhưng ko sao , mọi người vẫn ghé ăn đều_đều ra ra_vào vào tấp_nập .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich4:2">
+				<text>nói_chung là ưng , sẽ còn quay lại dài</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich5">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich5:0" OutOfScope="TRUE">
+				<text>Những hôm chán ăn cơm , chán ăn tất_cả mọi thứ lại chỉ nghĩ đến cái gì mát mát bò lên Tô_Tịch ăn hoa_quả dầm .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:1">
+				<text>Mình ăn_ở đây cũng khá nhiều rồi , chỗ ngồi vỉa_hè ngay phố Tô_Tịch không ồn_ào , ít xe_cộ nên rất thoáng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:2">
+				<text>Chỗ để xe thoải_mái và đặc_biệt gọi_là đồ ra ngay chả cần đợi .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:3">
+				<text>Hoa_quả dầm sữa_chua thơm mát có dưa_hấu , táo , mít , dưa vàng , đu_đủ , xoài , thạch dai sần_sật .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:4">
+				<text>Mùa_đông ăn đồ_mát lạnh mình lại càng khoái .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:5" OutOfScope="TRUE">
+				<text>Chắc_chắn đi qua tiện đường sẽ ghé vào ăn tiếp .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:6" OutOfScope="TRUE">
+				<text>À rổ giá mình không nhầm thì_là 25k/tô .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich5">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich5:0">
+				<text>Nói_chung chất_lượng ở mức_độ vừa_phải , nếu_không muốn nói là dưới trung_bình .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:1">
+				<text>Hoa_quả toàn loại rẻ_tiền nhưng được_cái tương_đối tươi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:2">
+				<text>Mit ngọt , nhưng táo là táo Trung_Quốc nên ăn bở , đu_đủ ăn có hôm bị hơi đắng , nho thì_có lần mình có_lẽ bị ăn phải nho để từ hôm trước nên hơi ủng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:3">
+				<text>Phần nước có_lẽ cho hơi nhiều sữa đặc nên hơi ngọt , phải cho nhiều đá thì ăn mới đỡ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich5:4">
+				<text>Túm lại là số tiền bỏ ra chưa xứng_đáng với kết_quả đạt được .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich6">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich6:0" OutOfScope="TRUE">
+				<text>Có_lẽ trong tiềm_thức của bọn 8 9x thì hoa_quả dầm cứ phải lên Tô_Tịch mới chuẩn .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:1" OutOfScope="TRUE">
+				<text>Ngày_xưa thì còn chỗ nào bằng đc đâu .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:2">
+				<text>Mình ăn của Hoa_Béo cũng kha_khá rồi , nghiện nhất sữa_chua mít ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:3" OutOfScope="TRUE">
+				<text>Hôm trước gọi mà quán hết mít nên chuyển sang sữa_chua hoa_quả .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:4">
+				<text>Phải nói là rẻ mà cơ_man là hoa_quả luôn , xoài , táo , kiwi , dưa_hấu , chuối , có cả thạch dừa nữa .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:5">
+				<text>Dầm sữa_chua hay caramen thì cứ phải gọi_là đỉnh .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich6:6" OutOfScope="TRUE">
+				<text>1 cốc tầm 20 - 25k thôi mà ăn xong no luôn đó .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich7">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich7:0" OutOfScope="TRUE">
+				<text>Bữa chiều tiếp_theo lên sóng với quán hoa_quả dầm này đây , thèm ăn cái gì mát mát nên chọn hoa_quả dầm .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich7:1">
+				<text>Quán này ở Hoàn_Kiếm nên hơi xa chỗ làm , ship cũng hơi đau ví xíu cơ_mà có code giảm_giá cũng đỡ = ) ) ) ) ) ) Quán có nhiều món liên quán đến hoa_quả , có cả kem nhưng sợ ship xa chảy nên mọi người chủ_yếu chọn hoa_quả dầm , sữa_chua mít ...</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich7:2">
+				<text>Chất_lượng : hoa_quả khá nhiều loại , nói_chung ăn ổn , kiểu thanh mát , giá_cả trung_bình như nhiều chỗ khác để đổi bữa ăn vặt cũng đc</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich8">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich8:0" OutOfScope="TRUE">
+				<text>Mình rất thích đi dạo quanh phố_phường để tham_quan và thưởng_thức các món ăn .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:1" OutOfScope="TRUE">
+				<text>Nay mình lại có dịp đến với một địa_chỉ quen_thuộc với các bạn trẻ ở Hà_Nội .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:2">
+				<text>Cảm_nhận về vị_trí ở đây khá đắc_địa , là chỗ dừng chân vỉa_hè lý_tưởng .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:3">
+				<text>Giá một tô trái_cây hay sữa_chua hơi đắt và ăn cũng tạm được chứ chưa phải là ngon .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:4">
+				<text>Nhân_viên phục_vụ thì cũng tạm ổn .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:5">
+				<text>Khi ra tính tiền mình mới thấy bên chỗ bày bán mình thấy không hợp vệ_sinh tại người_ta cứ chồng các tô trái_cây lên nhau chứ không để riêng ra từng loại gắp cho khách .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich8:6" OutOfScope="TRUE"> <!--sua--> 
+				<text>Chắc mình sẽ không ghé lại quán vào lần sau .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich9">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich9:0">
+				<text>Đừng thử dù chỉ 1 lần @ @ Mùng 4 Tết mình có ghé tiệm ăn thử vì đi loanh_quanh phố vẫn chưa có nơi nào mở_cửa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:1">
+				<text>Nhìn bàn_ghế thấp thấp gần cống_rãnh cũng hơi ghê nhưng đi cả buổi_trưa chưa có gì vào bụng , tết_nhất tìm quán_ăn ngon khó_khăn , nên 2 chị_em ghé vào ăn tạm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:2" OutOfScope="TRUE">
+				<text>C e mình gọi 1 chè thái sầu_riêng , 1 hoa_quả dầm .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:3"> <!--sua-->
+				<text>Chè sầu của mình mới_đầu ăn thấy cũng ngon , nhưng sầu_riêng bị CHUA chắc_chắn là đồ cũ để lâu rồi , phần sữa thì QUÁ_NGỌT , bơ HƠI_ĐẮNG và DÍNH_ĐẤT_ĐEN , cũng phải thôi , thấy mấy chị làm bốc tay_không hà .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:4">
+				<text>Mình phải bỏ vì ăn được chút thấy bụng_dạ kêu_la , có_lẽ không cho_phép .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:5">
+				<text>2 chén hết 60k , khá đắt cho 1 chén chè chẳng ra_gì !</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:6" OutOfScope="TRUE">
+				<text>Chuyện sẽ không có gì cho tới khi mình và chị ra lấy xe .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:7" OutOfScope="TRUE">
+				<text>Mình đứng 1 hồi khá lâu vì chị mình bỏ đồ vào cốp xe , nên tiện ngó quanh chỗ các chị bán đang cắt xoài để vào những cái tô to , gần bên bệ cửa_sổ .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:8" OutOfScope="TRUE">
+				<text>Sau khi đầy tô xoài , các chị bỏ vào tủ_lạnh phía sau lưng .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:9">
+				<text>Trong khi đang toan cầm cái tô xoài lên thì tuột tay , làm đổ xoài ra bệ cửa_sổ , mà cái cửa đó chắc hàng thập_kỉ chưa quét_dọn rồi , nào_là ĐẤT_CÁT , BỤI , MẠNG_NHỆN , nó mắc ở cái khe cửa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:10" OutOfScope="TRUE">
+				<text>Và các bạn đoán xem chị ấy sẽ làm_gì với tô xoài bị đổ ra bệ cửa ? ?</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:11" OutOfScope="TRUE">
+				<text>> > NHẶT_LẠI_XOÀI_VÀO_TÔ , và CẤT_TỦ_LẠNH cho khách ăn !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:12" OutOfScope="TRUE">
+				<text>KHÔNG_HỀ_RỬA_SẠCH_XOÀI_BỊ_RỚT_HAY_VỨT_ĐI !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:13" OutOfScope="TRUE">
+				<text>Ôi !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich9:14">
+				<text>Mới chứng_kiến xong đoạn này thì mình muốn ói những thứ mình mới vừa ăn : ( ( KHUYÊN_CÁC_BẠN_LÀ_ĐỪNG_BAO_GIỜ_THỬ_NHA !</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich10">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich10:0" OutOfScope="TRUE">
+				<text>Thi_thoảng thực_đơn ăn chiều của mấy đứa có đổi chút , thay_vì món mặn thì sẽ là sữa_chua , chè , kem các thứ .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich10:1" OutOfScope="TRUE">
+				<text>Bữa_nay thì hoa_quả dầm ạ !</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich10:2">
+				<text>Cũng không được như mình mong_đợi lắm vì thấy mấy hình mọi người đi ăn chia_sẻ tại quán có_vẻ nhiều nhiều mà hôm mình mua thì hơi ít , thêm nữa hoa_quả cho kiểu có gì thì bỏ đó nên cảm_giác ăn nó ko liên_quan với nhau lắm ! hy_vọng lần sau ra ăn tại quán thì khá_khẩm hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich10:3" OutOfScope="TRUE">
+				<text>Giá 20k ạ !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich11">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich11:0">
+				<text>Lần đầu đến đây là từ năm thứ 3 đại_học 🤣 giờ mới quay lại , quán này khỏi nói rồi khách đông ầm_ầm luôn cả tây cả ta .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich11:1"> <!--sua-->
+				<text>2 người gọi 2 suất hoa_quả dầm thường và hoa_quả dầm sữa_chua , quán khá đông nên nhân_viên chạy tưng_bừng may cũng ko phải đợi lâu quá 🙄 một bát to .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich11:2"> <!--sua-->
+				<text>Hoa_quả tươi đầy_đặn sữa_chua mềm nói_chung ăn khá ổn , giá 20 loại thường 25 loại sữa_chua 👍 vừa_phải hợp_lý Quán chính khá nhỏ ngồi hẳn hết sang bên đường luôn Gần_như ai đi qua đây cũng vào quán này , tất_nhiên lần sau ghé đây cũng sẽ qua thôi ☺ ️ 😍</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich12">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich12:0" OutOfScope="TRUE">
+				<text>Đi ăn_tiền Trung_thu .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich12:1" OutOfScope="TRUE">
+				<text>Quán lâu_đời có khác , đi gần dịp lễ nên đông dã_man .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich12:2">
+				<text>20k 1 bát , giá cx vừa_phải , chất_lượng đồ_ăn cx dc , ko quá xuất_sắc .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich12:3">
+				<text>Ngồi vỉa_hè đúng chỗ nhiều gián : (</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich13">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich13:0" OutOfScope="TRUE">
+				<text>Phố_Tô_Tịch nổi nhất_là hàng hoa_quả dầm dọc 2 bên vỉa_hè .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich13:1">
+				<text>1 bát hoa_quả dầm kem này là 25k hay 30k gì đó mình cũng không nhớ , nói_chung là giá vậy cũng không phải rẻ nhưng_mà được_cái ngon .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich14">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich14:0">
+				<text>Tô tịch có mấy quán hoa_quả dầm nhưng toàn ăn quán Hoa béo đơn_giản mấy bạn nv khá nhiệt_tình trong khoản gửi xe 🤣 🤣 ăn cũng ổn 1 bát hoa_quả dầm 20k thêm j thì tính thêm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich14:1">
+				<text>Ăn kem hoa_quả cũng ngon</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich15">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich15:0" OutOfScope="TRUE">
+				<text>Chắc phải hơn năm nay mới ăn lại món này .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:1" OutOfScope="TRUE">
+				<text>Cái thời_tiết nóng như đổ lửa này chỉ thèm cái gì đó mát mát .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:2" OutOfScope="TRUE">
+				<text>Cả con phố Tô_Tịch này nhà_nhà bán hoa_quả dầm , nhưng đông và ngon nhất phải nói tới quán Hoa_Béo .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:3">
+				<text>Hoa_quả siêu tươi , ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:4">
+				<text>Trong bát còn có đủ loại thạch , hạt li li gì gì đó , ăn vui_miệng lắm luôn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:5">
+				<text>Giá_cả thì quá oke : 20k/bát đầy ú_ụ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich15:6">
+				<text>Nói_chung là rất tuyệt 💖</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich16">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich16:0" OutOfScope="TRUE">
+				<text>📍 cả cái phố tô tịch là của nhà bà hoa béo cmnr 😂 😂 nguyên 1 dãy phố nhà nào bán hoa_quả dầm là nhà bà hoa béo hết = ) ) ) kgian giống_hệt các nhà bình_dân , đúng 1 gian nhỏ , nchung vào ăn hết bát ngồi chém gió vài 3 câu_chuyện là xong : ) ) buổi tối có_thể ngồi tràn ra ngoài vỉa_hè đc .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:1">
+				<text>ngõ thông_thoáng nên khá mát_mẻ 🍮 🍨 🍎 🍐 🍉 🍇 🍓 🍈 🥑 ở đây đã quá nổi_tiếng vs món hoa_quả dầm r .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:2" OutOfScope="TRUE">
+				<text>hnay thử đổi vị chút vs hoa_quả dầm kem và caramen mít .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:3">
+				<text>chính ra lại thích caramen mặc_dù rẻ hơn : ) ) hoa_quả dầm thì cũng_như nhau thui , đc cái bát có kem nhiều hơn 1 chút , kem là kem tươi vị dâu : 3 khá là lâu chảy .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:4">
+				<text>hoa_quả đều tươi ngon như nhau , nào dưa_hấu , táo , lê , bơ , mít , xoài , nho ... ngon_ngọt thật nhưng cut miếng quá to k thể đút nổi vô mồm = = tọng vào mồm có mà chết sặcc = ) ) mà ăn buốt óc thật í : ) ) có cả trân_châu dai zòn sần_sật và thạch thanh mát nữa ok đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:5">
+				<text>caramen thì đc cái dầm dễ hơn , cho đá vào dầm chung vs mít , ăn ngọt ngậy ngon lắm ạ : 3 caramen ở đây ngon thật , béo ngậy mà mịn mượt ahihi : 3 núng_na_núng_nính quyến_rũ dễ_sợ 💲 30k hoa_quả dầm kem và 25k caramen mít nhaa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:6">
+				<text>thường thì sẽ là 25k/bát hoa_quả dầm : 3 💁 🏻 ‍ ♂ ️ 💁 🏻 đồ ra cực nhanh : ) ) vừa order cái đã có ngay r 👍 nv nhanh_nhẹn , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich16:7" OutOfScope="TRUE">
+				<text>quán bình dần thui í mà , ăn xong - ra ngoài - đọc món - thanh_toán thui là xong = ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich17">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich17:0" OutOfScope="TRUE">
+				<text>Trời nóng thế_này thì_phải gấp_rút lên Hoa_Béo làm tô hoa_quả dầm thôi .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:1" OutOfScope="TRUE">
+				<text>Tô_Tịch thì vô_vàn quán hoa_quả dầm luôn , còn có kiểu chặn đầu xe các kiểu nữa .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:2" OutOfScope="TRUE">
+				<text>Nhưng luôn trung_thành với Hoa_Béo nè .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:3">
+				<text>Hoa_quả ở đây không biết có đảm_bảo chất_lượng không nhưng nhìn tươi ngon thôi rồi luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:4">
+				<text>Thêm sữa đặc , cốt dừa và vài thìa đá nữa thì ngon phải_biết .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:5">
+				<text>Ăn một tô cũng no lắm nè .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich17:6"> <!--sua-->
+				<text>Giá_cả cũng không quá đắt từ 20k trở_lên hihi .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich18">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich18:0" OutOfScope="TRUE">
+				<text>Ăn bao_nhiêu hàng hoa_quả dầm rồi nhưng chả chỗ nào có được vị như ở đây .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich18:1">
+				<text>Hoa_quả đủ các loại và rất tươi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich18:2">
+				<text>Giá quá hợp_lý .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich18:3" OutOfScope="TRUE">
+				<text>Nói_chung vẫn phải quay lại dài_dài : ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich19">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich19:0" OutOfScope="TRUE">
+				<text>Nhắc đến các món với hoa_quả thì mình nhớ ngay đến phố Tô_Tịch này đầu_tiên này .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich19:1">
+				<text>Từ chục năm trước đã rất nổi về sinh_tố hoa_quả rồi .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich19:2" OutOfScope="TRUE"> <!--sua--> 
+				<text>Vì hoa_quả vẫn luôn là món dễ ăn nên nó vẫn luôn ngon với mình .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich19:3">
+				<text>Một bát các loại hoa_quả : thanh_long , xoài , dưa_hấu , táo , mít , đu_đủ , lê ... với chút nước_cốt dừa thơm thơm là quá thoả_mãn cho những bữa thèm ngọt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich19:4">
+				<text>Bát hoa_quả dầm chỉ 20k thôi mà_lại bổ , sạch_sẽ , an_toàn không phải lo đường hoá_học , phẩm màu các kiểu các kiểu quá chuẩn rồi</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich20">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich20:0" OutOfScope="TRUE">
+				<text>Có cô bạn từ Sài_Gòn ra Hà_Nội chơi đi ăn tối xong hỏi nó muốn ăn tráng_miệng cái gì thì nó đòi đi ăn hoa_quả .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich20:1" OutOfScope="TRUE">
+				<text>Mà khổ_nỗi ở Hà_Nội làm_gì có xe bán hoa_quả như Sài_Gòn đâu nên đành lôi đi ăn hoa_quả dầm mặc_dù trời rét khủng_khiếp Ngõ_Tô_Tịch có một đoạn ngắn tí thôi nhưng toàn hàng hoa_quả dầm .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich20:2">
+				<text>HÀNG_NGON_NHẤT và lâu_đời nhất_là hàng Hoa_Béo này .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich20:3">
+				<text>Hoa_quả theo mùa nên lần này mình đi ăn đang mùa dâu gọi hẳn sữa_chua dâu ăn cho đã còn cô bạn gọi hoa_quả dầm : ) ) Nhìn_chung hoa_quả tươi , mát , không phải loại để lâu hay dập nát gì mới mang ra làm hoa_quả dầm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich20:4"> <!--sua-->
+				<text>Mỗi_tội giá_cả leo_thang , bát hoa_quả dầm bé xíu có_giá tận 20k mà chắc chỉ đc chục miếng hoa_quả thôi Ăn_không bõ tí nào 😭 😭</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich21">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich21:0" OutOfScope="TRUE">
+				<text>Ăn hoa_quả mát thì mát thật , vui thì cũng vui thật , mà đắt bằng bát bún bát phở thì cũng hơi nguy thật = ) ) Trăm nghe không bằng một thử , và tới tận giờ thì lần đầu_tiên mình ăn nè .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich21:1">
+				<text>Ấn_tượng không xấu vì chỗ ngồi khá sạch_sẽ , làm đồ cũng nhanh , hoa_quả hơi ít nhưng kem ăn_không bị ngọt quá và tổng_thể chung ăn vui_miệng phết nè Tuy_nhiên 30k một bát hoa_quả có cả kem thì có_vẻ giá hơi đắt một_chút , nếu_không có kem thì giá 20k một bát nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich21:2" OutOfScope="TRUE">
+				<text>Có 2 loại kem là vani và dâu_tây .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich21:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Đi bộ bờ hồ cần tìm món ăn vặt mát mát thì hoa_quả dầm nơi đây là lựa_chọn có_thể ưu_tiên nheee</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HoaQuaDamHoaBeoToTich22">
+		<sentences>
+			<sentence id="HoaQuaDamHoaBeoToTich22:0" OutOfScope="TRUE">
+				<text>Mình mới đi hôm trc .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich22:1">
+				<text>Hoa_quả đựng trong bát to bằng 2 bát ăn cơm , cồng_kềnh ở trong có vài miếng : đu_đủ , xoài ( vừa chua vừa xơ ) , dâu_tây , dưa_hấu ( nguyên hạt ) , chuối , táo , thanh_long .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich22:2" OutOfScope="TRUE">
+				<text>Chị mình bảo ở nhà có bát này cũng k thèm ăn nhg đến đây thì cứ ăn thôi : ) ) mình chỉ thấy tội bàn bên_cạnh gọi 1 bingsu xoài , 1 bát xoài to .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich22:3">
+				<text>Chua vậy_thì ăn tnao đc Chỗ ngồi hẹp , điểm cộng lớn nhất_là có ng dắt xe , xếp xe : x bát đá cho kèm cũng to và đc xay nhỏ nữa : ) ) Cho những_ai khen ở đây ngon và rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich22:4" OutOfScope="TRUE">
+				<text>Hãy qua ngõ tự_do cạnh trg ktqd .</text>
+			</sentence>
+			<sentence id="HoaQuaDamHoaBeoToTich22:5" OutOfScope="TRUE">
+				<text>Thiên_đường ăn vặt là ở đó các b ạ</text>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

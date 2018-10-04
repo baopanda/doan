@@ -1,0 +1,541 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="OneChaChangMiHanQuoc1">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc1:0">
+				<text>Gọi hai phần mì một há cảo , nhân_viên phục_vụ nhanh , còn lại thì ... . </text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc1:1">
+				<text>Đường thì xa , đồ ăn_dở đến mức k thể ta nổi có_thể nói đi ăn các quán hàng rong ngoài vỉa_hè chắc còn ngon hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc1:2" OutOfScope="TRUE">
+				<text>Tô mì 60 k nhưng chỉ đáng 10k không hơn không kém vậy thôi .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc1:3" OutOfScope="TRUE">
+				<text>Ai có ý_định đi ăn thì_thôi qua chói ăn chắc còn ngon hơn</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc2">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc2:0">
+				<text>Thịt heo tẩm bột chiên : thịt heo cắt thành từng miếng dài , được bọc bởi 1 lớp bột chiên vàng , nhìn có_vẻ hơi khô .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:1">
+				<text>Nhưng khi ăn vào vị giòn_tan , thịt vừa_miệng , hơi dai quyện với vị mật_ong béo ngọt được rải ở trên , ngon cực .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:2"> <!--sua-->
+				<text>Mỳ tương đen đầy ụ 1 tô bự .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:3">
+				<text>Mỳ chín_tới , vẫn giữ được độ dai .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:4">
+				<text>Nước_tương thơm và sánh . Lấy đũa trộn đều thì khói và hương thơm phảng_phất , kích_thích vị_giác , phải ăn ngay_lập_tức lun í .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:5">
+				<text>Ăn vào vị vừa , đậm_đà , mỳ quyện với nước sốt thấm_tháp , kèm thêm một_chút dưa_leo thái mỏng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:6">
+				<text>Chao_ôi , hoà_quyện giữa vị ấm nóng của mỳ với vị tươi_mát của dưa_leo , nên ăn_không hề ớn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:7" OutOfScope="TRUE">
+				<text>Món ăn kèm : Củ_cải muối vàng_ươm , ăn vào vị chua_chua ngọt ngọt .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc2:8">
+				<text>Kimchi : nhai vị sựt sựt , cay_cay và thơm vị ớt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc3">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc3:0" OutOfScope="TRUE"> <!--sua-->
+				<text>Lại tới ngày khuyến_mãi nên lại tìm sang dù hơi xa nhà một_chút .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc3:1">
+				<text>Nhân_viên nhanh_nhẹn và thân_thiện , bữa đi đồ_ăn ra cũng nhanh , mình gọi 3 tô mì size nhỏ chứ tô to nhất ko có_giá khuyến_mãi .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc3:2">
+				<text>lạ một điều là 3 tô vị khác_nhau , có tô vừa ăn nhưng có tô lại rất lạt ăn_không ổn tẹo nào , có kim_chi và củ_cải ăn kèm rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc4">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc4:0" OutOfScope="TRUE">
+				<text>Cũng nghe ngày 14 khuyến_mãi 40k tô - đọc nhìu đánh_giá cuat các bạn là chổ này myd tương đen là ngon đúng vị nhất , mình rủ con ưm đi ăn thử !</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:1">
+				<text>Vô ông chủ và nv chào rất nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:2">
+				<text>Công_nhận quán làm_ăn mà tolet tệ thật , nhìn bẩn sao á - quán_ăn thì tolet nên sạch 1 chút mới_phải !</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:3" OutOfScope="TRUE">
+				<text>Gọi 2 mỳ .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:4">
+				<text>Nv đem đồ_ăn kèm vs nc ra , mình nêm thử đồ kèm thì thấy cũng đc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:5" OutOfScope="TRUE">
+				<text>Khi mỳ ra thì háo hứ chụp các kiểu , trộn đều ăn thì trời_ơi !</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:6">
+				<text>Sao mà nó lạt thách rớ ko biết - cho biết_bao nhiu tương mà vẫn lạt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:7">
+				<text>khổ mình ko hợp_khẩu vị xí nào . . ăn phải để lại vì tô nhỏ nhưng_mà ngán lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:8">
+				<text>Mình ko khen chê gì đây - vì là đồ nc khác mình không hợp thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:9" OutOfScope="TRUE">
+				<text>Mà bạn nào a mặn thì_thôi bỏ ăn mỳ này đi - thử ăn cái khác xem .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc4:10" OutOfScope="TRUE">
+				<text>🤔 🤔</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc5">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc5:0">
+				<text>Quán nằm ở đường hơi vắng nên ko đông lắm .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:1" OutOfScope="TRUE">
+				<text>Mình đến 2 người ăn combo 2 mỳ tương đen size S vs bánh hết 200k .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:2">
+				<text>Mỳ rất vừa miệng_ăn kèm kim_chi và củ_cải quán làm rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:3"> <!--sua-->
+				<text>Bánh thì nhìn dầu_mỡ nhưng lúc ăn thì rất ngon và k bị ngấy do chiên dầu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:4">
+				<text>Ông chủ người Hàn rất dễ_thương , nhân_viên cũng thân thiê n chỉ mình cách pha nước_chấm vs bánh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:5">
+				<text>Tuy_nhiên ko gian k ok lắm vs cả nhà_vệ_sinh bẩn cực_kỳ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:6" OutOfScope="TRUE">
+				<text>May_mà ăn xg r nên mình thấy không sao .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc5:7" OutOfScope="TRUE">
+				<text>Chứ trước khi ăn mà đi vào là hết tâm_trạng 😣 😣 😣</text>/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc6">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc6:0" OutOfScope="TRUE">
+				<text>Cứ hóng mãi đến 14 dương chờ one chang_chang khuyến_mãi mì tương đen 30k / tô .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc6:1">
+				<text>Mì ngon kinh_khủng mì dai dai beo_béo ăn kèm tương đen kim_chi củ_cải muối vị ngon trên từng sợi mì luôn ấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc6:2">
+				<text>Có_điều giá hơi cao tý nên dù thèm thế_nào vẫn cố chờ đến khuyến mai order ăn cho tiết_kiệm .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc7">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc7:0">
+				<text>Bình_thường thì vẫn cố chờ tới ngày 14 dương để sang bên này ăn mì tương đen có khuyến_mãi nhưng bữa rồi thèm quá tiện đi qua nên vô ăn luôn , giá hơi chát nhưng ăn tại_chỗ rất ngon .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc7:1">
+				<text>Nhân_viên vẫn luôn tươi_cười và phục_vụ rất chu_đáo , xin thêm kim_chi được cho thêm rất nhiều .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc7:2">
+				<text>Quán này mà ở trung_tâm thì tốt quá chứ bên đó phải đi xa quá .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc8">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc8:0" OutOfScope="TRUE">
+				<text>Hôm trước ham_hố cũng bon_chen với mọi người gọi bên này một phần mỳ tương đen về ăn .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc8:1">
+				<text>Cảm_nhận của mình là ngon bởi nước sốt tương đen rất vừa_miệng , ăn cùng củ_cải vàng giòn_rụm , kim_chi chua_cay không_thể chê vào đâu được .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc8:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Ngoài_ra , còn có thêm hành_tây sống cắt miếng chấm kèm gì đó mình không rõ ( hình_như là tương thì_phải ) vì sợ mùi hành_tây nên không ăn .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc8:3">
+				<text>Nói_chung , một phần mỳ 46k sau khi đã giảm cũng hơi đắc nhưng lâu_lâu gọi ăn thì cũng không đến_nỗi nào .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc9">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc9:0">
+				<text>Vào ngày 14 hàng tháng ( dương nhé ) Đồng giá mì đen size S tô 40k thôi Dạo này có nhiều combo kèm 2-3 món giả sẽ rẻ hơn rất thích_hợp cho couple hay đi đông các bạn nên thử Ở đây củ_cải vàng khá ngon nhé 👏 🏻 giòn giòn mát mát xin bao_nhiêu cũng đc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc9:1">
+				<text>Ăn kèm với mì thì tuyệt_vời haha Có_lẽ quán hơi xa trung_tâm nên ko đc nhiều ng biết .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc9:2">
+				<text>Lần này ghé quán thấy hơn xuống_cấp và buồn Hy_vọng quán sẽ mở lâu_dài để có dịp còn ghé quán_ăn</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc10">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc10:0" OutOfScope="TRUE">
+				<text>Lần đầu mình đến đây ăn .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc10:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình nghe_nói có ông chủ người Hàn phục_vụ tận_tình nhưng vì đến tầm 9h nên quán không còn ai và cũng không thấy ông chủ , hơi buồn 1 tí .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc10:2">
+				<text>Mình gọi 2 combo như này , phải nói là nhiều , ăn_không hết luôn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc10:3" OutOfScope="TRUE">
+				<text>Nếu có tiền sẽ thử lại chứ sinh_viên nghèo ăn nhiều lần chắc ra đường ăn_xin luôn .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc11">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc11:0" OutOfScope="TRUE">
+				<text>Hôm_nay nổi hứng đi ăn mỳ hàn xem thế_nào .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc11:1">
+				<text>Quán không_gian cũng đẹp , vì là ngày thường nên toàn người hàn ngồi ăn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc11:2" OutOfScope="TRUE">
+				<text>Mình ngồi ngay chỗ quạt_gió thổi vù_vù : ) ) ) .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc11:3" OutOfScope="TRUE">
+				<text>Đến_nơi là có nước_lạnh nhà_hàng phục_vụ miễn_phí Chỉ gọi hai tô mỳ đen để ăn thử xem có hợp hay không đã .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc11:4">
+				<text>Hôm_nay đồ_ăn kèm có của_cải , hành_tây , tươg đen , còn kim_chi thì nhà_hàng hết Sợi mì dai dai , mỳ nói_chung cũng không đặc_sắc lắm , trong mỳ có hành_tây với tí_xíu thịt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc12">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc12:0" OutOfScope="TRUE">
+				<text>SV nghèo nên toàn canh ngày 14 tới đây ăn mì tương đen nhưng tới ngày 14 thì quên_béng mất : ) ) .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc12:1">
+				<text>Lần đầu ăn thấy tô khá nhiều , ăn hoài ko hết .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc12:2">
+				<text>Lần 2 mua đem về cũng thấy khá nhiều , đầy_đủ đồ_ăn kèm .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc12:3">
+				<text>Lần 3 tới ăn thì giá đã tăng 60k giảm còn 40k nhưng mì vs thịt có_vẻ ít hơn , ăn ko đã thèm nữa .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc12:4" OutOfScope="TRUE">
+				<text>Tới đây , quán phục_vụ nước_lạnh miễn_phí .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc12:5" OutOfScope="TRUE">
+				<text>Khi khách tới ngồi nv bưng sẵn bình nước trong tủ_lạnh ra .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc13">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc13:0">
+				<text>Mì tương đen rất rất ngon , dù nhiều sốt nhưng không hề bị mặn hay quá ngọt , vừa ăn , nhiều nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc13:1">
+				<text>Mì hải_sản thì cũng tạm thôi chứ không ấn_tượng như mì tương đen .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc13:2">
+				<text>Các món ăn kèm ngon , đầy_đủ nói_chung rất thích .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc14">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc14:0" OutOfScope="TRUE">
+				<text>Lần đầu ghé quán trúng ngày 14 được giảm ngay 40% cho mì tương đen size S còn 30k .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:1">
+				<text>Đây là quán có chủ là người Hàn , bước vào hay ra về đều được bác chủ và nhân_viên chào , khá thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:2">
+				<text>Mình oder 2 tô mì tương đen , lúc đầu ăn sợ không hợp_khẩu vị do đồ người Hàn nấu thường có vị cay và nhạt , nhưng mình ăn thấy hợp và khá là ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:3" OutOfScope="TRUE">
+				<text>Nếu bạn nào ăn mặn thì_có tương đen để nêm nếm thêm .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:4">
+				<text>À mình cực_kì thích kim_chi của quán và hành_tây , hành_tây ko hề hăng mà_lại ngọt , mì dùng chung vs củ_cải vàng rất ngon và đỡ ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:5">
+				<text>Quán có phục_vụ nước_lạnh nhưng cái ly uống nước nhìn hơi dơ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc14:6">
+				<text>Quán ko có người giữ xe nên việc để xe vào ăn mình ko yên_tâm lắm , với cả mỗi lần lấy xe khá là cực .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc15">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc15:0">
+				<text>Vì giá cao quá nên mình chỉ đi vào ngày 14 hằng tháng 😂 😂 Mỳ cha chang ở đây đỉnh dã_man .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc15:1">
+				<text>Tô mỳ size S mà to chà bá , mỳ cũng nhiều cực .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc15:2">
+				<text>Từ sợi mỳ to , dai , thơm đến nước sốt tương đen cực_kỳ đậm_đà , ngon_lành đều khiến người_ta phải xuýt_xoa 😂 😂 Các món ăn kèm như kim_chi , củ_cải muối cũng ngon và đúng vị lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc15:3">
+				<text>Mình cũng từng thử mỳ hải_sản ở đây , ngon quên sầu luô nhé .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc15:4">
+				<text>Nước_dùng rất thanh nhưng không hề nhạt , thơm đậm vị hải_sản cực .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc15:5">
+				<text>Ngon lắm lắm 😍 Nghe bảo các món khác cũng ngon không kém , hy_vọng lần sau có cơ_hội ( có tiền ) để thử 😎</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc16">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc16:0" OutOfScope="TRUE">
+				<text>Đợt sinh_nhật bạn nên mình mới có dịp ghé đây lần đầu , vì trước giờ hay ăn mấy quán teen teen quen rồi , nên cũng chưa ghé thử .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc16:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Quán buổi tối cũng khá đông , chủ_yếu là người Hàn_Quốc thôi .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc16:2">
+				<text>Tụi mình đi nhóm nên gọi cũng nhiều món , phải nói đồ_ăn ở đây rất ngon và chất_lượng , hương_vị rất khác so với những quán mình từng ăn , đặc_biệt là mỳ , sợi mì dai , ăn kèm với các món ăn kèm như kim_chi rất vừa_miệng , không bị ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc16:3">
+				<text>Các bạn nhân_viên cũng rất dễ_thương , hầu_như các bạn đều biết tiếng Hàn luôn thì_phải .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc16:4" OutOfScope="TRUE">
+				<text>Từ giờ chắc phải ghé lại quán thường_xuyên hơn mới được .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc17">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc17:0" OutOfScope="TRUE">
+				<text>Bỗng_dưng lên_cơn thèm mỳ tương đen nên liền_tay order ngay .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc17:1">
+				<text>Mỳ ở đây rất đặc_biệt , không hề giống với bất_kì chỗ nào khác mình từng ăn , còn có đồ_ăn kèm là củ_cải và kim_chi rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc17:2">
+				<text>Một tô nhiều lắm luôn á , 2 người ăn là lưng lưng bụng còn 1 người ăn thì chắc_ăn không hết .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc17:3" OutOfScope="TRUE">
+				<text>Sẽ còn ăn_ở đây dài_dài ❤ ️</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc18">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc18:0" OutOfScope="TRUE">
+				<text>Ngày 14 nào quán mì này cũng giảm_giá suất mì tương đen mua về .</text>
+			</sentence>			
+			<sentence id="OneChaChangMiHanQuoc18:1" OutOfScope="TRUE">
+				<text>Sẵn dịp nên nhờ người mua hộ .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc18:2" OutOfScope="TRUE">
+				<text>Chụp lúc tô mì còn nguyên bao ni lông luôn .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc18:3" OutOfScope="TRUE">
+				<text>Ahihi .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc18:4">
+				<text>Phần mì nhiều , ăn 1 người là k hết_nổi mô .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc18:5">
+				<text>Mì này ăn kèm với kim_chi cay_cay , củ_cải chua_ngọt , giòn giòn , ăn sựt sựt cực thích nha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc18:6">
+				<text>Buổi_trưa ăn phần mì này k là no_nê rồi á .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc19">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc19:0" OutOfScope="TRUE">
+				<text>Thấy reviews tốt nhiều nên mình đến thử .</text>
+			</sentence>			
+			<sentence id="OneChaChangMiHanQuoc19:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Đi khoảng 15h chiều nên không đông lắm , có vài khách HQ lai_rai .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc19:3" OutOfScope="TRUE">
+				<text>Mình gọi combo cho người Vịêt , 2 tương đen và hoành_thánh chiên .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc19:4" OutOfScope="TRUE">
+				<text>Đúng kiểu mì HQ , mùi_vị khác hẳn so với những quán cho teen bình_thường .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc19:5">
+				<text>Mì không cay cũng không mặn , khó tả , nếu người Vịêt ăn_không quen dễ ngán lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc19:6">
+				<text>Hoành_thánh rất đặc_biệt , nhìn trông giòn những rất mềm , k dai , vị đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc20">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc20:0" OutOfScope="TRUE">
+				<text>Tháng nào cũng canh_me 14 để mua mì tương đen ăn hết à !</text>
+			</sentence>			
+			<sentence id="OneChaChangMiHanQuoc20:1" OutOfScope="TRUE">
+				<text>Ăn mì tương đen của quán riết chặp ko ăn được của khác nữa vì quen khẩu_vị ở đâu mất rồi !</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc20:2">
+				<text>Mình order về mì vẫn nóng_sốt , sợi nì vẫn ngon như ngày nào !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc20:3">
+				<text>Sốt vừa ăn , kim_chi , củ_cải ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc20:4" OutOfScope="TRUE">
+				<text>Nói_chung là cứ me 14 để ăn cho lợi . . haha</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc21">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc21:0" OutOfScope="TRUE">
+				<text>Lâu rồi mới lại ăn mì tương đen của One_Cha_Chang nè .</text>
+			</sentence>			
+			<sentence id="OneChaChangMiHanQuoc21:1" OutOfScope="TRUE">
+				<text>Dạo trước cứ mỗi lần đến ngày 14 là mình lại ăn_chay nên đâm_ra cũng ko ăn cùng mọi người được .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc21:2">
+				<text>Đợt này ăn lại thì lại mê .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc21:3">
+				<text>Sợi mỳ dai ngon_ăn cùng_với tương đen được chế_biến bởi nhà_hàng này thì ngon tuyệt , thêm đó là lại có củ_cải muối với kim_chi nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc21:4">
+				<text>Ăn ngon lắm luôn ấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc21:5" OutOfScope="TRUE">
+				<text>Ngày 14 hằng tháng lại được giảm_giá nhiều nên văn_phòng mình mọi người ăn cũng khá nhiều nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc22">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc22:0">
+				<text>mỳ tương đen đúng chuẩn Hàn_Quốc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc22:1" OutOfScope="TRUE">
+				<text>lần này ăn thử phần thịt heo chiên và mỳ tương đen giá phần này 130k .</text>
+			</sentence>		
+			<sentence id="OneChaChangMiHanQuoc22:2">
+				<text>ghiền nhất mỳ tương đen ăn với củ_cải chua : ) .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc22:3">
+				<text>quán ở quận 3 nên mùa này đi qua hơi ớn .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc22:4" OutOfScope="TRUE">
+				<text>quán luc nào tới cung thấy lai_rai khách dù la đi buổi j .</text>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc22:5" OutOfScope="TRUE">
+				<text>gặp khách Hàn nhiều .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OneChaChangMiHanQuoc23">
+		<sentences>
+			<sentence id="OneChaChangMiHanQuoc23:0">
+				<text>Đây là lần thứ 4 mình đến đây , nhưng mùi_vị thì vẫn ngon như ngày nào .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc23:1" OutOfScope="TRUE">
+				<text>Lần nào mình đi cũng gọi combo mỳ tương đen + mỳ hải_sản với combo thịt heo chiên giòn + cơm_chiên với sốt tương đen .</text>
+			</sentence>		
+			<sentence id="OneChaChangMiHanQuoc23:2"> <!--sua-->
+				<text>Đây cũng là nơi mình chọn để ăn trong ngày sinh_nhật ❤ ️ Giá_cả cũng hơi ấy so với Hs nhưng thiệt tình bỏ ra ăn thì cũng rất đáng .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="OneChaChangMiHanQuoc23:3" OutOfScope="TRUE">
+				<text>Mấy bạn cứ đến đây ăn thử nhé .</text>
+			</sentence>	
+			<sentence id="OneChaChangMiHanQuoc23:4">
+				<text>Quán này nói thì ở bên quận 3 nhưng tính ra cũng gần thôi , qua cầu sông Hàn đi thẳng 1 tí là tới à 😘</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

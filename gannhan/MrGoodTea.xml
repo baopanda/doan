@@ -1,0 +1,544 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="MrGoodTea1">
+		<sentences>
+			<sentence id="MrGoodTea1:0">
+				<text>Quán vừa rộng vừa yên_tĩnh , trà xanh dâu ngon , pudding cũng ngon và béo nữa , rất thích trân_châu ở đây , vừa béo vừa ngọt > có_điều trà sữa choco hơi giống cacao sữa hơn là trà sữa nhe .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea1:1">
+				<text>Nhân_viên nhiệt_tình dễ mến ạ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea1:2">
+				<text>Giá_cả hợp_lí , khá hài_lòng ^ ^</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea2">
+		<sentences>
+			<sentence id="MrGoodTea2:0">
+				<text>Chắc đây là thương_hiệu trà sữa rẻ nhất Việt_Nam quá .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea2:1" OutOfScope="TRUE">
+				<text>Cuối tháng hết tiền thì cứ phi đến đây uống thôi .</text>
+			</sentence>
+			<sentence id="MrGoodTea2:2">
+				<text>Mẹn chỉ tầm 25 đến 40k là đc 1 ly đầy tràn no_nê rồi .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea2:3">
+				<text>Mình khá thích Mr .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea2:4">
+				<text>Goodtea nhưng lần đặt ship này về công_ty thì_là mình khá thất_vọng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea2:5" OutOfScope="TRUE">
+				<text>Bình_thường ở quán uống thì rất là nhiều cheese .</text>
+			</sentence>
+			<sentence id="MrGoodTea2:6">
+				<text>Mà lần đănt này thì siêu ít luôn á .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea2:7">
+				<text>Đã_vậy còn tràn sang 1 bên mất cả thẩm_mỹ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea2:8">
+				<text>Đã_vậy rồi kem cheese hôm_nay nó cứ kỳ kỳ , ko ngon như mọi bữa .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea2:9">
+				<text>Ko biết có phải vì ship giảm_giá qua deli nên mới vậy ko Nói_chung là_hơi bùn đó : ( ( (</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea3">
+		<sentences>
+			<sentence id="MrGoodTea3:0" OutOfScope="TRUE">
+				<text>Lâu lắm tồi k uống nhãn này nè .</text>
+			</sentence>
+			<sentence id="MrGoodTea3:1">
+				<text>Thương_hiệu này menu cũng phong_phú lắm nhưng giá_thành thì vô_cùng hạt_dẻ nè .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea3:2">
+				<text>Đợt mình uống ly này vị cũng okie lắm nha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea3:3">
+				<text>Nói_chung shipper giao hàng đúng h , chất_lượng thêuc uống ổn giá_thành okie là thấy hài_lòng rồi đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea3:4" OutOfScope="TRUE">
+				<text>: )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea4">
+		<sentences>
+			<sentence id="MrGoodTea4:0" OutOfScope="TRUE">
+				<text>Quán gần mấy trường cấp 3 nên mình thấy toàn cỡ tuổi đó ở quán , mình như lạc_lõng .</text>
+			</sentence>
+			<sentence id="MrGoodTea4:1">
+				<text>Quán cũng khá xinh , giá_thành lại rẻ hơn so với trà sữa khác .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea4:2">
+				<text>Đồ uống thì cũng tạm tạm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea5">
+		<sentences>
+			<sentence id="MrGoodTea5:0" OutOfScope="TRUE">
+				<text>Mình order ly trà sữa lúa_mạch với trân_châu đen , bạn mình order ly trà xanh kem chế đều là size M , take away .</text>
+			</sentence>
+			<sentence id="MrGoodTea5:1">
+				<text>Ts lúa_mạch thì tuyệt_vời luôn , uống ngụm nào ngon ngụm nấy , cực_kì thích , highly recommend ! !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea5:2">
+				<text>Trân_châu đen thì nấu vừa_phải , nhai sực sực khá thích .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea5:3">
+				<text>Mình có nếm thử trà xanh kem chese của bạn mình thì thấy ko ngon lắm , kem chese mặn , trà xanh khá ổn , hơi đắng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea5:4">
+				<text>Không_gian quán nhỏ nhưng được decor khá dễ_thương , giá_cả tầm 30 ~ 50k cho một ly , mình thấy cũng ổn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea5:5">
+				<text>Mình chắc_chắn sẽ quay lại đây !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea6">
+		<sentences>
+			<sentence id="MrGoodTea6:0">
+				<text>Phải nói là món Trà lúa_mạch bên này quá ngon , trà thơm thơm , vị vừa_phải , uống mà cảm_giác không dừng lại được luôn ý .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea6:1">
+				<text>Bữa đặt không có giảm_giá , ly 25k thêm trân_châu trắng 5k nữa tổng_cộng là 33k , cũng không rẻ nhưng thấy xứng_đáng và khá hài_lòng vì trà ngon , chắc hôm nào lại gọi tiếp để uống cho_đến lúc chán luôn thì_thôi , thích quá mà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea6:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Nghe_nói bên này cũng còn nhiều món khá ngon nên sẽ gọi thường_xuyên để thử .</text>
+			</sentence>
+			<sentence id="MrGoodTea6:3">
+				<text>Giao hàng nhanh , shipper lịch_sự .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea7">
+		<sentences>
+			<sentence id="MrGoodTea7:0" OutOfScope="TRUE">
+				<text>Hôm rồi đi với bạn không biết đi đâu nên ghé vào đây .</text>
+			</sentence>
+			<sentence id="MrGoodTea7:1"> <!--sua-->
+				<text>Thật quá chán với dịch_vụ ở đây : ) ) ) ồn_ào quá_đáng luôn Ts hokkaido là best seller mà ngọt dã_man , ts chocolate không khác sữa pha sẵn là mấy : > Nchung là lần đầu mình khá thích nhưng sau lần này chắc không có lần 3</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea8">
+		<sentences>
+			<sentence id="MrGoodTea8:0" OutOfScope="TRUE">
+				<text>Chiều_hôm qua mình có order trên deli một trà sữa Mr good tea vs trân_châu lá dứa nhưng cả hai món đều hết nên phải order ly khác là trà sữa hạt_dẻ vs trân_châu trắng .</text>
+			</sentence>
+			<sentence id="MrGoodTea8:1">
+				<text>Riêng mình thấy trà sữa ở đây thì hơi ngọt , trân_châu trăng giòn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea8:2">
+				<text>Nói_chung là tạm ổn .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea8:3" OutOfScope="TRUE">
+				<text>Có_thể sẽ đến quán để thử những món khác .</text>
+			</sentence>
+			<sentence id="MrGoodTea8:4" OutOfScope="TRUE">
+				<text>Mong lần đến thử thì sẽ ngon .</text>
+			</sentence>
+			<sentence id="MrGoodTea8:5" OutOfScope="TRUE">
+				<text>Mọi người cũng_nên thử một lần để xem trà sữa ở đây để xem như_thế_nào .</text>
+			</sentence>
+			<sentence id="MrGoodTea8:6" OutOfScope="TRUE">
+				<text>Mr good tea !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea9">
+		<sentences>
+			<sentence id="MrGoodTea9:0" OutOfScope="TRUE">
+				<text>Biết tin mr good tea free up size vào ngày 9 nên đi .</text>
+			</sentence>
+			<sentence id="MrGoodTea9:1">
+				<text>Quán to , rộng , thoáng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea9:2" OutOfScope="TRUE">
+				<text>Mua mang về nên chưa lên tầng 2 .</text>
+			</sentence>
+			<sentence id="MrGoodTea9:3">
+				<text>Nhân_viên thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea9:4" OutOfScope="TRUE">
+				<text>Mình gọi 1 trà sữa hạt_dẻ bỏ trân_châu trắng .</text>
+			</sentence>
+			<sentence id="MrGoodTea9:5">
+				<text>Trà sữa ngon , trân_châu trắng giòn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea9:6" OutOfScope="TRUE">
+				<text>Sẽ ưuay lại</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea10">
+		<sentences>
+			<sentence id="MrGoodTea10:0">
+				<text>Đồ uống khá ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea10:1">
+				<text>Không_gian rộng_rãi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea10:2">
+				<text>Nhưng có 1 điều mình rất không thích là nhà_vệ_sinh .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea10:3">
+				<text>Mình ngồi tầng 1 , sát nhà vs , thật_sự là có mùi khá khó_chịu , có_lẽ là do bị bí , ko thoát mùi .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea10:4" OutOfScope="TRUE">
+				<text>Có khách dùng xong mà ko đóng_cửa lại là mình cứ phải đứng lên đóng_cửa vì ko chịu đc mùi .</text>
+			</sentence>
+			<sentence id="MrGoodTea10:5">
+				<text>Và khi dùng nhà vs thì ko sạch_sẽ lắm , mình vào rồi đi ra ngay luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea10:6" OutOfScope="TRUE">
+				<text>Hy_vọng quán có_thể cải_thiện được vấn_đề này .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea11">
+		<sentences>
+			<sentence id="MrGoodTea11:0">
+				<text>Trà sữa và hồng trà ở đây ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea11:1">
+				<text>Topping cũng ok</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea12">
+		<sentences>
+			<sentence id="MrGoodTea12:0" OutOfScope="TRUE">
+				<text>Mr good tea !</text>
+			</sentence>
+			<sentence id="MrGoodTea12:1">
+				<text>trà sữa good !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea12:2">
+				<text>mình đi rất nhiều lần ở đây nên gọi khá là nhiều vị nhưng mình đặc_biệt ấn_tượng với hồng trà kem phô_mai trà sữa hokkaido và trà sữa đào thì_phải ! trà sữa hokkaido thơm lắm luôn ngọt vừa_phải nữa . còn hồng trà phô_mai thì đỉnh !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea12:3">
+				<text>kem phô_mai đặc mặn rất ngon ! còn trà sữa đào thì cũng ok khá ngon !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea12:4">
+				<text>À quán còn có nhiều loại trân_châu lắm ! trân_châu đen đối_với mình rất ngon , dai dai nữa chớ !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea12:5">
+				<text>giá_cả phải_chăng lắm luôn !</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea12:6" OutOfScope="TRUE">
+				<text>must try nhé !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea13">
+		<sentences>
+			<sentence id="MrGoodTea13:0" OutOfScope="TRUE">
+				<text>Nhân có mã giảm_giá nên ghé quán_tính tích điểm zody nhưng ai_ngờ không được tích , cơ_mà vẫn được hưởng km mua hai tặng một .</text>
+			</sentence>
+			<sentence id="MrGoodTea13:1" OutOfScope="TRUE">
+				<text>Mình ord một đào kem sữa thêm trân_châu lá dứa , một hồng trà sữa 3q .</text>
+			</sentence>
+			<sentence id="MrGoodTea13:2" OutOfScope="TRUE">
+				<text>Đào kem sữa mình cứ nghĩ là trà đào thêm kem sữa giống mấy quán khác ấy mà kem sữa ở đây lại chỉ là lớp nước_màu trắng .</text>
+			</sentence>
+			<sentence id="MrGoodTea13:3">
+				<text>Vị đào đậm , cái kem sữa đó uống chả rõ vì gì , khuấy lên chỉ thấy bớt vị đào , không ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea13:4">
+				<text>Trân_châu lá dứa cứng , không có mùi_gì cả lol .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea13:5">
+				<text>Nói_chung là uống nhiều lần rồi nên thấy trà ở đây như_vậy cũng tạm ổn so với giá_cả và không_gian.</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea13:6">
+				<text>Hồng trà sữa 3q khá ngon , vị trà hơi nhạt , pudding ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea13:7">
+				<text>Cơ_mà hôm_nay mình khá bực về thái_độ của chị nhân_viên order , chị rất không thân_thiện , từ lúc check mã giảm_giá cho tới khi mình hỏi vụ tích điểm , không nở một nụ_cười và mặt còn nhăn_nhó .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea13:8" OutOfScope="TRUE">
+				<text>Lúc mình nhầm tưởng thiếu kem sữa chỉ còn kiểu cười_cợt nữa cơ ?</text>
+			</sentence>
+			<sentence id="MrGoodTea13:9" OutOfScope="TRUE"> <!--sua-->
+				<text>Nhớ hồi trước đi có chị nv nào thân_thiện lắm , nhiệt_tình giới_thiệu món cho mình nữa cơ nay thật_sự quá thất_vọng .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea14">
+		<sentences>
+			<sentence id="MrGoodTea14:0" OutOfScope="TRUE">
+				<text>Nhân mr goodtea có đồng giá các loại nước nên order .</text>
+			</sentence>
+			<sentence id="MrGoodTea14:1" OutOfScope="TRUE">
+				<text>Mình gọi 1 trà sữa hạt_dẻ bỏ trân_châu trắng , 1 trà sữa matcha .</text>
+			</sentence>
+			<sentence id="MrGoodTea14:2">
+				<text>Trà sữa hạt_dẻ ngon , không ngọt lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea14:3">
+				<text>Trân_châu trắng giòn , nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea14:4">
+				<text>Trà sữa matcha cũng tạm được , vị hơi khác .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea14:5" OutOfScope="TRUE">
+				<text>Deli nhanh</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea15">
+		<sentences>
+			<sentence id="MrGoodTea15:0">
+				<text>Đặt về uống thử vì thấy giá hợp_lý quá Uống vào thấy vị Ok , không quá ngọt , vị thanh , ổn_định Vì order thông_qua delivery now nên không biết quán trang_trí như_thế_nào , nhưng ở Lê_Lợi thì gần , thuận_tiện đường_xá .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea15:1" OutOfScope="TRUE">
+				<text>Ly mình đang uống là trà sữa hạt_dẻ , nghe con bạn đồn loại này uống ngon nên đặt .</text>
+			</sentence>
+			<sentence id="MrGoodTea15:2">
+				<text>Giá hợp_lý nên sẽ quay lại , hy_vọng chất_lượng sản_phẩm tốt vì nghe đồn nhiều tin về trà sữa uống cũng hơi lo_ngại .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea16">
+		<sentences>
+			<sentence id="MrGoodTea16:0" OutOfScope="TRUE">
+				<text>Review món mới của Mr .</text>
+			</sentence>
+			<sentence id="MrGoodTea16:1" OutOfScope="TRUE">
+				<text>Good_Tea nèe Bọn mình định kêu 4 ly trà sữa lục hoa trân_châu đen mà hết trân_châu mất phải đổi qua lá dứa Trên menu còn chưa có món này , lúc mình gọi còn không có cả size L .</text>
+			</sentence>
+			<sentence id="MrGoodTea16:2" OutOfScope="TRUE">
+				<text>Giá dùng thử đến hết 29/11 là 15k nha .</text>
+			</sentence>
+			<sentence id="MrGoodTea16:3">
+				<text>Vị trà rất thơm , do mình mua mang về đi lâu hay_sao mà lúc uống cứ nhạt nhạt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea16:4">
+				<text>Không_gian quán xinh nhưng phải_biết lựa chỗ mới sống ảo được nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea16:5">
+				<text>Không hiểu sao uống xong là cả 4 đứa đều bị đau bụng dù khác topping mà sáng hôm_sau 28/11 bạn khác của mình đến uống thì bình thườnh không sao cả , chắc do mẻ trà bị lỗi</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea17">
+		<sentences>
+			<sentence id="MrGoodTea17:0">
+				<text>Điểm tụ_tập đáng để ghé .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea17:1">
+				<text>Đồ uống tạm ổn chứ không xuất_sắc mấy .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea17:2">
+				<text>Nhân_viên và quản_lý nhiệt_tình , nếu gọi đồ nhiều thì_có khi người_ta còn mang lên giúp luôn ấy .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea18">
+		<sentences>
+			<sentence id="MrGoodTea18:0">
+				<text>Đến quán tầm chiều nên cũng khá đông , vì toàn mua mang về nên không biết được không_gian phía trên như_thế_nào nhưng ở dưới thấy hơi chật .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea18:1">
+				<text>Về trà sữa thì thích nhất socola hạnh_nhân , thơm cực , ngọt vừa uống nên không bị ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea19">
+		<sentences>
+			<sentence id="MrGoodTea19:0" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình đến quán vào buổi_trưa nên cũng khá vắng khách .</text>
+			</sentence>
+			<sentence id="MrGoodTea19:1" OutOfScope="TRUE">
+				<text>Mình gọi Ts olong kem cheese , bạn mình gọi ts matcha kem cheese .</text>
+			</sentence>
+			<sentence id="MrGoodTea19:2">
+				<text>Trà sữa ở đây vị hơi ngấy , đậm vị sữa bột .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea19:3">
+				<text>Nói_chung vẫn khá ok .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea19:4" OutOfScope="TRUE">
+				<text>Mọi người nên gọi 70% đường là uống ngon .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea20">
+		<sentences>
+			<sentence id="MrGoodTea20:0" OutOfScope="TRUE">
+				<text>Đợt này Mr good tea đang giảm_giá 30% nên lập hội quất liền : v Bọn mình gọi 1 trà sữa Mr good tea , 1 trà sữa Oolong thêm kem cheese , 1 trà xanh kem cheese , 1 trà sữa choco bạc_hà .</text>
+			</sentence>
+			<sentence id="MrGoodTea20:1">
+				<text>Trà sữa MGT khá ổn , vị trà đen thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:2">
+				<text>Trà sữa choco bạc_hà khá lạ , vị đậm mà ngon lắm , sự kết_hợp của chocolate với bạc_hà rất hợp nha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:3">
+				<text>Mình thích vị trà sữa này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:4">
+				<text>2 loại còn lại cũng khá ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:5">
+				<text>Vị ngọt rất vừa_phải , càng uống càng thấy vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:6">
+				<text>Kem cheese mặn mặn lại hơi ngậy quá , nhanh tan trong trà sữa .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea20:7">
+				<text>Đồ uống ở đây khá bình_thường , chưa có ấn_tượng mấy nhưng cơ_bản khá tốt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MrGoodTea20:8">
+				<text>Nằm ở gần trường TP với PCT nên khá hút học_sinh .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:9">
+				<text>Giá cũng vừa_phải .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:10">
+				<text>Có 2 tầng , decor xinh_xắn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea20:11">
+				<text>Nhân_Viên lịch_sự .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MrGoodTea21">
+		<sentences>
+			<sentence id="MrGoodTea21:0">
+				<text>Thương_hiệu trà sữa " rẻ " nhất trong các loại trà .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea21:1">
+				<text>Mỗi lần đi ngang qua cũng thấy khá là đông_đúc đó .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea21:2" OutOfScope="TRUE">
+				<text>Mình thường tìm đến mỗi khi ... hết tiền .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:3" OutOfScope="TRUE">
+				<text>Menu quen_thuộc là trà ô long 150% đường + trân_châu lá dứa .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:4">
+				<text>với mình , trân_châu lá dứa ở đây vừa đẹp , ngon , thơm , lạ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea21:5" OutOfScope="TRUE">
+				<text>Ít chỗ nào có .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:6">
+				<text>Giá cũng hạt_dẻ tầm hai mấy 3 mươi k / ly , uống ổn .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MrGoodTea21:7" OutOfScope="TRUE">
+				<text>Mấy loại trà khác cũng vậy .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:8">
+				<text>Mỗi_tội trà ở đây hơi loãng xíu thôi chứ uống ko thua_kém mấy hãng khác đâu .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MrGoodTea21:9" OutOfScope="TRUE">
+				<text>Tất_nhiên , vì biết milkfoam hay chessee bên này rõ_ràng ko bằng mấy bà heeckaa , royal được nên khỏi order , khỏi so_sánh mất_công ahaha .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:10" OutOfScope="TRUE">
+				<text>Chỉ uống mấy loại an_toàn thôi .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:11" OutOfScope="TRUE">
+				<text>Mình chỉ thik order mua qua deli .</text>
+			</sentence>
+			<sentence id="MrGoodTea21:12">
+				<text>Ghét mua ở quán thì mình ko thik anh nhân_viên cao_cao nhưng trả_lời khách rất hờ_hững .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

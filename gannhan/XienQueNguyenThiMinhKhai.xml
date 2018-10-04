@@ -1,0 +1,611 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="XienQueNguyenThiMinhKhai1">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai1:0">
+				<text>Salad cá_hồi cực ngon , cá_hồi béo ^ ^ xiên que thì xiên gà vs hả cảo , bạch_tuộc thì ngon còn cái viên hải_sản lạt quá .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:1">
+				<text>Mì cay thì ngon tùy lúc thì_phải , mỳ gà thì đậm_đà vs nguyên cái đùi tổ_chảng , còn mỳ bò thì bị nhạt với ít bò , thấy chả cá còn nhiều hơn bò .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:2">
+				<text>Kim_chi vừa ăn , ko bị nồng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:3">
+				<text>Còn cái gà viên chiên xù thì bị nhạt , ăn ko có vị_chi lun , hơi ngán nhưng có nước_chấm nên cg đỡ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:4" OutOfScope="TRUE">
+				<text>P / s : 2 phần mỳ là do quay_vòng quay may_mắn ấy , bởi rứa ăn ko hết .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:5" OutOfScope="TRUE">
+				<text>Mình nói nhiêu đây đồ_ăn chỉ có 1 mình mình đi ăn mọi người tin ko ?</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai1:6" OutOfScope="TRUE">
+				<text>^ ~ ^ 2 cái xiên nườn là phải gói đem về @ @ ~ dạ_dày ko cho_phép , cố quá thành quá_cố</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai2">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai2:0">
+				<text>quán_ăn thoải_mái , nhân_viên tận_tình , có bánh_xèo hiroshima ngon lắm mà mình quên chụp mất : ( (</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai3">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai3:0">
+				<text>Ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai3:1">
+				<text>Không_gian được .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai4">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai4:0">
+				<text>Cơm bento ngon giá ổn , nhân_viên phục_vụ tốt thân_thiện : ></text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai5">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai5:0">
+				<text>Không_gian quán rộng_rãi , có quầy xiên que để mình tự chọn theo ý thích , có bàn nướng cho mình tự nướng , nếu bạn k muốn có_thể nhờ nhân_viên nướng ( chiên ) dùm ✌ Đi 4 người có gọi mỳ cay udon như ảnh , sợi bột khá giống bánh_canh của nước mình = ) ) ) ) ) ) nước_dùng đậm_đà , tô mì có nhiều tôm thịt nghêu nấm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai5:1">
+				<text>Ngoài_ra có chọn xiên que ở quán_ăn thử , rất thích thanh cua và pho mai que ở quán , phô_mai mềm mềm dai dai có_thể kéo_dài ra được , không như những phô_mai ở ngoài .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai5:2" OutOfScope="TRUE">
+				<text>Nói_chung sẽ quay lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai6">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai6:0">
+				<text>Bánh tokki nhiều thịt bò nhưng vị hơi chán , ăn vài miếng là ngán luôn chẳng ăn hết được cả phần đấy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai6:1">
+				<text>Mì_Udon cũng vậy , vị cay kiểu khó ăn , mình ko biết diễn_tả thế_nào nữa , nhưng ăn cay mà_lại thấy ớn 😂 , trong khi mình thích ăn cay mà_lại ăn ko đc ( ko phải vì quá cay đâu nha ) xiên nướng giá ổn , nhưng chẳng được nướng , nhân_viên tự chiên cho khách luôn , và vì_vậy rất dầu nên ăn chưa hết cũng ớn luôn 😂 😂 được_cái vị_trí trung_tâm , nhân_viên thân_thiện chứ mình chắc không ghé lại vì khẩu_vị không hợp .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai7">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai7:0">
+				<text>Lần trước có ghé quán một lần rồi và hơi thất_vọng về cách phục_vụ , lần này có voucher 50k của zody nên ghé lại .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:1" OutOfScope="TRUE">
+				<text>Mình ghé quán từ sớm nên rất vắng_vẻ , không lộn_xộn vụ xếp bàn này_nọ nữa .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:2">
+				<text>Nhân_viên phục_vụ thân_thiện , khá hài_lòng .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:3">
+				<text>Xiên que đợt này mình nhờ nhân_viên chiên lại dưới bếp dùm nên ít dầu_mỡ hơn , còn cơm cuộn ăn khá ngon nhưng để lạnh quá ăn cứng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:4">
+				<text>Quán có món cơm bento mới , một hộp như này có lượng cơm và thức_ăn khá vừa bụng , trang_trí đẹp_mắt , mình ăn cơm tonkatsu khá ngon , nói_chung rất thích món này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:5">
+				<text>Ngoài_ra đồ uống ở đây cũng khá rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai7:6">
+				<text>Lần này rất hài_lòng , sẽ ghé lại thường_xuyên hơn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai8">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai8:0" OutOfScope="TRUE">
+				<text>Hôm_qua mùng 4 qua gogihouse mà hết bàn , thế_là vào xiên que ăn luôn .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:1" OutOfScope="TRUE">
+				<text>Khách đông quá , mình đi hơi trễ hết mấy xiên que ngon ngon rồi 😥 .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:2">
+				<text>Chờ gọi món mà chị nhân_viên mặt lạnh_tanh ai tới trước còn không biết .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:3" OutOfScope="TRUE">
+				<text>Vào ăn vớt_vát lại vì có anh đeo kính tận_tình luôn , mới bước vào ảnh hỏi đi mấy người rồi còn chỉ_dẫn nhiệt_tình nữa .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:4">
+				<text>4 người ăn hết hơn 500k tính ra cũng rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:5">
+				<text>Xiên ngon , lẩu được .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai8:6">
+				<text>Chỉ hơi khó_chịu chỗ phục_vụ 😗</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai9">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai9:0">
+				<text>Mình đến quán vào buổi tối cùng bé công_ty , đồ_ăn ở đây tạm đc , giá_cả hơi mắc , ko gian rộng_rãi , thoáng mát , phục_vụ nhiệt_tình , quán ở vị_trí dễ tìm</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai10">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai10:0" OutOfScope="TRUE">
+				<text>Xiên que đã tồn_tại ở Đà_Nẵng được một thời_gian .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:1" OutOfScope="TRUE">
+				<text>Lâu rồi mình mới có dịp ghé lại .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:2">
+				<text>Đầu_tiên mình không thấy thoải_mái ở khâu order tại quầy , menu thì quá nhiều món mà phải vừa đứng trước mặt nhân_viên , vừa chọn nên cảm_giác rất gượng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:3" OutOfScope="TRUE">
+				<text>Phong_cách này chỉ hợp cho quán cafe thôi .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:4" OutOfScope="TRUE">
+				<text>Với một nơi như nhà_hàng thì không hợp tí nào .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:5" OutOfScope="TRUE">
+				<text>Xiên que thì rất nhiều .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:6">
+				<text>Mấy cây 5k thì giống ngoài vỉa_hè , những cây 10k và 15k mới đáng ăn , nhưng hơi đắt cho 1 cây .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:7" OutOfScope="TRUE">
+				<text>Khi chọn xong nhân_viên phải hỏi khách có muốn tự chiên hay chiên sẵn không chứ .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:8" OutOfScope="TRUE">
+				<text>Ở đây tự_động chiên sẵn luôn mà không hỏi .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:9">
+				<text>Mình cũng không hài_lòng vì nhà mình rất thích vừa chiên vừa ăn , mà Xiên_Que cũng đặc_biệt hơn các tiệm khác ở điểm đó .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:10">
+				<text>Các món ăn_ở đây khá ngon , lẩu thái hải_sản mình gọi lại thấy nhạt và không cay chút nào .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai10:11">
+				<text>Không_gian ấm_cúng và nhân_viên phục_vụ rất chu_đáo , mình hài_lòng ở điểm này .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai11">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai11:0">
+				<text>Quán nhìn ngang qua y_như nhà_hàng cứ tưởng là sẽ đắt lắm nhưng không quán rất rẻ ngon .</text>	
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai11:1">
+				<text>Đặt biệt hơn là chỗ ngồi rất đẹp nha vừa thoải_mái và rất lạ bàn ăn được có chão dầu ở giữa vừa chiên vừa ăn rất thín luôn .</text>	
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai11:2">
+				<text>Món ăn vừa đa_dạng và ngon cực_kì luôn .</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai11:3">
+				<text>Chỗ sf thì khỏi nói luôn nha đẹp trên từng khung hình .</text>	
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai11:4">
+				<text>Mình rất thích quán này chắc_chắn mình sẽ tới quán thêm nhiều nhiều lần nữa luôn đó .</text>	
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai11:5">
+				<text>Quán cute thật luôn đó .</text>	
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai12">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai12:0">
+				<text>Đồ_ăn tạm được , đa_dạng món , nv nhiệt_tình</text>	
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai13">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai13:0">
+				<text>Xiên_Que là địa_điểm yêu_thích của bé_nhỏ nhà mình , ăn tại quán có_thể tự chọn món theo ý thích , còn đặt qua delivery now nhìn tên chẳng biết cái nào ra cái nào nên mình đặt đại luôn .</text>	
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai13:1">
+				<text>Bánh_xèo ở đây hơi ướt , mềm chứ không giòn như bên Tokyo cakes , nhưng nhân lại nhiều hơn .</text>	
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai13:2">
+				<text>Bạch_tuộc chiên bình_thường , không ấn_tượng lắm - Các món xiên que ngon , đợt đặt này thích nhất_là sushi chiên giòn và món mà mình đoán là tôm viên eniball , lớp vỏ bên ngoài thì giòn , nhân bên trong thì mềm , ăn cực thích .</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai14">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai14:0">
+				<text>Chê cho dữ chứ không biết ăn gì vẫn leo vô xiên que , đơn_giản là dễ chọn món .</text>	
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai14:1" OutOfScope="TRUE">
+				<text>2 người ăn tầm 4-5 xiên que gì đó , ngồi chiên cho vui vui rồi đợi món chính ra là vừa đẹp .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai14:2">
+				<text>Thích ăn nhất ben này là lẩu kim_chi ấy .</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai14:3" OutOfScope="TRUE">
+				<text>2 người ăn lẩu nhỏ là vừa .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai14:4" OutOfScope="TRUE">
+				<text>Nấu mà nó cạn hết_nước cứ mạnh_dạn xin thêm vì cho free á .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai14:5">
+				<text>Nhân_viên nhanh_nhẹn , gọi cái có ngay nhưng_mà ăn cái đôi đũa gỗ này ghét ghê vì nó ngắn , muỗng đũa gì k đễ sẵn cứ phải kêu thêm mới đem ra .</text>	
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai15">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai15:0" OutOfScope="TRUE">
+				<text>Lâu lắm mới trở_lại với Xiên_Que .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:1" OutOfScope="TRUE">
+				<text>Lần này thì menu đã có thêm mỳ cay .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:2">
+				<text>Các loại xiên vẫn đa_dạng và ngon như_thế .</text>	
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:3">
+				<text>Mỳ cay thì vị ngon_ngọt , do ko ăn được cay nên gọi cấp 0 , bất_ngờ với vị mỳ ở đây luôn , rất dễ ăn ...</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:4" OutOfScope="TRUE">
+				<text>Vì là mới nhận lương và thằng em nó kêu đói nên kêu luôn 1 lần mấy loại xiên , cánh_gà , thịt heo xiên rau củ , cá_hồi , thanh cua , vân_vân mây mây ...</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:5">
+				<text>Ăn mỳ no căng rồi nên mấy loại xiên sau khi chiên xong thì ngấm quá nhiều dầu nên ăn hơi ngán .</text>	
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:6" OutOfScope="TRUE">
+				<text>Lần sau rút kinh_nghiệm ăn vừa vừa cho nó ngon .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:7">
+				<text>Giá mỳ cay thì rẻ , các loại xiên giá cũng ok ...</text>	
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai15:8" OutOfScope="TRUE">
+				<text>Lần sau rút kinh_nghiệm ăn vừa vừa cho nó ngon .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai16">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai16:0" OutOfScope="TRUE">
+				<text>Lâu_lâu dẫn bạn tới nơi này ăn .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:1">
+				<text>Tuy đã tới đây nhiều lần rùi nhưng mình vẫn thích nơi nay vì không_gian ngồi khá thoải_mái .</text>	
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:2">
+				<text>Đồ_ăn tuy không đặt biệt gì lắm nhưng ăn khá là vừa_miệng .</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:3" OutOfScope="TRUE">
+				<text>Nơi nay thích_hợp để ngồi nhấm_nháp vừa tám chuyện khá là hợp_lý .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:4">
+				<text>Nhân_viên ở đây thì phục_vụ khá tốt .</text>	
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:5" OutOfScope="TRUE">
+				<text>hehe .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai16:6" OutOfScope="TRUE">
+				<text>Bạn nên tới quan này một lần .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai17">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai17:0" OutOfScope="TRUE">
+				<text>Đi ba người ăn hết khoảng hai trăm cũng nhiều thứ lắm .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai17:1">
+				<text>Kimbap sushi cũng ngon , rẻ , mấy loại xiên que chiên nên nhiều giàu mỡ hơi ngán .</text>	
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai17:2">
+				<text>Trà xanh trân_châu đen thanh mát .</text>	
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai17:3">
+				<text>Nói_chung là ổn .</text>	
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai17:4">
+				<text>Có_điều nhân_viên phục_vụ hơi kém , kêu khách đổi bàn lộn_xộn .</text>	
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai18">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai18:0">
+				<text>Mình có gọi thêm một phần Tobbokki cay , nhưng khá ít và bình_thường so với giá như_vậy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai18:1">
+				<text>Mình nghĩ nếu thích Tobbokki mà ăn_ở đây thì hơi chát so với các quán khác .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai18:2">
+				<text>Còn kimbap thì ngon , còn lại thì quá bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai18:3">
+				<text>Không_gian rộng , mát , phục_vụ nhiệt_tình ,</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai19">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai19:0" OutOfScope="TRUE">
+				<text>Lâu_lâu hội chị_em gặp_mặt liền order xiên que về ăn_liền .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:1" OutOfScope="TRUE">
+				<text>Ba đứa ăn bể bụng luôn mà hết gần 200k thôi .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:2">
+				<text>Shushi to lại rẻ từ 5k-10k .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:3">
+				<text>Bánh_xèo nhật hấp_dẫn hai lớp trứng kẹp mỳ trộn hải_sản .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:4" OutOfScope="TRUE">
+				<text>Order thêm mấy xiên nướng và chiên nữa .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:5">
+				<text>Riêng trà sữa không ngon lắm quá ngọt , nhưng giá 17k thì cũng không đòi_hỏi nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai19:6">
+				<text>Tóm_lại đây vẫn là quán_ăn Nhật giá sinh_viên mà đồ chất_lượng nhất .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai20">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai20:0" OutOfScope="TRUE">
+				<text>Thiệt mình là dân Đà_Nẵng chính gốc mà giờ mới đi thử Xiên_Que xem nó như nào .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai20:1">
+				<text>Vào được_cái ấn_tượng là nguyên dãy cái xiên que xếp sẵn ra để mình lựa và giá_cả thì được ghi rõ ra cả , bên_cạnh các xiên que thì_có thêm các món ăn khác cũng đa_dạng lắm ấy , menu mình có chụp lại để mọi người tham_khảo đó .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai20:2">
+				<text>Theo mình quan_sát thì Xiên_Que phục_vụ khá nhiều đối_tượng là gia_đình , cặp đôi , bạn_bè , mình thấy không biết đi ăn gì , ở đâu thì vào đây cũng ok lắm .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai21">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai21:0">
+				<text>Cửa_hàng với vô_vàn món ăn để lựa_chọn 😂 Riêng món mì cay yêu_thích của mình cũng đã hơn 10 vị để chọn rồi ý .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai21:1">
+				<text>Món nào cũg đều rất ngon 👍 Đặc_biệt đối_với các món chiên , bạn chỉ việc mở tủ và chọn lấy món mình yêu_thích ❤ ️ Sau đó mang vào và tự tay chiên những món đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai21:2">
+				<text>Về không_gian thì vô_cùng xinh_xắn ❤ ️ Nhân_viên cũng rất dễ_thương nữa 👍.</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai22">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai22:0" OutOfScope="TRUE">
+				<text>Nguyên thế_giới xiên que luôn .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:1" OutOfScope="TRUE">
+				<text>Ưng loại nào mở tủ ra gắp bỏ lên dĩa , tới tính tiền .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:2">
+				<text>Cách tự_phục_vụ hơi bị xịn </text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:3" OutOfScope="TRUE">
+				<text>Đang ngán dầu_mỡ nên lần này ko chọn xiên que mà order qua kimpap , bánh tok và mì tương đen để lót_dạ cuối tuần .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:3">
+				<text>Kimbap mình đánh_giá ổn , mì tương đen hải_sản có sốt trộn ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:4">
+				<text>Riêng cái tok bạch tuột hơi bị fall .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:5">
+				<text>Tok cứng ngắt , bạch tuột dai giòn nhưng ko thấm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:6">
+				<text>Món này nhạt như nước ôc , ăn đc vài miếng bỏ lại luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai22:7">
+				<text>Cuối tuần nên đông khách , phục_vụ hơi lâu tí .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai23">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai23:0" OutOfScope="TRUE">
+				<text>Hôm bữa nhận được voucher 100k đến ăn thử quán này .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:1">
+				<text>Quán rất đẹp , nhân_viên dễ_thương , dô chọn món thấy từng khay riêng sạch_sẽ , ấn_tượng đầu rất tốt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:2">
+				<text>Xiên thì giá cũng rẻ , nhân_viên chiên dùm mình rất nhanh .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:4">
+				<text>Nhưng_mà chỉ có 2 menu thì hơi bất_tiện , đừng chờ coi món lâu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:5">
+				<text>Mình thấy nhiều bạn bảo ko ngon , nhưng_mà mình thấy rất ngon , mình chọn xiên ngẫu_nhiên cái nào cũng good .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:6">
+				<text>Mì cay bạch tuột rất ngon nhiều bạch tuột lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai23:7" OutOfScope="TRUE">
+				<text>Nếu có tiền sẽ đến ăn thử hết</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai24">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai24:0" OutOfScope="TRUE">
+				<text>Cấp 3 hay ghé lắm , lên đại_học thì đỡ nhiều rồi .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:1">
+				<text>Mình ít ghé hơn vì chất_lượng ở đây không có gì nổi_bật .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:2" OutOfScope="TRUE">
+				<text>Lâu_lâu ghé ăn_chơi cho vui_miệng à .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:3">
+				<text>Không_gian rộng_rãi , mát_mẻ , nên một phần ghé đây ăn cũng thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:4">
+				<text>Xiên que thì thấy càng_ngày_càng ít loại , cũng toàn mấy loại quen_thuộc từ cấp 3 đến giờ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:5" OutOfScope="TRUE">
+				<text>Mình có gọi thêm mấy món ăn cho no như lẩu , tokbokki , kimbap , ...</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:6">
+				<text>Nhìn_chung các món ăn ổn , không ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:7">
+				<text>Mà giá cũng tầm trung không rẻ không mắc .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai24:8">
+				<text>Nhân_viên các bạn đứng order thì không nhiệt_tình nhưng vẫn lịch_sự</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="XienQueNguyenThiMinhKhai25">
+		<sentences>
+			<sentence id="XienQueNguyenThiMinhKhai25:0">
+				<text>Quán rộng_rãi nhưng khá vắng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai25:1" OutOfScope="TRUE">
+				<text>Vào được lựa_chọn đủ thứ các loại xiên , nhìn rất đã mắt , bạn mình vs mình toàn lấy rất nhiều mà ăn k bao_giờ hết ; ) ) .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai25:2" OutOfScope="TRUE">
+				<text>Kêu thêm phần mì cay rồi bánh_xèo nhật , cơm_chiên hải_sản .</text>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai25:3">
+				<text>Mình thì thấy các loại xiên chủ yéu nhìn đã mắt còn lạin mùi_vị raat hạn_chế ăn cứ na_ná nhau dễ ớn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai25:4">
+				<text>Có cơm hải_sản ngon vừa_miệng mà nhìu nữa , mì cay thì hơi bị lạt còn bánh_xèo thì cũng ok mình k thích bắp_cải lắm nên k ăn nhìu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="XienQueNguyenThiMinhKhai25:6">
+				<text>Nhân_viên giữa xe thì khá lớn_tiếng như bù lại phục_vụ thì lễ_phép lắm tận_tình chu_đáo , giá_cả thì cũng k đắt lắm</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+			
+			
+			
+			
+			
+			
+			

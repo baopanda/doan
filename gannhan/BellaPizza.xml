@@ -1,0 +1,533 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="BellaPizza1">
+		<sentences>
+			<sentence id="BellaPizza1:0">
+				<text>Pizza chỗ này theo mình giá_cả vừa_phải mà chất_lượng và phục_vụ rất okie .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>		
+				<Opinion category="REST#PRICES" polarity="positive"/>		
+			</sentence>
+			<sentence id="BellaPizza1:1" OutOfScope="TRUE">
+				<text>Mỗi lần đến mình gọi 1 pizza 2 loại nhân .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:2" OutOfScope="TRUE">
+				<text>Thường là nhân nửa gà , nửa bò .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:3">
+				<text>Chesse cực thơm dẻo chuẩn , vỏ bánh mềm_mại .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>		
+			</sentence>
+			<sentence id="BellaPizza1:4" OutOfScope="TRUE">
+				<text>2 người ăn 1 cái là no cứng nha .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:5" OutOfScope="TRUE">
+				<text>Mình hay gọi thêm 1 mỳ ý sốt kem khai_vị .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:6">
+				<text>Thấy rất ngon , kem béo và thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>		
+			</sentence>
+			<sentence id="BellaPizza1:7" OutOfScope="TRUE">
+				<text>Mỳ có thịt nguội và nấm .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:8">
+				<text>Chồng mình rất thích ăn_ở đây 1 phần vì cung_cách phục_vụ rất dễ_thương .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>		
+			</sentence>
+			<sentence id="BellaPizza1:9" OutOfScope="TRUE"> <!-- sua -->
+				<text>Nếu đi 2 người mà lỡ gọi hơi nhiều là chị quản_lý sẽ tư_vấn rất nhiệt_tình vd như khách gọi nhiều sẽ ăn ko hết đâu hoặc tư_vấn món cho hài_hòa với lượng .</text>		
+			</sentence>
+			<sentence id="BellaPizza1:10" OutOfScope="TRUE">
+				<text>Quán này có chủ là người Hàn nên chú_ý sẽ thấy khách Hàn đến ăn cũng khá nhiều .</text>	
+			</sentence>
+			<sentence id="BellaPizza1:11"> <!-- sua -->
+				<text>Điểm trừ duy_nhất của quán là mún đi toilet phải lên trên lầu .</text>	
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza1:12" OutOfScope="TRUE">
+				<text>Hơi ngược_ngạo 1 xíu .</text>	
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza2">
+		<sentences>
+			<sentence id="BellaPizza2:0" OutOfScope="TRUE">
+				<text>Lâu rồi mới ghé lại quán , đổi chủ nên menu cũng đổi theo .</text>
+			</sentence>
+			<sentence id="BellaPizza2:1">
+				<text>Pizza thì vẫn như lúc trước nhưng không còn vị gà nướng và đào mình thích 😭 😭 Thấy nay có cơm lạ_lạ nên mình gọi thử và thật_sự theo mình thấy thì không được ngon cho lắm , cả cách trình_bày cũng khiến mình hơi ghê_ghê : v không biết_mấy món cơm khác thì thế_nào .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza2:2" OutOfScope="TRUE">
+				<text>Lần tới mình sẽ ghé lại để thử món khác , hy_vọng sẽ tìm ra được món ngon nèe</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza3">
+		<sentences>
+			<sentence id="BellaPizza3:0" OutOfScope="TRUE">
+				<text>Tối_qua có ghé đây ăn pizza .</text>
+			</sentence>
+			<sentence id="BellaPizza3:1">
+				<text>Quán có_vẻ vắng khách .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza3:2" OutOfScope="TRUE">
+				<text>Mình ăn pizza nửa bò nửa 4 cheese .</text>
+			</sentence>
+			<sentence id="BellaPizza3:3" OutOfScope="TRUE">
+				<text>Đợt này ăn ko thấy có nến như đợt trước nhỉ .</text>
+			</sentence>
+			<sentence id="BellaPizza3:4">
+				<text>Mình ko thích rau trên pizza .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza3:5">
+				<text>Pizza 4 cheese ăn lạ .</text> <!-- sua -->
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BellaPizza3:6">
+				<text>Viền bánh dày ăn giông_giống bánh_mì : ) ) Lần ghé này lần thứ 2 đây , ko ấn_tượng về pizza nhiều như lần đầu mình ghé .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza3:7">
+				<text>Nv lịch_sự lễ_phép .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza3:8">
+				<text>Quán hơi nóng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza4">
+		<sentences>
+			<sentence id="BellaPizza4:0">
+				<text>Ko gian đơn_giản , ấm_cúng , mình rất hay ăn_ở bella , giá ko quá đắt , nhưng ko rẻ , tầm 80 - 200 1 món Chất_lượng tươi , mình thích spageti đút lò ở đây , rất ngon và nóng . nhưng 1 người ăn 1 phần thì sẽ dư .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza4:1">
+				<text>Pizza mùi_vị kiểu châu_âu luôn , nên khó ăn , sallad cũng vậy . nhân_viên và chủ rất dt , ko phải đợi lâu .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza4:2" OutOfScope="TRUE">
+				<text>Lâu_lâu có đợt tặng sách nữa</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza5">
+		<sentences>
+			<sentence id="BellaPizza5:0" OutOfScope="TRUE">
+				<text>Ăn pizza không_thể không nhớ đến Bella_Pizza .</text>
+			</sentence>
+			<sentence id="BellaPizza5:1">
+				<text>Pizza ở đây có phần đế bánh dày vừa_phải , không quá cứng , có_thể gọi kiểu nửa này nửa kia , đặc_biệt là pizza được nướng bằng củi nên có vị rất đặc_trưng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza5:2">
+				<text>Mỳ Ý hải_sản đút lò ờ đây cũng_nên thử , sợi mì dai dai kèm với nước sốt đậm_đà và phô_mai béo ngậy thực_sự rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza6">
+		<sentences>
+			<sentence id="BellaPizza6:0" OutOfScope="TRUE">
+				<text>Tình_cờ biết đc quán này qua giới_thiệu của 1 người bạn .</text>
+			</sentence>
+			<sentence id="BellaPizza6:1" OutOfScope="TRUE">
+				<text>Do mình thèm mì đút lò kinh khủng_khiếp nhưng cái quán mình hay ăn nó lại dẹp_tiệm mất .</text>
+			</sentence>
+			<sentence id="BellaPizza6:2" OutOfScope="TRUE">
+				<text>Thế nên bạn mình nói ghé Bella ăn đi .</text>
+			</sentence>
+			<sentence id="BellaPizza6:3">
+				<text>Ngon tuyệt_vời .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza6:4" OutOfScope="TRUE">
+				<text>Vậy_là mình ghé thử .</text>
+			</sentence>
+			<sentence id="BellaPizza6:5" OutOfScope="TRUE"> <!-- sua-->
+				<text>Và mình phải nói là nghiện luôn .</text>
+			</sentence>
+			<sentence id="BellaPizza6:6">
+				<text>Đây là lần thứ 2 mình ghé quán thôi , lần đầu bước vào quán trong đêm trời se lạnh , ko gian của quán nhỏ_bé mà ấm_áp kinh_khủng , muốn ở lại luôn ko muốn về .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza6:7" OutOfScope="TRUE">
+				<text>Do lần đầu mình tới gọi cả pizza và mì nhưng điện_thoại hư nên ko chụp hình cũng ko viết review đc .</text>
+			</sentence>
+			<sentence id="BellaPizza6:8">
+				<text>Hôm_nay đi_lại lần 2 viết bù , pizza ở đây phải nói là ... cực_kì ngon xuất_sắc , mình cắn 1 miếng mà hạnh_phúc nó trào_dâng luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza6:9" OutOfScope="TRUE">
+				<text>Thiệt chứ ko nói quá .</text>
+			</sentence>
+			<sentence id="BellaPizza6:10">
+				<text>Kiểu làm bánh ở đây khác với những quán pizza mà mình đã từng ăn , nên thành_ra hương_vị cũng khác , cắn 1 miếng đê_mê tận lòng người , thơm mùi phomai kinh_khủng luôn , và món mì ý thì trên cả tuyệt_vời .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza6:11">
+				<text>Phủ lên 1 lớp phomai khá dày , sốt cũng nhiều , ăn hết mì rồi nhưng vẫn còn dư nhiều sốt lắm , ăn vừa_miệng Nhân_viên vui_tính nhiệt_tình niềm_nở với khách .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza6:12" OutOfScope="TRUE">
+				<text>Anh_chị chủ là người HQ nên chào khách bằng tiếng Hàn luôn .</text>
+			</sentence>
+			<sentence id="BellaPizza6:13">
+				<text>Khá niềm_nở Đây là 1 trong những địa_điểm yêu_thích của mình mỗi khi nhắc tới pizza</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza7">
+		<sentences>
+			<sentence id="BellaPizza7:0" OutOfScope="TRUE">
+				<text>Thấy_Foody đăng bài hâpd dẫn quá , lại đang vào mùa lạnh nên ăn pizza củi là chuẩn nha .</text>
+			</sentence>
+			<sentence id="BellaPizza7:1" OutOfScope="TRUE">
+				<text>Mình đi 4 người , gọi 1 salad , 1 mì ý hải_sản , pizza lớn xúc_xích phô_mai và pizza ngọt phô_mai khoai_lang .</text>
+			</sentence>
+			<sentence id="BellaPizza7:2">
+				<text>Mì ý ngon , pizza xúc_xích thì tạm thoai , salad có nươcs sốt ngon , nhưng hơi béo Mình thích nhất_là pizza phô_mai khoai_lang , ngon lẵm ạ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza7:3">
+				<text>Mọi người đi ăn nên thử Ở đây có pizza phô_mai mật_ong cũng ngon đó nha Nhân_viên nhiệt_tình , không_gian ấm_cúng</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza8">
+		<sentences>
+			<sentence id="BellaPizza8:0" OutOfScope="TRUE">
+				<text>Trong 1 ngày trời quá lạnh và quá thèm cheese thì tụi mình làm_gì .</text>
+			</sentence>
+			<sentence id="BellaPizza8:1" OutOfScope="TRUE">
+				<text>Tấp ngay vào bella để ăn 1 bữa thịnh_soạn là nhất luôn ❤ ️ ❤ ️ Ở ngoài lạnh mấy mà vô đây ấm liền hè .</text>
+			</sentence>
+			<sentence id="BellaPizza8:2">
+				<text>Kiểu ko gian vàng ấm_cúng lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza8:3">
+				<text>Thấy có cô_chú chủ người hàn thì_phải , thân_thiện nhiệt_tình lắm luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza8:4" OutOfScope="TRUE">
+				<text>Mí bạn nv cũng vại nữa Nhóm mình đi 4 người nên gọi nhiều , ăn trưa cho no lun ý mà .</text>
+			</sentence>
+			<sentence id="BellaPizza8:5">
+				<text>Pizza mỳ ý sốt kem salad và cơm Mình thích mì ý và pizza ghê luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza8:6">
+				<text>Ăn ngon_miệng lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza8:7">
+				<text>Cơm thì bt và salad mình ăn được , còn bạn mình bảo khó ăn_ý Tháng sau có lương nhất_định ghé lại</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza9">
+		<sentences>
+			<sentence id="BellaPizza9:0" OutOfScope="TRUE">
+				<text>Có dịp được đi thử pizza Bella , nghe tiếng lâu rồi giờ mới được mấy chị_em trong công_ty rủ đi ăn .</text>
+			</sentence>
+			<sentence id="BellaPizza9:1">
+				<text>Pizza nướng củi của bếp người Hàn , vỏ bánh lạ lắm , không giòn nhưng_mà nó không mềm kiểu ớn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza9:2">
+				<text>Ăn rất ngon khá hợp_khẩu vị mình .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza9:3" OutOfScope="TRUE">
+				<text>Thích pizza ngọt hơn pizza mặn , thấy kiểu vị lạ_lạ hay_hay , nhất_là pizza khoai_lang thêm lớp cheese nữa , béo_béo bùi_bùi .</text>
+			</sentence>
+			<sentence id="BellaPizza9:4">
+				<text>Pizza đem ra được để lên đế nến để giữ nóng và không bị cứng lớp cheese , khá chu_đáo .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza9:5">
+				<text>Mỳ ý sốt kem vị béo và rất vừa_miệng , sốt kem thơm , ăn_không ngấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza9:6">
+				<text>Salad này mình ăn_không hợp vì hình_như sốt kèm là sốt cam , mà 2 chị bé bạn đi cùng mình ăn hợp nên khen ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza10">
+		<sentences>
+			<sentence id="BellaPizza10:0">
+				<text>Các quán pizza thì mình hay ghé đây ăn vì hợp vị , đế nướng rất vừa ăn và không quá cứng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza10:1">
+				<text>Ngoài pizza thì nay mình thấy cũng update nhiều món mới như mỳ ý , cơm trộn cũng khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza10:2">
+				<text>Không_gian cũng ấm_cúng , nhân_viên cũng nhiệt_tình .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza10:3">
+				<text>Nhượt điểm là giá hơi cao .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza10:4" OutOfScope="TRUE">
+				<text>Có dịp thì mình vẫn ghé lại thử các loại pizza khác .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza11">
+		<sentences>
+			<sentence id="BellaPizza11:0" OutOfScope="TRUE">
+				<text>Lần thứ 2 quay lại quán .</text>
+			</sentence>
+			<sentence id="BellaPizza11:1">
+				<text>Không_gian quán decor đẹp , gần_gũi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza11:2">
+				<text>Vẫn là ngon nhất Pizza , dù ăn_ở đâu thì vẫn thích hương_vị ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza11:3" OutOfScope="TRUE">
+				<text>Ngoài pizza còn có Spaghetti nữa ...</text>
+			</sentence>
+			<sentence id="BellaPizza11:4" OutOfScope="TRUE">
+				<text>Sẽ còn ghé lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza12">
+		<sentences>
+			<sentence id="BellaPizza12:1" OutOfScope="TRUE"> <!-- sua -->
+				<text>Được bạn giới_thiệu , nói quán này có Pizza là ngon nhất_nhì Đà_Nẵng .</text>
+			</sentence>
+			<sentence id="BellaPizza12:2" OutOfScope="TRUE">
+				<text>Mình có ghé tới quán thưởng_thức .</text>
+			</sentence>
+			<sentence id="BellaPizza12:3">
+				<text>Công_nhận là ngon tuyệt ý .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza12:4">
+				<text>Đế bành vừa , ăn no_nê mà giá cũng phù_hợp nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza12:5">
+				<text>Ngoài_ra menu còn có nhiều món khác để mọi người lựa_chọn Quán có không_gian thân_thuộc , thoải_mái .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza12:6" OutOfScope="TRUE">
+				<text>Sẽ còn tới quán thưởng_thức cho hết các loại pizza ở đây .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza13">
+		<sentences>
+			<sentence id="BellaPizza13:0" OutOfScope="TRUE">
+				<text>Mình ăn 2 lần ở quán .</text>
+			</sentence>
+			<sentence id="BellaPizza13:1">
+				<text>Lần 1 đi với đồng_nghiệp khá ngon nên hôm_sau dẫn chồng đi ăn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza13:2">
+				<text>Lần 2 thì hơi thất_vọng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza13:3">
+				<text>Mỳ ăn ok nhưng đến pizza mình order size nhỏ thì nhân_viên nói hết size nhỏ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BellaPizza13:4" OutOfScope="TRUE">
+				<text>Thấy lạ vì đế pizza không phải là khách đến mới nặn đế rồi nướng hay_sao ?</text>
+			</sentence>
+			<sentence id="BellaPizza13:5" OutOfScope="TRUE">
+				<text>Mình order nửa hải_sản nửa khoai_lang .</text>
+			</sentence>
+			<sentence id="BellaPizza13:6" OutOfScope="TRUE">
+				<text>Mang ra chưa kịp ăn đã nguội .</text>
+			</sentence>
+			<sentence id="BellaPizza13:7">
+				<text>Ăn mất mùi thơm của bánh mà_còn dai_nhách . một phần do cái máy_lạnh chỉa thẳng vào bàn nên nến phía dưới k có tác_dụng gì .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza13:8">
+				<text>Nói_chung ăn lần này hoàn_toàn không vừa_ý chút nào</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza14">
+		<sentences>
+			<sentence id="BellaPizza14:0">
+				<text>Mình hay ghé bella mỗi khi thèm pizza , mình ăn cũng nhiều chỗ như luna , 4ps , tony ... . . nhưng vẫn cảm_thấy hợp với pizza đây nhất , đế bánh vừa giòn và k quá dày rất vưaf phải , nhân cũng rất vừa_miệng , phomai đc nướng tan chay trong pizza ăn rất ngon Ngoai pizza ở đây còn có mỳ ý nấm ăn ngon lắm luôn Góp_ý một_chút là : quán bật điều_hoà lạnh quá Giá đồ uống hơi cao nước loc 15k thi cũng hơi cao bth các chỗ khác chỉ có 10k</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza15">
+		<sentences>
+			<sentence id="BellaPizza15:0">
+				<text>Đúng là pizza nướng than nên đế không giòn như gu của mình .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BellaPizza15:1">
+				<text>Nhưng vị ăn vừa_phải , thơm ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza15:2">
+				<text>Không_gian và nhân_viên dễ_chịu .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza15:3">
+				<text>Mình đã thử bò , phô_mai và hải_sản , khá ngon đó : )</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza16">
+		<sentences>
+			<sentence id="BellaPizza16:0">
+				<text>Pizza_Bella nướng than nên đế không quá giòn mà mềm mềm , dai dai nên mình rất thích .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:1" OutOfScope="TRUE">
+				<text>Được gọi half half nên ăn được nhiều loại nữa .</text>
+			</sentence>
+			<sentence id="BellaPizza16:2">
+				<text>Đế pizza được nướng bằng lò củi ở nhiệt_độ rất cao nên bánh ra nóng giòn , cạnh hơi cháy xém nhưng đúng là pizza kiểu thủ_công .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:3">
+				<text>Pomai ở đây cực được_lòng cả bàn do độ thơm dẻo , không hề bị cứng dù để nguội thời_gian khá lâu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:4" OutOfScope="TRUE"> <!-- sua -->
+				<text>Cách ăn pizza ở đây cũng lạ , được liên_tục giữa giữ nóng bằng 1 chiếc bếp nhỏ xinh_xắn đặt giữa bàn .</text>
+			</sentence>
+			<sentence id="BellaPizza16:5">
+				<text>Nói_chung ăn pizza ở đây rất là kiểu_cách .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:6" OutOfScope="TRUE">
+				<text>Muốn ăn để cảm_nhận trọn_vẹn hương_vị thì nên pizza pomai mật_ong ko thôi nhé .</text>
+			</sentence>
+			<sentence id="BellaPizza16:7">
+				<text>Còn các món pizza táo , gà , bò thì không chê vào đâu được .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:8">
+				<text>Ăn 1 lần là nhớ mãi luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:9">
+				<text>Ăn 1 lần là nhớ mãi luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza16:10" OutOfScope="TRUE">
+				<text>Để giữ nguyên_vị của pizza , quán này KHÔNG_SHIP , KHÔNG_GIAO_HÀNG .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza17">
+		<sentences>
+			<sentence id="BellaPizza17:0">
+				<text>Phải nói đầu_tiên là món gì ở đây cũng nhiều ú_ụ ý .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza17:1" OutOfScope="TRUE">
+				<text>Nhà mình gọi pizza 2 vị , mỳ ý sốt bơ , khoai_tây chiên và salad cho 3 người thì em nhân_viên bảo là nhiều quá : ) .</text>
+			</sentence>
+			<sentence id="BellaPizza17:2" OutOfScope="TRUE">
+				<text>Bình_thường thì mình ăn_ở các quán khác cũng toàn gọi suất như_thế , vậy_mà ở đây đúng là ăn ko hết đc , phải mang về .</text>
+			</sentence>
+			<sentence id="BellaPizza17:3">
+				<text>Đồ_ăn thì ngon , mấy món mình gọi đều tuyệt cả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza17:4">
+				<text>Bé nhà mình ăn xong còn có chỗ chơi ở trên tầng 2 , bé xíu thôi nhưng cũng ok .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza18">
+		<sentences>
+			<sentence id="BellaPizza18:0" OutOfScope="TRUE">
+				<text>Hôm bữa ngày kỉ_niệm với bạn gấu yêu nên dắt bạn qua đây hẹn_hò .</text>
+			</sentence>
+			<sentence id="BellaPizza18:1">
+				<text>Không_gian sang chảnh ấm_cúng , nhân_viên nhiệt_tình lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza18:2" OutOfScope="TRUE">
+				<text>Mình gọi một pizza hai loại nhân và một phần mỳ ý hải_sản đút lò .</text>
+			</sentence>
+			<sentence id="BellaPizza18:3">
+				<text>Pizza ở đây nướng củi nên khá thơm vị đặc_trưng , đế giòn ngon hai loại nhân không ngán chút nào .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza18:4">
+				<text>Mì ý thấm vị sốt ngon hải_sản nhiều có phô_mai chảy phủ bên trên ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza18:5">
+				<text>Bạn_gái mình khá ưng vị này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza18:6">
+				<text>Giá hơi chat nên sẽ quay lại vào dịp đặc_biệt</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BellaPizza19">
+		<sentences>
+			<sentence id="BellaPizza19:0">
+				<text>Lần thứ 2 ghé quán , vẫn có ấn_tượng rất tốt với các bạn nhân_viên .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza19:1">
+				<text>Các bạn ấy rất thân_thiện , lúc_nào cũng cười : ) ) nhóm bạn mình gọi pizza đào , pizaa mix bò hàn với gà cay và 1 mỳ hải_sản .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza19:2">
+				<text>Món nào cũng ngon hết ấy đặc_biệt là pizza bò với mỳ ý , pizza đào ăn lạ_miệng : ) ) mỳ ý ngon nhưng_mà 5 đứa ăn nên thành_ra chưa đã miệng : ) ) Lần đầu mình tới là lúc mới khai_trương .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BellaPizza19:3" OutOfScope="TRUE">
+				<text>Ăn xong chị chủ còn ra hỏi ăn cod vừa_miệng không nữa ấy .</text>
+			</sentence>
+			<sentence id="BellaPizza19:4">
+				<text>Nói_chung sẽ ghé lại vì đồ_ăn ngon và nhân_viên nhiệt_tình .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

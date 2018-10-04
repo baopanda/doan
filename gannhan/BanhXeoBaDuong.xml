@@ -1,0 +1,542 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+REST#GENERAL REST#PRICES REST#QUALITY REST#STYLEOPTIONS REST#SERVICE REST#AMBIENCE REST#LOCATION
+	<Review rid="BanhXeoBaDuong1">
+		<sentences>
+			<sentence id="BanhXeoBaDuong1:0" OutOfScope="TRUE">
+				<text>Mình không phải là người thích ăn nem_lụi , bánh_xèo và các thể_loại cuốn .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong1:1">
+				<text>Có_lẽ vì_thế là mình không cảm_nhận được độ ngon ở đây chăng ?</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong1:2" OutOfScope="TRUE">
+				<text>Cảm_thấy không rõ vì_sao quán nổi_tiếng : ) ) .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong1:3" OutOfScope="TRUE">
+				<text>Mình đến tầm tối RẤT_ĐÔNG , đông thực_sự , chưa thấy quán bánh_xèo nào nó đông như_thế_này .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong1:4">
+				<text>Ồn và khá bẩn nữa : ) ) ) Nem_lụi bình_thường , bánh_xèo thì mình thấy cũng bình_thường nốt hic : ( (</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong2">
+		<sentences>
+			<sentence id="BanhXeoBaDuong2:0">
+				<text>Quán nằm trong hẻm , bảng tên đầu đường thì nhỏ , hơi khó tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:1" OutOfScope="TRUE">
+				<text>Trên đường vào hẻm nhiều quán bánh_xèo lắm , coi_chừng vào lộn .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:2" OutOfScope="TRUE">
+				<text>Quán nằm ở cuối hẻm luôn .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:3">
+				<text>Quán rộng , ngồi thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:4">
+				<text>Thấy hình_như lúc_nào cũng đông nên nhân_viên hơi tiết_kiệm lời .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:5" OutOfScope="TRUE">
+				<text>Bánh_xèo 55 ngàn / 4 cái nhỏ .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:6">
+				<text>Vỏ bánh_xèo được tráng thêm trứng ăn bùi_bùi khá lại .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:7" OutOfScope="TRUE">
+				<text>Nhân thịt bò với tôm .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:8">
+				<text>Nước_chấm không biết làm_bằng gì nhưng ăn bùi , thơm mùi thịt , khá đặc_sắc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:9">
+				<text>Tổng_thể ăn khá ngon_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:10">
+				<text>Rau khá tươi , cho nhiều , ăn đã ^ ^ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:11" OutOfScope="TRUE">
+				<text>Nem_lụi 5 ngàn/cây .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong2:12">
+				<text>Cây khá nhỏ , ăn_không ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong3">
+		<sentences>
+			<sentence id="BanhXeoBaDuong3:0">
+				<text>Bánh_xèo bà dưỡng có_tiếng rồi nhưng theo mình quán chỉ đặc_sắc ở chỗ là nước_lèo rất đậm_đà , thơm ngon , hình_như có gan thịt trong đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:1">
+				<text>Nói chung_kết nhất nước_lèo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:2">
+				<text>Giá_cả thì mình thấy mắc chứ không rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:3">
+				<text>Đĩa bánh_xèo 4 cái 55k mà lác_đác con tôm nhỏ vs xíu tịt xíu giá .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:4">
+				<text>Còn bún thịt nướng 25k mà cũng ít .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:5" OutOfScope="TRUE">
+				<text>Đem ra 2 đứa trầm_trồ 😝 .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:6">
+				<text>Nem thì trước thấy ổn lắm mà ngày_càng teo lại .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:7">
+				<text>Sữa bắp nhạt_nhẽo không nên thử .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:8">
+				<text>quán lúc_nào cũng đông .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:9">
+				<text>Phục_vụ cũng ổn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong3:10">
+				<text>Thèm ăn nước_lèo thì quay lại chứ chưa chắc .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong3">
+		<sentences>
+			<sentence id="BanhXeoBaDuong3:0">
+				<text>Quán ở trong hẻm nên hơi khó tìm 1 tý , bước vào quán thấy hơi đông khách đúng là nổi_tiếng có khác , đồ_ăn ngon , giá_cả ok vì mình đi ăn cùng đồng_nghiệp , phục_vụ tận_tình , mình cực_kỳ hài_lòng .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong4">
+		<sentences>
+			<sentence id="BanhXeoBaDuong4:0">
+				<text>Bánh_xèo giòn không dầu như những chỗ ơ sài gòn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong4:1">
+				<text>Đồ_ăn lên nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong4:2">
+				<text>Không_gian rộng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong4:2" OutOfScope="TRUE">
+				<text>Phần như hình là 55k/4cai .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong4:2" OutOfScope="TRUE">
+				<text>Nem người_ta mang ra mình ăn nhiêu tình tiền bấy_nhiêu .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong5">
+		<sentences>
+			<sentence id="BanhXeoBaDuong5:0">
+				<text>Ngon , pv nhanh 😁 😁 😁</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong6">
+		<sentences>
+			<sentence id="BanhXeoBaDuong6:0" OutOfScope="TRUE">
+				<text>Con hẻm khó tưởng nhất ở ĐN .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong6:1" OutOfScope="TRUE">
+				<text>Nói thật_là mình không ngờ trong hẻm nhỏ lại có nhiều tiệm đặc_sản ĐN như_vậy luôn .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong6:2" OutOfScope="TRUE">
+				<text>Nhưng đi vào sâu nhất thì gặp biển_hiệu Bà Dưỡng là đúng .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong6:3">
+				<text>Ăn chảng thể chê , từ thịt đến bánh , nước_chấm mặn_mà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong7">
+		<sentences>
+			<sentence id="BanhXeoBaDuong7:0">
+				<text>Bánh_xèo bà dưỡng thì ngon có_tiếng ở Đà_Nẵng rồi .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong7:1">
+				<text>Quán này có khá nhiều khách du_lịch ghé ăn , mà quán nằm trong kiệt nên chạy xe vài rồi gửi xe_hơi khó_khăn một_tí .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong7:2">
+				<text>Bánh_xèo nóng giòn , nước_chấm ngon , vừa_miệng , quán đông khách nên có lúc sẽ phục_vụ hơi lâu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong7:3" OutOfScope="TRUE">
+				<text>Quán cũng có bán cả nem_lụi nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong8">
+		<sentences>
+			<sentence id="BanhXeoBaDuong8:0">
+				<text>Tiệm có bánh_xèo rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong8:1">
+				<text>Lúc tới thì mới ra bánh mới nên lúc_nào cũng nóng_hổi , ngon_lành .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong8:2">
+				<text>Còn có cả nem nướng nữa 💕 quá tuyệt luôn 🎉 🎉 🎊 🎊 mỗi_tội ở trong kiệt khó đi hơi một xíu 😂 😰</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong9">
+		<sentences>
+			<sentence id="BanhXeoBaDuong9:0" OutOfScope="TRUE">
+				<text>Quán ni nổi_tiếng lắm ned .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong9:1" OutOfScope="TRUE">
+				<text>Thấy rất nhiều khách du_lịch .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong9:2">
+				<text>Rau ở đây tươi và nước_chấm ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong9:3">
+				<text>Bánh_xèo vì đông nên quán làm trước lúc đem ra bị nguội mất .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong9:4">
+				<text>Nem_lụi cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong9:5">
+				<text>Không_gian chật và đông khách .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong10">
+		<sentences>
+			<sentence id="BanhXeoBaDuong10:0" OutOfScope="TRUE">
+				<text>Quán được khen ghé ăn cho_biết .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong10:1">
+				<text>Rất thất_vọng , không có gì đặc_sắc cã .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong10:2">
+				<text>Bánh làm trước đem ra nguội , bột không giòn và thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong10:3" OutOfScope="TRUE">
+				<text>Nhân thì được con tôm nhỏ và lát thịt bò .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong10:4">
+				<text>Nem thì như ăn bột vậy không chút hương_vị của thịt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong10:5" OutOfScope="TRUE">
+				<text>Không hiểu sao trên Foody lại được khá nhiều good reviews .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong11">
+		<sentences>
+			<sentence id="BanhXeoBaDuong11:0">
+				<text>Ăn một lần mà đam_mê em nó luôn ấy ạ , đến Đà_Nẵng hôm đầu_tiên đã ghé ăn rồi hôm rời đi cũng phải cố ăn thêm lần nữa vì ngon quá ! !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:1" OutOfScope="TRUE">
+				<text>Dù lần nào đi ăn trời cũng mưa to gió lớn nhưng bõ công đội mưa đi ăn lắm .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:2">
+				<text>Mình rất thích ăn nem_lụi cuốn ấy , ăn khá nhiều hàng ở HN nhưng chưa thấy đâu có nước_chấm ngon như ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:3" OutOfScope="TRUE">
+				<text>Hỏi sao mà quán tít cuối ngõ mà cũng đông_nghịt .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:4">
+				<text>Không_gian : không được rộng lắm , menu dán trên tường và chắc khách hàn nhiều quá nên có cả tiếng hàn luôn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:5">
+				<text>Chất_lượng thì nước_chấm best luôn , bánh_xèo nhiều nhân , bò nướng cũng thơm nhưng hơi ít .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:6">
+				<text>Ở đây có sữa ngô ngon , đặc sánh luôn ấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:7" OutOfScope="TRUE">
+				<text>T còn định mua cả thùng về Hn uống dần ấy vì ngon thật .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:8">
+				<text>Điểm trừ Phục_vụ : chậm , gọi hết_hơi mới ra , thái_độ cứ không thiện_cảm tí nào ấy .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong11:9">
+				<text>Gửi xe xa chỗ ăn , giấy_ăn đà nẵng cứng như giấy order vậy</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong12">
+		<sentences>
+			<sentence id="BanhXeoBaDuong12:0">
+				<text>Về phục_vụ : Phục_vụ nhanh khủng_khiếp .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:1" OutOfScope="TRUE">
+				<text>Vừa ngồi xuống chưa được mấy phút đã thấy có đồ_rau các thứ rồi .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:2">
+				<text>Gọi bánh_xèo phát là thấy ra luôn , mà vẫn nóng_hổi mới sợ chứ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:3" OutOfScope="TRUE">
+				<text>Chắc đầu_bếp nhà bà Dưỡng làm với tốc_độ tên_lửa luôn .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:4">
+				<text>Về đồ_ăn : Bánh_xèo giòn , ngon , nhiều tôm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:5">
+				<text>Mắm_nêm ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:6" OutOfScope="TRUE">
+				<text>Thích nhất_là được ăn khi mọi thứ đều nóng ( trừ rau tất_nhiên hehe ) .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:7">
+				<text>Chỗ ngồi : Sạch_sẽ , có sọt rác , rộng_rãi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:8">
+				<text>Nhà VS : Bồn rửa tay có xà_phòng đầy_đủ , mỗi_tội hơn bẩn tí .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:9">
+				<text>Chỗ để xe : Rộng_rãi , có vé đàng_hoàng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:10" OutOfScope="TRUE">
+				<text>Giao hàng : 20k hay cao hơn , tuỳ vị_trí giao hàng Chốt hạ : Kiểu j cũng phải quay lại lần nữa .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong12:11" OutOfScope="TRUE">
+				<text>Thèm quá .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong13">
+		<sentences>
+			<sentence id="BanhXeoBaDuong13:0">
+				<text>Bánh ở đây khá ngon và nổi_tiếng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong13:1">
+				<text>Trước_đây mình hay ăn_ở đây ... nhưng bữa_nay giá hơi đắt rồi , nhưng không sao : ngon là ok rồi .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong13:2">
+				<text>Chỉ_tội cái bực_bội ông giữ xe và nhân_viên phục_vụ quá , không được thiện_cảm và hơi hách_dịch nữa .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong13:3" OutOfScope="TRUE">
+				<text>Quán nên xem_lại vấn_đề này .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong14">
+		<sentences>
+			<sentence id="BanhXeoBaDuong14:0">
+				<text>Điểm + : nước_chấm cực ngon , sữa bắp ngon , nem nướng vị chuẩn , cuốn kèm rau tuyệt_vời .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong14:1">
+				<text>Mình gọi 1 phần bánh_xèo ăn với nem nướng cuốn lên xong chấm nước_chấm cảm_thấy ngon tuyệt : D hỏi mún mua nước_chấm riêng có lun , 50k/chai Điểm - : nv quán chăm_sóc khách ko đc tận_tình , mặt ko vui_vẻ</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong15">
+		<sentences>
+			<sentence id="BanhXeoBaDuong15:0">
+				<text>Quán càng_ngày_càng đắt .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong15:1" OutOfScope="TRUE">
+				<text>K còn ngon như xưa nữa .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong15:2">
+				<text>Đi ra gặp cảnh người_ta k biết để nhầm chỗ để xe mà cái ông giữ xe chửi ngưoi ta không ra_gì .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong15:3" OutOfScope="TRUE">
+				<text>Mà_lại đàn_ông lớn_tuổi cái mồm hàm_hồ hung_dữ .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong15:4" OutOfScope="TRUE">
+				<text>Làm_vậy lần sau họ sẽ k đến ăn nữa .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong15:5">
+				<text>Làm mất ấn tương . quán này sẽ từ luôn</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong16">
+		<sentences>
+			<sentence id="BanhXeoBaDuong16:0" OutOfScope="TRUE">
+				<text>Quán này nổi_tiếng ghê luôn zị đó ! ! ! ! ! !</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong16:1" OutOfScope="TRUE">
+				<text>Chòi mé 😱 Vậy_mà vô Đà_Nẵng cũng mấy lần giờ mới có dịp search foody để mà đi ăn nè .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong16:2" OutOfScope="TRUE">
+				<text>Ăn bánh_xèo bà dưỡng mà nhớ bánh xepf của chị mami quá 💋</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong16">
+		<sentences>
+			<sentence id="BanhXeoBaDuong16:0">
+				<text>Thật_ra mình cũng đi nhiều nơi ăn Nhưng quán xèo Bà Dưỡng này cũng ở mức tạm không quá ngon như tưởng_tượng mình trước khi ghé vì duoc bạn_bè review giới_thiệu Nước_chấm lạ</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong17">
+		<sentences>
+			<sentence id="BanhXeoBaDuong17:0" OutOfScope="TRUE">
+				<text>Tối , trời mưa , thêm khoảng lành_lạnh nên thèm ăn bánh_xèo ...</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong17:1" OutOfScope="TRUE">
+				<text>Tấp vào quán bà Dưỡng ăn cho phỉ .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong17:2" OutOfScope="TRUE">
+				<text>Mình gọi 4 cái bánh_xèo , 5 cây nem_lụi , lon coca , quá đủ cho cái bụng rỗng từ trưa tới giờ .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong17:3" OutOfScope="TRUE">
+				<text>^ ^ Bánh_xèo bà Dưỡng thì có_tiếng ở Đà_Nẵng rồi , vào lúc_nào cũng thấy đông , bếp thì nghi_ngút khói_lửa ...</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong17:4" OutOfScope="TRUE">
+				<text>Ăn xong hết phần thấy cũng còn thòm_thèm , nhưng thực_ra là cái bụng đầy rồi , chỉ là cái miệng_ăn chưa đã .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong17:5" OutOfScope="TRUE">
+				<text>: p Dịp nào_đó vào quán_ăn phát nữa , lần này rủ thêm vài đứa bạn ăn cho ớn luôn !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong18">
+		<sentences>
+			<sentence id="BanhXeoBaDuong18:0">
+				<text>Ko biết có phải các bạn review phản_ánh phục_vụ chậm hay không mà mình vào quán rất đông , đa_phần khách Hàn , vừa ngồi cái là nhân_viên chạy tới liền , 3 phút sau lên món ngay .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong18:1">
+				<text>Bánh tạm được so với 2 quán miền trung , lipton kế bên , giá hơi cao nhưng ok .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong18:2" OutOfScope="TRUE">
+				<text>Những bạn nào quen ăn bánh_xèo trong nam như mình chớ chê mềm vội , trong nam pha thêm bột lọc nó mới giòn thế , ko còn mùi gạo thơm nữa nhé .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong18:3">
+				<text>So với bánh căn bánh_xèo tôm mực ở Nha_Trang thì chỗ này ăn_đứt , nhất_là nước_chấm , ngon lắm chứ ko phải nước_mắm tỏi ớt nha</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong19">
+		<sentences>
+			<sentence id="BanhXeoBaDuong19:0">
+				<text>Đi ăn trưa với gia_đình nên ghé vào ăn nhưng thất_vọng tràn_trề từ khâu phục_vụ tới khâu chế_biến , không có từ_ngữ nào diễn_tả cả .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong19:1">
+				<text>Giá_cả đắt thì khoi bàn rồi bán cho du_lịch mà nhưng_mà kiểu như cài khách vậy dù bạn đi 1 mình hay mấy mình thì dọn nguyên đống bánh_xèo chiên sẵn mềm oặt rồi đống nem_lụi nguội_ngắt đống chén nước_chấm dầu lai_láng trong khi nói có 1 người ăn .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong19:2">
+				<text>Phục_vụ thì kiểu hời_hợt k thiện_cảm j cả .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong19:3" OutOfScope="TRUE">
+				<text>Mình là bye luôn xèo bà dưỡng từ đây , xưa ngon lắm giờ ôi_thôi ăn chỗ xèo cô Ba hoặc xèo chợ Tân_Bạch_Hổ ngon hơn đấy ạ .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong19:4" OutOfScope="TRUE">
+				<text>Rẻ mà chất_lượng ăn bao_nhiêu đổ nóng đến đấy .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong19:5">
+				<text>Chứ k như xèo kiểu này nguội_ngắt mềm oặt</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BanhXeoBaDuong20">
+		<sentences>
+			<sentence id="BanhXeoBaDuong20:0" OutOfScope="TRUE">
+				<text>Bánh_xèo bà Dưỡng quá nổi_tiếng ở ĐN luôn , xem review trang du_lịch nào cũng khen nên mình tới ĐN chơi ko thể ko thử .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:1">
+				<text>Hôm mình đến là tối tầm 7-8h mưa rả_rích mà quán bà Dưỡng đông kinh_khủng 😓 đơji 1 lúc mới có bàn ngồi , xong lại ngồi 1 lúc mứoi có ng dọn bàn .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:2" OutOfScope="TRUE">
+				<text>Hình_như quán đông quá nên nhìn đầu người mang đồ_ăn lên 🙄 mình đi 3 người đc 10 cây nem vs 3 cái bánh_xèo , mình để_ý những bàn khác cũng nv .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:3" OutOfScope="TRUE">
+				<text>Điểm đb là nem ăn ko hết nvien gom lại bàn sau lại mang ra tiếp .</text>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:4">
+				<text>Bánh_xèo thì nguội_ngắt và dầu_mỡ kinh_khủng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:5">
+				<text>Đc mỗi nước_chấm ăn tạm ổn . </text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:6">
+				<text>3 đứa vừa ăn vừa thất_vọng , ăn cho nhanh r đi chứ thức_ăn đã ko ngon , bàn_ghế dầu_mỡ rồi khách ồn_ào kinh_khủng nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BanhXeoBaDuong20:7">
+				<text>Quá thất_vọng về chỗ này luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

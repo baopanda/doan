@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="DenDaCoffeeDessert1">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert1:0">
+				<text>Đen đá có rất nhiều chi nhanh và thiết_kế quán theo phong_cách sài gòn xưa nhìn rất hoài_cổ và lãng mãn , nước uống rất đậm vị , thơm ngon , mình thích nhất_là uống trà sữa caramel ở đây .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert1:1">
+				<text>Dessert rất tuyệt , nhất_là các món có phô_mai , ở đây cho rất nhiều phô_mai , tan chảy nhìn thôi đã thèm rồi , bánh flan béo_béo công thêm các topping như sương sáo , hột é , trân_châu ...</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert1:2">
+				<text>Chế thêm nước_cốt dừa lên ngon ơi_là ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert1:3">
+				<text>Không_gian ở đây rộng_rãi , trang tri đẹp_mắt vô_cùng , vệ_sinh sạch_sẽ thoáng mát .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert1:4">
+				<text>Nhân_viên phục_vụ rất tốt nữa</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert2">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert2:0">
+				<text>Thiệt sự quán chưa bao h làm mình thất_vọng về các loại nước uống : )</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert3">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert3:0">
+				<text>Quán rất tuyệt , nước uống ngon , bánh tạm ổn 😆 .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert4">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert4:0">
+				<text>Bánh ngon , nước tạm ổn</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert5">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert5:0">
+				<text>Thường đến Đen_Đá vì mấy cái bánh toast yêu yêu và ngon ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert5:1">
+				<text>Không_gian rộng_rãi , buổi_sáng đúng chất đầy nắng luôn : ) ) Trà váng sữa cũng tạm ổn Nhân_viên thân_thiện nhiệt_tình</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence> 
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert6">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert6:0" OutOfScope="TRUE">
+				<text>Ghé đen đá vào chiều lạnh ơi_là lạnh .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:1" OutOfScope="TRUE">
+				<text>Quán cũng yên_tĩnh , khách ra_vào cũng k nhiều .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:2">
+				<text>Cực thích mấy loại bánh ở đây 😭 bị yêu luôn ý chứ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:3">
+				<text>Lớp vỏ bánh ở ngoài giòn đều , bên trong mềm chấm với nước sốt và kem vani đi kèm phải nói là tuyệt_vời .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:4">
+				<text>Em ý giá 41k ( quá rẻ cho 1 cuộc tình ) = ) ) Nước uống tạm , mình đi 3 người , 1 bạn kêu trà sữa kem flan xay 48k .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:5" OutOfScope="TRUE">
+				<text>Còn lại gọi desert caramel giá 49k có_thể ăn chung 3 người .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:6">
+				<text>flan ở đây rất ngon , béo mà ăn k bị ngấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert6:7" OutOfScope="TRUE">
+				<text>Sẽ ghé thử các loại bánh khác ❤ ️</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert7">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert7:0">
+				<text>Không_gian quán đẹp , thoáng mát , nhân_viên nhiệt_tình dễ_thương , đến order cafe trứng cốt dừa uống thử thấy rất ngon , kem flan béo thơm mùi dừa , điểm trừ là nhà_vệ_sinh hôi quá , ko sạch tí nào .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert7:1" OutOfScope="TRUE">
+				<text>Sẽ còn quay lại thử những thức uống khác vào những dịp tới .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert7:2" OutOfScope="TRUE">
+				<text>Chúc quán luôn đông khách</text>
+			</sentence>
+		</sentences>
+	</Review>	
+	<Review rid="DenDaCoffeeDessert8">
+		<sentences> 
+			<sentence id="DenDaCoffeeDessert8:0">
+				<text>Milkfoam của đen đá thì trên cả tuyệt_vời , trà xanh hơi đắng , không hợp với mình , bánh toast nóng giòn , thơm bơ , thạch trà xanh trong bánh rất ngon , hơi nhiều kem tươi , kem trà xanh không ngon , đông đá View đẹp , giá trung_bình , bánh đợi hơi lâu</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert9">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert9:0" OutOfScope="TRUE">
+				<text>Nghe danh Đen đá lâu rồi mà giờ mới có dịp đến đây .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:1" OutOfScope="TRUE">
+				<text>Không_gian quán đậm chất cổ_xưa với những kệ sách cũ .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Con bạn mình tính chụp hình sống ảo nhưng khách đông quá ko chụp được .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:3" OutOfScope="TRUE">
+				<text>Đành ngậm_ngùi ăn bánh , uống trà sữa rồi về .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:4">
+				<text>Mình uống hồng trà váng sữa thêm trân_châu trắng , cũng ngon lắm , váng sữa béo thơm , trà ko ngọt lắm , rất vừa_miệng ( mình ko phải team hảo ngọt ) .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:5">
+				<text>Nghe mọi người khen Mango toast ở đây ngon lắm nên cũng bon_chen thử , mình thấy cũng bình_thường , ko ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:6" OutOfScope="TRUE"> <!-- sua -->
+				<text>Chắc ko hợp_khẩu vị .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert9:7">
+				<text>Nói_chung là quán rất ok , lần sau có dịp sẽ quay lại .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert10">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert10:0">
+				<text>Không_gian của quán khá đẹp , rất thích những kệ sách ở đây .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert10:1">
+				<text>Mình uống Trà xoài váng sữa vị cũng ổn nhưng_mà xoài cắt hạt lựu còn sống nên hơi chua .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert10:2">
+				<text>Nhân_viên cũng dễ_thương , có_điều ngồi đến lúc gần về luôn mới được phục_vụ nước_lọc ...</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert11">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert11:0" OutOfScope="TRUE">
+				<text>Lâu_lâu thèm trà hoa_hồng thì hông biết ghé đâu ngoài đen đá hết chơn á .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert11:1">
+				<text>Đen đá chắc có trà hoa_hồng mình thấy ngon nhất đn rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert11:2">
+				<text>Thêm lớp kem sữa thần_thánh + tc trắng nữa_là tuyệt zời Vì đi đen đá nên mình lựa ngày đầu tuần cho đỡ đông , mình thì hay lên tầng trên ngồi cho thoải_mái , ở tầng 1 hơi ồn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert11:3" OutOfScope="TRUE">
+				<text>Vẫn như cũ là mình gọi 1 ly trà hoa_hồng thêm tc trắng và kem sữa .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert11:4">
+				<text>Béo_béo thơm thơm thiệt là ngon Nhưng_mà ở đây hơi muỗi thì_phải .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert11:5" OutOfScope="TRUE">
+				<text>Mình mặc quần ngắn , ngồi gần kệ sách thì thấy bị muối đốt nè : ( ( (</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert12">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert12:0">
+				<text>Không_gian quán thiết_kế lạ_mắt , thoáng mát và xinh nữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert12:1">
+				<text>Mới thử được ít món bên quán thôi nhưng thấy đồ uống quán pha cũng lạ_miệng và có milkfoam cũng ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert12:2">
+				<text>Có_lẽ thích nhất bên quán này đồ tráng_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert12:3">
+				<text>Vừa đa_dạng mà_còn thay_đổi liên_tục .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert12:4" OutOfScope="TRUE">
+				<text>Chắc_chắn sẽ quay lại để thử tiếp những món bánh khác của quán .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert13">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert13:0"> <!-- sua -->
+				<text>Dù ko chuyên về trà sữa nhưng m thấy váng sữa ( foam milk ) ở đây ngon hơn nhìu quán trà sữa hiện_nay , không_gian rộng ngồi thoải_mái và vị_trí trung_tâm nên quán khách đông đều_đặn nhưng mùa_hè thì nóng đừng hỏi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert13:1">
+				<text>Thạch cũng ngon , đặc_biệt là trân_châu khoai_môn hay trân_châu tím gì đấy thơm thơm béo bùi mình ghiền lắm . luôn nhưng hơi mắc ha , thêm trân_châu tính tiền riêng mà có xíu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert13:2">
+				<text>Nói_chung quán okie</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert14">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert14:0">
+				<text>Đen đá dạo này đột_phá ghiaaa , ra lắm món mới thế 💖 💖 đổi hẳn cả cái ly tim đỏ xinh_xinh này luôn ☀ ️ ⚡ ️ ham_hố cứ ưng gọi những thứ lạ_lạ để thử thôi .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert14:1">
+				<text>Này là Trà sữa vớ Hongkong ft trân_châu trắng 🙆 🏼 💖 lượng trà hình_như hơi bị nhiều hơn so với lượng sữa , nên uống vô thấy đắng ngét hàaa 😫 😫 được_cái phần trân_châu trắng siu nhiều mà xém tí nvieen quên bỏ choa tuii 😭 😭 món này cũng đc đánh sao ở đen đá đó , mà seo hem ngon gì hết .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert14:2" OutOfScope="TRUE">
+				<text>Nghe tên tưởng oách mà ai_ngờ 😭 😭 thấy nhiều người uống trà xanh ghê , chắc là ngonn ớ haa 🤔 🤔 lần sauu sẽ thử .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert15">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert15:0" OutOfScope="TRUE">
+				<text>Ngày chủ_nhật thảnh_thơi nên ghé quán đen đá .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:1">
+				<text>Không_gian quán không rộng như lại thoáng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:2">
+				<text>Đến quán thì ko còn vị_trí ngồi ở tầng 1 đành lên tầng 2 và ngồi vị_trí khá là bí dọc hành_lang tầng 2 nhìn xuống cửa ra_vào .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:3" OutOfScope="TRUE">
+				<text>Mình gọi 2 phần Greentea_Madness và Coconut_Paradise .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:4">
+				<text>Nhận_xét trà xanh ko ngon bằng dừa , trình_bày rất đẹp .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:5">
+				<text>Giá ko quá cao , wifi thì quá tệ cần xem_lại .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:6">
+				<text>Tổng thiệt_hại là 96k cho 2 người thì giá đó hoàn_toàn hợp_lý .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert15:7" OutOfScope="TRUE">
+				<text>Sẽ quay lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert16">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert16:0" OutOfScope="TRUE">
+				<text>Có_lẽ mình là người hơi khó_tính .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:1">
+				<text>Nên khi mà coi review với tới quán thì mình hơi thất_vọng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:2" OutOfScope="TRUE">
+				<text>Thấy decor và không_gian không như mình nghĩ .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:3" OutOfScope="TRUE">
+				<text>Lần đầu đi gọi trà sen kem phô_mai .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:4">
+				<text>Trà thơm , kem phô_mai cũng ổn , gọi thêm topping bánh lọt mình thấy khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:5" OutOfScope="TRUE">
+				<text>Lần thứ_hai cũng đi với bạn , lần này gọi trà gì mình quên rồi , vì tên khá dài có cả trân_châu bánh lọt 33k , mà đem ra chỉ có bánh lọt , không có trân_châu .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:6" OutOfScope="TRUE">
+				<text>Bạn mình thì gọi món mới là Trà sữa kem cheese sốt dâu_tằm 41k chưa có topping .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:7">
+				<text>Mình có uống thử , vị thì phần sốt khá ngon , vị tổng_thể thì giống sữa dâu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:8">
+				<text>Nhân_viên quán nhiệt_tình , đi vô hay đi ra đều chào khách .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:9" OutOfScope="TRUE">
+				<text>Chỉ có góp_ý nhỏ là nếu gọi trà sữa mà thêm topping thì có_thể kèm theo cái thìa để múc topping .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert16:10">
+				<text>Thêm một cái nữa_là đề_nghị quán sửa wifi , đi 2 lần mà k bắt đc wifi vì bị lụi 😂 😂</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert17">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert17:0" OutOfScope="TRUE"> <!--sua-->
+				<text>Quán này mình thấy review nhiều rồi , cũng định đi lâu lắm rồi vì thấy khá là ấn_tượng ( Marketing tốt ) tối hôm_qua quyết_định đi cùng 5 bạn nữa .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:1">
+				<text>Đi vội chả mang máy theo nên không có ảnh ọt gì nhiều cả , nhưng_mà cảm_nhận thật lòng luôn về vị_trí quán khá tốt , không có view ra sông hàn nhưng tuyến đường dễ đi , quán dễ tìm , có không_gian để xe nhưng_mà không biết trời mưa thì_có tấm chắn mưa hay không thôi .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:2">
+				<text>Phục_vụ trên cả tuyệt_vời , từ anh giữ xe đến anh quản_lý , thái_độ niềm_nở , chu_đáo tận_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:3" OutOfScope="TRUE"> <!-- sua -->
+				<text>Chào_mời khách từ lúc khác đi đến lúc khách về .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:4" OutOfScope="TRUE">
+				<text>Khi chọn món cũng được tư_vấn , giải_thích rõ_ràng .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:5" OutOfScope="TRUE">
+				<text>Không_gian ở đây kiểu thời bao_cấp pha chút hiện_đại hơn nên hợp với những bạn thích sống ảo , những nhóm bạn gặp_gỡ nói_chuyện hay những couple .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:6" OutOfScope="TRUE">
+				<text>Quán đông nên cũng ít mở nhạc , nên cũng hợp với những bạn mang sách_vở lên quán học bài , hay mấy bạn lên ngồi tâm_sự vu_vơ , cơ_mà một_khi mở toàn nhạc hay .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:7">
+				<text>Duyệt_Chất lượng đồ luôn đi với giá_cả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:8">
+				<text>Ban_đầu mình thấy giá đồ uống hơn cao một_tí , nhưng khi dùng đồ thì không cao tí nào .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:9">
+				<text>Mình gọi trà xanh váng sữa , Trà xanh vị hơi chát nhưng bù lại có váng sữa vị ngọt vừa hòa_quyện vô nên cực_kì vừa_miệng , Bạn mình gọi gì không nhớ nhưng cũng khen tới_tấp .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:10">
+				<text>Sau đó 5 đứa gọi bánh Toast cheese gì đó không nhớ tên lắm : p chị order bảo chờ 20-25 phúc nhưng_mà cũng nhanh , bê ra thơm_phức mùi bơ bánh giòn , kem ngon , dâu tươi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:11">
+				<text>cả 5 đứa vừa ăn vừa khen , bảo lần sau tới ăn tiếp = ) ) ) Nhà_vệ_sinh chắc cũng đánh_giá luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert17:12">
+				<text>Một lần đi hàng_quán phải e_ngại vấn_đề nay nhưng_mà với Đen đá thì sạch_sẽ không tì_vết ( không đến nổi đó , nhưng_mà chung_quy_lại vẫn là sạch_sẽ , không có cảm_giác dợn dợn khi vào = ) ) ) Trên là review của mình về quán tối 16-12</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert18">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert18:0" OutOfScope="TRUE">
+				<text>Ở Đen_Đá trang_trí theo phong_cách cảnh cũ người_xưa , khoảng vài thập_niên trước .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:1">
+				<text>Với không_gian 2 tầng khá rộng , thoáng đảng , có cả cái cây cao , to_đùng đứng giữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:2" OutOfScope="TRUE">
+				<text>Tường là gạch xếp .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:3" OutOfScope="TRUE">
+				<text>F2 có cái giá sách khổng_lồ , nếu biết lấy góc chụp thì như đang ngồi trong thư_viện cổ .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:4" OutOfScope="TRUE"> <!--sua-->
+				<text>Và , cả câu slogan chất_ngất .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:5" OutOfScope="TRUE">
+				<text>Tóm_lại , Đen_Đá thích_hợp cho mấy chế thích mặc áo_dài sống ảo kiểu cô - gái-đến-từ-hôm-qua = ) ) ) Chưa thử cf ở Đ . Đ bao_giờ , chỉ mới order trà sen và matcha kem cheese .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:6">
+				<text>Trà sen khá thơm , đáng thử .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:7">
+				<text>Matcha bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:8">
+				<text>Mình thích lớp kem ở đây , vị mặn mặn béo_béo , rất ngon , nhưng khá mỏng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:9">
+				<text>Điểm trừ là cho đá quá nhiều nên nhanh nhạt , ngồi vớt đá đến khổ 😂 2 ly hình dưới , mỗi ly 38k thì_phải .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert18:10">
+				<text>Giá hơi chát so với chất_lượng .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert19">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert19:0" OutOfScope="TRUE">
+				<text>Lâu rồi mới ghé lại đen đá .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:1">
+				<text>Vì có thêm menu dessert mới nên quán vẫn rất đông và tình_trạng xếp_hàng để order vẫn diễn ra .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:2" OutOfScope="TRUE">
+				<text>Mình gọi flan pudding và toast flan .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:3">
+				<text>Đồ dessert ở đây quả_là ngon ý .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:4">
+				<text>Ngọt vừa đủ , ko ngán , trình_bày đẹp và giá_cả hợp_lý lại thường_xuyên cập_nhật nhiều món mới .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:5">
+				<text>Tuy_nhiên điểm trừ là ko gian quán trông thì rộng nhưng diện_tích ngồi và sử_dụng được ko bao_nhiêu .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:6">
+				<text>Nên có tình_trạng quán luôn đông và ko có bàn để phục_vụ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:7" OutOfScope="TRUE"> <!--sua-->
+				<text>Nên nhiều lúc muốn đến cũng rất ngại .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:8">
+				<text>Thứ 2 là quán ko có máy_lạnh , nên ngày nóng rất hực .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:9">
+				<text>Nhân_viên là điểm cộng ở đây .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert19:10" OutOfScope="TRUE">
+				<text>Vào chào ra chào , suốt ngày lượn zòng zòng để châm nước cho khách .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert20">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert20:0" OutOfScope="TRUE">
+				<text>Lần thứ 3 mình đến đây .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:1" OutOfScope="TRUE">
+				<text>Lần trước mình có đến uống và rất ấn_tượng với món trà hoa_hồng kem sữa và trân_châu trắng .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:2" OutOfScope="TRUE">
+				<text>Nên lần này vẫn gọi món đó y xì luôn .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:3">
+				<text>Vì đi buổi_sáng chưa ăn sáng nên gọi thêm cái bánh toast ăn cho vui Nv bạn đứng thu_ngân thì hơi khó_chịu lúc mình order toast vì mình chọn hơi lâu : ) ) mà mấy bạn kia thì thân_thiện Lần này chỉ review về toast thôi .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:4" OutOfScope="TRUE">
+				<text>Mình chọn loại phô_mai trứng muối toast gì đó .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:5">
+				<text>55k mà nuốt ko nổi vì quá khô .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:6">
+				<text>Vị cũng ko có gì đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert20:7" OutOfScope="TRUE">
+				<text>Lần sau sẽ chọn toast khác thử</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert21">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert21:0" OutOfScope="TRUE">
+				<text>Được đồng_nghiệp công_ty đãi một chầu đen đá đầu tuần .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:1" OutOfScope="TRUE">
+				<text>Cảm_giác thật thản bạch !</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:2">
+				<text>Thương_hiệu Đen_Đá có_tiếng rồi nhưng giờ mới có dịp thử .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:3">
+				<text>Phải nói cafe rất ngon , thơm đựng trong cái bình cũng hết xảy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:4" OutOfScope="TRUE">
+				<text>Nghỉ trưa vào nốc hết một ly là tỉnh như sáo tới tối luôn .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:5" OutOfScope="TRUE"> <!-- sua -->
+				<text>Trong menu thấy dòng trà ván sữa cũng lạ , ít bữa order về uống cho_biết .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert21:6" OutOfScope="TRUE">
+				<text>Đen_Đá_Coffee Dessert giảm_giá 10% suốt tuần , đặc_biệt 30% vào thứ Ba trên DeliveryNow nên cứ rài rài mần hết mấy món ở đây thôi . ^ ^</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert22">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert22:0" OutOfScope="TRUE">
+				<text>Được ngày đen đá phủ_sóng deliverynow .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert22:1" OutOfScope="TRUE">
+				<text>Lên chẳng ngại_ngần mà oder em ấy về uống .</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert22:2">
+				<text>Thương_hiệu Đen_Đá có_tiếng rồi nhưng giờ mới có dịp thử .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert22:3">
+				<text>Cực thích ly ở đây luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert22:4">
+				<text>Decor mấy dòng chữ quá chất .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert22:5">
+				<text>Hương_vị chuẩn đen đá</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="DenDaCoffeeDessert23">
+		<sentences>
+			<sentence id="DenDaCoffeeDessert23:0">
+				<text>Đen đá ... chất từ đồ uống đến không_gian và nhân_viên .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert23:1" OutOfScope="TRUE">
+				<text>Lâu không ghé quán ấy ... thấy quán giảm_giá trên deliverynow nên mình oder về đây ...</text>
+			</sentence>
+			<sentence id="DenDaCoffeeDessert23:2">
+				<text>Vẫn thơm ngon , cưng cái ly hết xức . .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+	

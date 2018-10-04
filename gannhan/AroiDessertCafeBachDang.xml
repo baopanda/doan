@@ -1,0 +1,607 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="AroiDessertCafeBachDang1">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang1:0">
+				<text>Đồ_ăn thức uống đều ngon , nhân_viên dzẽ thương phục_vụ tốt</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang2">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang2:0">
+				<text>Cà_phê cốt dừa ngon ☁ </text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang3">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang3:0" OutOfScope="TRUE">
+				<text>Quán này lúc trước trong list những quán quen của tụi mình í , đợt vừa_rồi quán tạm nghỉ nên giờ mới ghé lại được .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang3:1">
+				<text>Không_gian hai tầng trên decor bàn_ghế nhìn cũng bắt_mắt hơn , tuy_nhiên mình thấy hơi chật_chội một_chút .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang3:2">
+				<text>Điểm mình thấy thất_vọng nhất_là nhân_viên và cách phục_vụ đợt này , không biết quán có thay_đổi nhân_viên nhiều không nhưng fail lắm luôn í .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang3:3">
+				<text>Phục_vụ cực_kì chậm , từ việc lấy order , đến làm nước , mang ra , mỗi ly nước mình phải chờ từ 30 - 45 ’ mặc_dù mình thấy nhân_viên khá đông , quán lại không đông lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang3:4">
+				<text>Ly cafe dừa của mình khá ổn , còn việt quất của bạn mình thì hơi ngọt ngấy chút .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang4">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang4:0">
+				<text>Gặp_mặt bạn_bè lâu năm ở đây , ko gian quán sau khi sửa_chữa rộng hơn , thích ngồi tầng 2 hơn tầng 1 nhưng nhà_vệ_sinh hơi có mùi , nước uống làm lâu , nhân_viên nhiệt_tình , giá_cả ok , quán nằm ở vị_trí trung_tâm thành_phố , đồ uống tạm đc</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang5">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang5:0" OutOfScope="TRUE">
+				<text>Hơi bị thất_vọng .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:1" OutOfScope="TRUE">
+				<text>Nói_chung sẽ không quay lại đâu nhưng mình comment ở đây , hi_vọng quán sẽ khắc_phục được .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:2">
+				<text>Đồ uống / ăn : Cafe cốt dừa khá được , bánh gấu ăn cũng ok chứ ko phải xuất_sắc lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:3">
+				<text>Chỗ ngồi : Quán có 3 tầng , nhưng bàn_ghế kê khá chật nên cảm_thấy ko thoải_mái lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:4">
+				<text>Ngoài ban_công nhìn ra sông Hàn cũng khá thú_vị , nhưng không giành cho mấy ngày lạnh trời vì khá gió .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:5">
+				<text>Phục_vụ : Hic , có_lẽ là dở nhất trong số các quán bọn mình từng đi .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:6">
+				<text>Không biết vì_sao bọn mình gọi 2 đồ uống với 1 bánh mà phải đến nửa tiếng món đồ uống của bạn mình mới ra , rồi 20 ' sau đồ mình mới ra .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:7" OutOfScope="TRUE">
+				<text>Bạn mình nói đùa bảo chắc phải nửa tiếng sau mới có bánh , mà quả đúng thế thật .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:8" OutOfScope="TRUE">
+				<text>Mình lại tưởng bánh gấu phải làm j đó để chuẩn_bị mới lâu vậy .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:9" OutOfScope="TRUE">
+				<text>Xuống tính tiền thì thấy bánh xếp đầy tủ .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:10">
+				<text>Quán thì staffs rất đông mà ko biết sao lại phục_vụ chậm tới vậy .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang5:11">
+				<text>Vị_trí : Khá dễ tìm vì ngay bờ sông .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang6">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang6:0">
+				<text>Theo cảm_nhận thì trà đào ngon , đào cũng nhiều , bánh gấu được mọi người khen lắm nên cũng kì_vọng nhiều , nhưng không được như mong_đợi .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang6:1">
+				<text>Nhân_viên thì vui_vẻ đó , nhưng 2 đứa vào bàn ngồi lâu ơi_là lâu không ai_lại ghi order , gọi 3 lần mới được , gọi xog cũng phải chờ rất lâu , bàn đến sau lại có trước .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang6:2" OutOfScope="TRUE">
+				<text>Nên xem_lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang7">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang7:0" OutOfScope="TRUE">
+				<text>Tuy_Aroi cũng có trà đào cam sả hay cf cốt dừa , nhưng k hiểu sao vẫn thích những loại nc cũ từ trc hơn .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang7:1" OutOfScope="TRUE">
+				<text>Trà đào nên uống loại 25k đậm vị trà thơm mùi đào hơn .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang7:2" >
+				<text>Cf cốt dừa làm như đc ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang7:3">
+				<text>Có_lẽ tuỳ nv pha_chế , vì có hôm uống ngon , hôm uống tệ 😢 Mình thích ngồi vỉa_hè or tầng 2 hơn , tầng 3 nhìn nó cứ bùn bùn chán chán thế_nào í .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang7:4" OutOfScope="TRUE">
+				<text>Nhưng hôm đó đi nhìu ng , t2 còn lác_đác vài bàn 2-3ng , t1 lại chưa đc mở vỉa_hè nên xách đồ lên t 3 🤣</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang8">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang8:0" OutOfScope="TRUE">
+				<text>Mình thử sô cô la bạc_hà và ly nước tiramisu còn desert là 1 em bánh gấu nhỏ .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang8:1">
+				<text>Theo mình cảm_nhận thì : nước uống ở mức khá , bánh gấu thì mình kỳ_vọng hơi nhìu nhưng bánh k có ngon lắm , phần kem khá ok còn đế bánh xốp làm cho bánh mất chất_lượng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang8:2" >
+				<text>Không_gian đẹp , ví trí thuận_lợi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang9">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang9:0">
+				<text>Không_gian mới sửa xinh nè , nhưng trước mình thích trà đào ở đây lắm , sao nay quay lại trà đào không còn đậm_đà như trước nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang10">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang10:0">
+				<text>Aroi ngày_càng tệ , hôm_qua mình đi 2 người ngồi trên tầng 3 , đợi 30 ’ không thấy ai lên oder mặc_dù quán lúc đó cũng khá vắng , mình đi xuống và chọn bàn tầng 2 cũng k có ai đến oder , đợi lâu rồi gọi mới có người đến , chưa hết , kêu 2 ly nước rồi cũng phải đợi tiếp , ly thứ nhất đợi 45 ’ , ly thứ 2 cũng xấp_xỉ như_vậy , lúc bưng ra uống thì hỡi_ôi ... ly nước dở nhất mình từng uống luôn mọi người ạ , mình uống ở đây cả chuc lan roi , bạn_bè thích view ở đây , chủ_yếu tụi nó ngồi nói_chuyện rồi tụ_tập là chính chứ đứa nào về cũng còn cả ly nước , bình_thường mình oder thì thấy nước cũng ok , k đặc_sắc mà_lại quá_sức ngọt , hôm_qua thì dở quá_sức tưởng_tượng , vừa ngọt vừa dở , k biết miêu_tả như thể_nào cho đúng , aroi là nơi yêu_thích của nhiều bạn trẻ , thiết_nghĩ nên sắp_xếp lại hệ_thống nhân_viên và bố_trí lại cho phù_hợp , nước uống thì ngoài trà đào và bánh gấu thi loại nào cũng khá tệ , chất_lượng pha_chế ngon hơn thì mới lâu_dài được , thấy cũng nhiều người bạn mình phản_ánh mà k có tài_khoản foody nên lười review , và còn nhiều ngươi nữa , mong quán khắc_phục .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang11">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang11:0">
+				<text>Mọi lần rất thích tới quán này vì không_gian khá thoải_mái dù là đi ban_ngày hay ban tối ... .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:1">
+				<text>nhưng bh thì không thích đến quán này lần nữa vì thái_độ nhân_viên phục_vụ quá tệ ...</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:2" OutOfScope="TRUE">
+				<text>hôm bữa có rủ bạn đến đây ... . </text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:3" OutOfScope="TRUE">
+				<text>đi bốn người có order 4 ly nước nhưng tới khi mang ra thì mang có 3 ly có hỏi thì nhân_viên nói là xem_lại ... . </text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:4" OutOfScope="TRUE">
+				<text>nhưng chờ mãi 30p hỏi lại thì nói là quên chưa làm ... . </text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:5">
+				<text>rõ bực ... cộng thêm nhân_viên order thì chả mang giấy viết gì cả ... thấy thắc_mắc có hỏi thì nói là nhớ được ... . </text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang11:6">
+				<text>vâng nhớ được ... thề là lần sau kbh ghé lại : )</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang12">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang12:0">
+				<text>Decord moi của aroi rất xinh nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang12:1">
+				<text>Mình gọi một phần nước vs một phầm bánh bông lan trứng muối , ngồi cùng tụi bạn tám chuyện tới tối muộn luôn , rất là thoải_mái .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang12:2">
+				<text>Không_gian phù hop cho giới trẻ tụi mình trò_chuyện nè .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang12:3">
+				<text>Lần sau ko biết phải đi quán nào thì mình sẽ quay lại ảoi , vừa có bánh vừa có nước uống , rất phù_hợp giá lại phải_chăng</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review> 
+	<Review rid="AroiDessertCafeBachDang13">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang13:0" OutOfScope="TRUE">
+				<text>Quán ni mới sửa_sang lại với cả chỉnh lại menu luôn .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang13:1">
+				<text>Không_gian khá đẹp , sống ảo thôi roài .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang13:2">
+				<text>Có thêm nhiều loại nước ngon và hấp_dẫn hơn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang13:3">
+				<text>Giá_cả cũng tăng chút_xíu so với trước , tuy_vậy đồ uống cũng k giảm chất_lượng , ngồi đây cũng thoải_mái , view đẹp , cũng có thời_gian yên_tĩnh và nhân_viên cũng khá thân_thiện vsf nhiệt_tình lắm nha .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang13:4">
+				<text>Nằm trên đường Bạch_Đằng cũng rất thuận_lợi nên khách lúc_nào cũng ổn_định hết hà .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang14">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang14:0" OutOfScope="TRUE">
+				<text>Quán mới sửa lại ko gian và update menu .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:1">
+				<text>Tới quán vào mồng 5 Tết mà ko bị phụ_thu phí dịch_vụ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:2">
+				<text>Đây là điều làm mình hài_lòng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:3">
+				<text>Tuy_nhiên mấy loại đồ uống mới quán pha_chế tệ quá .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:4">
+				<text>Mọi lần hay gọi trà đào nhưng lần này thử món mới thì thất_bại lun ... </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:5">
+				<text>Ko gian quán mới làm lại đẹp , thích nhất aroi là view sông Hàn thơ_mộng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:6">
+				<text>Tối ngồi tám chuyện , hóng mát rất tuyệt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:7">
+				<text>Riêng cái khoản pha_chế thì hơi tệ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:8">
+				<text>Phục_vụ nhanh_nhẹn , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:9">
+				<text>Giá vừa_phải .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang14:10">
+				<text>Đi buổi tối quán hơi đông .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang15">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang15:0">
+				<text>Đây là lần quay lại sau khi aroi nghỉ_dưỡng dài ngày nâng_cấp lên nhìn sang_trọng và đẹp hơn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang15:1" OutOfScope="TRUE">
+				<text>Các loại bánh nước cũng vẫn như xưa .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang15:2" OutOfScope="TRUE">
+				<text>Có thêm vài món mới như trà đen - trà xanh kem cheese nè .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang15:3">
+				<text>Tuy_nhiên mình thấy k ngon 😌 lần sau đến cứ gọi trà đào như cũ cho lành</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang16">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang16:0">
+				<text>Quá tệ : ) ) )</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang17">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang17:0">
+				<text>Khách đông nên phục_vụ có chút chậm_trễ .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang17:1">
+				<text>Đồ uống cực ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang17:2">
+				<text>Bánh gấu cũng okieee luôn nha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang17:3">
+				<text>Nhân_viên phục_vụ do khách đông quá nên các bạn cũng có chút lơ_là khách .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang17:4">
+				<text>Không_gian mới khá xinh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang18">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang18:0">
+				<text>Tết ngồi uống trà ăn bánh ngắm đường_phố thật thích .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang18:1">
+				<text>Có đợt đóng_cửa để sửa_chữa làm mình tưởng chuyển chỗ rồi cơ , tết mở lại nhìn không_gian đẹp hơn , nước uống vẫn okie như trước .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang18:2">
+				<text>Like ^ ^</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang19">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang19:0">
+				<text>29 tết qua đến aroi xem quán mới như_thế_nào , làm lại mình thấy rất đẹp , nhưng tiếc ko thể ngồi ở trong đc vì đông khách quá , đến với bạn tính gọi cafe cốt dừa mà_sao menu đợt này ko có nữa , thật_sự cafe cốt dừa ở đây rất thích , mà thay_đổi menu ko thấy nữa 😂 😂 nên gọi trà đào cam sả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang19:1">
+				<text>Trà cam sả ở đây là rất ok , uống nhiều quán rồi nhưng ở aroi vẫn là tuyệt nhất</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang20">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang20:0">
+				<text>Mỗi lần ghé quán vẫn thích bánh gấu và trà đào 😋 😋 😋</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang21">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang21:0">
+				<text>Quán đặc_trưng có món bánh gấu rất ngon và béo ngậy ... rất phù_hợp khi đi uống với bạn_bè và tán ngẫu ăn 1 chút_ít cho vui_miệng</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang22">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang22:0">
+				<text>Thích không_gian ở đây , vừa có ngoài_trời , vừa có trong nhà , không_gian thoáng và nói_chuyện khá thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang22:1">
+				<text>Ngoài_ra còn thích các loại bánh ngọt nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang22:2">
+				<text>Bánh mềm , mịn và không ngọt lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang22:3">
+				<text>Về nước uống thì chưa được ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang23">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang23:0">
+				<text>Mình mới đến đây lần đầu , tuy hôm đó quán khá đông nhưng nhân_viên vẫn niềm_nở và nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang23:1">
+				<text>Bánh gấu theo mình thì khá ngon nhưng ngọt quá .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang23:2">
+				<text>Nước uống chất_lượng , view đẹp , giá không quá mắc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang23:3">
+				<text>Mình thích cách trang_trí của quán , có mấy lọ cây nhỏ trên bàn rất dễ_thương nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang24">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang24:0">
+				<text>Quán có 3 tầng khá rộng_rãi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:1" OutOfScope="TRUE">
+				<text>Ở dưới tầng 1 có chỗ ngồi ngoài đường nữa .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:2">
+				<text>Tầng 2 decor rất đẹp_mắt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:3">
+				<text>Mình thích nhất_là ngồi ở tầng 3 , nhìn ra sông hàn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:4">
+				<text>View đẹp mà thoáng mát cực_kì .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:5" OutOfScope="TRUE">
+				<text>Gọi combo nổi nhất ở quán là trà đào và bánh gấu .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:6">
+				<text>Trà đào ngon , 25k 1 ly .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:7">
+				<text>Bánh gấu nhỏ 35k 1 cái , vị socola thơm với ngon lắm , 2 người ăn 1 cái như_vậy là được , không bị ớn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:8">
+				<text>Trên đường Bạch_Đằng má giá_như vậy_là ok .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang24:9" OutOfScope="TRUE">
+				<text>Sẽ quay lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang25">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang25:0">
+				<text>Ở đây thì khá nổi_tiếng rồi nên mình chỉ ghi một_chút thôi về những gì mình đến đây và thưởng_thức , mình lên trên lầu ngồi rất mát nhìn người qua_lại cũng vui vì tuyến đường bạch đằng khá đông , nói_chung đồ_ăn thức uống ở đây giá phải_chăng nhưng rất chất_lượng , bánh ở đây mềm và thơm , nước uống cũng vậy , trái_cây nhăm nhi thì tươi , ổn_định cho một buổi tối nhẹ_nhàng</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang26">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang26:0">
+				<text>Nước uống không ngon , ngọt quá Kem dừa thì khá ngon , nên mình ăn tận 2 phần Nhân_viên nhiệt_tình , nhanh_nhẹn .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+				
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang26:1">
+				<text>Không_gian trên lầu có bật máy_lạnh nhưng chỉ mát nhẹ , không lạnh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang26:2" OutOfScope="TRUE">
+				<text>Nếu đông người thì không dễ_chịu lắm</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang27">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang27:0">
+				<text>Vô_tình cùng vài người bạn đến vào tuần trước , nhận_xét về quán quá dỡ , dỡ từ thức uống đến thức_ăn đến bàn_ghế toilet Phục_vụ thì khỏi phải bàn chắc là quán này quản_lý củng chưa được học về cách phục_vụ khác</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang28">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang28:0" OutOfScope="TRUE">
+				<text>Buổi tối tụ_tập ae lại đây là đúng bài luôn .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang28:1">
+				<text>Nước uống khá ngon , ngồi ngoài vỉa_hè gió mát mà xe_cộ qua_lại nhìn cũng vui</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang29">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang28:0">
+				<text>Không_gian nhìn ra sông hàn đẹp tối quán khá đông đồ uống ngon bánh gấu ngon nhân_viên nhiệt_tình</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang30">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang30:0">
+				<text>Không_gian nhìn ra sông hàn đẹp : ) gió mát_lạnh 😘 😘 😘 😘 Tối thì khá đông nên đến sớm để có chỗ ưng_ý .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang30:1">
+				<text>Nhân_viên cũng nhiệt_tình , nhanh_nhẹn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang30:2">
+				<text>Bánh gấu ngon , nhưng hơi ngọt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang30:3" OutOfScope="TRUE">
+				<text>Trà đào cũng_như các quán khác nhưng được_cái đào to 😂 😂 😂 😂</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang31">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang31:0" OutOfScope="TRUE">
+				<text>Ghé quán tầm 8h hơn nên cũng khá đông , tụi mình thích ngồi ngoài_lề đường này hơn là vào trong hay lên tầng , ngồi tám chuyện và hóng mát khá thoải_mái .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang31:1">
+				<text>Cả mấy đứa đến đều gọi trà đào cả , thật_ra cũng có thử qua mấy món khác ở đây rồi nhưng thật_sự nước hơi chán , nên giờ vào cứ gọi trà đào luôn cho lẹ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang31:2">
+				<text>Mấy bạn nhân_viên ở đây dễ_thương và cũng nhiệt_tình lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang32">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang32:0" OutOfScope="TRUE">
+				<text>Mình đi nhóm 6 người ngồi ở tầng 3 .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang32:1">
+				<text>Lúc đầu mình đến trước nên gọi ba ly này , rất nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang32:2">
+				<text>Trà đào cam sả nhạt , không ngon , vị xả quá nhiều , khó uống Ovaltine vocano ngon , uống lớp ở trên với bột là ngon nhất , còn đoạn dưới thì nhạt rồi nên cũng bớt vị ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang32:3">
+				<text>Ở đây wifi yếu quá bắt chả được</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AroiDessertCafeBachDang33">
+		<sentences>
+			<sentence id="AroiDessertCafeBachDang33:0">
+				<text>Aroi ngồi thì khoái rồi , thích cái kiểu ngồi lề_đường cho sát với thiên_hạ : ) ) ) .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang33:1" OutOfScope="TRUE">
+				<text>Ai thích lên cao thì tầng 2 tầng 3 view ra sông Hàn cho đã mắt .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang33:2" OutOfScope="TRUE">
+				<text>Bánh gấu với trà đào như kiểu đặc_trưng hẳn của quán , lần nào tới cũng làm combo này .</text>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang33:3">
+				<text>Trà ngon , đào giòn , bánh gấu ok béo_béo ngậy ngậy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang33:4">
+				<text>Giá tuy hơi nhỉnh nhẹ nhưng cũng chấp_nhận đc , đường du_lịch mà_lại .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="AroiDessertCafeBachDang33:5" OutOfScope="TRUE">
+				<text>Lần sau sẽ quay lại . . . . . . .</text>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

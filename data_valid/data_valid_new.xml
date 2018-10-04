@@ -1,0 +1,1071 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="OromiaCoffeeHCM1">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM1:0" >
+				<text> Quán nằm trong hẻm , bé_bé xinh_xinh , có view siêu đẹp . </text>				
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#LOCATION"/>				
+			</sentence>
+			<sentence id="OromiaCoffeeHCM1:1" >
+				<text> Matcha latte trong ảnh mình uống không ngon lắm , bạn mình uống espresso lại khen ngon . </text>				
+				<Opinion category="REST#QUALITY"/>				
+			</sentence>
+			<sentence id="OromiaCoffeeHCM1:2" >
+				<text> Nhân_viên phục_vụ ổn , chu_đáo .. </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+		</sentences>
+	</Review>		
+	<Review rid="OromiaCoffeeHCM2">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM2:0" OutOfScope="TRUE">
+				<text> Oromia mình từng thấy trong list must go của 1 insta chuyên về cafe . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:1" OutOfScope="TRUE">
+				<text> Thật_ra khi vào sài gòn list cà_phê mình muốn đi có nhiều lắm , hôm bữa đúng sinh_nhật mình mà Oromia có special offer cho người sinh_nhật bữa đó . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:2" >
+				<text>Quán ở cuối ngõ mà đường vào hơi tối , lại còn có hotel nhà_nghỉ nên rén lắm = ) ) vào tới quán thì đông , ai gửi xe thì được nguyên đánh_dấu vào tay , chị mình bảo giống lợn xuất chuồng = ) ) Oromia có khuôn_viên rộng , ngoài hồ cá ở ngoài thì còn có 1 góc vườn trước nhà_vệ_sinh , còn tầng 2 nữa . </text>				
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#LOCATION"/>				
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:3" OutOfScope="TRUE">
+				<text> Thấy bảo ở đây có mấy chú mèo cảnh đẹp lắm nhưng bữa mình ra không thấy . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:4" >
+				<text>Vào buổi tối có chương_trình đánh piano trên tầng 2 , tầng 1 do đông nên khá ổn . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:5" >
+				<text>Về đồ_ăn đồ uống mình thấy giá_cả ở đây khá đắt nhưng chất_lượng bình_thường , món matcha đào là dòng đồ uống mới , uống pha bình_thường sẽ ngon hơn đá xay . </text>	
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM2:6" >
+				<text> Mình quên tên bánh là gì rồi nhưng vẫn nhớ được sự khô_khốc bánh đem lại = ) ) </text>	
+				<Opinion category="REST#QUALITY"/>			
+			</sentence>
+		</sentences>
+	</Review>		
+	<Review rid="OromiaCoffeeHCM3">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM3:0" >
+				<text> Vị_trí ở trong ngõ nhưng khá dễ tìm . </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:1" >
+				<text> Vị_trí ở trong ngõ nhưng khá dễ tìm . </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:2" >
+				<text> Nước uống chán lật l k ra 1 cái vị gì bánh tạm dc . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:3" >
+				<text> Điều thiếu chuyên_nghiệp nữa_là cả quán k nổi 1 tờ giấy_ăn . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:4" >
+				<text> Quán chắc chỉ vớt_vát dc chút_ít nhờ kgian đẹp và rộng . Lối đi vào là bể cá với rất nhiều cá . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:6" >
+				<text> Tầng 1 có khoảng sân bên ngoài thoáng mát nhiều cây bên trong bt . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:7">
+				<text> Tầng 2 có sàn gạch lát_hoa và có ban_công chụp dc xuống khoảng sân tầng 1 . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM3:8" >
+				<text> Tóm_lại là quán đẹp nhưng quá thất_vọng về chất_lượng đồ uống lẫn dịch_vụ </text>
+				<Opinion category="REST#SERVICE"/>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM4">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM4:0" OutOfScope="TRUE">
+				<text> Gửi xe ở đầu hẻm xong đi bộ 1 đoạn vào . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:1" OutOfScope="TRUE">
+				<text> Chỉ cần đến quán là người_ta sẽ chỉ . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:2" >
+				<text> Quán trang_trí cây đào Tết có_vẻ ko ăn_nhập lắm . </text>
+				<Opinion category="REST#AMBIENCE"/>			
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:3" >
+				<text> Nhân_viên ko thân_thiện tí nào . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:4" OutOfScope="TRUE">
+				<text> Mình hỏi về chương_trình tặng kem cho người có sinh_nhật trong tháng mà hỏi 1 nhân_viên kêu ko biết để đi hỏi lại xong đi lun , hỏi 1 nhân_viên khác cũng vậy xong mãi sau đó mình kêu lần nữa mới trả_lời . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:5" >
+				<text> Mình uống Fruity_Soda_Pink_Guava - 65k ngon và dễ uống lại được mang bình về lun , bình tuy nhỏ nhưng là thuỷ_tinh rất đẹp . </text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#PRICES"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:6" >
+				<text> Bạn mình uống Cacao đá - 53k cũng ngon có hơi ngọt xíu . </text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:7" >
+				<text> Giá hơi cao </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:8" OutOfScope="TRUE">
+				<text> Mình muốn lên tầng trên chụp hình mà quán chỉ mở 6h tối . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:9" >
+				<text> Nhạc hay nhưng đèn_vàng gây buồn_ngủ quá , chụp hình cũng bị ám vàng nữa . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM4:9" OutOfScope="TRUE">
+				<text> Khi về mấy bạn nhớ đóng_dấu free giữ xe nha . </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM5">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM5:0" >
+				<text> Nói_chung quán Oromia có view rất là đẹp luôn , ở đây mình khá hài_lòng vì mình được chụp nhiều view đẹp inside - outside 💕 </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM5:1" >
+				<text> Nhân_viên thì cũng bình_thường không có gì nổi_bật lắm nhưng nói_chung phục_vụ okay </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM5:2" >
+				<text> Nước thì mắc hơn so với một_vài quán , nhưng view okay vậy_thì cũng đáng tiền . </text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM5:3" >
+				<text> Mình uống Soda thì thấy cũng ok nhưng không xuất_sắc lắm  </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM5:4" OutOfScope="TRUE">
+				<text> Nói_chung là có dịp vẫn sẽ ghé quán , nhưng mong quán mở luôn trên lầu cả tuần luôn để lên chơi với mấy em Mèo </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM6">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM6:0" OutOfScope="TRUE">
+				<text> Tới quán nhiều lắm rồi nhưng hôm_nay mới rảnh review cho quán , mình cũng tình_cờ biết qua facebook nên ghé thử thôi , sau đó rủ hội bạn này hội bạn khác tới đây , đa_số mọi người đều thích . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM6:1" >
+				<text> Vị_trí : trong hẻm nhưng rất dễ tìm , gửi xe và đi bộ 1 đoạn , vào uống cafe xong bạn nhớ đóng mộc quán ngay tại góc bạn ở cửa thì không phải mất phí gửi xe nhé . </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM6:2" >
+				<text> Không_gian : không rộng_rãi như nhiều quán sân vườn khác nhưng bày_biện rất thích , có phòng lạnh , có sân vườn , có hồ cá koi bơi tung_tăng ngắm rất là thích , không_gian trên lầu mình thấy không đẹp bằng ở dưới , nên mấy lần qua đây mình toàn ngồi trong nhà hoặc ngoài_trời ở dưới thôi , ban_ngày và buổi tối lúc_nào cũng đẹp , mỗi lúc có mỗi nét hay riêng . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM6:3" >
+				<text> Thức_ăn , thức uống : nước ngon , bánh ngon , đồ_ăn mặn cũng ngon . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM6:3" >
+				<text> Giá_cả : hơi cao 1 tí nhưng phù_hợp . </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM6:4" >
+				<text> Nhân_viên nhiệt_tình , vui_vẻ . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM7">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM7:0" OutOfScope="TRUE">
+				<text> Mình thấy rất nhiều quảng_cáo về Oromia_Coffee trên Facebook , nên là tuần rồi khi có khách_hàng hẹn làm_việc tại đường Nam_Kỳ_Khởi_Nghĩa mình đã hẹn ngay_lập_tức tại Oromia mà không hề suy_nghĩ . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:1">
+				<text> Thế_mà mình không ngờ ấn_tượng đầu_tiên của mình về Oromia lại tệ đến như_vậy , 3 người đi_về không một ai hài_lòng và đều mang bực_bội vào người . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:2" >
+				<text> Không_gian quán rất đẹp , không có gì để chê và mình đánh_giá hẳn 10đ về mục này . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:3" >
+				<text> Nhưng trái hẳn với nó là cung_cách phục_vụ của các bạn nhân_viên trong quán , và vì nó mình sẽ KHÔNG_BAO_GIỜ_QUAY_LẠI_QUÁN_NỮA . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:4" OutOfScope="TRUE">
+				<text> Mình vào 2 người trước bảo là sẽ có thêm một khách_hàng lại sau , nhưng mình là freelance mặc đồ cũng khá thoải_mái nên khi bước vào các bạn đã nhìn bằng nửa con mắt rồi . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:5" OutOfScope="TRUE">
+				<text> Sau đó phía dưới tầng chỉ còn 2 bàn , 1 bàn nhóm và 1 bàn ngay khu dãy bàn bên góc tay_trái phi vừa bước vào . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:6" OutOfScope="TRUE">
+				<text> Khu đó full 2 bên còn đúng 1 bàn ngay giữa chỉ đủ 2 người ngồi nên mình hỏi là mình có_thể ngồi khu bàn nhóm không , hoặc mình lên lầu . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:7" OutOfScope="TRUE">
+				<text> Bạn ấy bảo ngay là trên lầu chưa mở , ngồi bàn nhóm thì_có nhóm vào mình phải dọn bàn khác . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:8" >
+				<text> Mình đã không hài_lòng việc phục_vụ nói_chuyện rất trống_không với mình . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:9" OutOfScope="TRUE">
+				<text> Sau đó mình cũng ok ngồi bàn nhóm , gọi nước . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:10" OutOfScope="TRUE">
+				<text> Sau đó khách_hàng mình lại , kêu nước ép thơm , lúc bưng ra anh lỡ tay làm đổ nước đường , và nhờ bạn nhân_viên dọn dùm . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:11" OutOfScope="TRUE">
+				<text> Bạn ấy đem vài miếng khăn giấy ra quăng đó chứ chẳng dọn_dẹp gì . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:12" OutOfScope="TRUE">
+				<text> Ngồi mới được 30 ' thì_có 1 nhóm vào , bạn ấy lại chỗ mình bảo có nhóm vào rồi nhường bàn dùm nhưng cũng chẳng sắp_xếp cho bọn mình ngồi ở đâu . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:13" OutOfScope="TRUE">
+				<text> Đến mức này hết chịu nổi mình đứng_dậy tính tiền đi_về luôn . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:14" >
+				<text> Trải_nghiệm về dịch_vụ cho 1 hóa_đơn chỉ 3 ly nước hơn 200 nghìn như_thế là quá tệ . </text>
+				<Opinion category="REST#SERVICE"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:15" >
+				<text> Các bạn nên chú_ý cho nhân_viên đeo bảng tên vào để có gì khách góp_ý dễ_dàng hơn . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM7:16" OutOfScope="TRUE">
+				<text> Chứ giờ mình muốn góp_ý đúng bạn đó cũng khó vì mình chẳng biết tên và như_thế_này sẽ ảnh_hưởng đến rất nhiều người . </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM8">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM8:0" OutOfScope="TRUE">
+				<text> Biết tới quán cũng khá lâu nhưng mới ghé lần đầu . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:1" >
+				<text> Vị_trí : hẻm cũng dễ tìm , đầu hẻm là khu_phố văn_hóa , gần tới góc trần quốc thảo ngay loteria á . </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:2" OutOfScope="TRUE">
+				<text> Giữ xe ngay góc đầu hẻm rồi mới đi bộ vô trong nhan </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:3" >
+				<text> Không_gian : quán có 1 lầu có phòng lạnh với ngoài_trời , bước vô là thấy nguyên hồ cá Koi siêu thích . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:4" >
+				<text> Không_gian cũng khá đẹp và thoải_mái nhưng máy_lạnh trên lầu 1 phòng trong hơi nóng . </text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:5" >
+				<text> Hôm mình đi tối quán khá đông nên không chụp hình được nhiều . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:6" >
+				<text> Thức uống : blueberry smothie theo mình nó hơi bị lỏng á với không đậm mùi cho lắm nên uống cũng bình_thường chứ không có gì đặc_sắc . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:7" >
+				<text> Soda bạn mình nói uống cũng được , soda thì được tặng kèm bình luôn nha . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:8" >
+				<text> Giá_cả : khá cao đa_số trên 50k , menu có nước , bánh với thức_ăn mặn luôn cũng đa_dạng . </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:9" >
+				<text> Nhân_viên dễ_thương , khi về các bạn nhớ đóng_dấu để được giữ xe free nha . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM8:10" >
+				<text> Mọi thứ đều ok trừ ông giữ xe , khách vô giữ xe đưa lộn thẻ người này qua người khác mà k chịu giải_quyết cứ kêu vô đi được rồi , mặt thì như mình ăn hết tiền_của anh ý , thiết_nghĩ quán nên xem_lại . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM9">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM9:0" >
+				<text> Mình ghé quán vì Soda_Rinh_Luôn_Chai , khá hài_lòng vì nước okay về còn sử_dụng được chai nữa . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM9:1" >
+				<text> Không_gian rộng đẹp va nhất_là hồ cá KOI sống ảo . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM9:2" OutOfScope="TRUE">
+				<text> Chắc_chắn sẽ quay lại thử món khác . </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM10">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM10:0" OutOfScope="TRUE">
+				<text> Biết lâu rồi chỉ coi hình thì thích lắm , đi rồi mới biết chả có gì . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:1" >
+				<text> Nước khá mắc toàn trên 50k . </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:2" >
+				<text> Mà ngon không nói uống dở thì_thôi rồi . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:3" >
+				<text> Ở ngoài nhìn thì đẹp bước vào thì_thôi rồi rối nùi không_gian . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:4" >
+				<text> Tường dơ , để cây đào không biết tự bao_giờ . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:5" OutOfScope="TRUE">
+				<text> Đi gặp 1 đám chụp hình thay đồ tùm_lum . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:6" >
+				<text> Không_gian yên_tĩnh để làm_việc mà wifi vô siêu yếu . </text>
+				<Opinion category="REST#AMBIENCE"/>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:7" OutOfScope="TRUE">
+				<text> Giữ xe 5k . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM10:8" OutOfScope="TRUE">
+				<text> Không_bao_giờ trở_lại . </text>
+			</sentence>
+		</sentences>
+	</Review>
+	
+	<Review rid="OromiaCoffeeHCM11">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM11:0" OutOfScope="TRUE">
+				<text> Mình đi nhiều quán rồi mà đây là quán mình cảm_thấy là ngon nhất . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:1" >
+				<text> Bánh cheese cake blueberry ăn_không ngán và mùi blueberry rất vừa_phải . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:2" OutOfScope="TRUE">
+				<text> Mình cũng uống 1 loại nước tên " petit " thì_phải . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:3" >
+				<text> Mùi rất ngon và mình sẽ ko bao_giờ quên mùi_vị của nó . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:4" OutOfScope="TRUE">
+				<text> Mình cũng rất thích chơi với mấy con cá koi . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:5" OutOfScope="TRUE">
+				<text> Chúng_nó rát dễ xương . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:6" OutOfScope="TRUE">
+				<text> Mình cũng muốn được ở lên tầng trên của cafe 1 lần nhưng chưa có cơ_hội . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:7">
+				<text> Tầng trên mở_cửa lúc 6h tối nha . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM11:8">
+				<text> Tối cỡ 8h có live music </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM12">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM12:0" >
+				<text> Quán có không_gian rất đẹp , buổi tối trên lầu có biểu_diễn đàn piano nên hạn_chế nói lớn_tiếng . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM12:1" >
+				<text> Uống soda tại quán dc tặng cả chai rất dễ_thương , salad trứng với thịt xông khói ngon cực_kì nhưng giá hơi cao , tuy_vậy vẫn sẽ quay lại quán  </text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#STYLEOPTIONS"/>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM13">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM13:0" OutOfScope="TRUE">
+				<text> Lần thứ 2 này đến k có mèo , nghe_nói do các em đều có bầu va bệnh j đó nên bị cách_ly . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM13:1" >
+				<text> Nhưg mình va bạn đến đây vì mèo nên khi k có mèo thấy 1 ly cafe vầy thì mắc quá ( cafe sữa đá 53k ) và mỳ ý bò bằm 85k ( rẻ nhất menu rồi , còn lại toàn 100k trở_lên ) . </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM13:2" >
+				<text> Đc cái ngồi cả ngày dc phục_vụ nc trà đá refill ltục . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM13:3" >
+				<text> Toilet đầy_đủ giấy : ) </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM14">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM14:0" OutOfScope="TRUE">
+				<text> Vẫn là quán dành cho những_ai thích và cần sự yên_tĩnh . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:1" >
+				<text> Quán nằm trong hẽm nên hơi khó tìm nếu ai chưa quen đường . </text>
+				<Opinion category="REST#LOCATION"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:2" >
+				<text> Theo mình phong_cách trang_trí quán nhẹ_nhàng nhưng vẫn tạo được chất riêng . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:3" OutOfScope="TRUE">
+				<text> Ở tầng trệt không_gian bên trong đa_phần sử_dụng gam màu trắng thích_hợp cho dân văn_phòng tới làm_việc , gặp đối_tác , sinh_viên học bài , học nhóm , ... </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:4" OutOfScope="TRUE">
+				<text> Còn tầng trên những_ai thích tám chuyện nhưng lại muốn có một chỗ yên_tĩnh . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:5" OutOfScope="TRUE">
+				<text> Ở tầng trên phong_cách trang_trí có phần mạnh_mẽ hơn ... </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:6" OutOfScope="TRUE">
+				<text> Phía ngoài khi bước vô quán là một không giang xanh_mát phía dưới chân là hồ nguyên cá koi . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM14:7" OutOfScope="TRUE">
+				<text> Đem lại cảm_giác gần_gũi với thiên_nhiên ... </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM15">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM15:0" >
+				<text> Quán không_gian khá đẹp , phù_hợp cuối tuần ngồi thư_giãn . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM15:1" >
+				<text> Quán khá phong_phú về thức_ăn và đồ uống . </text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM15:2" >
+				<text> Nhân_viên cũng vui_vẻ nhiệt_tình </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM16">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM16:0" OutOfScope="TRUE">
+				<text> 29.05.2017 </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:1" >
+				<text> Bọn mình đến tầm 6h30 , lúc ấy quán khá vắng , nhưng lúc sau thì đông ơi_là đông và ồn ơi_là ồn  </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:2" OutOfScope="TRUE">
+				<text> Bọn mình gọi ice blended green tea với chocolate . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:3" >
+				<text> Về phần chất_lượng thì mình chỉ thích mỗi lớp kem béo ngậy thôi , còn phần còn lại thì hơi ngọt , nói_chung không gây ấn_tượng gì cả  </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:4" >
+				<text> Giá_cả cao nha , theo mình thì với chất_lượng như_vậy thì không phù_hợp lắm , nhưng view có_thể bù lại .   </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:5" >
+				<text> View thì cực đẹp , trang_trí xinh , hồ cá , đàn piano , ... là một nơi đáng ghé của bạn nào thích sống ảo tí ạ   </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:6" >
+				<text> Nhân_viên trong quán rất dễ_thương và tận_tình đấy ạ , chỉ có anh giữ xe thì hơi ' không cảm_xúc ' một_ít 😉   </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:7" OutOfScope="TRUE">
+				<text> Hơi bất_tiện vì nếu lần đầu đến sẽ không biết gửi xe ở đầu hẻm vừa quẹo vào xíu ở bên phải rồi mới đi bộ vào quán .   </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM16:8" OutOfScope="TRUE">
+				<text> Bọn mình gọi ice blended green tea với chocolate . </text>
+			</sentence>
+		</sentences>
+	</Review>
+	
+	<Review rid="OromiaCoffeeHCM17">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM17:0" >
+				<text> Giữ xe thái_độ thờ_ơ . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:1" >
+				<text> View quán cực đẹp , có cả cá nữa rất cưng nha . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:2" >
+				<text> Nhân_viên max dễ_thương , hết trà là rót ngay , còn hỏi_han nữa nha . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:3" >
+				<text> Quầy pha_chế đẹp . </text>
+				<Opinion category="REST#GENERAL"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:4" >
+				<text> Có_điều nước uống không ngon so với mình . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:5" >
+				<text> Mình kêu soda thì mới có chai mang về nhưng dở hic . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:6" >
+				<text> Soda không có vị và nhạt toẹt . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM17:7" >
+				<text> Được_cái bình cute cực nha : ) . </text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM18">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM18:0" >
+				<text> Mình đang ngồi cafe ở đây , mới đến lần đầu nhưng ấn_tượng về nhân_viên phục_vụ không tốt , thấy hơi thất_vọng vì thái_độ nhân_viên khó_chịu , mặt_mày lạnh băng . Quán đẹp , nước uống cũng tạm thôi , mình đi cho_biết chứ không có ý_định quay lại . SG không thiếu quán cafe đẹp , phong_cách tốt hơn ở đây nhiều . </text>
+				<Opinion category="REST#QUALITY"/>
+				<Opinion category="REST#SERVICE"/>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+		</sentences>
+	</Review>
+	
+	<Review rid="OromiaCoffeeHCM19">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM19:0" OutOfScope="TRUE">
+				<text> Cũng trễ rồi muốn kiếm chỗ nào đi cà_phê cho gần nhà nên Oromia là sự lựa_chọn thích_hợp nhất . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM19:1" OutOfScope="TRUE">
+				<text> Gửi xe free nhớ đóng mộc nên mới vừa vào quán mình đóng luôn sợ lúc về lại quên . </text>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM19:2" >
+				<text> Quán lúc_nào cũng đông , décor sáng_sủa dễ_thương . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM19:3" >
+				<text> Mình gọi hot mocha ( uống cũng được , bình_thường ) , cà_phê sữa đá ( cũng bình_thường nốt , ở đây không chuyên về cà_phê mà mình thèm quá nên thôi gọi luôn , ở đây gọi mấy món ice blended ngon hơn á ) . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM19:4" >
+				<text> Nhân_viên nhiệt_tình thân_thiện , châm nước cho khách thường_xuyên . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="OromiaCoffeeHCM20">
+		<sentences>
+			<sentence id="OromiaCoffeeHCM20:0" >
+				<text> Quán trang_trí đẹp ấm_cúng . </text>
+				<Opinion category="REST#AMBIENCE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM20:1" >
+				<text> Nhân_viên nhiệt_tình . </text>
+				<Opinion category="REST#SERVICE"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM20:2" >
+				<text> Nước uống giá hơi cao chút . </text>
+				<Opinion category="REST#PRICES"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM20:3" >
+				<text> Bữa mình uống thử Le_Petit_Prince do nhân_viên bảo món này bán_chạy đồ uống trang_trí đẹp tuy_nhiên vị khá nhạt không ấn_tượng lắm . </text>
+				<Opinion category="REST#QUALITY"/>
+			</sentence>
+			<sentence id="OromiaCoffeeHCM20:4" >
+				<text> Menu đa_dạng . </text>
+				<Opinion category="REST#STYLEOPTIONS"/>
+			</sentence>
+		</sentences>
+	</Review>
+    <Review rid="OromiaCoffeeHCM21">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM21:0" >
+                <text> Đến đây không ít lần rồi nhưng mình chưa bao_giờ thất_vọng hết , không_gian , nước uống , cả nhân_viên phục_vụ đều rất ok luôn , Oromia luôn là lựa_chọn đầu_tiên của mình khi đi cf , còn có cả mấy bé meo meo dễ_thương nữa , tuyệt_vời . </text>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#SERVICE"/>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+        </sentences>
+    </Review>
+    
+    <Review rid="OromiaCoffeeHCM22">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM22:0" OutOfScope="TRUE">
+                <text> Mình đã đến đây nhiều lần rồi . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:1" >
+                <text> Nhưng lần này mình rất thất_vọng về thái_độ của nhân_viên phục_vụ ở đây . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:2" >
+                <text> Quán được biết đến nhiều vì có view chụp ảnh đẹp va nhóm mình ko hề chụp loạn trong qán ( mình khẳng_định như_vậy ) . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:3" OutOfScope="TRUE">
+                <text> Lúc đầu nhóm mình chỉ ngồi tại_chỗ selfie bên trong quán thôi . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:4" OutOfScope="TRUE">
+                <text> Gần về tụi mình mới ra sân vườn đằng sau chụp . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:5" OutOfScope="TRUE">
+                <text> Khu đó giờ trưa nắng không có người và tách_biệt với bên trong . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:6" >
+                <text> Nhưng nhân_viên phục_vụ có_vẻ như RẤT_KHÓ_CHỊU với tụi mình mặc_dù mình chả nhờ_vả hay làm ồn_ào quán cả nhưng lại TRỀ_MÔI với tụi mình như đã làm_gì sai_trái với quán v . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:7" OutOfScope="TRUE">
+                <text> Mình không hiểu thái_độ như_vậy là ntn . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM22:8" OutOfScope="TRUE">
+                <text> Chắc lần đầu người_ta chụp ảnh trong quán hả ? </text>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="OromiaCoffeeHCM23">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM23:0" >
+                <text> Hôm_nay mình đi uống nước với chị , quán ấm_cúng , view bình_thường . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM23:1" >
+                <text> Nhưng mình không hài_lòng về thái_độ của nhân_viên phục_vụ ở đây . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM23:2" OutOfScope="TRUE">
+                <text> Thứ 1 là không tươi_cười với khách_hàng . </text>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM23:3" >
+                <text> Thứ 2 nhân_viên có biểu_hiện chề môi khi mình đang chụp hình check in ở đây . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="OromiaCoffeeHCM24">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM24:0" >
+                <text> Mình ghé quán tuần rồi khoản 8g tối , cảm_nhận chung là quán trang_trí đẹp , dễ_thương không_gian yên_tĩnh , có hồ cá_chép , 2 chú mèo , nhân_viên phục_vụ lịch_sự thân_thiện , có mộc đóng_dấu free giữ xe , nước uống bt ko quá nổi_bật, Là một trong những điểm hẹn cho bạn_bè thân gặp_mặt </text>
+                <Opinion category="REST#QUALITY"/>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+        </sentences>
+    </Review>
+    <Review rid="OromiaCoffeeHCM25">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM25:0" >
+                <text> Quán quá đẹp , đẹp tuyệt_vời ! ! Nước vs bánh ngon , giá hơi chát nhưng tiền nào của đó ❤ ️ hẹn_hò mà vào đây là hết bài luôn ! ! </text>
+                <Opinion category="REST#QUALITY"/>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#PRICES"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM25:1" >
+                <text> Nhân_viên nhiệt_tình lắm , dạ thưa suốt , phục_vụ ân_cần </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM25:2" >
+                <text> Không_gian : rộng , buổi tối hơi ồn nhưng ko sao . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM25:3">
+                <text> Khu_vực ngoài_trời có mèo nữa . </text>
+				<Opinion category="REST#GENERAL"/>
+            </sentence>
+            <sentence id="OromiaCoffeeHCM25:4" OutOfScope="TRUE">
+                <text> Sẽ quay lại . </text>
+            </sentence>
+        </sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM26">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM26:0" >
+                <text> Thường hay ghé quán vào buổi_sáng cuối tuần với bạn_bè , hổm nghe_nói có Piano nên ghé quán thử rồi cực_kỳ thích luôn . </text>
+               <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM26:1" >
+                <text> Piano miễn_phí không phụ_thu nên càng thích quán hơn rồi haha . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM26:2" OutOfScope="TRUE">
+                <text> Các bạn ghé thử nhé </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM27">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM27:0" >
+                <text> Quán có view đẹp , mới bước vào có mấy em cá béo ú bơi ở dưới đường đi . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:1" OutOfScope="TRUE">
+                <text> Đi lúc 9h sáng vào ngày lễ thì bên dưới khá đông nhưng lên lầu thì vắng . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:2" >
+                <text> Quán rộng vừa , có nhiều chỗ ngoài sân nhưng chắc hơi nóng nên hiếm ai ngồi . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:3" >
+                <text> Bạn nào muốn chơi với mèo thì lên tầng ngoài ban_công có nhiều bé xinh lắm . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:4" OutOfScope="TRUE">
+                <text> Có một em trốn_chạy vào nằm ngủ ngay bàn mình . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:5" >
+                <text> Đồ_ăn và uống đều ngon nhưng giá hơi cao . </text>
+                <Opinion category="REST#QUALITY"/>
+                <Opinion category="REST#PRICES"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:6">
+                <text> Đi ba người hết 360k . </text>
+				<Opinion category="REST#PRICES"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:7" >
+                <text> Quán nhẹ_nhàng ấm_cúng rất thích không_gian ở đây . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:8" OutOfScope="TRUE">
+                <text> Rất hợp để hẹn_hò . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:9" >
+                <text> Không_khí nhẹ_nhàng nhạc cũng vừa nghe . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:10" >
+                <text> Thật_sự rất vừa_lòng . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:11" >
+                <text> Mình có uống Matcha_Latte , hơi lạt nhưng có cho đường đi kèm là ngon ! </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:12" >
+                <text> Bánh_mì thịt xông khói với phô_mai hơi mặn còn phần gà thì quá ngon . </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM27:13" >
+                <text> Nói_chung là tuyệt_vời ! </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM28">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM28:0" >
+                <text> Không_gian quán siêu đẹp luôn , ấm_cúng , rất nhiều góc lên hình đẹp , mình đi buổi_sáng nên ko đc xem mấy em mèo . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM28:1" >
+                <text> Oromia thấy đông khách , nhất_là mấy dịp lễ , đợt Giỗ tổ vừa_rồi mình tới lúc 10h sáng là hết chỗ . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM28:2" >
+                <text> Mì bỏ lò phần ăn nhiều , ăn no nóc luôn </text>
+                <Opinion category="REST#STYLEOPTIONS"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM28:3" >
+                <text> Nhân_viên phục_vụ theo mình thấy ko thân_thiện lắm . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM29">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM29:0" OutOfScope="TRUE">
+                <text> Cơ_duyên đến quán này là do theo_dõi trên fb thấy có nhiều mèo mà tới k biết_mấy ẻm trên lầu nên ngồi ở dưới . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:1" OutOfScope="TRUE">
+                <text> Suy ra không gặp em mèo nào . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:2" >
+                <text> - Đầu_tiên thì bánh ngon , nước cũng ngon . </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:3" >
+                <text> Nhân_viên dễ_thương , phục_vụ nhiệt_tình . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:4" >
+                <text> Giá_cả thì không rẻ . </text>
+                <Opinion category="REST#PRICES"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:5" >
+                <text> Không_gian quán rộng và thoáng . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:6" >
+                <text> Có hồ cá koi siêu xinh . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:7" >
+                <text> Có mèo đẹp dù chưa được gặp . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:8" >
+                <text> Lý_do duy_nhất là gửi xe tít ngoài đầu đường mặc_dù miễn_phí : D </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:9" >
+                <text> Quán xinh_đẹp nên sống áo thoải_mái . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM29:10" >
+                <text> Nước và bánh đều ok ^ ^ nếu có dịp sẽ quay lại ^ ^ </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+		</sentences>
+    </Review>
+	
+	<Review rid="OromiaCoffeeHCM30">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM30:0">
+                <text> Để_ý quán lâu rồi mà nay mới có dịp đi thử , đi kiếm quán hơi dễ đi lướt qua hẻm 193 nha , hẻm nằm kế nhà số 195 mà hơi khuất nên dễ chạy luôn nếu_không để_ý lắm . </text>
+				<Opinion category="REST#LOCATION"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:1">
+                <text> Vào hẻm , quẹo bên phải gửi xe , bên trái đi vào quán . </text>
+				<Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:2">
+                <text> Vô quán có bàn đóng mộc vào thẻ xe để gửi miễn_phí , ngay cạnh cửa ra_vào . </text>
+				<Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:3">
+                <text> Quán có nhiều khu ngồi , trong và ngoài , trên và dưới . </text>
+				<Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:4">
+                <text> Không_gian quán thì hơi nhỏ nhưng_mà vậy lại tạo cảm_giác ấm_cúng , thoải_mái . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:5" >
+                <text> Về decor quán thì như trên hình các bạn cũng thấy rồi , rất đẹp và đặc_biệt . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:6" >
+                <text> Mình rất thích con đường đi vào quán , ngắm cá Koi dưới chân thi_vị sao sao đó . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:7" >
+                <text> Có_lẽ là vì view đẹp nên menu giá khá cao ... vì nghe_nói soda có chai mang về , mình với bạn mình thích nên gọi 2 chai , 1 Soda_Bubblegum với 1 Soda_Raspberry . </text>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#PRICES"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:8" >
+                <text> Uống thì cũng bình_thường , không có gì đặc_sắc . </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:9" >
+                <text> Soda_Raspberry còn hơi bị lạt vị , Bubblegum ổn hơn . </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:10" >
+                <text> Nhân_viên phục_vụ tận_tình và vui_vẻ , hay quan_sát và châm trà đá liên_tục . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:11" >
+                <text> Có thắc_mắc gì hỏi thì nhân_viên cũng trả_lời rất niềm_nở vui_vẻ . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:12" >
+                <text> Không_gian lãng_mạn , thích_hợp bạn_bè hội_họp tâm_tình , couple hẹn_hò tâm_sự các loại : ) ) </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM30:13" OutOfScope="TRUE">
+                <text> À quán còn có giảm_giá cho Ecard nữa nha . </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM31">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM31:0" OutOfScope="TRUE">
+                <text> Lần đầu ghé thử quán này . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:1" >
+                <text> Ấn_tượng nhất lối vào rất đẹp và những chú cá nhật bản bơi tung_tăng . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:2" >
+                <text> Không_gian cũng khá ok . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:3" >
+                <text> Nước uống ngon nhưng giá hơi cao . </text>
+                <Opinion category="REST#PRICES"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:4" >
+                <text> Điểm trừ : đồ_ăn k có nĩa bà cũng ko có khăn giấy lau tay luôn . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:5" >
+                <text> Nhân_viên mang ra hộp khăn giấy giống quán phở . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM31:6" OutOfScope="TRUE">
+                <text> Uống xong được mang chai về . </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM32">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM32:0" >
+                <text> Không_gian nhỏ , ấm_cúng , nhẹ_nhàng . </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM32:1" >
+                <text> Đường vào hai bên dưới chân là bể cá , cá cũng dễ_thương : ) ) . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM32:2" >
+                <text> Đồ uống ok . </text>
+               <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM32:3" OutOfScope="TRUE">
+                <text> Hợp để đi một_mình ngồi với laptop , hoặc hai mình nói_chuyện nhỏ_nhẹ , đi đông nói_chuyện to xíu là ồn cả quán luôn ( hôm mình tới đã gặp phải , thì nhét headphone vào tai thôi ... ) . </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM33">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM33:0" >
+                <text> Nghe_nói ở đây có mòe với cá koi nhiều nên lết mông tới 😋 Gửi xe xong không biết đường nào đi_nữa , quán nên có bảng chỉ đường , phải quay lại hỏi anh giữ xe : ) ) View đẹp từ ngoài vào trong , nhìn đâu cũng muốn chụp 😍 . </text>
+                <Opinion category="REST#GENERAL"/>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM33:1" OutOfScope="TRUE">
+                <text> Mà không biết mòe ở trên lầu nên ngồi ở dưới , bữa đó nghe đồn đi đẻ nên tưởng không thấy : ' ( nếu_không order gì thì trả 30k tiền ngồi đó : ) ) . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM33:2">
+                <text> Tầng dưới có mấy kệ sách , lượn qua lượn lại kím đọc : ) ) . </text>
+				<Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM33:3" >
+                <text> Mình uống cái gì honey oromia ấy , ngon lắm , giống sobert chanh mà thơm hơn : ) ) . </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM33:4" >
+                <text> Có gọi lava cake mà không ngon như mong_đợi : ' ( </text>
+                <Opinion category="REST#QUALITY"/>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM34">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM34:0" >
+                <text> Quán ưng từ cổng đi vô có mấy bé cún Koi cưng quá_sức cưng . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM34:1" >
+                <text> Nước ngon , mình đến quán vào t 3 nên được discount 10% nữa hihi . </text>
+               <Opinion category="REST#QUALITY"/>
+               <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM34:2" >
+                <text> À bạn nào muốn thăm mèo thì nhờ nhân_viên dắt lên phòng mèo chơi nhak , nhân_viên dễ_thương và xinh nữa . </text>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM34:3" >
+                <text> Mèo quán hiền , nhõng_nhẽo iu gì đâu . </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM34:4" OutOfScope="TRUE">
+                <text> SẼ_GHÉ_VÀ_ỦNG_HỘ_QUÁN_DÀI_DÀI~ ~ ~ quăng tim ~ ~ ~ </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM35">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM35:0" >
+                <text> Quán dễ_thương gì đâu luôn , nhân_viên thân_thiện nhiệt_tình , còn view thì ko chê vào đâu được , thích quán quá , lần sau sẽ quay lại và sẽ rủ thêm bạn_bè 😄 😄 😄 😄 </text>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#SERVICE"/>
+            </sentence>
+		</sentences>
+    </Review>
+	
+	<Review rid="OromiaCoffeeHCM36">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM36:0" >
+                <text> Ở đây có mấy em mèo siêu cưng , con nào con nấy béo ú , mập queo luôn : ) ) ) )</text>
+               <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM36:1" >
+                <text> Nước uống ngon và nhân_viên dễ_thương , xinh đẹppppp </text>
+              <Opinion category="REST#SERVICE"/>
+              <Opinion category="REST#QUALITY"/>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM37">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM37:0" >
+                <text> Nước uống ngon , view quán đẹp đúng kiểu mình thích luôn 💖 , wifi siêu mạnh . </text>
+                <Opinion category="REST#QUALITY"/>
+                <Opinion category="REST#AMBIENCE"/>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM37:1" OutOfScope="TRUE">
+                <text> Lần sau mình sẽ tới nữa để thưởng_thức thêm nhiều món khác 😊 </text>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM38">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM38:0" >
+                <text> Đến với quán trong một sáng thứ_ba được nghỉ , quán thưa người và không_gian rất yên_tĩnh , dể thư giản đầu_óc ! </text>
+                <Opinion category="REST#AMBIENCE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM38:1" >
+                <text> Gần chỗ làm_nên ghé quán cũng thuận_tiện . </text>
+                <Opinion category="REST#LOCATION"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM38:2" >
+                <text> Nói_chung là thích và chịu hết , nhân_viên cũng vui_vẻ và thân_thiện . </text>
+               <Opinion category="REST#SERVICE"/>>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM38:3" >
+                <text> Đặc_biệt còn được lên coi mèo . hihi </text>
+                <Opinion category="REST#GENERAL"/>
+            </sentence>
+		</sentences>
+    </Review>
+	<Review rid="OromiaCoffeeHCM39">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM39:0" >
+                <text> Nhân_viên châm nước trà thoải_mái nên cứ tập_trung làm và uống nên cứ tập_trung làm làm thôi . </text>
+               <Opinion category="REST#SERVICE"/>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM39:1" >
+                <text> Nhân_viên quán cực_kì thân_thiện nên cực_kì thích . </text>
+               <Opinion category="REST#SERVICE"/>
+            </sentence>
+		</sentences>
+    </Review>	
+	<Review rid="OromiaCoffeeHCM40">
+        <sentences>
+            <sentence id="OromiaCoffeeHCM40:0" OutOfScope="TRUE">
+                <text> Quán ruột của mình là đây . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM40:1" OutOfScope="TRUE">
+                <text> Lâu mới đến lại thì thấy quán vẫn để cây đào nên thấy mắc_cười xíu . </text>
+            </sentence>
+			<sentence id="OromiaCoffeeHCM40:2" >
+                <text> Nước có món mới là matcha đào , uống cũng hợp hợp có_điều giá hơi cao xíu . </text>
+               <Opinion category="REST#QUALITY"/>
+               <Opinion category="REST#STYLEOPTIONS"/>
+               <Opinion category="REST#PRICES"/>
+            </sentence>
+		</sentences>
+    </Review>	
+</Reviews>

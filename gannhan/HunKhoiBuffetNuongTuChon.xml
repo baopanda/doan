@@ -1,0 +1,566 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="HunKhoiBuffetNuongTuChon1">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon1:0">
+				<text>Đồ nướng mấy chục món , có thịt hải_sản và cả đồ no , tráng_miệng khá phong_phú .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon1:0">
+				<text>nhân_viên nhiệt_tình tư_vấn</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon2">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon2:0">
+				<text>Đây là đĩa cơm hải_sản mà không thấy hải_sản , cơm cực_kì sống_sượng và nguội .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon2:1">
+				<text>Nghêu lạt nhắt và phải nhắc đun lại mới nóng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon2:2">
+				<text>Thái_độ chị phục_vụ quá tệ như đùa_cợt .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon2:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Nói_trống_không .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon3">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon3:0" OutOfScope="TRUE"> <!--sua-->
+				<text>Trời mưa lạnh lạnh , ngồi bên bếp nướng ấm nóng hơn hẳn , kiểu như nhâm_nhi xong sát sát nhau đã đã .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon3:1" OutOfScope="TRUE">
+				<text>Nhóm mình đi ăn 10 người trúng CN nên được phụ_thu thêm 20k + free 1 lẩu nhỏ .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon3:2">
+				<text>Khen lẩu ngon , nước_ngọt thơm thơm , nước chảy tới đầu rần_rần tới đó , đồ nướng đc nhớp vừa_phải ( mình ăn nhạt , dễ ăn ) , dessert có pudding trứng bếu bếu ngậy ngậy các bé khen ngon chứ mình không hảo ngọt nên chỉ ăn 1/2 cái là ớn rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon3:3">
+				<text>Điểm trừ là ở đồ_ăn no như súp , cơm , mỳ thì nhạt_nhẽo , súp lỏng , cơm cũng hơi nguội 😭 Quán được_cái rộng_rãi , thoáng mát , không ồn_ào quá , phục_vụ cũng nhanh , đồ_ăn fill liên_tục , blah blah , ...</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon3:3" OutOfScope="TRUE">
+				<text>Nếu có cơ_hội sẽ quay lại ~ ~</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon4">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon4:0">
+				<text>Lễ noen đến đây ăn cùng bạn , khách rất đông nhưng phục_vụ khá nhanh gọi ghẹ hấp , hàu nướng , chân gà nướng ướp thấm , đồ tươi buổi tối khói hơi nhều vì toàn nướng không .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon5">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon5:0" OutOfScope="TRUE">
+				<text>Đến đây chủ_yếu là ăn hải_sản , tôm .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon5:1">
+				<text>Ghẹ xào ngon chua_chua ngọt ngọt , tôm tươi Quán này chủ_yếu bán buffet nên lần sau đến thử xem Không_gian ấm_áp</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon6">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon6:0">
+				<text>Thật_sự là rất tệ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon6:1" OutOfScope="TRUE">
+				<text>Lấy đồ_ăn xong_xuôi hết rồi đợi 30p mới đem lò than ra .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon6:2">
+				<text>Các món ăn thì ko đa_dạng , ướp 10 món như 1 . . Dạ_dày bị đắng , lòng thì bị hôi . .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon6:3">
+				<text>Nước_chấm thì ko đang dạng và nên để trong 1 cái hũ sẽ vệ_sinh hơn . . Ốc len xào xả thì nước sốt quá sánh đặc , có nhiều sạn . .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon6:4">
+				<text>Cuối tuần phụ_thu thêm 20k mà ko có ba_chỉ hay bò gì .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon7">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon7:0" OutOfScope="TRUE">
+				<text>Mình và bạn mình cùng nhau Đi ăn đồ nướng .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:1" OutOfScope="TRUE">
+				<text>Đang loay quay tìm chỗ thì thấy có quán nướng thì ghé vào .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:2">
+				<text>Vì quan ở trung_tâm nên không gian_khổ để xe khá hẹp , nhỏ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:3">
+				<text>Nhìn viên phục_vụ tam chấp_nhận .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:4">
+				<text>Nhưng điều mình thất_vọng là về đồ_ăn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:5">
+				<text>Đồ_ăn ướp không thấm , thấy món nào cũng có vị như nhau .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:6">
+				<text>Mình đến khoảng 7h mà đồ_ăn thì hết sạch mà chẳng thấy lấy ra thêm gì cả .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:7" OutOfScope="TRUE">
+				<text>Vài món còn có vài miếng trong mâm thức_ăn .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon7:8">
+				<text>Buffet nướng mà mình Đi một vòng đã không biết lựa gì để ăn , toàn là các loại cá viên chiên , cá thì_có 3 mon , thịt có món thịt bò cuốn kim châm và thịt heo v , thêm vài_ba loại nghêu , ốc , hàu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>			
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon8">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon8:0" OutOfScope="TRUE">
+				<text>Lần trước đi ăn nướng thấy mấy bàn bên canh gọi cải lẩu gì khủng gê , hôm ny cũng bon_chen đến ăn thử .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon8:1">
+				<text>lẩu to , ở trong toàn là hải_sản nhé , ghẹ mực , cá , tôm ... . mình đi 4 người nên gọi lẩu nhỏ nhất , chỉ 499k ăn no_nê luôn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon8:2" OutOfScope="TRUE">
+				<text>Nên ngồi ngoài_trời sẽ mát hơn trong nhà sẽ tiếp_tục ủng_hộ</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon9">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon9:0" OutOfScope="TRUE">
+				<text>Sinh_nhật đến đây cùng gia_đình .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon9:1">
+				<text>Đồ_ăn ở đây hải_sản và thịt , mình gọi lẩu hoàng_đế toàn hải_sản có ghẹ , tôm , nghêu , mực ... , giá thì 499k thì quá bình_dân , nước lẩu ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon9:2">
+				<text>khá thích_hợp không_gian gia_đình , nhân_viên nhẹ_nhàng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon9:3">
+				<text>Có cái khách đông mà ăn buffet nướng nên hơi khói .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon10">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon10:0" OutOfScope="TRUE">
+				<text>Thấy trên foody nên mình và any tới thử .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon10:1" OutOfScope="TRUE">
+				<text>119k / 1 người không tính tiền nước .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon10:2">
+				<text>Đúng chất ngon bổ rẻ : ) ) quán có món hàu mình rất thích , ướp thịt cũng khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon10:3">
+				<text>Có súp nữa , trái_cây tráng_miệng hôm mình đi là dưa_hấu , rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon10:4">
+				<text>Nhân_viên phục_vụ nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon10:5" OutOfScope="TRUE"> <!--sua-->
+				<text>Sẽ ủng_hộ tiếp 👍</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon11">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon11:0">
+				<text>Cũng không tính bình_luận xấu gì nhưng đến mức này thì mình phải nói để góp_ý cho quán , còn mình thề không tới quán lần nào nữa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon11:1">
+				<text>Mình tới quán lần này là lần thứ 3 , 2 lần trước thấy cũng tạm được chứ cũng k xuất_sắc như mấy quán buffet đắt tiền hơn mà mình đã ăn , tạm chấp_nhận tiền_nào_của_nấy nhưng quán làm_ăn đến_nỗi dọn đồ_ăn không tươi , riêng mình hôm_qua đi ăn về mà đau bụng cho_đến tận giờ này là đủ hiểu thực_phẩm bên quán sạch cỡ nào , khi mình vào quán thì thấy ruồi bu đầy nhưng nghĩ lỡ vào nên cũng dùng luôn , ai dè đâu ăn vào thức_ăn cứ thấy khó_chịu , k được tươi và hậu_quả là đau bụng nguyên ngày hôm_sau .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon11:2" OutOfScope="TRUE">
+				<text>Kính đề_nghị quán nên coi lại nguồn nguyên_liệu nhập vào để tránh đến khi khách bị ngộ_độc rồi mới nhận ra .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon12">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon12:0">
+				<text>Đồ_ăn ở đây cũng được ạ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:1">
+				<text>Khá đa_dạng . . hết món là được bồi thêm ngay .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:2">
+				<text>Vị ướp vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:3" OutOfScope="TRUE">
+				<text>Vì là buffet nên ăn cứ no say tùy_ý .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:4" OutOfScope="TRUE">
+				<text>Giá 119k ngày thứ 7 và chủ_nhật phụ_thu thêm 20k nữa .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:5" OutOfScope="TRUE">
+				<text>Khách nước_ngoài tính giá khác ạ .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:6">
+				<text>Súp rong_biển ngon lắm ngen Không_gian ổn Nhân_viên phục_vụ cũng được .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon12:7">
+				<text>Anh quản_lí chăm_sóc khách rất chi nhiệt_tình . . Chỗ để xe_hơi chật</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon13">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon13:0">
+				<text>Đến tầm 7h thì quán ở đây đông khách , buffet thì chủ_yếu nướng và lẩu , muốn ăn buffet hay gọi món đều được . Mình gọi tôm nướng , ghẹ và gỏi tôm cua cay . đồ_ăn ướp thấm và vừa_miệng , phục_vụ khá chuyên_nghiệp khi bạn quản_lí hay take care khách khá oke .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon13:1">
+				<text>Giá_cả khá rẻ ở phố nên sẽ ghé nữa</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon14">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon14:0" OutOfScope="TRUE">
+				<text>Hôm đấy muốn đi ăn đồ nướng nên ghé vào quán này xem thế_nào .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:1">
+				<text>Không_gian quán mình thấy rộng_rãi ok .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:2">
+				<text>Cho_đến khi mình gọi món thì đã mất cảm_tình : ) ) Mình gọi thịt ba_chỉ hỏi em nhân_viên là một đĩa như_vậy bao_nhiêu miếng thì em ấy trả_lời 20 .</text>
+				<Opinion category="" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:3" OutOfScope="TRUE">
+				<text>Đến khi mang ra thì chỉ khoảng 14 15 miếng .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:4">
+				<text>Chưa kể phục_vụ cứ ngơ_ngơ chậm_chạp , mình bảo lấy xô đá với nước thôi mà cứ gọi tầm 4 5 lần mới có .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:5" OutOfScope="TRUE">
+				<text>Thật_sự thì quán cũng_nên có một quản_lí riêng chứ không phải để nhân_viên rảnh một_tí là cầm điện_thoại được .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:6">
+				<text>Đồ_ăn thì không ngon và đặc_sắc như giá_cả .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:7" OutOfScope="TRUE">
+				<text>Mình gọi khoai_tây chiên , lẩu thập_cẩm và nghêu nướng mỡ hành .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:8">
+				<text>Hải_sản thì không được tươi , lẩu thì lửa cứ riu_riu chả thấy sôi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon14:8" OutOfScope="TRUE">
+				<text>Mong quán khắc_phục tình_trạng trên .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon15">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon15:0">
+				<text>Đồ_ăn ở đây được ướp khá thấm , vị ổn , vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon15:1">
+				<text>Các món nướng ở đây cũng khá đa_dạng nhưng_mà giá rẻ vậy_thì đương_nhiên là sẽ không có thịt bò , tôm , thịt gà rồi 😂 😂 Chủ_yếu là thịt heo , cá , nghêu , sò , ếch , bạch tuột , mấy món xiên que đồ chiên đông_lạnh .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon15:2">
+				<text>À mình cực_kì thích soup rong_biển ở đây 👍 🏻 👍 🏻 👍 🏻 Ngon zm luôn á 💓 Một_mình mình mà ăn 4 bát soup mà vẫn còn thèm 😋 😋 😋 💃 🏻 💃 🏻 Ở đây có nhiều loại nước_chấm đi kèm , ngoài đồ nướng thì còn có mỳ xào , trứng luộc , nghêu xào rồi cơm_chiên , ... tráng_miệng thì trái_cây , đông sương .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon15:3">
+				<text>- Nói_chung với số tiền bỏ ra mà ăn với chất_lượng như_vậy mình thấy cũng khá ổn .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon15:4">
+				<text>Nhân_viên phục_vụ cũng nhanh_nhẹn , vui_vẻ 👍 🏻 👍 🏻</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon16">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon16:0">
+				<text>Bước vào quán không ấn_tượng gì nền quán có phân chuột , nhân_viên thấy khách thì trơ_trơ , đồ_ăn thì lần này mình phải lên_tiếng .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon16:1"> <!--sua-->
+				<text>Ngày bình_thường mình đi ăn với giá 119k có hàu có đủ loại sò , nói_chung 2 lần trước mình ăn cũng ok , thịt tươi ướp thấm , các món no cũng được chứ nói ngon thì không hẳn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon16:2">
+				<text>Lần này mình vào giá 139k mình thắc_mắc thì nhân_viên nói phụ_thu nhưng mình không hiểu phụ_thu cái gì vì nhân_viên phục_vụ quá tệ , có bạn khác tới giải_thích là tăng lượng đồ_ăn hải_sản gì gì ...</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon16:3">
+				<text>Khi lên gắp thức_ăn thì nói thật không xứng bằng lần trước mình từng ăn 119k , Quán này được_cái hàu ngon nhưng lên gắp 3 lần gắp đều không thấy hàu , được_cái thịt ba_chỉ nướng kẹp bánh_bao , cá luỵ thì ok còn lại thì chán , có món ướp quá mặn , có món thì chẳng thấm , nước_chấm thì quá mặn , đề_nghị quán nên thử trước nước_chấm trước khi đưa cho khách dùng , các bạn phụ_thu ngày thứ 7 thì nên có món gì lạ chứ như ngày bình_thường thì đừng nên thu thêm làm_gì .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon16:4">
+				<text>Nhân_viên khi phục_vụ nên tươi_cười tí , mình đi ăn trả tiền chứ có_ăn miễn_phí đâu mà nhân_viên bạn nào cái mặt cũng 1 đống .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon17">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon17:0">
+				<text>Nhân_viên phục_vụ quá chán .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:1">
+				<text>Bỏ đồ lên bàn như đôi vô mặt khách bẹp bẹp .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Muốn kêu nước thì chả thấy đâu .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:3">
+				<text>Đồ_ăn ướp chưa thấm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:4">
+				<text>Mình đã ăn nhạt mà chưa vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:5">
+				<text>Sườn ướp vừa_miệng , cá cũng ổn , súp và bánh_bao ngon còn lại thì ướp nhạt_nhẽo , lòng dai kinh_dị như nhai cao_su .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:6">
+				<text>Mặc_dù giá_cả so với mặt_bằng buffet là thấp nhưng đồ_ăn ít_ra cũng ướp cho thấm chứ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon17:7" OutOfScope="TRUE"> <!--sua-->
+				<text>Nói_chung đi thử 1 lần rùi thui</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon18">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon18:0" OutOfScope="TRUE">
+				<text>Hôm trước 2 đứa rủ nhau đi ăn , được bé bạn giới_thiệu nên ghé vào quán_ăn buffet .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:1">
+				<text>Đồ_ăn thì không được đa_dạng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:2" OutOfScope="TRUE">
+				<text>Hỏi chị bé sao toàn thịt mà không thấy mực , bạch_tuộc hay tôm gì hết thì chị bé bảo có rồi chạy vào lấy .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:3" OutOfScope="TRUE">
+				<text>Thấy mang ra 2 dĩa , mình k để_ý lắm chỉ thấy 1 dĩa nghêu trong khi nghêu ở đó đã có rồi , rồi đặt lên chỗ gắp .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:4" OutOfScope="TRUE">
+				<text>Đợi mình với bạn mình lấy xong , đi rồi mới thấy bỏ mực lên .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:5" OutOfScope="TRUE">
+				<text>Sau bon_chen lên gặp lại thì cũng có gắp được vài miếng mực .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:6">
+				<text>Đồ_ăn ướp chưa thấm , ăn_không được ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:7">
+				<text>Không biết đồ_ăn có vấn_đề gì không chứ mình và bạn mình ăn xong về thì bị đau bụng : D_Soup không biết mọi người ăn thế_nào chứ mình thì không hợp_khẩu vị , nên bỏ nguyên cả chén .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:8">
+				<text>Nước_ngọt thì bình_thường mình ăn_ở các quán khác lon coca 10k , vậy_mà quán_tính tới 14k .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:9" OutOfScope="TRUE">
+				<text>Tuy_nhiên k đáng_kể lắm .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:10">
+				<text>: D_Được cái dưa_hấu tráng_miệng rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:11">
+				<text>Còn mọi thứ mình thấy không hài_lòng lắm .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:12" OutOfScope="TRUE">
+				<text>: ( ( Quên chụp hình nên k có úp rồi .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon18:13" OutOfScope="TRUE">
+				<text>huhu : (</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon19">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon19:0">
+				<text>Lần thứ 2 quay lại quán tôi hơi bỡ_ngỡ 1 tí , nhân_viên ít nên hơi thông_cảm cho quán tí , nói thật_là ly chén của quán nên xem_lại tôi phải lấy giấy khô lau lại mới dùng được .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon19:1">
+				<text>Nói về đồ nướng ướp đậm_đà , súp rất ngon , ốc cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon19:2">
+				<text>Góp_ý quán nên làm muối ớt xanh ít cay lại tí , các món cá và lòng heo ướp nghệ hơi nhiều , cái bảng tên để mì xào hải_sản mà toàn là mì xào rau .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon19:3">
+				<text>Quầy buffet đồ nướng thì hôm_nay toàn các thực_phẩm đông_lạnh cá viên , bò viên , tôm viên , hồ_lô , chạo sả , mình hơi hụt hẫn tí khi quay lại lần này đồ_ăn giống dành cho trẻ nhỏ quá .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon19:4">
+				<text>Nói_chung là không hào_hứng như lần đầu , sẽ quay lại nếu_như quán thay_đổi món .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon20">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon20:0" OutOfScope="TRUE">
+				<text>Vì bọn mình đi muộn nên không gọi buffe mà gọi món .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon20:1">
+				<text>Thấy thực_đơn khá phong_phú , lẩu nướng là chủ_yếu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon20:2">
+				<text>Phục_vụ thì nhân_viên order khá nhanh_nhẹn , vui_vẻ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon20:3">
+				<text>Món ăn trình_bày khá đẹp_mắt Thỉnh_thoảng sẽ quay lại đây</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon21">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon21:0">
+				<text>Hôm trước mình đặt 20 ngừoi đến đây Ấn_tượng là phục_vụ dễ_thương không để khách đợi quá lâu dù rất đông khách .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon21:1">
+				<text>Đồ_ăn hải_sản , thịt tươi , bày đồ_ăn trên kệ dễ cho khách tới lấy .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon21:2">
+				<text>Khá ngon vừa tầm túi_tiền của mỗi người .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon21:3">
+				<text>Mặc_dù hơi khói nhưng cũng chấp_nhận được .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon21:4">
+				<text>Đúng châm_ngôn ăn thả ga không lo về giá 😂 , nói_chung là sẽ đi tới lại</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon22">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon22:0" OutOfScope="TRUE">
+				<text>8.0 Lần đầu ghé đến quán , buffet 119k gồm các món nướng : hàu , bạch_tuộc , bò lá_lốt , ba_chỉ cuộn kim châm , cút , thịt xiên , các loại rau củ , ... ngoài các món nướng còn có khoai_tây chiên , soup , cơm dương châu , tráng_miệng trái_cây .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon22:1">
+				<text>Các món ướp thấm , nước_chấm cũng tạm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon22:2">
+				<text>Số_lượng món hơi ít .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon22:3">
+				<text>Khoai_tây chiên siêu dở , nhưng bù lại soup ngon tuy hơi đặc một_chút .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon22:3">
+				<text>Lúc mình đến thì hết than nhưng bạn nhân_viên cực_kì thân_thiện chu_đáo .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon22:4">
+				<text>Đồ_ăn ở mức tương_đối , thỉnh_thoảng mình sẽ ghé lại .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HunKhoiBuffetNuongTuChon23">
+		<sentences>
+			<sentence id="HunKhoiBuffetNuongTuChon23:0" OutOfScope="TRUE">
+				<text>Đây là lần thứ_hai mình tới quán .</text>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon23:1"> <!--sua-->
+				<text>Tới lễ nên khách rất đông nhưng mình gọi ba món đều ra rất nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon23:2">
+				<text>Tôm hấp bia khá ok , tôm to và tươi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon23:3">
+				<text>Còn món nai nướng đá khá lạ , nhân_viên bỏ thịt vào nồi đá và đậy lại . khoảng phút sau thịt chín rất thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HunKhoiBuffetNuongTuChon23:4" OutOfScope="TRUE">
+				<text>Lần sau sinh_nhật sẽ ghé lại</text>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

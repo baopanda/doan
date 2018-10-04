@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="PhinCoffeeLeDinhDuong1">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong1:0" OutOfScope="TRUE">
+				<text>Mình gọi phô_mai đá xay xoài và phô_mai đá xay việt quất .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong1:1">
+				<text>Nghe khen phô_mai đá xay xoài nhiều lắm nhưng hơi thất_vọng , không ngon như mình nghĩ và vị ngọt quá hay_sao ấy.</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong1:2">
+				<text>Bông lan trứng muối cũng ổn có_điều hơi bé_tí ^ ^ ^ Quán view đẹp nhưng đi buổi tối mình lười chụp nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong1:3">
+				<text>Nhân_viên cũng bình_thường , có bạn dắt xe hộ .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong1:4" OutOfScope="TRUE">
+				<text>Mình có xét_nét không khi muốn ra về nhân_viên cũng_nên cảm_ơn hoặc chào quý_khách bla bla .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong1:5" OutOfScope="TRUE">
+				<text>Lúc order cũng thu tiền chứ chẳng nói_gì .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong2">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong2:0">
+				<text>Phin pha_chế đồ uống ngon , không_gian quán cũng ok nhưng mỗi_tội giá cao quá .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:1" OutOfScope="TRUE">
+				<text>Đi đúng mồng 5 Tết nên phụ_thu thêm 30% , tính ra ly nước ép ổi của mình cũng hơn 40k .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:2" OutOfScope="TRUE">
+				<text>Giá bình_thường đã hơn 30k rồi .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:3">
+				<text>Mặt_bằng chung các loại khác cũng khá cao .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:4">
+				<text>Không_gian quan nhỏ nhưng bày trí dễ_thương , có tầng lửng cũng thú_vị .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:5" OutOfScope="TRUE">
+				<text>Thấy đa_số là học_sinh nhiều hơn .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong2:6">
+				<text>Ngồi nói_chuyện ồn_ào hơi khó_chịu chút .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong3">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong3:0">
+				<text>Quán nhỏ nhỏ thôi nhưng cực xinh_xắn nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:1" OutOfScope="TRUE">
+				<text>Có 2 tầng , đi vào trong là có tầng lửng dễ thấy , còn muốn ngồi nhìn ra đường là lên cầu_thang bên ngoài thì_phải .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:2" OutOfScope="TRUE">
+				<text>Mình k để_ý nên k biết .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:3">
+				<text>Quán decor xinh_xắn lắm , cảm_giác như ở nhà mình vậy đó .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:4">
+				<text>Nước uống khá là ổn nhé , ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:5">
+				<text>Mình thích Phô_mai đá xay việt quất .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:6">
+				<text>Nhân_viên thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong3:7" OutOfScope="TRUE">
+				<text>Cộng n điểm cho quán nhé .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong4">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong4:0" OutOfScope="TRUE">
+				<text>Mình vừa order 2ly phômai đá xay việt quất và xoài dừa đá xay .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong4:1">
+				<text>Vị lạ_lạ uống cũng được ko hấp_dẫn lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong4:1">
+				<text>Ly nhìn cũng ko bắt_mắt như hình_ảnh giới_thiệu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong5">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong5:0">
+				<text>Quán đẹp , cổ_xưa , nhạc hay .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong5:1" OutOfScope="TRUE">
+				<text>Mình đến vào thứ 2 .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong5:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Ít khách và khá yên_tĩnh .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong5:3" OutOfScope="TRUE">
+				<text>Bạn nào thích không_khí tĩnh_lặng , tốt nhất_là nên đến vào ngày bt , đừng đến vào cuối tuần .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong5:4" OutOfScope="TRUE">
+				<text>Quán 2 tầng , tầng 1 có 1 gác_lửng . mình ngồi ở gác_lửng .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong6">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong6:0" OutOfScope="TRUE">
+				<text>Hôm bữa deli tặng code giảm_giá tới 50% nên ham_hố rủ mn order .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:1">
+				<text>Chỗ này giá đồ uống cũng sẵn cao rồi nên giảm_giá đi 50% thì cũng còn đâu hai mấy k một ly vậy đó .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:2">
+				<text>Mà lần này mình gọi matcha nóng , thấy ko hợp lắm nơi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:3" OutOfScope="TRUE">
+				<text>Bỏ lại hơn nửa luôn .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:4">
+				<text>Mấy lần trước hay gọi đá xay thấy ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:5">
+				<text>Hôm_nay trời lạnh nen đổi qua đồ uống nóng thì thấy ko ok lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:6" OutOfScope="TRUE">
+				<text>Nói_chung lần sau có code giảm_giá nữa thì gọi trung_thành mấy loại đồ uống đá xay thôi .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:7">
+				<text>Riêng bánh bông lan trứng muối thì mình thấy bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong6:8">
+				<text>Bông lan ko ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong7">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong7:0" OutOfScope="TRUE">
+				<text>Đợt rồi deliveyrnow có đợt ưu_đãi 50% nên cùng_với mấy chị trong văn_phòng order về uống .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong7:1" OutOfScope="TRUE">
+				<text>mình gọi một trà đen kem cheese và một bông lan trứng muối .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong7:2">
+				<text>Trà đen kem cheese tạm ổn , phần kem ngọt qua so với khẩu_vị của mình , bông lan trứng muối thì bé_tí hin không như mình tưởng_tượng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong7:3">
+				<text>Đặt ship trên deliverynow cực nhanh không phải đợi_chờ lâu đã có một phần ăn rồi .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong7:4">
+				<text>Lần sau còn ưu_đãi nhiều thì mình đặt : p tại giá_thành cũng hơi mắc so với chỗ khác ớ .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong8">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong8:0" OutOfScope="TRUE">
+				<text>Nhân_dịp delivery Now ưu_đãi 50% , nên mình cùng đồng_nghiệp trong văn_phòng order về uống .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong8:1" OutOfScope="TRUE">
+				<text>Tổng cả_thảy mình gọi_là bông lan trứng muối , trà đen kem sữa với_lại cà_phê dừa .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong8:2">
+				<text>Cà_phê dừa hơi ngọt , trà đen thì kem chesse hắn ngọt quá , mình nghĩ béo mặn vẫn sẽ tuyệt hơn !</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong8:3">
+				<text>Bông lan trứng muối thì nhỏ tí hin , không được như mình tưởng_tượng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong8:4" OutOfScope="TRUE"> <!--sua-->
+				<text>Chắc do mình uống ngọt kém nên quán không hợp_khẩu vị với mình .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong8:5">
+				<text>Ngoại_trừ đồ uống ngọt ra thì còn lại mình thấy ok hết nhé !</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong9">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong9:0" OutOfScope="TRUE">
+				<text>Nhân_dịp quán giảm 50% trên DeliveryNow nên rủ mấy bà nhỏ trong VP order uống cùng .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong9:1">
+				<text>Mình có order 1 trà đào cam sả , thấy khá ngon , thơm và đậm_đà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong9:2">
+				<text>Có_điều giá hơi mắc nếu_không có giảm_giá 😢 Mình thấy menu đa_dạng lắm từ cafe dừa , bạc xỉu đến đá xay ... nên tranh_thủ còn giảm_giá mn đặt uống thử đi nha 😘</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong10">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong10:0" OutOfScope="TRUE">
+				<text>Điều đầu_tiên đến quán là ko biết nên bỏ xe ở trong hay ở ngoài : ) ) hình_như quán ko có nhân_viên giữ xe ? ? ?</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:1">
+				<text>Không_gian quán không được rộng lắm nhưng được_cái cũng thoáng , ko xếp bàn_ghế quá gần nhau .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:2">
+				<text>Trang_trí đơn_giản nhưng khá đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:3">
+				<text>Nhân_viên toàn mấy bạn xinh zai nhưng mình cảm_giác ko được thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:4">
+				<text>Khách về đi ngang qua nhưng ko cảm_ơn khách : ) ) Về đồ uống thì mình khá thất_vọng .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:5" OutOfScope="TRUE">
+				<text>Mình uống trà đen macchiato .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:6">
+				<text>Quá ngọt , mùi mật_ong nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:7" OutOfScope="TRUE">
+				<text>Khuấy đều ly với hy_vọng đỡ hơn nhưng cũng thế .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong10:8">
+				<text>Với giá 42k thì khá là chát đấy .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong11">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong11:0">
+				<text>Nhân_viên dễ_thương , nước uống ngon : ) ko gian hơi nhỏ nhưg ko sao 😊 giá_cả hợp_lí .</text> <!--sua-->
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong11:1" OutOfScope="TRUE">
+				<text>Lần đầu_tiên đi uống coffee mà uống sạch ly nước 😂 .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong11:2" OutOfScope="TRUE">
+				<text>Sẽ ghé lại quán thử món khak .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong11:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Triệu like 💋 💋 💋</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong12">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong12:0">
+				<text>Gọi delivery phô_mai đá xay việt quất hương thơm ngon , anh shipper ship nhanh , màu đẹp .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong12:1">
+				<text>Chỉ có_điều pha quá ngọt , bỏ không biết_bao_nhiêu đá mà vẫn ngọt_lịm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong12:2" OutOfScope="TRUE">
+				<text>Pha_chế xem_lại chứ uống thế_này cho khách bị tiểu_đường hết àh ? ? ?</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong13">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong13:0" OutOfScope="TRUE">
+				<text>Mình order bánh bông lan trứng muối và phômai đá xay việt quất .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:1" OutOfScope="TRUE">
+				<text>Hết bông lan trứng muối nên delivery gợi_ý mình đổi sang sừng trâu phomai .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:2">
+				<text>Phomai việt quất đá xay thì siêuuu ngon trên này cũng có nhiều review tích_cực rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:3">
+				<text>Còn bánh sừng trâu thì k thích lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:4">
+				<text>Vỏ bánh nhạt k có mùi_vị gì đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:5">
+				<text>Kiểu thấy ngọt ngọt k thơm bơ gì hết .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:6" OutOfScope="TRUE">
+				<text>Nhân thì nguyên cục phomai .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:7" OutOfScope="TRUE">
+				<text>18k bánh này thấy k ngon bằng bánh_mì phomai 6k ở vinmart .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong13:8" OutOfScope="TRUE">
+				<text>Mình góp_ý như_vậy mong quán cải_thiện chất_lượng bánh cho dân_tình được hưởng của ngon ạ : </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong14">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong14:0" OutOfScope="TRUE">
+				<text>Mình với bạn tình_cờ đi ngang qua quân nên ghé lại uống thử .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:1">
+				<text>Vì nghe ở đây view độc lạ cũng có chút hứng_thú .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:2">
+				<text>Lúc vào thì chỗ để xe có hơi lộn_xộn .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:3" OutOfScope="TRUE">
+				<text>Xe trong xe ngoài nên mình chẳng biết để đâu nên để đại ngoài vỉa_hè .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:4" OutOfScope="TRUE">
+				<text>Rồi vào ord nước , mình gọi cacao dừa và 1 cf đen .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:5">
+				<text>Giá cacao dừa cao nhưng chất_lượng ko tưowng xứng .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:6">
+				<text>Vị ko ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:7">
+				<text>Nghe mùi nước_cốt dừa hộp 😞 còn cf thì tạm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong14:8">
+				<text>View đẹp , nhạc hay 😊 😊 Có_thể sẽ ghé lại để thưởng_thức các vị khác</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong15">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong15:0">
+				<text>Nhìn trên mạng thì thấy không_gian to , rộng_rãi nhưng khi mình bước vào quán thì nó khá nhỏ và hẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong15:1">
+				<text>View oke ko quá màu_mè , thoáng mát không bị bí .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong15:2">
+				<text>Order 2 ly socola đá xay và chanh tuyết , chanh tuyết chưa xay vụn vỏ , mình uống cảm_thấy cặn cặn và đồ uống cực_kì chua , hay anh nhân_viên ko nếm nước hay_sao ý mình xin thêm đường rồi mà vẫn chua .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong15:3" OutOfScope="TRUE">
+				<text>Pha_chế cần phải xem_lại qui_trình nếm nước khi đem ra cho khách</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong16">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong16:0" OutOfScope="TRUE">
+				<text>Tình_cờ đến phin vào một ngày nắng thiệt là đẹp , chim ríu_rít trên cành , gió nhẹ nhẹ hát ca bên khung cửa .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:1">
+				<text>Chỗ này có chỗ để xe dị ghê .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:2" OutOfScope="TRUE">
+				<text>kiểu như lao xe vô nhà của mình luôn á .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:3" OutOfScope="TRUE">
+				<text>Bánh_mì phomai bự chảng 80k hay 110k gì đó hổng nhớ nữa .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:4">
+				<text>Nhân_viên cũng nhanh_nhẹn , tới nói mua bánh rẹt rẹt để bao , trả tiền về luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:5">
+				<text>Trên tầng 2 thấy không_gian yên_tĩnh hơn , nhỏ hơn xíu . ở dưới thì đông một_tẹo .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:6" OutOfScope="TRUE">
+				<text>Nước thì mình chưa uống thử .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong16:7">
+				<text>bữa có uống latte ship về công_ty mà thấy hơi ơn , không hợp lắm , giá đắt nữa</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong17">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong17:0">
+				<text>Thiệt tình là thất_vọng về quán ni dã_man .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong17:1">
+				<text>Menu giá thì đắt hơn các quán nhiều mà đồ uống chả có gì đặc_biệt so với giá tiền phải bỏ ra cả .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong17:2"> <!--sua-->
+				<text>Mình order cafe dừa , thực_sự mà nói còn thua mấy quán khác mình từng uống mà giá hình_như là 4 mấy ngàn thì_phải mà cái ly còn ko có logo tệ hơn mấy quán vỉa_hè nữa .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong17:3">
+				<text>Còn ly latte thì ko art gì hết vị thì lạc nhách logo thì dán 1 cách tạm_bợ Quá thất_vọng chỉ thử 1 lần cho_biết thui à</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong18">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong18:0" OutOfScope="TRUE">
+				<text>Chiều mưa thèm trái_cây nên order quán này về thử , DeliveryNow lại giảm_giá nên mần tới luôn .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong18:1" OutOfScope="TRUE">
+				<text>Mình đặt Smoothies chuối bơ và dâu .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong18:2" OutOfScope="TRUE">
+				<text>Đều chọn ít ngọt vì sợ ớn .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong18:3">
+				<text>Chuối bơ khá béo và ngọt , dâu thì chua_chua ngọt khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong18:4">
+				<text>Uống mấy món này vừa ngon lại tốt cho sức_khỏe nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong18:5">
+				<text>Thời_tiết mưa_gió bất_thường này chỉ cần order Deliverynow rồi ngồi chờ là anh shipper đẹp_trai sẽ giao vèo_vèo liền 😊 😊</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PhinCoffeeLeDinhDuong19">
+		<sentences>
+			<sentence id="PhinCoffeeLeDinhDuong19:0" OutOfScope="TRUE">
+				<text>Ghé lại Phin vào buổi tối cuối tuần đẹp trời .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong19:1">
+				<text>Không_gian vẫn đẹp và chất như ngày nào .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong19:2">
+				<text>Nhân_viên thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong19:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình thích ngồi tầng 1 vì nhác đi lên lầu .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong19:4"> <!--sua-->
+				<text>Đi vào quán là có quầy order tính tiền tại_chỗ đó luôn Menu cập_nhật nhiều loại nước mới , giá cũng bình_thường , có món cao món thấp .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence><sentence id="PhinCoffeeLeDinhDuong19:5" OutOfScope="TRUE">
+				<text>Mìnhg gọi 1 ly cà_chua uống cho mát , chứ dạo này hay uống cafe nhiều roài .</text>
+			</sentence>
+			<sentence id="PhinCoffeeLeDinhDuong19:5">
+				<text>Ly này 30k nha Vị thì cũng bình_thường thoai , nước ép mà Nhạc mở hay Không_gian nhiều chô để sống ảo</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

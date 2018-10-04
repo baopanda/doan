@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo1">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo1:0">
+				<text>Đợt này royaltea giang vo đang khuyến_mãi nhiều mà uống chat luong truoc day minh uong , rất ngon , trà thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo1:1">
+				<text>Giá tiền như_vậy mình rất hài_lòng nên ngày nào cũng phải đặt_để uống cho sướng cái bụng .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo1:2">
+				<text>Nói_chung là chim ưng lắm !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo1:3" OutOfScope="TRUE">
+				<text>Muốn có nắp đậy phải ghi_chú vs foody để giao đồ riêng cho mình hihi : ) </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo2">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo2:0" OutOfScope="TRUE">
+				<text>Mình đặt qua Now món Trà xanh Royal kem cheese nhưng khi nhận được hàng chỉ nhận được mỗi trà xanh .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo2:1" OutOfScope="TRUE">
+				<text>Gọi điện lên hỏi nhân_viên thì lấy lý_do quán đông nên nhân_viên quên , và ko thể ship lại .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo2:2" OutOfScope="TRUE">
+				<text>Hỏi lại giải_quyết như_thế_nào thì bảo báo lại với Foody @ @ Ok .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo2:3">
+				<text>Bây_giờ 1 cốc trà sữa 57K mất đi cheese thì còn ngon gì nữa hả trời .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo2:4" OutOfScope="TRUE">
+				<text>Và ko hề gọi lại cho khách_hàng để giải_quyết .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo3">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo3:0">
+				<text>QUÁ_TỆ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo3:1">
+				<text>Chất_lượng dịch_vụ thua xa những royal tea mà mình biết .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo3:2">
+				<text>Lần 1 mình mua kem cheese đặc quánh như bị hư Lần 2 mình order thêm trân_châu trắng đến khi về mở ra thì không có Nhân_viên làm quá lâu .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo3:3">
+				<text>Nói_chung đã uống ở đây 2 lần và sẽ không quay lại .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo4">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:0" OutOfScope="TRUE">
+				<text>Đặt royal giảng võ qua now giảm_giá 45% .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:1">
+				<text>Thật_sự bất_ngờ về giá_cả và chất_lượng Mình gọi trà royaltea đặc_biệt và trà sữa cake cream , trà royal đặc_biệt thơm , ngọt vừa_phải , nói_chung là ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:2">
+				<text>Chân trâu trắng giòn cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:2">
+				<text>Còn cốc cake cream thì hoàn_hảo luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:3">
+				<text>Nói_chung với giá_như này mà chất_lượng đều ổn , trà sữa ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:4" OutOfScope="TRUE">
+				<text>Mình chắc_chắn sẽ đến quán này trực_tiếp để uống lại .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo4:5">
+				<text>Bị nghiện trà sữa ở roy giảng võ mất r</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo5">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo5:0" OutOfScope="TRUE">
+				<text>Mình rất hay uống trà sữa , nhưng không phải tín_đồ trung_thành của bất_kì nhãn hay thương_hiệu nào .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo5:1" OutOfScope="TRUE">
+				<text>Nơi nào có trà sữa ngon là mình nhào zôôôôô ngay .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo5:2">
+				<text>Qua mình có la_cà qua lối Giảng_Võ nên vào Royaltea ở đó , mình có gọi cốc hồng trà Royal_Kem_Cheese , kem cheese ở đây mình thấy khá thơm và không có ngậy , và hồng trà đúng vị của mình không quá ngọt ... nói_chung là ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo5:3" OutOfScope="TRUE">
+				<text>Mình sẽ tiếp_tục qua đây và thử thêm các vị khác .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo6">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo6:0" OutOfScope="TRUE">
+				<text>K hiểu sao uống Royal tea mà tôi lại quên mất kem cheese hiccc : ( ( đây là choco cake cream thêm oreo .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo6:1">
+				<text>Cá_nhân thấy k nên cho oreo vào nước uống vì uống sẽ chẳng ra vị gì mà_còn bị bột bột , nói_chung là k ngon đâu .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo6:2">
+				<text>Trà ở đây pha ổn , ngon , k có gì phải chê cả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo6:3">
+				<text>Hôm mình uống cho hơi iat trân_châu nhg mà k sao vì mình thích hút nước hơn Nhân_viên phục_vụ chuyên_nghiệp , nhanh , lịch_sự .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo6:4" OutOfScope="TRUE">
+				<text>Ở đây hay có code giảm_giá trên jamja nên khi nào sẽ quay lại tiếp</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo7">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo7:0">
+				<text>Hnay gọi 1 trà dâu_tây chanh vàng ở cơ_sở này nhưng thất_vọng vô_cùng 😢 .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo7:1">
+				<text>Mh rất thích uống trà hoa_quả ở royaltea vì hương_vị rất ngon và độc_đáo nhất_là trà xoài , trà dâu_tây chanh vàng , ... </text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo7:2">
+				<text>Cứ cách 1,2 ngày mh lại lên_cơn thèm trà hoa_quả ở royaltea và mh cũng hay gọi ở nhiều cơ_sở để so_sánh nhưng hầu_như chất_lượng ko chênh nhau mấy mà hôm_nay uống ở cơ_sở ở giảng võ thì hoàn_toàn thất_vọng . </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo7:3">
+				<text>Cốc trà thì bé hơn các chỗ khác , chưa kể cũng ít chanh và dâu nên uống hương_vị ko đậm_đà như mọi_khi mà cứ loãng loãng sao ý . </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo7:4">
+				<text>Mh vẫn sẽ gọi trà ở royaltea nhưng ko phải ở cơ_sở này , mong quán chú_ý chất_lượng của cốc trà hơn_nữa 🙁 </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo8">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:0">
+				<text>Một trong những quán Royal tea mà mình thấy uống được .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:1" OutOfScope="TRUE">
+				<text>Bây h chuỗi này mở nhiều quá , đi uống như_chơi xổ_số vậy .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:2">
+				<text>Quán tạm đc , quán chán_ngắt .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:3" OutOfScope="TRUE">
+				<text>Chi_nhánh này nằm trên Giảng_Võ vốn là con đường ăn_chơi nhiều hàng_quán , bao_gồm cả trà sữa .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:4">
+				<text>Royal tea mặt_tiền cũng nhỏ nhỏ , ko có gì bắt_mắt lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:5">
+				<text>Nhưng được_cái có thương_hiệu .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo8:6">
+				<text>Nhân_viên ko được nhiệt_tình cho lắm , rất lạnh_lùng vs khách .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo9">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:0" OutOfScope="TRUE">
+				<text>Nếu là tín_đồ trà sữa thì chắc_hẳn đã k còn lạ_lẫm vs quán trà sữa hoàng_tộc trên con phố giảng võ này .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:1">
+				<text>Mình vs bạn ngồi ở đây mấy lần r thấy khá là ổn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:2">
+				<text>Chất_lượng ok lắm nha .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:3" OutOfScope="TRUE">
+				<text>Mình vẫn luôn trung_thành vs trà sữa trân_châu ở đây mặc_dù các loại trà hoa_quả đc đánh_giá cao hơn .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:4">
+				<text>Trà sữa thơm và ngọt nhẹ vs lớp kem cheese dày và ngậy béo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:5">
+				<text>Trà hoa_quả lại thanh mát vs đủ vị , mix hoa_quả tươi hay hoa_quả tươi xay phủ 1 lớp kem cheese bông xốp .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo9:6">
+				<text>Dâu đá xay vs xoài đá xay loại nào cũng ngon nhg ngon nhất vẫn là lớp kem cheese đặc quánh , mềm mịn mê chisss</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo10">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo10:0">
+				<text>Hôm_nay order 1 cốc trà kem cheese mà cuối_cùng thành trà thường , hoặc là lớp kem cheese quá mỏng_manh mình vô_tình hút nhầm lúc_nào không biết : O_Bạn mình gọi trà xanh ko kem cheese cũng có lớp trắng_trắng đó , và nó chẳng có vị cheese gì cả nên cái lớp bọt đó chắc_chắn không phải kem cheese rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo10:1">
+				<text>Trân_châu trắng 10k mà được 2,3 hột chắc rớt vào cốc .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo10:2">
+				<text>Thế_mà lấy 57k đấy thôi chào thân_ái Trà quý_tộc .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo11">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:0" OutOfScope="TRUE">
+				<text>Gần nhà nên mình hay đến uống .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:1" OutOfScope="TRUE">
+				<text>Mình rất thích uống trà sữa nên rất hay uống .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:2" OutOfScope="TRUE">
+				<text>Và thử đủ thể_loại trà sữa .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:3">
+				<text>Giá_cả từ 40k trở_lên Vi khá ngon Mình hay mua đem về nhâm_nhi mỗi tối Hộp đẹp Vị_trí dễ tìm chỗ để xem rộng_rãi Mình thích uống nhất_là trà sữa socola uống cả ngày không chán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:4" OutOfScope="TRUE">
+				<text>Trà sữa ở đây giống kiểu có chất gây nghiện vậy .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:5" OutOfScope="TRUE">
+				<text>Cứ nghĩ đến là thèm ngồi viết review cũng đang thèm mai phải lao ra luôn mua một cốc mới được .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo11:6" OutOfScope="TRUE">
+				<text>Mỗi_tội hôm_nay mùng 5 tết chưa mở nên mình lại phải uống quán khác</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo12">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:0" OutOfScope="TRUE">
+				<text>Thời_tiết lạnh cóng nhưng lên_cơn vật trà sữa , bên deliverynow lại liên_tục có khuyến_mại nên vẫn cứ phải triển .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:1" OutOfScope="TRUE">
+				<text>Mình và bạn oder 2 cốc của mình là dâu đá xay của bạn mình là trà hoa_quả gì đấy mình không nhớ rõ tên nữa .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:2">
+				<text>Dây đá xay uống xong người run bần_bật nhưng_mà ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:3" OutOfScope="TRUE">
+				<text>Mình để 80 đường nên hơi ngọt .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:4">
+				<text>Trân_châu trắng giòn sần_sật , ngon nữa nhưng_mà ít quá .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:5">
+				<text>Lần nào uống Royaltea cũng thấy cho ít trân_châu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:6">
+				<text>Cốc trà hoa_quả của bạn mình cho 30 đá nhưng vẫn lạnh_toát luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:7" OutOfScope="TRUE">
+				<text>Nhưng uống kiểu thanh_thanh , không có cảm_giác bị béo .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo12:8" OutOfScope="TRUE">
+				<text>Sẽ còn ủng_hộ dài_dài .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo13">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo13:0">
+				<text>Mình đặt 4 cốc trên delivery now , 1 cốc thì bọc ko kĩ , đổ hết , 1 cốc thì làm ẩu , bằng 3/4 cốc còn lại .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo13:1" OutOfScope="TRUE">
+				<text>Ko thể chấp_nhận được luôn !</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo13:2" OutOfScope="TRUE">
+				<text>Khổ_thân anh shipper .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo14">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo14:0">
+				<text>Quảng_cáo và thực_tế khác xa nhau quá .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo14:1">
+				<text>Kem cheese quá ít và ko ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo15">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:0">
+				<text>Lần đầu và cũng là lần cuối mua trà ở đây .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:1" OutOfScope="TRUE">
+				<text>Mình vào mua hàng chờ gần 1 tiếng mới có , lúc ra đến cửa bị rơi vỡ mất 1 cốc mình hỏi chú bảo_vệ có thùng rác không cho mình cho cốc vỡ vào thùng rác thì chú ấy đuổi như đuổi tà " đi_đi , đi ra_đi " .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:2" OutOfScope="TRUE">
+				<text>Mang trà về gọi Lục trà xoài kem cheese full đường thì được cốc trà không đường .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:3" OutOfScope="TRUE">
+				<text>Thật không thế hiểu nổi trong một tiếng chờ_đợi ấy các bạn ấy vật_lộn kiểu gì mà đến đường còn quên cho vào .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:4">
+				<text>Phục_vụ thì chậm , không_gian quán thì không sạch_sẽ lắm , chỗ để xe thì không có , bảo_vệ thì thái_độ thiếu chuyên_nghiệp , trà thì chán .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo15:6">
+				<text>Đúng là chả được_cái gì để khen .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo16">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo16:0">
+				<text>Xoài đá xay kem cheese siêu chán !</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo16:1">
+				<text>Trân_châu cứng , cheese loãng , quá nhiều đá dù đã order ở mức ít đã nhất có_thể .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo16:2" OutOfScope="TRUE">
+				<text>Order_Royal_Tea tại Trường_Chinh hoặc Ngô_Quyền ngon hơn 1 vạn lần .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo16:3" OutOfScope="TRUE">
+				<text>Cảm_thấy thật phí tiền !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo17">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:0" OutOfScope="TRUE">
+				<text>Phải làm_sao đây khi đã lỡ nghiện trà Royal mất rồi .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:1" OutOfScope="TRUE">
+				<text>Trước thì hay uống trà sữa lắm , nhưng dạo gần đây có nhiều bài báo_nói về tác_hại của trà sữa thế nên thôi ta đổi sang uống trà xanh , trà oolong , trà hoa_quả vậy .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:2" OutOfScope="TRUE">
+				<text>Như tên gọi của nó ROYAL nghĩa_là hoàng_gia .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:3">
+				<text>Đồ uống ngon , vừa_miệng va gây nghiện .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:4">
+				<text>Mình thích nhất món Trà xanh xoài kem cheese hoặc Trà hoa_quả Royal đặc_biệt . Gần_như là uống hàng ngày luôn ý .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:5" OutOfScope="TRUE">
+				<text>Mình thường đặt đồ trên Deliverynow , và mọi người chú_ý nhé , .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo17:6" OutOfScope="TRUE">
+				<text>Có rất nhiều quán Trà sữa Royaltea , nhưng phải những quán có tên Vietnam by Hongkong thì mới đúng chuẩn nhé .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo18">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:0" OutOfScope="TRUE">
+				<text>Cực_kì nghiện trà sữa đặc_biệt là kem cheese nên lần này cả lũ bọn mình lại tiếp_tục rủ nhau order tại quán royaltea Giảng_Võ qua deliverynow vì cũng gần công_ty .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:1" OutOfScope="TRUE">
+				<text>Bao_nhiêu háo_hức thì bấy_nhiêu thất_vọng , thật_sự luôn haizz .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:2">
+				<text>Kem cheese là món cả lũ bọn mình đều nghiện thì lại quá mỏng và loãng , vị cũng ko hề thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:3">
+				<text>Mình order món tủ là trà ô long đào thì trà ko hề thơm như những lần trước mình uống ở cơ_sở khác , trà cực nhạt_nhẽo .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:4" OutOfScope="TRUE">
+				<text>Trân_châu đen thì_thôi ko bàn đến vì cũng ko có gì để nói .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo18:5">
+				<text>Tóm_lại đây là lần đầu_tiên mình thấy thất_vọng , ko bao_giờ order ở đây nữa .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo19">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:0">
+				<text>Mình ghé qua quán đợt trc tầm đầu giờ chiều , quán không có khách mấy nên khá yên_tĩnh , view mấy tầng trên khá đẹp , nhưng siêu nóng và bí , không có quạt và thiếu đèn , nhân_viên cũng bình_thường , mình ngồi tầng 3 và thấy ko có nhân_viên phục_vụ , gọi gì cũng rất khó .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:1">
+				<text>Mình kbiet sao nhiều bạn nói kem cheese ở RYT ngon nhưng cá_nhân mình thấy nó cũng rất bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:2">
+				<text>Giống kiểu kem tươi rưới bên trên ý , kem khá ngọt và ít mặn , ngấy , không có mùi cheese béo ngậy mình hay uống , không có mùi_gì luôn ý ! ! Mình gọi cốc matcha kem cheese được_cái matcha uống rất rất ngon , thơm đậm vị matcha , ngọt vừa_miệng lại ngậy của sữa , khá ok .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:3">
+				<text>Nhưng kem cheese thì rất chán , cả lúc mình ở dưới tầng 1 gọi đồ và xem pha_chế luôn thì thấy nhân_viên làm không chuyên_nghiệp mấy , xô đựng kem cheese thì để ngỏ hẳn bên ngoài , không đậy , đựng trong cái xô trông rất mất thẩm_mỹ , mình nghĩ nên đậy nắp kín bảo_quản lạnh chứ ko nên để ngoài , pha_chế chậm , đổ cả bột trà ra ngoài , lúc mình vào nhân_viên gục xuống bàn khách vào không biết .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:4" OutOfScope="TRUE">
+				<text>Hi_vọng quán sẽ sửa những nhược_điểm ấy .</text>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:5">
+				<text>Giá thì khá cao 49-70k/cốc , mình gọi thêm topping nha đam cũng không có mặc_dù trong menu điền rõ_ràng .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo19:6" OutOfScope="TRUE">
+				<text>Nói_chung là sẽ ít quay lại</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo20">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo20:0" OutOfScope="TRUE">
+				<text>Hnay nhóm mình có đặt đơn hàng từ Royaltea GV .</text>
+			</sentence>		
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo20:1">
+				<text>Vốn có thiện_cảm với RT Vũ_Phạm_Hàm vì kem cheese khá đặc và ngon nên cả lũ cũng khá mong_đợi ở RT_GV ( cả lũ bọn t đều là fan của cheese ) .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>		
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo20:2">
+				<text>Rút_cục thất_vọng ghê .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>		
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo20:3">
+				<text>Lớp kem cheese mỏng , k sánh đặc mà kiểu rút ống hút lên là đi luôn 1 mảng cheese ý : ( ( .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo20:4" OutOfScope="TRUE">
+				<text>Tóm_lại là k vui .</text>
+			</sentence>	
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo21">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo21:0">
+				<text>Mình vừa đặt 3 cốc theo khuyến_mãi 35% , uống dở ko khác j trà sữa 10k bán ngoài vỉa_hè .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo21:1">
+				<text>Dù đã giảm còn 30% đá đường nhưng vẫn cảm_nhận vị ngọt khé , ko rõ vị trà .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo21:2">
+				<text>Kem cheese sau khi delivery thì bị hoà_tan hết nên cũng chẳng còn thấy cheese đâu .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo21:3">
+				<text>Cảm_thấy tiếc tiền !</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo22">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo22:0">
+				<text>Chưa uống 1 cốc royal nào tệ như_thế_này .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo22:1">
+				<text>Gọi ship mà đóng_gói sp chán quá .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo22:2">
+				<text>Uống thử 1 ít mà phải bỏ cả cốc luôn</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo23">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo23:0">
+				<text>Gọi 10 cốc fail cả 10 cốc .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo23:1">
+				<text>Loãng_toẹt , chesse tan hết .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo23:2">
+				<text>Trà nhạt không có vị gì , lần đầu_tiên bị chán như_thế_này</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo24">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo24:0">
+				<text>Chị mình là fan ruột của quán , uống kem cheese ở nhiều hãng như heecka hay heytea thì vẫn ưng kiểu cheese ở đây nhất , đặc thơm , k bị lợ tí nào , uống hợp với trà lắm Trà kem cheese thì ưng nhất vị olong đào , thơm vị đào , ngậy vị cheese , bạn nào k hảo ngọt thì gọi tầm 70% đường thui là ok Trà thường ở đây k có gì đặc_biệt , mình gọi vị đào thì thấy hơi ngọt dù đã giảm đường .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo24:1">
+				<text>Điểm mình k thích nhất ở đây là rất ít chân trâu 😢 😢 😢 uống tầm nửa cốc là hết sạch rồi .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo24:2" OutOfScope="TRUE">
+				<text>So với dingtea thì các vị trà bên ý làm ngon hơn mà chân trâu thì hút đến cuối vẫn còn thừa </text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="RoyalTeaTraSuaHongKongGiangVo25">
+		<sentences>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo25:0">
+				<text>Hôm trk đặt Trà sữa Royaltea qua Delivery now thấy chất_lượng đồ uống ngon hôm_nay rủ con bạn qua quán Royaltea_Giảng võ thưởng_thức trực_tiếp xem view quán luôn không ngờ không_gian quán khá đẹp được bố chí rất quy_củ có cả thang_máy cho khách , ngoài_ra thái_độ phục_vụ thì rất niềm_nở nhiệt_tình , đồ uống thì ngon nhất_là Trân_châu trắng giòn và rất là dai Trà thì thơm vị ngọt vừa Phải , menu đồ uống đa_dạng phong_phú có cả thức Uông nóng để thêm nhiều sự lựa_chọn cho KH , mình rất hài_lòng vê Royaltea .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="RoyalTeaTraSuaHongKongGiangVo25:1">
+				<text>Và 1 like cho Royaltea .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			

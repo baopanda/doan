@@ -1,0 +1,627 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+REST#GENERAL REST#PRICES REST#QUALITY REST#STYLEOPTIONS REST#SERVICE REST#AMBIENCE REST#LOCATION
+	<Review rid="TheCoffeeHouseNguyenChiThanh1">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh1:0" OutOfScope="TRUE">
+				<text>Có mã cf sữa size s 10k của the coffee house nên đến mua uống thử .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh1:1">
+				<text>Quán rộng với dễ_thương , tủ bánh nhiều màu_sắc nhìn đã lắm 😝 Cafe theo mình thấy thì vị chua nhẹ , ít đắng , thanh_thanh dễ uống .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh1:2">
+				<text>Mình ko uống được cf sữa highland vì nó đắng vs đậm quá , theo khẩu_vị cá_nhân thì thấy cf sữa bên này ngon hơn 👍 🏻 Nv thân_thiện , lịch_sự từ bác bảo_vệ tới thu_ngân và phục_vụ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh2">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh2:0">
+				<text>Thích cái bánh nhất .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh2:1">
+				<text>Trà đào thì hơi lạc mà cũng nhon</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh3">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh3:0">
+				<text>Mami mình rất khoái ngồi chỗ này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh3:1">
+				<text>Cứ toàn đi sớm tầm 7h tối cuối tuần để xí cho được chỗ băng ghế_bành trên lầu vừa dài vừa rộng ngồi cho thoải_mái ý .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh3:2">
+				<text>Chỗ này pha đồ uống cũng khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh3:3">
+				<text>Chất_lượng nước ổn_định miễn bàn . Giá cao nhưng cung_cách phục_vụ dễ_thương và chuyên_nghiệp . Không_gian đẹp .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh4">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh4:0">
+				<text>Mình thực_sự thích view ở đây , đến quán vào sáng thứ 7 mà đông dễ_sợ nên phục_vụ hơi chậm , mất điện 1 tý nữa chứ , wifi hơi yếu , đồ uống và bánh ngon , giá_cả ok , quán ở vị_trí dễ tìm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh5">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh5:0">
+				<text>Kỳ_thực tch mình thấy đồ uống chưa đc đặc_sắc lắm so với giá tiền .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh5:1">
+				<text>Tuy_nhiên ko gian đẹp , nhìn lại sang và nhân_viên lẫn bảo_vệ giữ xe đều rất tốt nên mình hay ghé tới_lui tch .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh5:2" OutOfScope="TRUE">
+				<text>Tối_qua đến chi_nhánh chỗ Ng_Chí_Thanh thì thấy 2 cái cây trong nhà lá bị khô ko còn tươi xanh như đợt trc mình đến 🤣</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh6">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh6:0">
+				<text>Matcha_Macchiato ko quá ngọt cx ko quá lạt , đậm hương matcha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh6:1">
+				<text>Lớp kem béo ngon 👍 🏻</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh7">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh7:0">
+				<text>TCH quá nổi_tiếng kể từ khi khai_trương ở Đà_Nẵng , mình cực_kỳ thích TCH về đồ uống ngon , ko gian rất hiện_đại , giá_cả ok , bánh lại ngon , nhân_viên nhiệt_tình , quán ở vị_trí dễ tìm.</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh8">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:0" OutOfScope="TRUE">
+				<text>Mình đã đi The_Coffee_House ( TCH ) ở cả Sài_Gòn và Đà_Nẵng các chi_nhánh , chưa là tất_cả , và dù decor các quán đều như nhau nhưng tùy_thuộc vào không_gian nhỏ rộng sẽ cho mình cảm_giác khác .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:1">
+				<text>Không_gian ở TCH này khá rộng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:2" OutOfScope="TRUE">
+				<text>Chia thành nhiều không_gian khác_nhau phù_hợp cho làm_việc , nói_chuyện và họp nhóm .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:3">
+				<text>Rộng_rãi nên cảm_thấy thoáng và riêng_tư .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:4">
+				<text>Ánh_sáng tốt để chụp hình và có những góc lên hình khá deep .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:5">
+				<text>Mình thích trà đào cam sả đã trở_thành thương_hiệu của TCH .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:6" OutOfScope="TRUE">
+				<text>Giá_cả thì ở đâu cũng v , giá niêm_yết r mà .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh8:7">
+				<text>High recommend nhé ! ! !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh9">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh9:0" OutOfScope="TRUE">
+				<text>Quán quá quen_thuộc rồi .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh9:1" OutOfScope="TRUE">
+				<text>Chắc chẳng cần review nhiều đâu .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh9:2" OutOfScope="TRUE">
+				<text>Mình thử lại loại toffee hạnh phân .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh9:3" OutOfScope="TRUE">
+				<text>Thích hạnh_nhân lắm í .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh9:1">
+				<text>Còn khuấy nước ở dưới kiểu đắng đắng bùi_bùi thích lắm.</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh10">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh10:0">
+				<text>The_Coffee_House vẫn luôn là thương_hiệu mà mình yêu_thích vì cách phục_vụ lẫn không_gian rộng_rãi thoáng_đãng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh10:1">
+				<text>Cái ở Nguyễn_Chí_Thanh chắc là một trong số những nơi có không_gian đẹp nhất và xanh_mắt nhất .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh10:2">
+				<text>Ở đây còn có các món nước thích_hợp cho thời_tiết se lạnh cực_kỳ thú_vị nữa .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh11">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh11:0" OutOfScope="TRUE">
+				<text>Mình ghé quán cuối tuần nên cũng hơi đông , may_sao vẫn còn được chỗ xinh_xinh để ngồi .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh11:1">
+				<text>Không_gian bên này cũng rộng_rãi , thoáng và đẹp_mắt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh11:2" OutOfScope="TRUE">
+				<text>Mình hay ghé uống trà đào , nhưng lần này kêu thử mấy dòng socola các loại thử xem .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh11:3">
+				<text>Nước uống mình thấy khá ổn , nói_chung là không làm mình thất_vọng lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh12">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:0" OutOfScope="TRUE">
+				<text>Mình vs bạn tới quán này có uống ly trà đào và socola đá xay .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:1">
+				<text>Trà đào vị tạm ổn nhưng ly socola đá xay thì vị quá tệ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:2">
+				<text>Cảm_giác giống như vị toàn mùi sữa bột , ớn kinh_khủng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:3">
+				<text>Chưa thử mấy loại nước khác nên không_thể nhận_xét hết nhưng vị cái ly socola đá xay của mình thì fail toàn_tập .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:4">
+				<text>Được_cái không_gian thì rộng_rãi , view ổn , phục_vụ nhanh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:5">
+				<text>Chỗ giữ xe rộng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:6">
+				<text>Giá_cả mình thấy hơi đắt so với chất_lượng đồ uống .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh12:7" OutOfScope="TRUE">
+				<text>Thương_hiệu này có nhiều chi_nhánh ở đà nẵng , chắc phải ghé qua chi_nhánh khác để thử hương_vị xem có khác không .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh13">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:0" OutOfScope="TRUE">
+				<text>Trong mấy quán coffee house thì hay đi bên này vs Lê_Duẩn nhất .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:1" OutOfScope="TRUE">
+				<text>Đợt này nhà của trà ra mấy món nóng .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:2">
+				<text>Trời lạnh uống cũng ok .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:3" OutOfScope="TRUE">
+				<text>Giá cũng_như mấy món còn lại .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:4" OutOfScope="TRUE">
+				<text>Tầm 4 50k .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:5">
+				<text>Không_gian đẹp , chụp hình sống ảo ok .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh13:4" OutOfScope="TRUE">
+				<text>Sẽ quay lại ^ ^</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh14">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:0">
+				<text>Quán nằm ngay góc ngã tư Nguyễn_Chí_Thanh và Hải_Phòng , to - sáng , khá bắt_mắt và dễ tìm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:1" OutOfScope="TRUE">
+				<text>Quán có không_gian 2 tầng , muốn ngồi tầng trên mà full bàn rồi nên phải xuống lại bên dưới .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:2">
+				<text>Ánh_sáng vừa_phải , dễ_chịu .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:3" OutOfScope="TRUE">
+				<text>Có loại bàn dài phù_hợp cho việc họp nhóm hay đi với nhóm bạn đông .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:4" OutOfScope="TRUE">
+				<text>Mình gọi một trà đậu biếc macchiato .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:5">
+				<text>Màu tím dễ_thương dễ_sợ , hehe .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:6">
+				<text>Thức uống này vị chua nhẹ , uống 1 lát sẽ thấy thích hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:7">
+				<text>Lớp kem cheesse vừa_phải , không quá béo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:8">
+				<text>Mấy bạn nhân_viên nhẹ_nhàng , dễ_thương .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh14:9" OutOfScope="TRUE">
+				<text>Nói_chung ngoài Nguyễn_Văn_Linh thì đây là nơi thứ 2 của Nhà_Cà_Phê mình ghé qua : ) .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh15">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh15:0" OutOfScope="TRUE">
+				<text>Mùa lạnh lanh lại sắp Valentine nên bên này tung ra mấy món socola ngọt_ngào , iu thương , mình thích socola nóng hơn vì hợp vs mùa này vs uống cũng ok .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh15:1">
+				<text>ly lạnh thì bình_thường , không quá đặc_sắc buổi_sáng tới mà quán cũng có kha_khá khách luôn đó nha không_gian 2 tầng</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh16">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh16:0">
+				<text>Quán nằm ngay góc ngã tư Nguyễn_Chí_Thanh và Hải_Phòng , to - sáng , khá bắt_mắt và dễ tìm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh16:1" OutOfScope="TRUE">
+				<text>Mỗi quán của the coffee house đều có cách bày_biện riêng của nó , tuy_nhiên bạn vẫn có_thể dễ_dàng nhận ra phong_cách chung của nó .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh16:2">
+				<text>Đặc_trưng của the coffee house mà mình vẫn tâm_đắc đó là hương cà_phê rang say thoang_thoảng khắp không_gian của quán .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh16:3">
+				<text>Thức uống thì khỏi phải chê , ngon mê_ly luôn , giá_cả phải_chăng và có cả bánh ăn kèm nữa , trông rất hấp_dẫn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh17">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh17:0">
+				<text>Mình gọi mocha hạnh_nhân đá viên uống ko ngon gì cả , mùi cf đắng lấn_át hết mùi của hạnh_nhân luôn rồi , lớp foam ở trên vị sao ấy , ko thấy béo hay coa mùi_vị gì cả , cả cái ly mocha của bạn mình lớp kem ở trên nhìn thì đẹp nhưng uống lại ko ngon , bù lại quán decor vs view thì đẹp , lạ_mắt , bữa sau đến sẽ thử món khác</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh18">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh18:0" OutOfScope="TRUE">
+				<text>Mình thường lê_la cà_phê , có_khi cùng bạn_bè nhưng đôi_khi cũng muốn hưởng_thụ một_mình .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh18:1">
+				<text>Mình thực_sự rất có thiện_cảm với TCH .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh18:2">
+				<text>Từ cái mỉm cười thân_thiện của bác bảo_vệ đến sự nhiệt_tình của các bạn nhân_viên tạo cho mình cảm_giác rất thoải_mái .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh18:3" OutOfScope="TRUE">
+				<text>Món đồ uống quen_thuộc với mình là Trà đen machiato ít đá ít đường size nhỏ và chiếc bánh sừng trâu trứng muối .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh18:4" OutOfScope="TRUE">
+				<text>Mình nghĩ giá_thành của TCH đi_đôi với chất_lượng sản_phẩm nên mình không có ý_kiến gì về vấn_đề đó .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh19">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh19:0">
+				<text>Đầu_tiên mình ấn_tượng với bảo_vệ ở đây , thân_thiện và phục_vụ tốt , nhân_viên phục_vụ trong quán cũng ok , thích cách tích điểm của quán mình thật_sự thấy ko phải như kiểu tích điểm mấy quán khác nói_chung ưu_đãi của coffee house đc nhiều người khác thích_thú lắm , mình là thành_viên vàng uống nhiều đc cái coupon tặng 1 phần nước free , nên gọi mocha hạnh_nhân đá vs hazenult đá xay Về mocha hạnh_nhân đá trước mình cũng uống lần nay uống lại cũng ko thấy khá lên chút nào rất khó uống và ko hề ngon .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh19:1">
+				<text>Riêng hazebult khỏi bàn mình mê đến nổi từ trà đen mà chuyển sang phần nước nay .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh19:2">
+				<text>Điểm trừ cho quán là trên tầng 2 ghế gần cửa ko có rèm kéo nhiều khi nắng hay chơi nó bắt hanh lên thì ko ngồi đc gì hết phải tìm chỗ mát ngồi , là một cơ_sở có view thỏai_mái nhất nhưng ko có rèm kéo bất_tiện nhiều khi đến có chỗ mà ko ngồi đc hơi bực</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh20">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh20:0">
+				<text>Rất thích phong_cách phục_vụ của nhân_viên the coffee house , nhân_viên thân_thiện , lịch_sự , giữ xe cũng rất nhiệt_tình nữa .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh20:1" OutOfScope="TRUE">
+				<text>Uống nước ở quán còn được phục_vụ nước_lọc , cứ lâu_lâu thấy nước_lọc trong ly mình hết thì sẽ có nhân_viên đến rót thêm nước vào .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh20:2">
+				<text>Mình thấy món trà đào cam sả của quán khá ngon , đào cắt miếng to , ăn giòn và có vị ngọt ngọt , trà thơm mùi xả rất đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh21">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh21:0">
+				<text>Không_gian ở đây yên_tĩnh hơn ở các cơ_sở TCH khác , ở đây sắp_xếp nhìn thoáng và đẹp , nước uống hệ_thống TCH thì ngon rồi , hôm_nay ún matcha kem mới , có để riêng rồi rót vài nhìn cũng vui , thích nơi này lần sau sẽ ghé lại ^ ^</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh22">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh22:0">
+				<text>View ở cơ_sở này cực_kỳ đẹp , tuy k rộng bằng bên NVL hay bên Lê_Duẩn_Có cái bất_tiện là 1 con cận k chịu đeo kính như mình lúc order bị khó_khăn , quán k có tập menu , chỉ treo cái bảng menu lên phía trên , đành ra phải lấy điện_thoại chụp lại mới thấy được Nước trà đào cam sả ngon cực , còn dòng expresso đá khó uống hơn nóng , phục_vụ nhanh_nhẹn , lịch_sự</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh23">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:0" OutOfScope="TRUE">
+				<text>Hôm_nay thấy có đồ uống mới nên ghé mua thử .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:1">
+				<text>Ngon và cũng ok .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:2" OutOfScope="TRUE">
+				<text>Mọi chuyện sẽ không có gì khi mình uống đến gần hết ly và nhận ra món quà giáng_sinh này mà quán dành cho mình .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:3">
+				<text>Thật bất_ngờ 😏 Không hiểu vệ_sinh ở quán như_thế_nào khi ly nước cho khách có hẳn con ruồi rõ bự như_thế_này ?</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:4" OutOfScope="TRUE">
+				<text>Hôm_nay xui là mình mua về nên chỉ lên review được thôi chứ ngồi tại quán thì không biết sao rồi .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:5" OutOfScope="TRUE">
+				<text>Chúc các bạn khách khác uống Affogato ngon_miệng !</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh23:6" OutOfScope="TRUE">
+				<text>P / s : Ruồi thật VN 100% ko phải ruồi Trung_Quốc đâu nha .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh24">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:0">
+				<text>“ Nhà_Café ” chắc_hẳn là thương_hiệu luôn biết cách đổi_mới mình nhất .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:1" OutOfScope="TRUE">
+				<text>thường_xuyên ra món mới , hay thay_đổi kiểu_mẫu ly theo chủ_đề .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:2">
+				<text>Nên lúc_nào tới đây cũng có cảm_giác mới_mẻ và không nhàm_chán .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:3" OutOfScope="TRUE">
+				<text>Giáng_sinh năm nay “ Nhà_Café ” cho ra_mắt dòng Affogato hơi khó đọc xíu ( mình đọc ngắn_gọn là A-phót = ) ) ) có 2 loại Café và Matcha cho mấy bạn lựa nha .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:4">
+				<text>Theo như cảm_nhận thì thấy A-phót cũng na_ná dòng cà - phê đá xay , nhưng lại nhạt mùi hơn 1 tí , và có thêm vài lát hạnh_nhân khá ngon nè .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:5">
+				<text>Nhưng nếu thật lòng hỏi mình có thích 2 loại này không , thì chắc câu trà lời là không !</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:6" OutOfScope="TRUE">
+				<text>Mình vẫn thích các dòng đá xay cũ hơn .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:7">
+				<text>A-Phót cho bạn tự_do rót ” sốt ” cafphe hay matcha lên_lớp kem toping béo ngậy , nhưng cái vị sốt lại đậm_đà quá , trong khi nước trong ly lại ít ngọt , nên uống hơi có cảm_giác nhẫn nhẫn hay đắng đắng , phải xin thêm tí đường nữa thì mới thấy hòa vị hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh24:8">
+				<text>Mà buồn cái nữa_là lớp kem tươi trên ly ít quá , không giống như ảnh minh_họa 🎄 Về mẫu ly thì mình cực thích nè , nhìn đơn_giản , nhưng lại “ Sang ” ah nhen , như 1 chiếc khăn ấm quấn ở cổ ly , rất đúng chất của “ Nhà_Café ” .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>	
+	<Review rid="TheCoffeeHouseNguyenChiThanh25">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:0">
+				<text>TCH nguyễn chí thanh là số 1 ý .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:1">
+				<text>View k to rộng bằng ở Lê_Duẩn với Nguyễn_Văn_Linh nhưng_mà cũng đẹp không kém .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:2">
+				<text>Mình thích nhất mà cách phục_vụ của TCH ở đây , mấy bạn nhân_viên nhiệt_tình dễ_sợ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:3" OutOfScope="TRUE">
+				<text>Gặp khách là chào , ra về cũng chào .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:4">
+				<text>Nhiệt_tình quá .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:5" OutOfScope="TRUE">
+				<text>Rót nước liên_tục = ) ) .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:6">
+				<text>Mình thích nhấy cái bạn nam phục_vụ ca sáng , đẹp_trai quá .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:7" OutOfScope="TRUE">
+				<text>Hihi .</text>
+			</sentence>
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:8">
+				<text>Nước ở đây khá ngon , mình rất thích machiato hoa đậu biếc với trà đào cam xả , 2 lát đào to bạ chà bứ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh25:9" OutOfScope="TRUE">
+				<text>Mua thêm 5k nữa thì đc 4 lát ăn no luôn .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh26">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh26:0">
+				<text>Trời lạnh lạnh như này thì chỉ thích uống cf nóng thôi Mấy hồi đi TCH chỉ uống cappucino thôi nhưng hôm_nay đổi món gọi qua latte nóng và 1 bánh sừng trâu trứng muối Bánh sừng trâu trứng muối là món bánh ruột của mình ở TCH , vỏ bánh có độ xốp , trứng muối thơm , béo ngậy Latte nóng có vị cf nhẹ hơn cappucino một_chút , nên bạn nào thấy cappu đắng quá mà thích uống nóng thì nên thử qua lattte nhé.</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>		
+		</sentences>
+	</Review>	
+	<Review rid="TheCoffeeHouseNguyenChiThanh27">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh27:0" OutOfScope="TRUE">
+				<text>Giáng_sinh sắp đến nên cách trang_trí của quán cũng thay_đổi theo .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh27:1" OutOfScope="TRUE">
+				<text>Quán đang có chương_trình bán ly sứ cặp tình_bạn gì đấy .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh27:2">
+				<text>Lý khá đẹp lun .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh27:3" OutOfScope="TRUE">
+				<text>Bánh mỳ chà bông ở đây khá ngon hơn mấy quán khác .</text>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh27:4">
+				<text>Nhân_viên thân_thiện nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>	
+		</sentences>
+	</Review>	
+	<Review rid="TheCoffeeHouseNguyenChiThanh28">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh28:0" OutOfScope="TRUE">
+				<text>Mình ghé quán mà full bàn luôn .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh28:1" OutOfScope="TRUE">
+				<text>Hu_hu .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh28:2" OutOfScope="TRUE">
+				<text>Mình đi 6 người nên khó khắn lắm mới chỉ bàn giữa .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh28:3">
+				<text>Mình gọi affmato thì_phải , nó là món mới nên thử , mình thấy khá béo_béo , không thích lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh28:4" OutOfScope="TRUE">
+				<text>Giờ mình mới thử machiato hạt đậu biếc , thấy khá giống vị việt quất .</text>
+			</sentence>	
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh29">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh29:0">
+				<text>Dường_như TCH ở đây đã trở_nên quen_thuộc với mình , quán trang_trí noel rất ấm_cúng , mình là 1 fan của trà đen machiato nên mua cho 2 leader , giá_cả hơi đắt , nhân_viên nhiệt_tình , quán ở vị_trí dễ tìm , mình toàn mua mang đi thôi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="TheCoffeeHouseNguyenChiThanh30">
+		<sentences>
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:0" OutOfScope="TRUE">
+				<text>Đến TCH-NCT nhiều nhiều lần rồi .</text>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:1">
+				<text>Không_gian mang chất riêng TCH thì mn biết rồi , rất tuyệt , thích_hợp cho cả học_tập , làm_việc , ngồi chém gió , cả việc tia mấy - bạn-NV-đẹp-trai ( bằng cách uống nước_lọc thả ga , haha ; ) ) Trà đào chanh xả ngon , thơm , nhiều qtqđ đào .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:2" OutOfScope="TRUE">
+				<text>Macchiato đã thử cả 3 vị .</text>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:3">
+				<text>Thích hương đậu biếc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:4">
+				<text>Trà đen với matcha khá bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>						
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:4">
+				<text>Để đánh_giá thì khá khó , kiểu mỗi lần đến uống là một kiểu khác_nhau , hôm nhạt , hôm nhạt nhạt , hôm uống được , chả hiểu nỗi 😂 .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>						
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:5" OutOfScope="TRUE">
+				<text>Điểm trừ lớn cho quán , một ngày cũng khá tối rồi , vì " lên-cơn-macchiato " mình ghé mua 1 ly matcha macchiato mang về .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:6">
+				<text>Vị rất rất rất nhạt , mình có đưa bạn uống thử , " Ê , quán quên bỏ đường cho m rồi , haha " .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:7" OutOfScope="TRUE">
+				<text>Còn dở hơn quán lề_đường ở quê nữa 😒 .</text>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:8">
+				<text>Cạch mặt từ hôm ấy đến giờ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>		
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:9" OutOfScope="TRUE">
+				<text>Có thích uống cũng ghé TCH khác .</text>
+			</sentence>	
+			<sentence id="TheCoffeeHouseNguyenChiThanh30:10">
+				<text>Tuy là không_gian đẹp , nhân_viên tốt , đến giữ xe cũng nhiệt_tình , nhưng đừng quên chất_lượng đồ uống ! !</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>	
+		</sentences>
+	</Review>
+</Reviews>

@@ -1,0 +1,552 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="MilanMilktea1">
+		<sentences>
+			<sentence id="MilanMilktea1:0">
+				<text>Trà sữa rẻ nhiều thạch nhất ĐN đây , khi_không đủ tiền đi nhưng quán đắt tiền thì milan là một nơi lí_tưởng để đến , mình thường gọi trà sữa trà xanh full thạch , thạch nhiều , khúc bạch ở đây ngon , béo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea1:1">
+				<text>Milkfoam muối biển mặn mặn , milkfoam phô_mai thì béo quá , lớp milkfoam ít , múc 3 muỗng là hết Quán đông nhưng phục_vụ khá nhanh</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea2">
+		<sentences>
+			<sentence id="MilanMilktea2:0">
+				<text>Tới uống đi nào anh_chị_em ơi , trà sữa không_những ngon mà thạch và popping bỏ rất nhiệt_tình .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea2:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Lần nào đi uống trà sữa với bạn đều nghĩ đến quán này đầu_tiên .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea3">
+		<sentences>
+			<sentence id="MilanMilktea3:0">
+				<text>Anh_chị chủ dth nhân_viên phục_vụ tận_tình nước ngon nên đến nhiều lần ❤ ️ ❤ ️ ❤ ️</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea4">
+		<sentences>
+			<sentence id="MilanMilktea4:0" OutOfScope="TRUE">
+				<text>Hôm_nay mừng VN thắng , đi mua trà sữa đãi lũ bạn .</text>
+			</sentence>
+			<sentence id="MilanMilktea4:1">
+				<text>Công_nhận là vui thôi đừng vui quá : ) Nhân_viên chắc vui hì , mua trà sữa bạc_hà mà ún vào toàn thấy bạc_hà cay cả cổ_họng , k có chút trà sữa .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea4:2">
+				<text>Đã_vậy mình có gọi trà đào nữa mà nhân_viên coi bão hay_sao mà k quan_tâm và k làm luôn , đợi khi mình nhắc mới làm .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea4:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình k chê gì nhưng_mà vui thôi đừng vui quá</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea5">
+		<sentences>
+			<sentence id="MilanMilktea5:0" OutOfScope="TRUE">
+				<text>Lâu rồi mới ghé lại đây , vì bây_giờ nhiều trà sữa thương_hiệu lớn mở nên cứ đua nhau đi thử mà quên mất vị trà sữa vỉa_hè ngày nào vẫn cùng bạn_bè đi uống , trở_về uống lại thấy quán vẫn đông tấp_nập .</text>
+			</sentence>
+			<sentence id="MilanMilktea5:1">
+				<text>Đến gọi kem cheese mà nhanh hết nên hơi tiếc .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea5:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Uống lại vị vẫn ngọt và béo_béo nhưng ngày_trước mình hay uống .</text>
+			</sentence>
+			<sentence id="MilanMilktea5:3"> <!--sua-->
+				<text>Quán đc cái đông nhưng làm đồ uống khá nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea5:4">
+				<text>Nhân_viên dễ_thương nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea5:5">
+				<text>2 ly vậy_mà có 25k , uống trà sữa đắt tiền quen rồi nên nhìn vào hoảng 😂 vì rẻ quá 😂 sẽ quay lại_nữa .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea5:6" OutOfScope="TRUE">
+				<text>Chúc_Milan quán luôn đông khách ❤ ️ 😘 ❤ ️</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea6">
+		<sentences>
+			<sentence id="MilanMilktea6:0">
+				<text>Trà sữa ở đây ngon dã_man luôn đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:1">
+				<text>Kết quán cực_kì mà có_điều là xa nhà mình quá nên mỗi lần đi_lại nhát : v .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:2">
+				<text>Quán cso không_gian rộng_rãi lắm nha bao đẹp luôn đó là vỉa_hè .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:3">
+				<text>Không_gian thân_thiện với môi_trường lắm luôn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:4">
+				<text>Trà đào ở đây ngon lắm được làm_bằng trà lipton đào ngon thiệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:5">
+				<text>Uống rồi mà cứ muốn uống mãi th ngon chi lạ lát đào thì_thôi cắt miếng to_đùng luôn đó hị .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea6:6">
+				<text>Nhân_viên duyệt qua luôn nha : v</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea7">
+		<sentences>
+			<sentence id="MilanMilktea7:0">
+				<text>Đến đây vài lần và chưa lần nào gọi được món mình muốn gọi .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea7:1">
+				<text>Trà sữa vị bình_thường thì ngọt , trà đào thì lạt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea7:2">
+				<text>Chán .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea8">
+		<sentences>
+			<sentence id="MilanMilktea8:0" OutOfScope="TRUE">
+				<text>Được hôm trời lạnh mà đúng cái ngày quán ra món trà sữa nóng này .</text>
+			</sentence>
+			<sentence id="MilanMilktea8:1" OutOfScope="TRUE">
+				<text>Mình đã ship ngay và luôn .</text>
+			</sentence>
+			<sentence id="MilanMilktea8:2">
+				<text>Ngoại_hình ly bắt_mắt qá trời nè .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:3">
+				<text>Xinh mà chất_lượng đi_đôi nha .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:4">
+				<text>Trà sữa rất thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:5">
+				<text>Ngọt béo nhưng ko ngọt gắt nè .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:6" OutOfScope="TRUE">
+				<text>Mấy bạn cùng công_ty khen quá_trời luôn .</text>
+			</sentence>
+			<sentence id="MilanMilktea8:7">
+				<text>Và sẽ ủng_hộ quán dài_dài .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:8">
+				<text>Vì giá rẻ và trà sữa ngon .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea8:9" OutOfScope="TRUE">
+				<text>16k , 18k chớ mấy</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea9">
+		<sentences>
+			<sentence id="MilanMilktea9:0">
+				<text>Cái ly giấy noel của milan xinh quá đi nên đứng_ngồi ko yên thiệt mà : ) ) ) Chỗ này lúc_nào cũng nhộn_nhịp đông vui_thích dễ_sợ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea9:1" OutOfScope="TRUE">
+				<text>Bữa mình có ghé định mua về ts thái xanh , mà hết nên đổi qua truyền_thống .</text>
+			</sentence>
+			<sentence id="MilanMilktea9:2" OutOfScope="TRUE">
+				<text>Gọi thêm trân_châu đen với plan nữa , hết 19k thôi : ) ) Trà sữa truyền_thống ngon nhưng ko ngon bằng thái xanh .</text>
+			</sentence>
+			<sentence id="MilanMilktea9:3"> <!--sua-->
+				<text>Trân_châu đen ngon , còn plan mình thấy bình_thường .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea9:4">
+				<text>Vẫn là thích nv ở đây .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea9:5">
+				<text>Dù quán ở vỉa_hè nhưng thái_độ bạn nào bạn nấy rất lễ_phép và lịch_sự , nên điểm phục_vụ mình chấm 10đ : 3 Milan mà có thẻ tích điểm chắc uống hoài luôn quá vì gần vs ngon rẻ nữa : ) ) )</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea10">
+		<sentences>
+			<sentence id="MilanMilktea10:0">
+				<text>Trà sữa cũng tạm ổn , không quá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MilanMilktea10:1">
+				<text>Giá_cả thì bình_dân , phù_hợp vs học_sinh , sinh_viên .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea10:2">
+				<text>Về chất_lượng phục_vụ thì chưa tốt lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea10:3">
+				<text>Do lượng khách cũng khá đông nên order đồ uống cũng lâu và chờ nước đem ra cũng lâu nữa .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea11">
+		<sentences>
+			<sentence id="MilanMilktea11:0" OutOfScope="TRUE">
+				<text>Đi trực được ra sớm nên tạt qua mua ly thái xanh về uống .</text>
+			</sentence>
+			<sentence id="MilanMilktea11:1">
+				<text>Topping ở đây mình thích trân_châu đen nhất , dai vừa đủ , ko bị dai_nhách nên dễ ăn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea11:2">
+				<text>Ly này có 12k thôi : ) ) Đem về nhà trà sữa vẫn ngon , đậm , vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea11:3">
+				<text>Trân_châu thì_có 2k mà tỉ nhiều .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea11:4">
+				<text>Thích ghê luônnn hihi : 3 Nv lịch_sự cũng lịch_sự , lễ_phép nữa .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea11:5" OutOfScope="TRUE"> <!--sua-->
+				<text>Sẽ quay lại .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea12">
+		<sentences>
+			<sentence id="MilanMilktea12:0">
+				<text>Nói_chung giá_cả rẻ so với mặt_bằng chung .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea12:1">
+				<text>Thích nhất uống trà đào , ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea12:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Có_điều quán cứ tối là lúc_nào cũng đông .</text>
+			</sentence>
+			<sentence id="MilanMilktea12:3">
+				<text>Đợi cũng hơi lâu = = Nên toàn mua về</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea13">
+		<sentences>
+			<sentence id="MilanMilktea13:0">
+				<text>Quán vỉa_hè , nhưng lúc_nào cũng đông vui . : ) ) ) . mình rất hay ghé quán , giá bình_dân nhưng chất_lượng ổn . Ly trà sữa đặc_biệt mà có 18k , đầy ụ thạch . Nhân_viên phục_vụ nhanh_nhẹn , k phải chờ lâu .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea13:1">
+				<text>Bữa_nay quán có mở thêm phía trong , có mái che nên k sợ mưa tạt nữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea14">
+		<sentences>
+			<sentence id="MilanMilktea14:0" OutOfScope="TRUE">
+				<text>Tới quán khá nhiều lần .</text>
+			</sentence>
+			<sentence id="MilanMilktea14:1">
+				<text>Trà sữa khá rẻ nhưng lại ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea14:2">
+				<text>Khá thích_thú nơi này .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea14:3">
+				<text>Quán đông vui , nhân_viên lại nhanh_nhẹn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea14:4">
+				<text>Order cũng rất nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea15">
+		<sentences>
+			<sentence id="MilanMilktea15:0">
+				<text>Trà sữa quán vỉa_hè , cực_kỳ đông_đúc mỗi tối .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea15:1">
+				<text>Trà sữa ngon bổ rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea15:2">
+				<text>20-25k là no_nê vừa trân_châu vừa thập_cẩm các loại pudding và thạch .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea15:3">
+				<text>Tuy quán đông nhưng làm nhanh , vừa gọi món xong , ngồi chờ 1 tí là có trà sữa rồi .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="MilanMilktea15:4">
+				<text>Đây là quán quen mỗi khi cơn thèm trà sữa tái_phát nên chắc_chắn sẽ quay lại .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea16">
+		<sentences>
+			<sentence id="MilanMilktea16:0">
+				<text>Đây là quán trà sữa vỉa_hè mình thích nhất ở Đà_Nẵng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea16:1" OutOfScope="TRUE">
+				<text>Rất thường_xuyên tới quán này .</text>
+			</sentence>
+			<sentence id="MilanMilktea16:2">
+				<text>Quán đông cực_kì , mặc_dù rất rộng_rãi nhưng đi tầm 8h tối là có_khi hết bàn ngồi luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="MilanMilktea16:3">
+				<text>Quán ngồi vỉa_hè nên đi với 1 nhóm bạn đến đây buôn chuyện là đúng bài .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea16:4">
+				<text>Trà sữa ngon cực_kì , vị rất ngon , 1 ly khá nhiều mà giá lại rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea16:5" OutOfScope="TRUE">
+				<text>1 ly chỉ tầm 20-25k thôi .</text>
+			</sentence>
+			<sentence id="MilanMilktea16:6">
+				<text>Mình cực_kì ghiền trà đào với trà sữa bánh flan ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea16:7">
+				<text>Bánh flan mềm và ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea16:8" OutOfScope="TRUE">
+				<text>Lâu_lâu lại gọi riêng bánh flan ra ăn , 1 cái 5k thì_phải .</text>
+			</sentence>
+			<sentence id="MilanMilktea16:9">
+				<text>Nhân_viên nhiệt_tình , vui_vẻ nhưng_mà do đông quá nên nhiều khi phải gọi chớ không ngồi chờ là họ quên_mình luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea17">
+		<sentences>
+			<sentence id="MilanMilktea17:0" OutOfScope="TRUE">
+				<text>Quán ts của các lớp hs Trần_Phú .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:1" OutOfScope="TRUE">
+				<text>Ở đây chắc ai cũng biết quán ni rồi .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Quán vỉa_hè , dân_dã , đối_diện trường .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Đặc_trưng màu xanh lá nên đứng xa cũng dễ nhận ra dc quán liền .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:4" OutOfScope="TRUE">
+				<text>Trà sữa các loại .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:5" OutOfScope="TRUE">
+				<text>Thạch các loại .</text>
+			</sentence>
+			<sentence id="MilanMilktea17:6">
+				<text>Cực_kì náo_nhiệt và đông_đúc khi tới đây .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:7">
+				<text>Ts ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:8">
+				<text>Mùi_vị đậm_đà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:9">  <!--sua-->
+				<text>Có rất nhiều loại thạch , flan mix vs ts .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:10"> <!--sua-->
+				<text>Cũng_như có nhiều món đồ uống khác .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:11">
+				<text>Nv xanh ở quán thân_thiện , vui_vẻ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:12">
+				<text>Nhiệt_tình nữa .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea17:13" OutOfScope="TRUE">
+				<text>Hy_vọng là quán sẽ có k gian riêng cho mình !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea18">
+		<sentences>
+			<sentence id="MilanMilktea18:0" OutOfScope="TRUE">
+				<text>Tối_qua con_em và mình có ghé đây .</text>
+			</sentence>
+			<sentence id="MilanMilktea18:1" OutOfScope="TRUE">
+				<text>Lần đầu đến quán luôn , tầm 9 giờ tối nên quán cũng vãng khách rồi .</text>
+			</sentence>
+			<sentence id="MilanMilktea18:2">
+				<text>Đồ uống ra nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea18:3" OutOfScope="TRUE">
+				<text>Mình uống thái đỏ đặc_biệt thêm kem cheese , con_em truyền_thống đặc_biệt .</text>
+			</sentence>
+			<sentence id="MilanMilktea18:4">
+				<text>Kem cheese ở đây ko ngon , mình chưa thấy độ ngậy vs béo thường thấy của cheese , chỉ thấy ngọt vs mùi như sữa bột thôi : p thạch nhiều , pudding khoai_môn ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea18:5">
+				<text>Trân_châu trắng ko dai vs sực đủ độ như gongcha mà như rau_câu í , ko thích trân_châu trắng lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea18:6">
+				<text>Khuc bạch ko ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea18:7">
+				<text>Trà sữa thì hơi nhạt , mình có cảm_giác như kiểu trà nó được pha loãng ra nên mới ít đậm vậy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea18:8">
+				<text>Nói_chung giá_cả rẻ , nhưng mình chưa thực_sự ưng_ý lắm .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea18:9" OutOfScope="TRUE">
+				<text>Có dịp sẽ quay lại thử trà đào và thái xanh .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea19">
+		<sentences>
+			<sentence id="MilanMilktea19:0">
+				<text>Niết quán_từ hồi còn vắng khách mà h thì đông_đúc chen bắt mệt lun .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="MilanMilktea19:1">
+				<text>Điểm cộng cho quán là nhìn sạch_sẽ lại nằm trên đường rộng_rãi vắng_vẻ trong_lành nữa k xô_bồ như nhiều chỗ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea19:2">
+				<text>Menu thì đa_dạng mà giá_cả thì phải_chăng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea19:3"> <!--sua-->
+				<text>Mình thấy ngon hơn money luôn ấy tại sạch_sẽ mà topping thì toàn đồ ok k tạp_nham nhiều thạch .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea19:4">
+				<text>Kết nhất_là thái xanh ở quán , thơm thơm lại k quá ngọt uống rất ngon , kết nhì là khúc bạch sữa_tươi cũng beo_béo rất hợp .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea19:5">
+				<text>Trà thái đỏ cũng rất thơm và ngon hơn nhiều chỗ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea19:6" OutOfScope="TRUE">
+				<text>H thì đông quá rồi thèm nhưng cũng nhác ngồi nên tiện thì mua về nhâm_nhi thôi .</text>
+			</sentence>
+			<sentence id="MilanMilktea19:7">
+				<text>Nhân vỉen cũng nhiệt_tình và dễ thưong lắm</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea20">
+		<sentences>
+			<sentence id="MilanMilktea20:0" OutOfScope="TRUE">
+				<text>Milan có_lẽ đã quen_thuộc với các bạn trẻ đn rồi nhỉ .</text>
+			</sentence>
+			<sentence id="MilanMilktea20:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Đối_diện ngay trường Trần_Phú nên h tan học khá đông .</text>
+			</sentence>
+			<sentence id="MilanMilktea20:2" OutOfScope="TRUE">
+				<text>Nếu đc thì ko nên mua giờ này .</text>
+			</sentence>
+			<sentence id="MilanMilktea20:3">
+				<text>Buổi tối ngồi đây tụ_tập nói_chuyện với bạn_bè thì ok nè .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea20:4">
+				<text>Chất_lượng thì cũng tạm ổn chứ chưa xuất_sắc lắm đâu .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="MilanMilktea20:5">
+				<text>Nói_chung giá_cả phù_hợp với hssv</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="MilanMilktea21">
+		<sentences>
+			<sentence id="MilanMilktea21:0"> <!--sua-->
+				<text>Trà sữa bên này ổn hơn bên Money nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea21:1">
+				<text>Mặc_dù vs mình nó hơi ngọt nhưng chung_quy_lại ngon , nhiều thạch .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="MilanMilktea21:2">
+				<text>flan cũng ngon nữa</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

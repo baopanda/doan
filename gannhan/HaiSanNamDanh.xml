@@ -1,0 +1,530 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="HaiSanNamDanh1">
+		<sentences>
+			<sentence id="HaiSanNamDanh1:0">
+				<text>Quán nằm gần cuối hẻm tìm đường hơi khó .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:1">
+				<text>Đi cuối tuần nên rất đông , kín hết bàn , ngồi đợi hơi lâu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:2">
+				<text>Vì đông và trong hẻm nên không_gian hơi nhốn_nháo , k sạch lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:3">
+				<text>Đồ_ăn đồng giá 60k , đa_dạng , tương_đối ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:4" OutOfScope="TRUE"> <!--sua-->
+				<text>Có lón bạch_tuộc ớt là hot order .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:5" OutOfScope="TRUE">
+				<text>Vì quán đông nên kế bên có mở thêm 1 quán nữa , nếu bên này hết bàn thì có_thể sang quán kia .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:6">
+				<text>Theo mình thì đi 1 lần cho_biết thôi , vì hạn_chế đường đi với không_gian k thoải_mái .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh1:7">
+				<text>Tuy_nhiên phục_vụ thì tốt .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh2">
+		<sentences>
+			<sentence id="HaiSanNamDanh2:0">
+				<text>Lúc mới đến , thấy khách đông , ngỡ quán ok nhưng ngồi chờ món ăn đã thèm ra ăn cũng ko ngon mấy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh2:1">
+				<text>Pv ò quán quá tệ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh2:2">
+				<text>Khách gọi mấy lần cũng ko thèm quan_tâm .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh2:3" OutOfScope="TRUE">
+				<text>Sau_này chắc ko bỏ công đến 1 nơi xa và nhiều hẽm để thuơngr thức khi mình chưa rõ nơi đó pv ntn .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh3">
+		<sentences>
+			<sentence id="HaiSanNamDanh3:0">
+				<text>Đi muộn nên đúng là chả còn gì để ăn nữa hic hic .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh3:1">
+				<text>Toàn mấy món bình_thường thôi chả ngon_lành gì .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh3:2">
+				<text>Ghẹ xào mẹ óp óp , thịt cũng chả ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh3:3">
+				<text>Hàu nướng mỡ hành cũng được thui mà với mình thấy hơi tanh tanh .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh3:4">
+				<text>Ốc_hương k tươi với cả nhỏ lắm , ăn chả được mấy , được_cái nước ngon để hcaams bánh_mì .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh4">
+		<sentences>
+			<sentence id="HaiSanNamDanh4:0">
+				<text>Nghe mọi người nói ở đay ngon bổ rẻ lắm nên đi tìm đến quán để thử .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:1">
+				<text>Vị_trí quán khá khó tìm , quán trong ngõ nhỏ hơi ngoằn_ngoèo nhưng không_gian rộng vì có nhiều gian nhà và chỗ để xe riêng .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:2">
+				<text>8h hơn tối mình đến quán đông_nghịt và đã bị giục gọi món chọn luôn 1 thể để bếp nghỉ rồi hiuhiu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:3" OutOfScope="TRUE">
+				<text>Đồ_ăn ở đây hình_như đồng giá 60k thì_phải mình gọi món nào cũng vậy .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:4">
+				<text>Như_thế là giá quá rẻ luôn .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:5">
+				<text>Quán phục_vụ rất nhanh nhân_viên nhiệt_tình chu_đáo .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:6" OutOfScope="TRUE">
+				<text>Sẽ quay lại để thưởng_thức hết các món .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh4">
+		<sentences>
+			<sentence id="HaiSanNamDanh4:0"> <!--sua-->
+				<text>Quán mở_cửa 10h đến 9h tối Mình đến lúc 11h đã thấy quán đông lắm rồi Nhân_viên phục_vụ rất nhanh .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:1" OutOfScope="TRUE">
+				<text>Đồ_ăn ở đây đồng giá 60k , chỉ vài món giá cai hơn sẽ được báo Đi 2 người ăn 3 món mà no căng rồi Nếu muốn ăn_đủ món thì nên đến sớm .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh4:2" OutOfScope="TRUE">  <!--sua-->
+				<text>Đi trễ hay bị hết mấy món đặc_biệt</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh5">
+		<sentences>
+			<sentence id="HaiSanNamDanh5:0"> <!--sua-->
+				<text>Chưa bao_giờ đi quán nào mà đông dễ_sợ như quán này .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:1">
+				<text>Đi khá xa và vô nhiều hẻm mới tới được quán .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Mặc_dù quán có nhiều lô nhưng hôm mình đi trúng lễ nên khách cực_kì đông .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:3">
+				<text>Mình tới lúc 12h kém mà đã không còn bàn , khách đứng đợi bàn quá_trời .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:4" OutOfScope="TRUE">
+				<text>Bù lại ở đây hải_sản đều đồng giá 60k / món .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:5">
+				<text>Đồ_ăn vừa_miệng , chất_lượng , phục_vụ nhiệt_tình .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:6">
+				<text>Mỗi_tội đông nên phải chờ lâu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:7">
+				<text>Mê nhất_là gỏi cá_lạc , ghẹ rang me , hàu nướng mỡ hành .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh5:8">
+				<text>Ốc_hương xào xả ớt hơi bé .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh6">
+		<sentences>
+			<sentence id="HaiSanNamDanh6:0">
+				<text>Đồ_ăn cũng bình_thường , thấy món điệp nướng ngon , tôm rang me thì chua quá , nước lẩu vừa dùng nhưng đồ k bao_nhiêu , nghêu xào thái ăn ngon hơn tôm rang me .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh6:1">
+				<text>Nói_chung tạm không có gì là đặc_sắc cả , phục_vụ chậm .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh6:2" OutOfScope="TRUE">
+				<text>Ai ăn_ở Ba_Rô rồi thì thấy Ba rô ngon hơn , phục_vụ nhanh hơn .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh7">
+		<sentences>
+			<sentence id="HaiSanNamDanh7:0">
+				<text>Quán phải nói là rất đông luôn , mình đi chơi né ngày tết rồi mà vẫn đông kinh_khủng @ @ .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Quán đầu_tư hẳn 4 khu nhà để ăn và 2 khu gửi xe , nhưng vẫn không đủ chỗ phục_vụ .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:2">
+				<text>Quán hơi khó tìm , có bảng chỉ_dẫn nên các bạn chạy xe quan_sát xíu không là chạy lố đường .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:3">
+				<text>Quán giá rất là rẻ , mà tẩm ướp rất ngon nhưng ốc gọi_là size mini luôn , thôi_thì giá vậy cũng hợp_lý với chất_lượng ^ ^ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:4" OutOfScope="TRUE">
+				<text>Mình đến lúc 11h mà quán đã hết ghẹ , bạch tuột .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:5">
+				<text>Nếu đến lại Đà_Nẵng mình cũng sẽ đi_lại vì giá rẻ mà đồ_ăn cũng rất tươi .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh7:6" OutOfScope="TRUE">
+				<text>Đi với bạn_bè thì cứ_thế mà triển thôi 😋</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh8">
+		<sentences>
+			<sentence id="HaiSanNamDanh8:0"> <!--sua-->
+				<text>Quán nổi_tiếng đông khách nên bọn mình ghé buổi_trưa ai_ngờ khách đông full bàn phải đứng đợi 30 phút , nhưng bù lại đồ_ăn rất tươi ngon và giá rẻ nửa .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh8:1">
+				<text>Vị_trí khá khó tìm nhưng các bạn đừng bỏ lỡ khi đã có dịp ghé đà nẵng nha .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh8:2">
+				<text>Quá tuyệt_vời !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh9">
+		<sentences>
+			<sentence id="HaiSanNamDanh9:0" OutOfScope="TRUE">
+				<text>Lập hội đi ăn năm đảnh nào : ) ) Nhóm mình đi 6 đứa .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:1">
+				<text>Gọi 5 dĩa với 1 lẩu ăn no ná thở luôn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:2">
+				<text>Ấn_tượng ghẹ rang me , sốt chua_chua ngọt chấm bánh_mì ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:3">
+				<text>Mực xào cay thì toàn tỏi , cũng ít mực , mình thấy ăn bạch_tuộc xào cay ngon hơn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:4">
+				<text>Bò thì bị dai .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:5">
+				<text>Cá ngon : ) ) Lẩu thì ổn thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence> 
+			<sentence id="HaiSanNamDanh9:6">
+				<text>Nước trên chua_ngọt cay_cay thì ngon chứ nước dưới nhạt nhạt sao á .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:7">
+				<text>Nhìn_chung tổng_thể rẻ và ăn ổn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh9:8">
+				<text>Do ko có nhiều món tủ của mình lắm : ) ) Đi buổi_trưa 11h mà quán đông dã_man luôn á 😭 bữa sau sẽ quay lại_nữa</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh10">
+		<sentences>
+			<sentence id="HaiSanNamDanh10:0" OutOfScope="TRUE">
+				<text>Gia_đình mình lâu_lâu lại tụ_tập ở đây vào buổi_trưa " đánh_chén " .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh10:1">
+				<text>Những món mình đã thử qua đều ngon , hầu_như đồng giá 60k .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh10:2">
+				<text>Ấn_tượng nhất_là các món mực nang sốt cay , hàu nướng mỡ hành và món ốc giấy xào xả ớt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh10:3">
+				<text>Ghé quán nhiều lần rồi và chưa lần nào quán làm mình thất_vọng cả .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh10:4" OutOfScope="TRUE"> <!--sua-->
+				<text>Tuy quán đông , lần nào đến cũng phải đợi bàn trống mà " nhảy " vào ngồi nhưng cũng đáng chờ_đợi lắm 😂 Hồi lần đầu mình ăn thì mới có 2 gian nhà , còn bây_giờ hình_như 4 gian luôn .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh10:5">
+				<text>Ngon và chất_lượng bảo sao quán k đông 😀</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh11">
+		<sentences>
+			<sentence id="HaiSanNamDanh11:0">
+				<text>Mih đến lúc 11h quán mới mở nên gọi món phục_vụ khá nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh11:1">
+				<text>Món nào cũng nóng_hổi , ăn ngon quá_trời , mà giá thì siêu siêu rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh11:2">
+				<text>5 người , gọi hơn 10 món mà tổng thiệt hải 620k Điểm trừ : đi khá xa , vs hơi nhiều ruồi , mong quán sẽ khắc_phục sớm .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh12">
+		<sentences>
+			<sentence id="HaiSanNamDanh12:0" OutOfScope="TRUE">
+				<text>Quán đồng giá .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:1" OutOfScope="TRUE">
+				<text>Mình vào kêu mực hấp , gỏi sứa , cháo hàu , càng ghẹ rang me , và lẩu hải_sản .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:2" OutOfScope="TRUE">
+				<text>Chẳng nhớ giá nữa .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:3">
+				<text>Ăn 3 người khá là no .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:4">
+				<text>Gỏi sứa bỏ nhiều hành_tây , hăng ăn nươcd chấm lại rất cay , còn ít sứa nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:5">
+				<text>Cháo hàu ngon , nhưng mình cảm_thấy rất ngọt ko biết có bỏ đường ko nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:6" OutOfScope="TRUE">
+				<text>Càng ghẹ thì rang muối có_lẽ sẽ ngon hơn rang me .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:7" OutOfScope="TRUE">
+				<text>Lâu thì món cuối rồi no ko muốn an nữa .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:8">
+				<text>Quán chỗ giữ xe rộng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:9">
+				<text>Nhân_viên phục_vụ nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh12:10" OutOfScope="TRUE">
+				<text>Sẽ quay lại nếu có dịp</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh13">
+		<sentences>
+			<sentence id="HaiSanNamDanh13:0">
+				<text>Đồ_ăn ổn , vị_trí quán hơi khó tìm , giá ổn</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh14">
+		<sentences>
+			<sentence id="HaiSanNamDanh14:0">
+				<text>Hải_sản đồng giá 60K tràn bờ đê ăn no cành hông .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh14:1" OutOfScope="TRUE">
+				<text>Bữa vô hải_sản năm đảnh gọi ốc_hương xào , càng ghẹ rang me với bạch_tuộc nướng .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh14:2">
+				<text>Phải nói là cực rẻ mà cực ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh14:3">
+				<text>Quán xào_nấu thấm vị vô_cùng , ăn mà muốn ăn hết trơn cái quán mà tiếc cái bụng mình nhỏ quá nên không có_ăn hết được : ) ) ) Lần sau sẽ quay lại và ăn những món khác hơn để thưởng_thức cho bằng hết hải_sản năm đảnh Hai người ăn cỡ 4 món là dư sức no nên</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh15">
+		<sentences>
+			<sentence id="HaiSanNamDanh15:0" OutOfScope="TRUE">
+				<text>Đây là lần thứ 3 mình ghé quán .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:1">
+				<text>Mặc_dù hơi xa so với nhà mình nhưng mỗi lần muốn ăn hải_sản mà giá_cả phải_chăng thì chỉ có_thể qua Năm_Đảnh 😋 😋 - Vị_trí : quán trong hẻm , hơi khó tìm , xe oto không chạy vào được 😢 - Giá_cả : hầu_hết các món ăn đều đồng giá 60k/dĩa , nếu có món nào giá cao hơn ( 80k hoặc 100k ) , thì nhân_viên sẽ báo lại lúc order 🤗 .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:2">
+				<text>- Chất_lượng : so với giá_thành thì mình thấy khá ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:3">
+				<text>Mỗi lần đến đây mình đều thích món hàu nướng mỡ hành , dĩa tầm 7-8 con , cũng khá bự 😛 .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:4">
+				<text>Hoặc món mực cơm hấp cũng okie .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:5">
+				<text>Hôm trước mình có gọi món ốc_hương , nhưng có_lẽ đi trúng ngày ốc hơi nhỏ nên không ngon lắm 😥 😥 - Dịch_vụ : các món ăn_làm khá nhanh , các loại nước sốt chấm bánh_mì khá đậm_đà , nhân_viên phục_vụ nhanh_nhẹn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh15:6">
+				<text>- Không_gian : vì quán nằm trong hẻm nên không_gian hơi hẹp , kiểu thích_hợp để ngồi nhậu , với mình cảm_thấy có chút không hợp vệ_sinh lắm thì_phải 😂 😂</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh16">
+		<sentences>
+			<sentence id="HaiSanNamDanh16:0">
+				<text>Hải_sản vừa tươi vừa ngon vừa rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh16:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Đi 2 người hết có 300k là căng bụng</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh17">
+		<sentences>
+			<sentence id="HaiSanNamDanh17:0" OutOfScope="TRUE">
+				<text>Tối_qua hai vợ_chồng đi ăn_ở đây .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:1">
+				<text>Địa_điểm cách khá xa trung_tâm tp nhưng nghe đồn lâu rồi nên cũng ráng đi thử .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:2">
+				<text>Ấn_tượng đầu_tiên là quán khá đông nhưng nhân_viên rất nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:3">
+				<text>Gọi món thì_phải chờ hơi lâu một_chút nhưng món ăn ra thì nóng_hổi .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:4">
+				<text>Ăn 4 món + 2 chai bia 1 chai nước mà hết có 284k , món ăn thì rất nhiều .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:5" OutOfScope="TRUE"> <!--sua-->
+				<text>Hai vợ_chồng ăn no_nê .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:6" OutOfScope="TRUE">
+				<text>Đánh_giá 4 * và sẽ ghé lại lần sau .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh17:7" OutOfScope="TRUE">
+				<text>( còn món ghẹ hấp nữa mà ham ăn quá nên quên chụp lại ) .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh18">
+		<sentences>
+			<sentence id="HaiSanNamDanh18:0" OutOfScope="TRUE">
+				<text>Hải_sản đồng giá 60k / món .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:1" OutOfScope="TRUE">
+				<text>Trong hình là bạch_tuộc xào cay , lẩu cá bớp , có gọi thêm cơm xào hải_sản mà quên không chụp mất_tiêu : ) ) ) ) .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:2">
+				<text>Riêng lẩu là 100k nhé , cơ_mà vào đây nên ăn các món khác vì lẩu bình_thường và hơi ít .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:3">
+				<text>Ấn_tượng đầu_tiên là quán khá đông nhưng nhân_viên rất nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:4" OutOfScope="TRUE">
+				<text>Đi 6 người tổng thiệt_hại là 230k ăn cũng vừa bụng .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:5">
+				<text>Vị_trí quán xa trung_tâm , đi vào hẻm hơi khó tìm 1 chút .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh18:6">
+				<text>Nhưng_mà vì các món ăn ngon nên không quản đường xa mà tìm đến 😘 chắc_chắn sẽ còn ghé lại 👌 🏻</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="HaiSanNamDanh19">
+		<sentences>
+			<sentence id="HaiSanNamDanh19:0">
+				<text>Ở Đà_Nẵng , quán Năm_Đảnh nổi_tiếng lắm luôn ak .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:1"> <!--sua-->
+				<text>Nhưng đường vô quán thì khó kinh_khủng .</text>
+				<Opinion category="REST#LOCATION" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:2" OutOfScope="TRUE">
+				<text>Mình đi 5 hay 6 lần rồi mà vẫn không nhớ đường .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:3" OutOfScope="TRUE">
+				<text>Ở đây món nấu hợp vị người miền trung .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:4">
+				<text>Giá cũng rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:5">
+				<text>Mình thích cá_đuối nướng ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:6" OutOfScope="TRUE">
+				<text>Tiếc là tham ăn quá quên chụp mất .</text>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:7">
+				<text>Ở đâu lẩu không ngon lắm , quán nấu nhiều thơm quá nên chua .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="HaiSanNamDanh19:8">
+				<text>Còn lại đều ổn so với giá .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

@@ -1,0 +1,580 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="LiferiaCoffee1">
+		<sentences>
+			<sentence id="LiferiaCoffee1:0">
+				<text>Đồ uống ngon , nhưng đợi hơi lâu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee1:1">
+				<text>không_gian thì hơi ồn_ào tí</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee2">
+		<sentences>
+			<sentence id="LiferiaCoffee2:0" OutOfScope="TRUE">
+				<text>Đến quán cũng được vài lần nhưng hnay mới đươc bữa review cho quán .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Hôm nào mình đi cũng sau 7h nên lúc_nào cũng trong tình_trạng đông_đúc .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:2">
+				<text>Từ trong ra ngoài đều hết chỗ vì bọn mình đi cũng khá đông tầm 8-9ng , chỗ còn thì k đủ chỉ còn khu ngoài_trời thì gần thùng rác , khu trong gần order thì ồn_ào bởi máy xay . . thiệt gặp hôm quá khó_chịu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee2:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Đến phần nước uống thì đem ra nhiều loại mà k nói ly nào loại j làm bọn mình phải căng mắt ra mà phân_loại : ( .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:4" OutOfScope="TRUE"> <!--sua-->
+				<text>Khu đó chỉ có mỗi bàn tụi mình nên bọn mình xin đánh_bài vì ồn_ào quá nc cũng k đc .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:5" OutOfScope="TRUE">
+				<text>Nhưng nhân_viên k đồng_ý nên vậy thôi bọn mình lại nhìn nhau .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:6">
+				<text>Bánh ở đây khá ngon , bánh giòn_tan ăn cùng vs kem mát_lạnh .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee2:7">
+				<text>Nhung hôm mình đến order bánh xong kiểu như quán qên hay_sao á , đợi mãi đợi mãi vẫn k thấy bánh ra .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee2:8" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình phải gọi nhân_viên hỏi thì mới đem ra mà lúc đó bọn mình cũng sắp về gần 8h30-9h .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:9" OutOfScope="TRUE"> <!--sua-->
+				<text>Thế_là lại ăn vội ăn vàng và còn để lại thiệt không phải_biết nói sao .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee2:10">
+				<text>Được_cái điểm cộng là không_gian ở đây khá đẹp , moi ngóc nghách chỗ nào cũng thật so deep , rất phù_hợp để bạn sống ảo = ) ) .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee2:11">
+				<text>Nhân_viên cũng nhiệt_tình , tại bọn mình chạy lòng_vòng đổi chỗ liên_tục mà các bạn vẫn rất niềm_nở 👍 .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee2:12">
+				<text>Ngoài hôm gặp bất_trắc ra thì vẫn rất iu quán , sẽ quay lại thường_xuyên 🤪</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee3">
+		<sentences>
+			<sentence id="LiferiaCoffee3:0">
+				<text>Không_gian quán rộng_rãi , view thì xinh lung_linh ^ ^ , nhân_viên thân_thiện , đồ uống khá ngon đậm vị .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee3:1">
+				<text>1 lưu_ý nhỏ là ở đây k phục_vụ bingsu sau 18h nhưg có 1 thắc_mắc nhỏ khôg hiểu sao mình k nhận đc bill , nhân_viên cầm bill để mình tính tiền xog rồi cầm đi luôn , và số tiền mình đưa dư 3k nhưg k thấy thối lại , lúc đầu mình kqtâm con bạn nhắc mới biết , mong quán chú_ý kĩ và khắc_phục nhé .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee3:2">
+				<text>À mà ở đây order tại_chỗ rất tiện nhé , có dịp sẽ quay lại sau ! !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee4">
+		<sentences>
+			<sentence id="LiferiaCoffee4:0" OutOfScope="TRUE">
+				<text>8h15 bước chân vào quán , order 2 ly choco đá xay .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee4:1">
+				<text>9hkem10 mình mới nhận được nước , trong khi quán không đông , mình nhiều lần hỏi nv thì nv không một lời_nói xin lôiz hay thông_cảm , bàn mình đến trước 2,3 bàn nhưng 2,3 bàn kia đều có nước .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee4:2">
+				<text>Thực_sự rất bực mới viết ra , mong quán khắc_phục Thân !</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee5">
+		<sentences>
+			<sentence id="LiferiaCoffee5:0">
+				<text>Món dừa xay quá ngọt , uống k đc , gọi bạn nv đổi giúp ly chanh nóng ko đường mà ko cho đổi , rồi bảo pha_chế đã nếm kĩ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee5:1" OutOfScope="TRUE">
+				<text>Gọi cả 2 ly khác_nhau thì 2 ly đều ngọt : ) ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee6">
+		<sentences>
+			<sentence id="LiferiaCoffee6:0" OutOfScope="TRUE">
+				<text>Cũng lâu lắm rồi mình chưa ghé vào Liferia để ngồi , nay ngán trà sữa các loại rồi nên vào lại để đổi không_khí .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee6:1">
+				<text>Quán đợt này có_vẻ vắng_vẻ hơn trước nhiều , tầm tối giờ cao_điểm mà cũng chỉ mấy bàn thôi , đỡ ồn_ào hơn như trước .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee6:2">
+				<text>Chất_lượng nước cũng ổn , tuy_nhiên các bạn nhân_viên phục_vụ có_vẻ không được nhiệt_tình lắm chờ nước cũng lâu nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee6:3">
+				<text>Được_cái không_gian ở quán khá thích , ngồi phía trong hay trên lầu đều cảm_thấy khá thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee7">
+		<sentences>
+			<sentence id="LiferiaCoffee7:0">
+				<text>Quán view đẹp , đồ uống ngon , nhân_viên phục_vụ nhiệt_tình .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee7:1">
+				<text>Có không_gian để học_tập hay tán_gẫu . Mình hay uống ở đây nên ko có gì để phê_bình .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee7:2" OutOfScope="TRUE"> <!--sua-->
+				<text>❤ ️ ❤ ️ Sẽ tiếp_tục ủng_hộ quán .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee8">
+		<sentences>
+			<sentence id="LiferiaCoffee8:0">
+				<text>Liferia nằm ngay trung_tâm nên dễ ghé qua nếu sáng ko chọn được quán nào để cafe .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee8:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Cứ hú qua quán này là dễ tập_hợp nhất .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee8:2">
+				<text>Quán đẹp , mát_mẻ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee8:3">
+				<text>Đồ uống pha_chế bình_thường và đặt trong ly nhựa không tương_xứng với giá_thành lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="LiferiaCoffee8:4">
+				<text>Quán có món mocha việt quất cũng khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee8:5" OutOfScope="TRUE"> <!--sua-->
+				<text>Sáng cuối tuần thì lúc_nào cũng đông_nghịt khách .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee9">
+		<sentences>
+			<sentence id="LiferiaCoffee9:0" OutOfScope="TRUE">
+				<text>Liferia nghe danh đã lâu mà giờ mới có cơ_hội ghé .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee9:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Quán này có tới 3 chi_nhánh lận mà mình thấy chỗ phan chu trinh này khách đông nhất .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee9:2">
+				<text>Để xe_hơi bị cực luôn , đường 1 chiều mà phải dắt xe pha bên kia đường mệt thấy sợ .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee9:3" OutOfScope="TRUE">
+				<text>Order trước tại quầy pha_chế .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee9:4">
+				<text>Menu nhiều món , cả bánh ngọt cả nước uống , giá khá cao .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee9:5">
+				<text>Mình gọi smoothie dâu_tằm , trời_ơi nó ngọt gì đâu , uống trúng cái mứt dâu_tằm là ngọt khé cổ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee9:6"> <!--sua-->
+				<text>Bánh toast nhân_viên mang ra mình đứng hình luôn vì nó to quá , ăn ko hết</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee10">
+		<sentences>
+			<sentence id="LiferiaCoffee10:0" OutOfScope="TRUE">
+				<text>Vì thích cái ly mới của Liferia nên rủ cty đặt nước về uống .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee10:1">
+				<text>Ôi cái ly xinh quá_đỗi 😍 😍 😍 Thích_hợp cho bà_con nào ưa sống ảo .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee10:2" OutOfScope="TRUE">
+				<text>Hihi_Deliverynow giảm 30% nên mình nhớ ly của mình còn chưa tới 30k .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee10:3"> <!--sua-->
+				<text>Nước uống ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee10:4">
+				<text>Shipper ship đúng giờ .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee10:5" OutOfScope="TRUE">
+				<text>Hihi</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee11">
+		<sentences>
+			<sentence id="LiferiaCoffee11:0" OutOfScope="TRUE">
+				<text>Hay ghé chỗ ni ngồi .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee11:1">
+				<text>Thích bingsu chỗ ni ...</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee11:2" OutOfScope="TRUE">
+				<text>Canh ngày deliverynow giảm_giá 30% toàn_bộ hệ_thống là me me lập team ship nước uống liền .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee11:3">
+				<text>Nước ở đây ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="LiferiaCoffee11:4">
+				<text>Không_gian cũng dễ cưng sang chảnh các kiểu .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee11:5">
+				<text>Vị_trí dễ tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee11:6">
+				<text>Nhân_viên thoải_mái . . Thích bao_bì ở đây .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee11:7" OutOfScope="TRUE">
+				<text>Năng_động sáng_tạo ...</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee12">
+		<sentences>
+			<sentence id="LiferiaCoffee12:0">
+				<text>Quán này rộng_rãi thoải_mái , không_gian đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee12:1">
+				<text>Nhân_viên cũng rất dth , khôbg gian nhiều kiểu rất thích_hợp cho nhiều công_việc .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee12:2">
+				<text>Nước uống ổn , trà đào rất ngon , capuchino , tạm ổn không béo lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee12:3">
+				<text>Nhìn_chung thì rất là ổn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee12:4">
+				<text>Đi buổi_sáng vắng người nên rất dễ sống ảo , màu xanh trang_trí bắt_mắt , nhìn dễ_chịu bingsu cũng ngon lắm nè , 4 đứa ăn phần cũng ổn lắm đó</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee13">
+		<sentences>
+			<sentence id="LiferiaCoffee13:0">
+				<text>Đánh_giá vị_trí : nằm đường Phan_Châu_Trinh cực chuẩn luôn rồi , dù Phan_Châu_Trình 1 chiều nhưng ngay góc với Lê_Đình_Dương nên rất thuận_tiện .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee13:1">
+				<text>Giá_cả : giá phù_hợp với chất_lượng , dù_vậy so với 1 thằng sinh_viên như mình thì hơi cao Chất_lượng : rất ngon từ thức uống , bánh , tất_tần_tật , khách của mình cũng thích .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee13:2">
+				<text>Phục_vụ : hơi lâu 1 xíu và quán kiểu workspace nên nhân_viên ít tương_tác với khách : ) Không_gian : theo đánh_giá của mình là rất yên_tĩnh và lãng_mạn , rất phù_hợp cho làm_việc .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee14">
+		<sentences>
+			<sentence id="LiferiaCoffee14:0" OutOfScope="TRUE">
+				<text>Thời_tiết mùa này mình thích nhất_là mấy quán cf có tường kính + view thành_phố .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee14:1">
+				<text>Qua quán này ngắm mưa thì đúng bài ha 😀 😀 .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee14:2">
+				<text>Cf , trà sữa , ... . đủ thứ để chọn , giá thì mềm_mại nhé !</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee14:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Yêu yêu 😉 😉 😉</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee15">
+		<sentences>
+			<sentence id="LiferiaCoffee15:0" OutOfScope="TRUE">
+				<text>Quán này nằm ở phan châu trinh .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee15:1">
+				<text>Vị_trí cực dễ tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:2">
+				<text>Ko gian quán đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:3">
+				<text>Có nhiều góc để sống ảo lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:4" OutOfScope="TRUE">
+				<text>😊 😊 Ở đây giống như kiểu nhà_vườn chứ k phải là quán cf nữa .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee15:5">
+				<text>Kiểu ấm_áp .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:6">
+				<text>Kiểu ấm_áp .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:7">
+				<text>Mà có cây_xanh nên nhìn thoáng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:8" OutOfScope="TRUE">
+				<text>Mát_mắt hẳn lên ^ ^ .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee15:9">
+				<text>Menu đồ uống đa_dạng , phong_phú , nhiều loại thức uống ngon .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:10">
+				<text>Có_điều cho đá hơi nhiều .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:11">
+				<text>Ngồi dc xíu là tan hết nên uống hơi lạt chút .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:12">
+				<text>Ở đây có bingsu cũng ngon lắm nhé .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:13" OutOfScope="TRUE">
+				<text>Giá_cả cũng tương_tự 1 số quán khác .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee15:14">
+				<text>Tạm dc .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="LiferiaCoffee15:15">
+				<text>Nhân_viên quán đông , ai cũng vui_vẻ , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee16">
+		<sentences>
+			<sentence id="LiferiaCoffee16:0" OutOfScope="TRUE">
+				<text>Dạo vòng_vèo đường Nguyễn_Văn_Linh để kiếm chỗ ngồi quán trà sữa mà chỗ nào cũng full nên ghé vào quán này luôn .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee16:1">
+				<text>Lúc trước siêu ghiền trà đào ở đây nhưng đợt uống thử trà mơ một lần thì bị cuồng ẻm luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee16:2">
+				<text>Trà mơ ở đây thanh , mát , thơm nhẹ , rất hợp cho mấy ngày nóng như_thế_này , có thêm mấy quả mơ ăn cũng vui_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee16:3">
+				<text>Nhân_viên ở đây thì toàn trai xinh gái đẹp lại phục_vụ dễ_thương nữa nên rất thích .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee16:4">
+				<text>Không_gian quán có nhiều chỗ ngồi để lựa_chọn , điều_hòa vi_vu mát_mẻ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee17">
+		<sentences>
+			<sentence id="LiferiaCoffee17:0">
+				<text>Mình và bạn tới ăn bingsu một lần nhưng không hài_lòng lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee17:1">
+				<text>Một phần 59k nhưng rất nhỏ , bingsu matcha mình gọi chỉ có hai topping như hình ngoài_ra không có gì thêm .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee17:2">
+				<text>Ăn nhạt cực , kem ăn khá ngon nhưng mau chảy .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="LiferiaCoffee17:3">
+				<text>Ăn được vài muỗng là hết rồi .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee17:4">
+				<text>Hơi thất_vọng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee18">
+		<sentences>
+			<sentence id="LiferiaCoffee18:0">
+				<text>Mình đi ăn_ở quán mấy lần và lần nào cũng thấy ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee18:1">
+				<text>View quán cũng rất đẹp và yên_tĩnh . Bingsu ở dưới là kem tuyết chứ không phải đá bào như ở Mana nên ăn_không bị ngán . Giá cũng phải_chăng nhưng đi tầm 9h sáng thì chưa có socola với bingsu cà_phê thì_phải : ) )</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee19">
+		<sentences>
+			<sentence id="LiferiaCoffee19:0">
+				<text>Mới đến quán lần đầu và ấn_tượng để lại không hề tốt một_chút nào cả .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:1">
+				<text>Quán rộng_rãi , thoáng_đãng , nhưng nhân_viên thì gây cho kình cảm_giác khó_chịu .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:2">
+				<text>Nhân_viên đi làm_gì mà đùa_giỡn ồn_ào khó_chịu không chịu nổi .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:3">
+				<text>Cười to , nói to át hết phần khách đến đau cả đầu .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:4">
+				<text>Thái_độ phục_vụ mình không vừa_lòng .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:5">
+				<text>Bàn thì rung rung làm nước cứ như sắp đổ đến_nơi , vài khu_vực trong quán trông cũng hơi bẩn bụi tý .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:6">
+				<text>Đồ uống bình_thường , mình gọi trà đào mà mấy miếng đào trông cứ nát nát sao ấy , không làm mình cảm_thấy ngon_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee19:7">
+				<text>Nói_tóm_lại là đi một lần rồi thôi .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee20">
+		<sentences>
+			<sentence id="LiferiaCoffee20:0" OutOfScope="TRUE">
+				<text>Hôm bữa ăn đồ Thái xong cả lũ kéo qua đây ngồi .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee20:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình đến lúc 10 giờ tối nên cũng vắng .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee20:2" OutOfScope="TRUE">
+				<text>Tụi mình order 3 yolly berries , 45k 1 ly .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee20:3">
+				<text>Ly này có 3 tầng , lớp trên cùng là hạt berries chua_chua , ăn vui_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee20:4" OutOfScope="TRUE">
+				<text>Lớp thứ ai là kiểu như yaourt í , lớp dưới cùng là thạch .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee20:5">
+				<text>Nói_chung thì yolly ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee20:6">
+				<text>Nhân_viên cũng lanh_lẹ , thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee21">
+		<sentences>
+			<sentence id="LiferiaCoffee21:0">
+				<text>Ưu_điểm : vị_trí đẹp , không_gian rộng , thoáng mát , sạch_sẽ , nhân việm phục_vụ nhiệt_tình , chu_đáo , nhanh , ... bánh ở đây ngon .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee21:1">
+				<text>Bingsu ngon và rẻ hơn những chỗ khác .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee21:2"> <!--sua-->
+				<text>Khuyết_điểm : Chỗ gửi xe_hơi chật , quán có máy_lạnh nhưng không được mát lắm ,</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee22">
+		<sentences>
+			<sentence id="LiferiaCoffee22:0" OutOfScope="TRUE"> <!--sua-->
+				<text>Lâu rồi mới ghé lại quán , do đi buổi_trưa nên cũng vắng khách không đông lắm .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee22:1">
+				<text>Ngồi tầng 2 yên_tĩnh nên rất hợp để học nhóm hoặc làm_việc .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee22:2">
+				<text>Nước thì chất lượgn có_vẻ đi xuống , uống yolly việt quất 45k hơi ngọt , vs vị yogurt cứ sao sao k thích lắm , trà đào cũng ổn mà hơi ngọt quá .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="LiferiaCoffee22:3" OutOfScope="TRUE">
+				<text>Ở đây hình_như k có pha trà cho khách nên uống nước ngadn mà cũng kbiet phải làm_sao , ngồi tầng 2 cũng chẳng có nhân_viên .</text>
+			</sentence>
+			<sentence id="LiferiaCoffee22:4">
+				<text>Không_gian ở đây khỏi bàn rồi , nhìn sạvh sẽ mà thoáng mát , view rất đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="LiferiaCoffee23">
+		<sentences>
+			<sentence id="LiferiaCoffee23:0">
+				<text>View đẹp , thoáng mát , rộng_rãi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee23:1">
+				<text>Có điều_hòa nên vào giờ nào cũng mát .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee23:2">
+				<text>Nhân_viên nhiệt_tình , dễ_thương lắm luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee23:3">
+				<text>Giá cũng vừa_phải , đồ uống cũng ok .</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="LiferiaCoffee23:4">
+				<text>Bingsu ngon bá cháy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="LiferiaCoffee23:5" OutOfScope="TRUE">
+				<text>Có thời_gian mình vào đây tuần 4-5 lần .</text>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

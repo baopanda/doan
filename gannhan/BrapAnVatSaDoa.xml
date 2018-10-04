@@ -1,0 +1,662 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="BrapAnVatSaDoa1">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa1:0">
+				<text>Thích nhất_là món bánh_tráng nướng mắm ruốc và cút lộn xào me , quán phục_vụ nhanh nhưng hơi nhỏ , mở nhạc khá lớn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa1:1">
+				<text>Giá_cả cũng khá rẻ 👍 👍 👍</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa2">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa2:0">
+				<text>Giá_cả hợp_lý , nv thân_thiện , ăn 1 lần là ghiền</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa3">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa3:0" OutOfScope="TRUE">
+				<text>Nhắc tới đồ_ăn vặt là phải nhắc tới Brap .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa3:1">
+				<text>Đồ_ăn siêu ngon , lạ và siêu rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa3:2">
+				<text>Mình thích nhất bánh_tráng bò khô 9k với cả nem nướng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa3:3" OutOfScope="TRUE">
+				<text>Mình ăn 1 lần và nghiện .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa3:4" OutOfScope="TRUE">
+				<text>Thề là tuần nào cũng phải ăn : ( (</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa4">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa4:0">
+				<text>Dịch_vụ tốt , đồ_ăn lạ ngon , nhân_viên thân_thiện , trang_trí quán_ăn lạ</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa5">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa5:0">
+				<text>Đồ_ăn ngon lạ_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa5:1">
+				<text>Nhân_viên thân_thiện</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa6">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa6:0">
+				<text>Ở đây ăn gì cũng ngon nhức nách luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa6:1" OutOfScope="TRUE">
+				<text>Chỉ có cái là ăn nhiều mình thấy no thôi = ) ) ) ) ) ) .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa6:2" OutOfScope="TRUE">
+				<text>Sẽ đến quán nhiều nhiều nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa7">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa7:0">
+				<text>Đồ_ăn rẻ ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa7:1" OutOfScope="TRUE">
+				<text>Sẽ quay trở_lại đây nhiều lần nữa 👍 🏻 👍 🏻</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa8">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa8:0">
+				<text>Các món ở đây đều rất ngon_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa8:1">
+				<text>Nhân_viên nhanh_nhẹn , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa8:2" OutOfScope="TRUE">
+				<text>Sẽ qay lại qán thêm nhiều lần nữa .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa9">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa9:0">
+				<text>Quán nhỏ_nhắn xinh_xắn , phục_vụ dễ_thương kèm với đồ_ăn rất ngon và mới_lạ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa9:1" OutOfScope="TRUE">
+				<text>Sẽ quay trở_lại đây nhiều lần nữa 👍 🏻 👍 🏻</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa10">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa10:0">
+				<text>Đồ_ăn vừa ăn , giá lại sinh_viên , có_lẽ mình sẽ note lại điểm này như 1 điểm ăn quen_thuộc !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa11">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa11:0" OutOfScope="TRUE">
+				<text>Đi brap nhiều lần rồi mà bây_giờ mới review .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa11:1">
+				<text>Đúng như tên quán “ ăn vặt sa_đoạ ” , đồ_ăn ở đây khá rẻ các món tầm từ 15k-40k .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa11:2">
+				<text>Nhân_viên phục_vụ nhiệt_tình , không_gian quán khá nhỏ , mỗi lần mình phải đi sớm mới có chỗ .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa11:3">
+				<text>Ở đây có món bánh_tráng ruốc rất ngon , mấy món gà thì tạm được ... Tóm_lại thì quán này khá ổn phù_hợp cho những nhóm bạn tụ_tập .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa12">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa12:0" OutOfScope="TRUE">
+				<text>Hôm_qua đi sớm nên có chỗ ngồi .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa12:1">
+				<text>Mấy bữa quán đông khách thì không có chỗ ngồi luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa12:2">
+				<text>Đồ_ăn tạm ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa12:3">
+				<text>Nhân_viên nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa12:4">
+				<text>Quán hơi chật .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa13">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa13:0">
+				<text>Quán không gian khá nhỏ và chật , đi ít ít thì được chứ gặp hôm nào đông là xác_định hết bàn luôn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa13:1">
+				<text>Đồ_ăn tạm ổn , đợi hơi lâu tí thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa13:2">
+				<text>Gà ở đây khá ngon , bánh_tráng thì tạm được chứ cũng không đặc_sắc lắm</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa14">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa14:0">
+				<text>Chạo sả BBQ ngon , vừa_miệng , thơm mùi sả - Gà sốt phô_mai không ngon như quảng_cáo , gà hơi cứng , lạc vị , phô_mai rất ít - Nhân_viên thân_thiện , dễ_thương - Quán nhỏ mà nhạc bật rất to và ồn ạ mong quán khắc_phục</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa15">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa15:0">
+				<text>Không_gian quán nhỏ , có vài bàn , đi vào cuối tuần trễ xíu là hết bàn liền Tới gọi món mà cứ kêu hết hoài cũng hơi bực , trong khi cái list menu có xíu , nhìn tới nhìn lui chọn được 4 món , ở đây gà là ngon nhất , chờ món ăn lên luôn 1 lần thì đã nguội , đồ_ăn ở đây nguội nhanh lắm Tokboki xiên cũng được , phần nước sốt k ngon cho lắm Bánh_tráng nướng đà lạt ngon , bỏ nhiều tép với hành phi Xúc_xích phủ 1 lớp mỳ tôm , phần đầu là phô_mai , phần sau mới là xúc_xích , ớn</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa16">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa16:0" OutOfScope="TRUE">
+				<text>Cũng phải tỉ tỉ năm rồi mới đi ăn vặt , uống coca 😂 .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa16:1">
+				<text>Điều mình thích trước_tiên ở quán này đó là bàn_ghế , muỗng đĩa , ly chén gì cũng một màu đen huyền_bí , nên nhìn rất sạch_sẽ , ko luộm_thuộm như các quán_ăn vặt khác .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa16:2">
+				<text>🎄 Menu cũng khá đa_dạng , nhiều món lạ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa16:3">
+				<text>Mình gọi các món sau : 🔻 Cút lộn chiên giòn sốt me 🔻 Tokbokki lắc phô_mai ( món mình thích nhất ở đây 👍 🏻 ) 🔻 Xúc_xích phô_mai xì tai Hàn_Quốc . 🔻 Bánh_tráng nướng ruốc quảng Ngãi 🔻 Gà sốt bơ mật_ong .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa16:4"> <!-- sua -->
+				<text>🎄 Các món ăn_ở mức ko thật_sự xuất_sắc nhưng cũng khá vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa16:5">
+				<text>Đúng là ăn chơi_chơi thì rất hợp_lí luôn .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa17">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa17:0">
+				<text>Phải nói là đúng như tên quán , ăn vặt sa_đoạ đúng là ăn muốn đoạ thiệt Mình gọi 5 món , 2 ng ăn , mà ăn hoài ko hết , siêu nhiều luôn ạ Mình gọi gà sốt cay phủ fromage , bánh_tráng quãng ngãi , nem nướng quãng ngãi , mực_ống chiên xù , tok phủ fromage và sữa_chua Tok phủ fromage ăn rất ngon , tok cứng bên ngoài dai bên trong , fromage thì rất thơm Gà sốt cay thì hơi khô Bânh tráng ok , ăn vui_miệng Mực ngon , chiên rất giòn , ăn vừa_miệng Nem_chua nướng ăn khá ok Sữa_chua thì uống thơm , béo , mấy bạn nên gọi nhé Về tổng_thể thì mấy món ở đây ăn khá ok Không_gian quán hơi nhỏ</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa18">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa18:0">
+				<text>Quán nhỏ lắm nhưng_mà decor đẹp .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa18:1" OutOfScope="TRUE">
+				<text>Tới mấy lần toàn hết bàn lại phải về , hôm_nay mới được thử .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa18:2">
+				<text>Đồ_ăn ở đây giá_cả cũng vừa_phải nhưng_mà mỗi đĩa được rất ít .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa18:3" OutOfScope="TRUE">
+				<text>Nên 2 đứa ăn hết hơn trăm mấy mà không thấm vào đâu .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa18:4">
+				<text>Gà cay ngon , thấm gia_vị mà cay lắm luôn á , vừa ăn vừa hít_hà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa18:5">
+				<text>Bánh_tráng ăn lạ_miệng mà rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa18:6">
+				<text>Phục_vụ dễ_thương lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa18:7">
+				<text>Có chỗ để xe_hơi bất_tiện xí .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa18:8" OutOfScope="TRUE">
+				<text>Sẽ quay lại để thử các món khác .</text>
+			</sentence>	
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa19">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa19:0">
+				<text>Quán bé tí_teo .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa19:1">
+				<text>Ngồi ở ngoài được hơn vì trong nhà bé lắm , rất bí .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa19:2">
+				<text>Quầy đồ_ăn gần chỗ ngồi của khách nên khá ám mùi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa19:3">
+				<text>Menu khá ít món , chủ_yếu là món nướng và chiên .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa19:4">
+				<text>Giá hợp_lí , nhân_viên mặc đồng_phục dễ_thương lắm .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa19:5">
+				<text>Bánh_tráng mắm ruốc ngon nè , bánh thơm giòn_rụm à .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>	
+			<sentence id="BrapAnVatSaDoa19:6"> <!--sua-->
+				<text>Cút lộn chiên xù sốt me cũng ngon , hạp khẩu_vị mình có_điều hơi ít , dc mấy cục chút ủm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa20">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa20:0"> <!-- sua -->
+				<text>View quán hơi nhỏ nhưng thoáng mát , giá_cả hợp với svien , hoc sinh , đồ_ăn ngon món nào ăn cũng thấy thích ❤ ️</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa21">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa21:0">
+				<text>Hôm_qua mình tới quán rất đông khách , vào bàn ngồi mà nhân_viên thì đứng ko thèm để_ý đến , phải kêu rồi mới tới ghi order , đợi món hơi lâu , đồ_ăn trình_bày đẹp nhưng ít , giá_cả hơi cao , đi 2 ng ăn hết gần 100k mà ko thấy no gì cả , quán nhỏ trình_bày phong cách_nhật đẹp_mắt , đồ_ăn cũng bình_thường , có gà sốt cay phô_mai và trứng cút lộn ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa22">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa22:0">
+				<text>Đồ_ăn ổn_định , tuy_nhiên không_gian quán khá hạn_hẹp .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa22:1">
+				<text>Thái_độ phục_vụ cũng tạm được .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa22:2">
+				<text>Mình khá thích bánh_tráng ruốc ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa23">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa23:0" OutOfScope="TRUE">
+				<text>Hình mình order là mực chiên xù , cút lộn chiên xù gì đấy , xiên nướng và gà .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa23:1">
+				<text>Cút lộn mình nghĩ là phải " must try " khi các bạn ăn Bráp vì hình_như chỉ ở đây có mà phải nói là tỉ phê = ) ) </text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa23:2">
+				<text>Các món còn lại ăn vừa_miệng , tạm ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa23:3">
+				<text>Được_cái chén đĩa màu đen nhìn sang chảnh phết .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa24">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa24:0">
+				<text>Quán khá nhỏ nhân_viên nhiệt tìnnh phục_vụ nhanh đồ_ăn khá là ngon sẽ ủng_hộ quán dài ❤</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa25">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa25:0" OutOfScope="TRUE">
+				<text>Nay mình và bạn có đến ăn thử quán .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa25:1">
+				<text>Mình thấy quán khá nhỏ , nhưng nhân_viên cũng nhiệt_tình , phục_vụ nhanh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa25:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình có gọi 1 phần gà phủ fromage , 1 phần trứng cút chiên và 2 bánh_tráng chấm ruốc .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa25:3">
+				<text>Mùi_vị rất đậm_đà , mình thấy ngon nhưng lươngn phần ăn khá nhỏ so với giá tiền .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa25:4">
+				<text>Mình nghĩ đây có_thể là một nơi đáng để tới trải_nghiệm nếu bạn biết đến quán lần đầu .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa26">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa26:0" OutOfScope="TRUE">
+				<text>Hôm ni đi ăn vặt với đứa bạn .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:1">
+				<text>Nghe tên quán này lâu rồi nhưng giờ mới có dịp tới ăn do quán đóng_cửa sớm quá .</text>
+				<Opinion  category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:2">
+				<text>Phujc vu : Nhìn_chung thì ở đây các món ăn phục_vụ nhanh , mới gọi đã có ngay .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:3">
+				<text>Nhân_viên thấy cũng không có gì để chê_trách cả , mà cũng không có gì để khen_ngợi .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:4">
+				<text>Đồ_ăn : đồ_ăn của quán thực_sự không đa_dạng lắm .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:5">
+				<text>Nhưng chất_lượng mình nghĩ là tạm được nhưng giá thật_sự là cao hơn nhiều so với những chỗ khác mà số_lượng cũng không bao_nhiêu cả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:6">
+				<text>Không_gian : quán nhỏ , bàn nhỏ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa26:7" OutOfScope="TRUE">
+				<text>Nhưng đã là quán_ăn vặt vỉa_hè thì không_thể đòi_hỏi nhiều về mặt này được .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa27">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa27:0">
+				<text>Đồ_ăn ở đây ngon quá ^ ^ chắc phải đến nhiều lần để ăn tất_cả các món trong menu ^ ^</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa28">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa27:0">
+				<text>Quán khá nhỏ , nhưng nhân_viên thì cực_kỳ thân_thiện , nhiệt_tình .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:1">
+				<text>Không_gian khá chật , ngồi trong hơi bị bí .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:2">
+				<text>Đồ_ăn ngon nhưng hơi ít , chén , ly , dĩa đều màu đen nên thích_hợp để chụp hình , rất bắt_mắt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:3" OutOfScope="TRUE">
+				<text>Mình gọi gà sốt cay , tok lắc , bánh_tráng mắm ruốc .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:4">
+				<text>Gà ngon , sốt thấm , bánh_tráng mắm ruốc ngon và rẻ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:5">
+				<text>Mình gọi gà và xiên nướng đem về dù để hơi lâu nhưng vẫn rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:6">
+				<text>Điểm trừ là quán không có nhà_vệ_sinh .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa27:7" OutOfScope="TRUE">
+				<text>Sẽ ghé lại để thử những món khác .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa29">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa29:0"> <!-- sua -->
+				<text>Quán nhỏ nằm trên đường Cô Giang , đồ_ăn ngon tuy_nhiên không_gian chật_chội quá , mùa_hè nóng_nực quán lại đông ngồi trong quán mà phát điên : v mình gọi bánh_tráng ruốc , tokboki xiên và nem_chua nướng Quảng_Ngãi .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa29:1">  <!-- sua -->
+				<text>Mình chỉ thích bánh_tráng ruốc thôi có 9k 1 cái mà ngon lắm , tokboki xiên thì 5 miếng tok gia_vị cũng thấm , nem_chua nướng thì bt k có gì đặc_sắc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa29:2">
+				<text>Nói_chung đồ_ăn ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa30">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa30:0" OutOfScope="TRUE">
+				<text>Brap quán nhỏ nằm trên con đường một thời vang tiếng trà sữa đắc khách nhất Đà_Nẵng .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:1">
+				<text>Quán nhỏ nên mùa_hè ngồi bên trong có_vẻ nóng lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:2" OutOfScope="TRUE">
+				<text>Vì_vậy mùa_hè nên ngồi ngoài và mùa_đông thì vào trong nhé cả nhà .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:3">
+				<text>Nhân_viên phục_vụ thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:4">
+				<text>Món ăn thì cũng tuỳ món vì theo mình thấy có món ngon nhưng cũng có món chưa được ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:5">
+				<text>Theo cảm_nhận của mình thì món mực_ống chiên xù , tokkboki lắc , xiên , bánh_tráng mắm ruốc ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:6">
+				<text>Gà cay phomai chưa ngon mà có_vẻ dễ ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa30:7">
+				<text>Chén , dĩa , ly , khay đựng đều có màu đen nên trông các món ăn trở_nên rất bắt_mắt thực_khách .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa31">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa31:0">
+				<text>Không_gian quán nhỏ nên ngồi đông thì sẽ thấy khó_chịu lắm , nóng nữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:1">
+				<text>Nhưng bù lại thì bàn_ghế , chén dĩa khá bắt_mắt .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:2" OutOfScope="TRUE">
+				<text>Mình gọi gà sốt cay phủ phô_mai , xúc_xích phủ phô_mai , tok lắc và nem nướng .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:3"> <!-- sua -->
+				<text>Gà vừa nóng vừa cay : ) ) vừa ăn vừa uống nước phê luôn nhưng hơi ít phô_mai , nem nướng cũng khá thơm , tok thì giòn giòn , sốt phô_mai cũng ngon , xúc_xích ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:4" OutOfScope="TRUE"> <!-- sua -->
+				<text>Định gọi thêm mấy cái xiên nướng mà hôm đó lại ko có : ( </text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:5">
+				<text>Nhân_viên thân_thiện , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa31:6" OutOfScope="TRUE">
+				<text>Có_thể dẽ ghé lại để ăn mấy món gà khác .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa32">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa32:1">
+				<text>Đồ_ăn ngon nhưng hơi ít .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa32:2">
+				<text>Cách bày trí lẫn chén dĩa đều tuyệt_vời , rất hợp để sống ảo 😉 nhân_viên nhiệt_tình vô_cùng 👍</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa33">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa33:0">
+				<text>Quán không_gian hơi chật .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa33:1">
+				<text>Bù lại thức_ăn ngon , trình_bày khá chất .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa33:2" OutOfScope="TRUE">
+				<text>Cái gì cũng màu đen hết nè .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa33:3">
+				<text>Nv nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa33:4">
+				<text>Thích nhất món gà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="BrapAnVatSaDoa34">
+		<sentences>
+			<sentence id="BrapAnVatSaDoa34:0" OutOfScope="TRUE">
+				<text>Quán ni theo phong cách_nhật .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:1" OutOfScope="TRUE">
+				<text>Cái gì cũng màu đen .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:2">
+				<text>Không_gian quán hơi nhỏ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:3">
+				<text>Nếu đônh người thì hơi bí .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:4">
+				<text>Món ăn_ở đây ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:5">
+				<text>Gà sốt cay phô_mai ăn thấm_tháp .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:6" OutOfScope="TRUE">
+				<text>Đúng vị cay .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:7">
+				<text>Nhưng mỗi lần đem ra chỉ hơi ấm nên phô_mai bị cứng lại : ( bánh_tráng ruốc giòn_tan .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:8">
+				<text>Nước_chấm lạ_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:9" OutOfScope="TRUE">
+				<text>Mình gọi thêm 1 phần nem .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:10">
+				<text>Ở ngoài có lá ổi nhg hơi khó ăn .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:11" OutOfScope="TRUE">
+				<text>Lột ra ăn thì ok hơn .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:12" OutOfScope="TRUE">
+				<text>Quán đang có chương_trình ăn trên 50k tặng 1 ly nước nha đam .</text>
+			</sentence>
+			<sentence id="BrapAnVatSaDoa34:13" OutOfScope="TRUE">
+				<text>Nói_chung nên thử .</text>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

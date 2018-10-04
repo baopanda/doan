@@ -1,0 +1,557 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1:0" OutOfScope="TRUE">
+				<text>Lâu ngày thích ăn vịt quay nên ghé crystal jade ăn cho đã .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1:1">
+				<text>Mình đến lúc_nào cũng thấy quán khá vắng .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1:2">
+				<text>Nhân_viên phục_vụ tận_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1:3" OutOfScope="TRUE">
+				<text>Mình có gọi rất nhiều món , ăn 4 người mà nó lắm lun .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong1:4">
+				<text>Giá_cả ở đây thì_có hơi cao 1 tí , nhưng chất_lượng thì quá oke</text>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:0" OutOfScope="TRUE">
+				<text>Lần nào lên coi film là cũng pải zô đây ăn tối trước đã .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:1" OutOfScope="TRUE">
+				<text>Tụi mình chọn chỗ hơi khuất 1 tý cho đỡ bị ồn và người_ta dòm dòm từ bên rạp phim nhìn qua .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:2" OutOfScope="TRUE">
+				<text>Gọi 1 món bánh xếp triều châu .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:3" OutOfScope="TRUE">
+				<text>1 đậu_hũ tứ xuyên , xôi lá_sen , chân gà hấp .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:4">
+				<text>Theo mình giá dimsum ở đây khá ok đó .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:5">
+				<text>từ khoảng 45k nhưng nhiều , to lắm .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:6">
+				<text>Còn mấy cái khác trong menu lại khá đắt .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:7">
+				<text>điển_hình như đậu_hũ đến tận 95k - quá đắt .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:8">
+				<text>Hầu_hết các món đều ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:9" OutOfScope="TRUE">
+				<text>đậu_phụ tứ xuyên nv hỏi mình có_ăn cay ko , mình kêu cho cay hết cỡ mà lúc bưng ra vị cay . . nhẹ hều ko thấm bếu .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:10">
+				<text>nhưng món này phải nói là ngon lắm . còn món bánh xếp đúng là thảm_họa lun .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:11">
+				<text>bánh hấp vội nên không chín bột .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:12">
+				<text>ăn siêu ghê .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:13" OutOfScope="TRUE">
+				<text>mình có kêu quản_lý lại phản_ánh thôi ( vì 3 cái đã nằm hết trong bụng rồi ) .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:14">
+				<text>Nhưng quản_lý vẫn rất nhiệt_tình , vào nói bếp hấp lại cho mình phần khác nhưng vì vội nên cũng ko nhận .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:15">
+				<text>Rất thích cách phục_vụ nơi đây .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:16">
+				<text>Chân gà ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:17" OutOfScope="TRUE">
+				<text>Đặc_biệt xôi lá_sen á nhen .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:18" OutOfScope="TRUE">
+				<text>chưa ăn_ở đâu ngon bằng .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:19">
+				<text>Mở gói xôi ko bị chảy chẹt bẹt mà có độ dẻo vừa_phải .</text>
+				<Opinion category="REST#QUALITY " polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:20">
+				<text>trứng muối béo nhạt thơm lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:21">
+				<text>Ăn mà mê luôn ấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong2:22" OutOfScope="TRUE"> <!-- sua -->
+				<text>Có dịp chắn chắn sẽ quay lại để ăn món này</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong3">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong3:0">
+				<text>Thèm dimsum mà nghe bạn nỏi chỗ này nổi ngon nhất nên ghé thử .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong3:1">
+				<text>Không_gian đẹp nhưng đông ng nên ko được thoáng .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong3:2">
+				<text>Phục_vụ chậm , vịt quay ngon số_dách mà đắt ra miếng con 800 mấy k lận .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong3:3">
+				<text>dimsum bình_thường ko ngon , giá chát</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong4">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong4:0">
+				<text>Thèm vịt thì ăn_ở đâu chế_biến đc nhiều món , còn đâu bằng crystal .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong4:0">
+				<text>Nhà_hàng sang_trọng menu phong_phú , da vịt thì làm cuộn bánh , xương thì rang muối , thịt thì phá lấu vs cơm_chiên 😋 😋 😋 Đậu hủ ăn mềm mềm ngon , chả cá ăn cũng lạ_miệng 👌 🏻 👌 🏻 👌 🏻</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong5">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong5:0">
+				<text>Mình thường_xuyên ghé nhà_hàng này vì thường thuận_tiện lúc xem phim ở CGV và cả vì những món ăn_ở đây rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong5:1">
+				<text>Không_gian ở đây đẹp , trang_trí lịch_sự và thoáng_đãng nhất trong khuôn_viên các nhà_hàng ở Vincom .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong5:2">
+				<text>Món ăn_ở đây rất ngon , đúng chất Trung_Hoa , hương_vị và cách_thức đều đạt chuẩn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong5:3">
+				<text>Nhân_viên vui_vẻ nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong6">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong6:0" OutOfScope="TRUE">
+				<text>Crystal jade kitchen Đà_Nẵng , đối_diện rạp phim CGV Vincom tầng 4 </text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong6:1">
+				<text>Chỗ này hay lượn qua lượn lại mà giờ mới lượn vô ăn thử : D_Các món dimsum ngon và khá tinh_tế .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:0" OutOfScope="TRUE">
+				<text>Đợt trước được tặng khuyến_mãi bàn tiệc 299k 5 món thì_phải .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:1" OutOfScope="TRUE">
+				<text>Nên đi xem phim tranh_thủ đi ăn luôn .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:2">
+				<text>Dạo này có cảm_giác không_gian của crytal bị bó_hẹp lại , nhường chỗ cho gogi nhiều .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:3">
+				<text>Khách cũng không đông như trước , chắc do giá đồ_ăn hơi cao nên kén khách .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:4">
+				<text>Đồ_ăn nấu không ngon bằng các đợt trước , bản_thân mình thấy là như_thế .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:5">
+				<text>Phục_vụ thì luôn nhiệt_tình và niềm_nở .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong7:6">
+				<text>Chỗ ngồi đẹp và sang .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:0">
+				<text>Ấn_tượng đầu_tiên là view đẹp , phong_cách quán nhìn sang và giá cũng khá đắt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:1">
+				<text>Đồ uống có nhiều món lạ nhưng không quá xuất_sắc .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:2">
+				<text>Dimsum ngon nhưng mắc .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:3">
+				<text>Đồ_ăn khá vừa_miệng nhưng vịt quay thì hơi ngán chắc do ko hợp_khẩu vị .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:4" OutOfScope="TRUE">
+				<text>Quán đi đông hay ít thì vẫn tốn tiền như nhau , mỗi người hết tối_thiểu 200k thì mới có lưng_lửng bụng thôi .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong8:5">
+				<text>Quán bán món ăn với giá 5 sao nhưng chất_lượng chưa tương_xứng lắm , chắc target vào thị_trường khách du_lịch Trung với HK_TW là chính .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong19">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:0" OutOfScope="TRUE">
+				<text>Được bà chị dẫn đi ăn lần đầu_tiên trong dịp sinh_nhật cách đây cỡ 3 năm lúc mới khai_trương .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:1">
+				<text>Nghe_nói là ngon lắm và chi_nhánh ở Trung_Quốc về nên rất chất_lượng .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:2">
+				<text>Không biết chất_lượng hay không nhưng mình chẳng ăn hợp miệng món nào cả .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:3">
+				<text>Chỉ có ly trà trái_cây là mình thấy làm ngon nhất thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:4" OutOfScope="TRUE"> <!-- sua -->
+				<text>Hix lần đầu_tiên đi ăn còn bị nhà_hàng chụp hình post lên FB quảng_cáo nữa .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong9:5" OutOfScope="TRUE">
+				<text>Mau trả tiền hoa_hồng cho tụi tui đi mà .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:0" OutOfScope="TRUE">
+				<text>Crystal jade kitten là tiệm bình_dân của cao_cấp nên cũng ko có gì expect vào chất_lượng cả .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:1">
+				<text>Bánh_bao kim_sa rất dở .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:2">
+				<text>Gà quay da dòn và rau xào ăn tạm đc .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:3">
+				<text>Phục_vụ nhiệt_tình nhưng lóng_nga_lóng_ngóng .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:4" OutOfScope="TRUE">
+				<text>Mình đi du_lịch Đà_Nẵng vào VC mua ít đồ nên tiện ghé ăn cho nhanh .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong10:5" OutOfScope="TRUE">
+				<text>Bàn bên_cạnh là mấy chú Trung_Quốc dắt gà đi ăn , mấy chú ngồi_xếp_bằng chân lên ghế rồi thượng cả đầu_gối lên bàn nữa , mà phục_vụ / quản_lý chả thấy ai_lại nói_gì dù có mấy lần bê đồ_ăn lại phục_vụ : (</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong11">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong11:0" OutOfScope="TRUE">
+				<text>Hôm đó 2ng ăn mà gọi 1 combo và 1 vịt quay nhỏ trong khi m đã ăn_ở nhà trc , làm bỏ lại quá_trời .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong11:1">
+				<text>Từng ăn_ở sg nên biết dimsum có loại nc chấm riêg nhưg ở đây chỉ có tương_ớt @ @ , giá khá cao nếu ăn combo chắc lợi hơn , chân gà làm mềm qá có_vẻ như gà cũ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong11:2">
+				<text>Ăn cũng bt</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:0" OutOfScope="TRUE">
+				<text>Lâu_lâu đi ăn sang chảnh ở nhà_hàng này với chị_gái và bé Thỏ .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:1" OutOfScope="TRUE">
+				<text>Nằm trên tầng 4 Vincom , ăn xong đi xem phim nữa thì chuẩn luôn .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:2" OutOfScope="TRUE">
+				<text>Nhà_hàng chuyên về các món trung .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:3" OutOfScope="TRUE">
+				<text>Món nào cũng ít ít nên mình gọi khá nhiều món .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:4">
+				<text>Thích bánh_bao và há cảo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong12:5">
+				<text>Mấy món khác ăn bình_thường Giá cao</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:0" OutOfScope="TRUE"> <!-- sua -->
+				<text>Lâu_lâu lại ghé ăn và lần này chỉ gọi ít món do đi 2 người , ăn trưa nhưng cũng thấy khá đông khách .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:1">
+				<text>Nhân_viên phục_vụ lịch_sự , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:2">
+				<text>Menu đa_dạng , giá hơi cao .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:3">
+				<text>Những món mình gọi đều ok , chỉ mỗi món xôi lá_sen là ngoài chín trong sống nên mình phải nhờ nhân_viên hấp lại lần nữa : ) .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:4">
+				<text>Mình thích món gà chiên dòn , nữa con 250k khá ngon và dòn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:5">
+				<text>Nước_chấm cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:6">
+				<text>Cơm_chiên dương châu vừa_miệng mình nên không cần chan thêm xì_dầu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong13:7">
+				<text>Đồ_ăn nóng nên ăn thấy ngon_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:0" OutOfScope="TRUE">
+				<text>Lại đến Crystal_Jade vào 1 ngày đẹp trời .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:01" OutOfScope="TRUE">
+				<text>Lần này không phải là Vịt quay bắc kinh , gã ngữ vị hay vịt Hồng_Kông .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:2" OutOfScope="TRUE">
+				<text>Tôi chọn cho mình Dimsum .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:3" OutOfScope="TRUE">
+				<text>Đây là 1 món ăn Quảng_Đông với các kiểu đặc_trưng như bánh_bao các loại .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:4" OutOfScope="TRUE">
+				<text>1 món 3 cái trở_lên phù_hợp với nhóm 3 người .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:5" OutOfScope="TRUE">
+				<text>Mặc_dù là món ăn Quảng_Đông nhưng ở đây lại đc chế biết lại theo nguyên_liệu Việt nam .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:6">
+				<text>Ko quá hấp_dẫn nhưng cũng có_thể chấp_nhận .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:7" OutOfScope="TRUE">
+				<text>Đang có giảm_giá 299k / 6 món + 1 bình trà .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong14:8" OutOfScope="TRUE"> <!-- sua -->
+				<text>Ai thích Dimsum ko nên bỏ_qua ^ ^</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong15">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong15:0">
+				<text>Đồ_ăn phải nói là trình_bày max đẹp .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong15:1">
+				<text>Chỉ nhìn thôi đã rất thèm rồi .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong15:2">
+				<text>Nhưng có_lẽ khẩu_vị ng Việt mình hơi khác nên mình ăn thấy không quen lắm và rất nhiều món có vị thuốc_bắc</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:0" OutOfScope="TRUE">
+				<text>Lâu_lâu đổi gió đi ăn sang một bữa nè .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:1" OutOfScope="TRUE">
+				<text>Thấy quán này lâu rồi , cũng nổi_tiếng nên đánh_liều thử ăn cho_biết .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:2" OutOfScope="TRUE">
+				<text>Quán nằm ở lầu 4 , đối_diện CGV .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:3">
+				<text>Không_gian quán sang_trọng , rộng_rãi , phía trước có để sẵn menu cho khách tham_khảo .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:4">
+				<text>Menu khá đa_dạng phong_phú , có các món từ ăn chính đến ăn kèm , giá món ăn cũng giao động , mấy món kiểu ăn cho vui thì tầm 35k trở_lên .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:5">
+				<text>Gọi vịt quay nguyên con , con vịt màu nâu óng ảnh hơi bị kích_thích vị_giác .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:6" OutOfScope="TRUE">
+				<text>1 con như_thế khá lớn và làm thành nhiều món khác_nhau , 4 món .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:7" OutOfScope="TRUE">
+				<text>Ban_đầu nhân_viên mang nguyên con ra trước mặt khách , sau đó sẽ cắt vịt ra , lớp da được lóc ra cuốn với bánh_tráng .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:8">
+				<text>Da giòn không quá dầu_mỡ ăn kèm bánh_tráng rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:9" OutOfScope="TRUE">
+				<text>Thịt vịt được lóc ra chế_biến thành 2 món , trong đó có món cơm .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:10">
+				<text>Cơm_chiên giòn đều , tách hạt và thấm vị .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:11">
+				<text>Thịt vịt cũng vậy , thịt mềm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:12">
+				<text>Xương vịt dùng để nấu canh , khá ngọt n nước , và vị thanh .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:13" OutOfScope="TRUE">
+				<text>Đi nhóm thì nên gọi nguyên con vịt cho ngon nhé .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:14" OutOfScope="TRUE">
+				<text>Giá nước hầu_như tầm 45-50k .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:15">
+				<text>Nước dưa_hấu ép bình_thường , không đặc_sắc .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:16">
+				<text>Món ăn tính ra 1 dĩa không nhiều nhưng chất_lượng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:17">
+				<text>Giá_cả tương_xứng với chất_lượng .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:18" OutOfScope="TRUE"> <!-- sua -->
+				<text>Sẽ quay lại .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:19">
+				<text>Đi 6 người bill hơn 1 triệu nhưng ai cũng hài_lòng Nhân_viên rất nhiệt_tình , phục_vụ chuyên_nghiệp .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong16:20" OutOfScope="TRUE">
+				<text>p / s : VAT tính riêng</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:0">
+				<text>Dimsum ko ngon như lời đồn 😂 Đc môi bà vịt quay hồng kong là ăn đc .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:1" OutOfScope="TRUE">
+				<text>Con mà 700 mấy lun .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:2">
+				<text>Dĩa xí xi mà 180 dồi 😨 Xíu_mại tạm , sườn lạc lẻo , há cảo hồng kong thì như đồ chay toàn mùi đậu_phộng , chả_giò hải_sản thì dồi ôi bên trong sữa ko đc 1 con tôm nhỏ ăn bùn ói ds .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:3">
+				<text>Bánh_cuốn hấp tôm chả ra thể_loại gì .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:4" OutOfScope="TRUE">
+				<text>Còn có VAT nữa nhé .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:5" OutOfScope="TRUE">
+				<text>Tổng gần 6 xị .</text>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong17:6">
+				<text>Không_gian ok mà đông lắm , khá xô_bồ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18">
+		<sentences>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:0">
+				<text>Món ăn_ở đây nấu vừa_miệng , vị ngon và dễ ăn , không quá nồng và nhiều dầu_mỡ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:1">
+				<text>Ăn ko bị ngấy và khó_chịu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:2">
+				<text>Nếu chuỵ em nào ngại mấy món béo thì ăn dimsum cho thanh_đạm : ) ) Có món " bánh khoai_môn chiên " cực_kì lạ_miệng , bánh đc phủ lớp bột gì đó rất mỏng , nhưng giòn cực_kì , cắn miếng bánh là cảm_thấy độ giòn_rụm rồi tan ra trong miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:3">
+				<text>Nhân bánh mịn và ngậy ngậy tuy hơi béo .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:4">
+				<text>Nếu ăn nhiều thì ngấy lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:5">
+				<text>Nhưng ăn cái đầu_tiên sẽ thấy lạ_miệng Không_gian ở đây sang và khá yên , rộng và ghê ngồi thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="CrystalJadeKitchenVincomNgoQuyenNhaHangQuangDong18:6">
+				<text>Nhân_viên phục_vụ khá tốt nhưng có_vẻ lực_lượng hơi bị thiếu nếu đông khách , vẫn còn phải đợi Trong mỗi hoá_đơn có phụ_thu riêng thêm VAT 10%</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

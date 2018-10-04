@@ -1,0 +1,587 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="PapaSteak1">
+		<sentences>
+			<sentence id="PapaSteak1:0">
+				<text>Phải nói là ko có quán steak nào vừa ngon vừa rẻ như_thế_này .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak1:1">
+				<text>Bước vào quán là không_gian thoáng_đãng ; sạch_sẽ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak1:2">
+				<text>Nhân_viên nhiệt_tình thân thiên .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak1:3" OutOfScope="TRUE">
+				<text>Đầu tiêu nhìn menu thì món nào cũng từ 49k trở_lên trừ các món ăn kèm , khai_vị .</text>
+			</sentence>
+			<sentence id="PapaSteak1:4"> <!--sua-->
+				<text>Cứ nghĩ vs giá_thành như_vậy thì đồ_ăn sẽ ít lắm đành gọi steak bbq lớn ; mỳ ý hải_sản sốt kem và phần cơm papasteak . . bánh mỳ như món tặng kèm chấm vs sốt trog lúc chờ đồ_ăn cug giải_quyết nhanh cơn đói . đồ_ăn cug ko hẳn đợi lâu .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak1:5">
+				<text>Thịt bò mềm trên salad thì_có sốt rượu_vang hay dâu gì đấy ăn lạ_miệng cug ngon trừ khoai_tây nghiền mình cảm_thấy k đc vừa_miệng . cơm thì đầy ụ cơm này hình_như là món riêng của quán ( cơm ruốc thì_phải ) . mỳ ý cug v sốt kem béo_béo nhưng ăn ko ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak1:6">
+				<text>Lần đầu quán để lại nhiều ấn_tượng ; cũng_như hương_vị đồ_ăn rẻ mà nhiều chắc_chắn mỗi khi thèm steak là ghé quán thôi . .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak2">
+		<sentences>
+			<sentence id="PapaSteak2:0">
+				<text>Mình đi cùng 6 người bạn , trong đó có 2 bạn người Malaysia , 1trong đó giới_thiệu đến quán này , gọi đồ_ăn cũng không phải chờ lâu , bánh_mì giòn , ăn rất thích , hôm_nay mình ăn beafsteak bò Mỹ sốt nấm , cảm_thấy rất vừa_miệng , bò mềm , nước sốt ngon , bạn mình ăn beafsteak bò Mỹ sốt BBQ có nước sốt lạ và ngon ngất_ngây .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak2:1" OutOfScope="TRUE">
+				<text>Lần sau mình quay lại thử món này .</text>
+			</sentence>
+			<sentence id="PapaSteak2:2">
+				<text>Không_gian thoáng , trang_trí đơn_giản mà nhìn rất tây .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak2:3">
+				<text>Nhân_viên nhiệt_tình , dễ_thương , trẻ_trung .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak2:4">
+				<text>Giá_cả rất mềm , ăn no mà cảm_thấy rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak2:5">
+				<text>Lần nào ăn món tây hình thì nhỏ mà đem ra dĩa nào ăn cũng no căng bụng .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak3">
+		<sentences>
+			<sentence id="PapaSteak3:0">
+				<text>Lần đầu mình đến với papa steak thấy khá ok .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak3:1" OutOfScope="TRUE">
+				<text>Thịt bò nếu ko dặn nhân_viên thì mặc_định là bò tái sống_còn đỏ nguyên nha .</text>
+			</sentence>
+			<sentence id="PapaSteak3:2">
+				<text>Nên bạn nào ko thích ăn như_vậy thì báo với nhân_viên lúc order lun 😅 😅 Mình gọi 2 phần steak sốt bbq , bmi bơ tỏi và salad cá gùe đều thấy ổn .</text>
+				<Opinion category="" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak3:3">
+				<text>Tổng thiệt_hại có 291k mà no căng rún 😅</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak4">
+		<sentences>
+			<sentence id="PapaSteak4:0">
+				<text>Mì ý sốt kem hải_sản ngon béo ngậy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak4:1">
+				<text>Ba_chỉ sốt BBQ nhiều mỡ quá but bù lại salad ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak4:2">
+				<text>Không_gian đẹp ấm_cúng phù_hợp để hẹn_hò : ) ) Tráng_miệng siêuuuu ngonnnn ăn nhanh quá quên cả chụp</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak5">
+		<sentences>
+			<sentence id="PapaSteak5:0" OutOfScope="TRUE">
+				<text>Ăn lâu rồi h mới review 😂 Mình đi 2ng ord 1 đà_điểu và 1 bò lớn sốt bbq .</text>
+			</sentence>
+			<sentence id="PapaSteak5:1">
+				<text>Đà_điểu dai , sốt cay hơn so với bò chắc để át mùi đà_điểu .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak5:2">
+				<text>Bò ngon , mềm , ăn vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak5:3">
+				<text>Salad trộn với sốt dâu_tây hay việt quất gì đó hợp_khẩu vị , ngon lắm > ở đây còn có khoai_tây nghiền và bánh_mì thêm nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak5:4">
+				<text>Sốt chấm kèm bánh_mì ngon lắm nhưng gọi thêm thì sẽ tính phí 4k 😭 nên mng nhớ lưu_ý trc khi gọi thêm sốt , nc chanh pha ngon lăms đó 🤣 🤣</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak6">
+		<sentences>
+			<sentence id="PapaSteak6:0">
+				<text>Bên này thì không_gian sạch_sẽ , lịch_sự , sang_trọng , nhân_viên dễ_thương , nhiệt_tình rất tôn_trọng khách_hàng , tới dắt xe , mở_cửa mời vào lịch_sự lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak6:1">
+				<text>Phần ăn cũng rẻ từ 70 mấy tới 100 mấy tùy trọng_lượng lát bò mình chọn .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak6:2" OutOfScope="TRUE"> <!--sua-->
+				<text>Mình hay ăn bò sốt bbq , vs sốt tiêu xanh , có kèm sa_lát sốt dâu_tây lạ_lạ ưng ưng , thêm cả khoai_tây nghiền nữa .</text>
+			</sentence>
+			<sentence id="PapaSteak6:3">
+				<text>Mình kêu thêm ốp la thfi 5k / trứng , khoai_tây 20-25k chi đó 1 dĩa , bánh mỳ là chuyện ghét nhất ở đây vì mỗi phần bít tết cả trăm mấy mà cho có nửa ổ bánh_mì thôi , ăn thêm 1 ổ 5k</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak7">
+		<sentences>
+			<sentence id="PapaSteak7:0" OutOfScope="TRUE">
+				<text>Lâu lắm rồi mình mới ghé lại quán , mình order bò làm chín kỹ , nhân_viên có hỏi mình .</text>
+			</sentence>
+			<sentence id="PapaSteak7:1">
+				<text>Nhưng khi đem ra thì vẫn chưa chín kỹ ( như hình ) và mình phải đưa đi nấu lại nên cũng khá bực vì đang ăn mà phải chờ .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak7:2">
+				<text>Còn salad mình gọi thì rau nhiều cá lại ít Còn nữa , mình có xin thêm chén nước sốt để chấm bánh_mì và bị charge tiền , cái này không đến mức phải bị charge như_thế</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak8">
+		<sentences>
+			<sentence id="PapaSteak8:0">
+				<text>Hôm giáng_sinh đi ăn sớm nên quán không đông lắm , phục_vụ khá nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak8:1">
+				<text>Đồ_ăn thì vẫn ngon như mọi_khi , mình thích nhất_là sốt vị việt quất ăn kèm beefsteak , vừa lạ vừa kích_thích vị_giác .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak8:2">
+				<text>Bọn mình thử beefsteak đà_điểu , bữa trước đi thì hết mất nên có_lẽ món này khá được ưa_chuộng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak8:3" OutOfScope="TRUE">
+				<text>Mỗi_tội miếng beefsteak hình_như bé hơn lần trước 😂 .</text>
+			</sentence>
+			<sentence id="PapaSteak8:4">
+				<text>Mì ý sốt kem khá ngon và béo , giá lại ok hơn những chỗ khác nên mình rất thích mì ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak8:5">
+				<text>Salad_Nga lần đầu mình ăn , cảm_thấy khá thích , ăn kèm với mỳ cho đỡ ngán .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak8:6">
+				<text>Giáng_sinh nên được nhà_hàng tặng christmas cake hình trái_tim quá cute 😍 Sẽ comeback .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak9">
+		<sentences>
+			<sentence id="PapaSteak9:0" OutOfScope="TRUE">
+				<text>Sáng cuối tuần rảnh_rỗi nên đi ăn sáng với chị .</text>
+			</sentence>
+			<sentence id="PapaSteak9:1">
+				<text>Quán pử vị_trí dễ tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak9:2">
+				<text>Không_gian rộng_rãi , mát_mẻ , có 2 tầng , tụ_tập bạn_bè , hẹn_hò hay mời đối_tác đều ok .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak9:3">
+				<text>Nhân_viên cũng đông , lịch_sự .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak9:3">
+				<text>Mình ăn mỳ ý hải_sản sốt kem thấy khá ngon , sốt ko nhiều lắm nhưng thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak9:4">
+				<text>Hải_sản thì_có tôm với mực , cũng nhiều .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak9:5" OutOfScope="TRUE">
+				<text>Chị mình ăn steak bò sốt BBQ .</text>
+			</sentence>
+			<sentence id="PapaSteak9:6">
+				<text>Thịt mềm nhưng hơi dai một_chút .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak9:7" OutOfScope="TRUE">
+				<text>Buổi_sáng ăn như này là no tới trưa rồi : ) ) sẽ ghé lại để thử những món khác .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak10">
+		<sentences>
+			<sentence id="PapaSteak10:0">
+				<text>Mình mới đến đây lần đầu nhưng khá thích quán .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak10:1">
+				<text>Bạn nhân_viên dắt xe rất nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak10:2">
+				<text>Không_gian quán thì khá mát_mẻ và thoải_mái .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak10:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Thích_hợp đi với gia_đình và người_yêu .</text>
+			</sentence>
+			<sentence id="PapaSteak10:4" OutOfScope="TRUE">
+				<text>Mình tới có gọi 1 steak bò và 1 đà điễu .</text>
+			</sentence>
+			<sentence id="PapaSteak10:5">
+				<text>Thịt thì khá thấm nhưng_mà hơi dai , rất khó nhai .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak10:6">
+				<text>Khoai_tây nghiền và salad rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak10:7" OutOfScope="TRUE">
+				<text>Được kèm theo cả bánh_mì .</text>
+			</sentence>
+			<sentence id="PapaSteak10:8">
+				<text>Giá_cả thì cũng khá hợp_lý , không quá mắc .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak10:9" OutOfScope="TRUE">
+				<text>Chắc_chắn mình sẽ đến đây lần nữa để thử những món ăn khác .</text>
+			</sentence>
+			<sentence id="PapaSteak10:10">
+				<text>Ấn_tượng ban_đầu tương_đối tốt .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak11">
+		<sentences>
+			<sentence id="PapaSteak11:0">
+				<text>Đầu_tiên là phải nói đến không_gian rất tuyệt .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak11:1" OutOfScope="TRUE"> <!--sua-->
+				<text>Để mời khách hay hẹn_hò đều ổn .</text>
+			</sentence>
+			<sentence id="PapaSteak11:2">
+				<text>Túm lại là ko gian lung_linh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak11:3" OutOfScope="TRUE"> <!--sua-->
+				<text>Thích_hợp dẫn vợ đợ con đến ăn sáng vào cuối tuần .</text>
+			</sentence>
+			<sentence id="PapaSteak11:4">
+				<text>Thịt bò phile mềm nhưng sốt hơi nhạt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak11:5">
+				<text>Tuy_nhiên chấp_nhận được vì beefteak là món tây mà người tây ít ăn mặn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak11:6">
+				<text>Spaghetty ăn tạm ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak11:7">
+				<text>Đồ tráng_miệng ngon , phục_vụ nhiệt_tình nhạc du_dương trời_ơi lãng_mạn lắm quớ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak11:8" OutOfScope="TRUE">
+				<text>Đợt mình đi có món tráng_miệng là kem flan .</text>
+			</sentence>
+			<sentence id="PapaSteak11:9">
+				<text>Nhìn to và trình_bày đẹp nhưng ăn hơi lỗi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak11:10">
+				<text>bánh flan hấp bị rổ nhiều quá .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak12">
+		<sentences>
+			<sentence id="PapaSteak12:0">
+				<text>Đã ăn_ở đây quá nhiều lần rồi đến_nỗi ko nhớ hết được , up tạm chừng này hình : ) ) ) ) Thức_ăn ngon , giá ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak12:1">
+				<text>Thịt bò mềm , sốt chấm bánh_mì đi kèm rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak12:2">
+				<text>Mỳ ý thịt bò băm cũng rất ngon ( Khuyên không nên gọi mỳ ý hải_sản , mùi_vị hơi khó ăn ) Lần nào ăn cũng rất hài_lòng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak12:3">
+				<text>Nhân_viên nice , phục_vụ chuyên_nghiệp .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak13">
+		<sentences>
+			<sentence id="PapaSteak13:0" OutOfScope="TRUE">
+				<text>Ăn lâu rồi nhưng giờ mới nhớ để review hehe .</text>
+			</sentence>
+			<sentence id="PapaSteak13:1">
+				<text>Không_gian sáng_sủa hiện_đại , khách Tây khách Ta gì cũng có hết .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak13:2">
+				<text>Nhân_viên lịch_sự , được training tốt , các bạn tư_vấn món ăn cho tụi mình cũng nhiều Vì lâu rồi nên không nhớ chính_xác đã ăn những món gì , nhưng chỉ ấn_tượng với món beefsteak chủ_đạo của nhà_hàng , món cơm thái và mỳ ý Nhìn menu thì tưởng rẻ đó nhưng 1 phần đem ra cũng ít lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak13:3">
+				<text>Beefsteak vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak13:4">
+				<text>Mỳ ý hơi lạt , xịt thêm tương_ớt vô mới vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak13:5">
+				<text>Còn cơm thái thì ngon lắm thích món này nhất Sẽ quay lại</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak14">
+		<sentences>
+			<sentence id="PapaSteak14:0" OutOfScope="TRUE">
+				<text>Ăn suốt ở quán cũng hơi ngán .</text>
+			</sentence>
+			<sentence id="PapaSteak14:1" OutOfScope="TRUE">
+				<text>Nhưng chưa tìm đc chỗ nào hay_ho hơn .</text>
+			</sentence>
+			<sentence id="PapaSteak14:2" OutOfScope="TRUE">
+				<text>Khẳng_định lại 1 điều là vô đây chỉ nên gọi beefsteak thui nha mn .</text>
+			</sentence>
+			<sentence id="PapaSteak14:3">
+				<text>Mỳ Ý nó dở thôi rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak14:4" OutOfScope="TRUE">
+				<text>Haiz .</text>
+			</sentence>
+			<sentence id="PapaSteak14:5">
+				<text>Nhân_viên lịch_sự , chuyên_nghiệp .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak14:6">
+				<text>Không_gian sang_trọng , có máy_lạnh .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak14:7" OutOfScope="TRUE">
+				<text>Bữa đi trúng mưa nhân_viên còn cho hẳn mỗi đứa 1 cái áo_mưa tốc_hành để về .</text>
+			</sentence>
+			<sentence id="PapaSteak14:8" OutOfScope="TRUE">
+				<text>Thương ko chịu nỗi ^ ^</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak15">
+		<sentences>
+			<sentence id="PapaSteak15:0">
+				<text>Ghé quán theo giới_thiệu một người bạn , quán sang chảnh , mình gọi 1 phần cơm papasteak khá ngon , còn phần mì thịt bằm thì ngán ăn k đk không biết có phải k hợp_khẩu vị không , giá hơi cao .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak15:1" OutOfScope="TRUE">
+				<text>Sẽ ghé lại nếu có dịp</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak16">
+		<sentences>
+			<sentence id="PapaSteak16:0">
+				<text>Ngồi chờ chóc mỏ hơn 20p mới ra món , trong khi quán ko đông toàn khách đang ăn .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak16:1" OutOfScope="TRUE">
+				<text>Mà người tới sau mình lại lên món trước , thôi chờ_đợi mà ngon thì cũng sẽ ko viết review này .</text>
+			</sentence>
+			<sentence id="PapaSteak16:2">
+				<text>Bò dai quá là dai nhai đã_vậy ăn mà ko thấy vị ngọt của thịt cứ khô khô ko có mùi bò luôn , mấy thứ khác mình ko đánh_giá vì khẩu_vị tuỳ người .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak16:3">
+				<text>Nhưng riêng bò thì ko ngon chút nào và ko đáng gần 100k cho miếng bò như_vậy .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak16:4">
+				<text>Nước order tới_lui 2 lần lúc bảo hết order thứ khác thì lại đem ra cái order lần đầu và bảo mới đi mua nguyên_liệu trong khi mình rảnh_rỗi ngồi chờ bò lên nhìn ra cửa chả thấy nv đem đồ gì vô 😂 Tới_lui mãi đồ_ăn thì chưa có cảm_thấy khó_chịu .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak16:5">
+				<text>So với lúc mới qua Thái_Phiên thì bây_giờ chất_lượng đi xuống mà nv cũng vậy , ko thân_thiện nhìn khách cứ khinh khinh .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak16:6">
+				<text>Nói_tóm_lại là không_bao_giờ ghé nữa , tất_cả đều có_thể bỏ_qua trừ việc nhai miếng bò dai_nhách dở tệ kia</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak17">
+		<sentences>
+			<sentence id="PapaSteak17:0">
+				<text>Mình ăn_ở PapaSteak cũng vài lần rồi , từ hồi quán còn ở đường Lê_Đình_Dương , sau_này thì ăn_ở Thái_Phiên . Hôm_nay rãnh rỗi nên review quán một_chút : - Điểm cộng : + Quán khá to , dễ tìm , chỗ để xe vừa đủ + Không_gian rộng_rãi , trang_trí ấm_cúng , đẹp nhìn vừa giống nhà_hàng , quán rượu , quán cà_phê + Các món ăn khá , ngon nhất chắc là bò bít tết số chua_cay . Đồ uống cũng ở mức ổn .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak17:1">
+				<text>+ Nhân_viên thân_thiện - Điểm trừ : + Mình đợi đồ_ăn hơi lâu , có_thể vì bếp nằm ở tầng hai hoặc đầu_bếp chế_biến hơi lâu nên hơi sốt_ruột chút , đồ_ăn thì không ngon , không dở , mình hôm_nay gọi bò kho thì hương_vị khá bình_thường .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak17:2">
+				<text>+ Nhân_viên chưa nhanh_nhẹn lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak17:3" OutOfScope="TRUE">
+				<text>Chúc quán sớm khắc_phục những nhược_điểm trên , buôn may , bán đắt !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak18">
+		<sentences>
+			<sentence id="PapaSteak18:0">
+				<text>Nhà_hàng ngay trung_tâm thành_phố , nhân_viên có phong_cách phục_vụ chuyên_nghiệp , lịch_sự và nhanh_nhẹn .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak18:1">
+				<text>Không_gian thiết_kế đẹp , ở giữa có hồ cá thuỷ_sinh cho trẻ_em ngắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak18:2">
+				<text>Về món ăn_theo mình đánh_giá là rất ngon , kết nhất_là 2 món : - thịt bò sốt BBQ ăn chung với bánh_mì , khoai_tây nghiền , salad trộn và sốt papasteak đặc_trưng của nhà_hàng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak18:3">
+				<text>- mì ý hải_sản sốt kem theo kiểu châu Âu rất vừa ăn , hoà_quyện giữa vị tươi ngon của hải_sản và vị béo của phô_mai kem .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak18:4">
+				<text>Về giá_cả thì khá hợp_lý , khoảng 50-60k phần ăn_theo mình là khá ổn so với chất_lượng và dịch_vụ của nhà_hàng .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak19">
+		<sentences>
+			<sentence id="PapaSteak19:0" OutOfScope="TRUE">
+				<text>Mình hay ăn tối bên này .</text>
+			</sentence>
+			<sentence id="PapaSteak19:1">
+				<text>Quán đẹp , dễ_thương .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak19:2">
+				<text>Nhân_viên nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak19:3" OutOfScope="TRUE">
+				<text>Bò sốt tiêu ngon hơn Mỳ Ý . 1 phần bò đâu 65k thì_phải .</text>
+			</sentence>
+			<sentence id="PapaSteak19:4">
+				<text>Thịt bò mềm , vừa vị .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak19:5"> <!--sua-->
+				<text>Mì ý thì hơi nhạt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak19:6">
+				<text>Salat ăn kèm cũng ổn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak19:7">
+				<text>Nói_chung ăn đc</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak20">
+		<sentences>
+			<sentence id="PapaSteak20:0" OutOfScope="TRUE">
+				<text>Nhóm mình order 4 phần steak , 3 bò và 1 đà_điểu với foody delivery .</text>
+			</sentence>
+			<sentence id="PapaSteak20:1" OutOfScope="TRUE">
+				<text>Nhà_hàng tính 10% tiền phí dịch_vụ ( không rõ cho dịch_vụ gì ? ) .</text>
+			</sentence>
+			<sentence id="PapaSteak20:2" OutOfScope="TRUE">
+				<text>Đồ_ăn đem đến không ghi phần_nào là bò phần_nào là đà_điểu , sốt cũng không dán nhãn gì .</text>
+			</sentence>
+			<sentence id="PapaSteak20:3">
+				<text>Thức_ăn không hề ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak20:4">
+				<text>Steak quá khô , bánh_mì cứng như đá .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak20:5">
+				<text>Sốt ăn_không phù_hợp với salad và thịt .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak20:6" OutOfScope="TRUE">
+				<text>Mong nhà_hàng xem_lại chất_lượng và cách phục_vụ .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="PapaSteak21">
+		<sentences>
+			<sentence id="PapaSteak21:0" OutOfScope="TRUE">
+				<text>Phân_vân không biết ăn chi nên đáp tạm zô đây luôn khỏi suy_nghĩ vì mỗi lúc thèm thịt toàn ăn_ở đây .</text>
+			</sentence>
+			<sentence id="PapaSteak21:1">
+				<text>Phần ba_rọi chi đó lần đầu mình ăn ớn thôi rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak21:2">
+				<text>Phần cơm mềm_dẻo , thịt như thịt ba_chỉ nướng lu bình_thường thôi , nhiềi mỡ , sốt hơi ngọt nói_chung là ớn .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak21:3">
+				<text>Ăn mình suất này không hết .</text> <!--sua-->
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="PapaSteak21:4">
+				<text>Salad cá_ngừ tạm tạm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="PapaSteak21:5">
+				<text>Phần bò đã ngày_càng nhỏ mà không làm phần nhỏ nữa chỉ làm vừa và lớn mà cũng tăng_giá luôn .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="PapaSteak21:6">
+				<text>Ngon nhất chắc phần cơm papa 39k ăn kèm nước ruốc thơm thơm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

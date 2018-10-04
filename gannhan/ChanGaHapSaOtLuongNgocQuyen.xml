@@ -1,0 +1,579 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="ChanGaHapSaOtLuongNgocQuyen1">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:0" OutOfScope="TRUE">
+				<text>Không phải cứ ảnh đẹp là đồ_ăn ngon , và ngược_lại .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:1" OutOfScope="TRUE">
+				<text>Giống những bức hình chụp vội này , trời_ơi lần đầu đi ăn mà chụp xấu thậm_tệ như_vậy .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:2" OutOfScope="TRUE">
+				<text>Chỉ vì nhìn ngon quá tranh nhau ăn , k cho chụp .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:3">
+				<text>Trc chưa biết đến quán này , nhưng hm đc chị bên công_ty dẫn đi ăn , mới thấy ngon đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:4" OutOfScope="TRUE">
+				<text>Tối_qua có đi cùng mấy đứa bạn lên đây , lại tạt té qua quán , sợ gọi 1 suất chân gà k đủ , nên gọi hẳn 2 luôn .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:5" OutOfScope="TRUE">
+				<text>Ăn chưa kịp ngẩng lên nhìn nhau đã hết rồi .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:6">
+				<text>- Chân gà ở đây k quá cay , cũng k quá chua .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:7">
+				<text>-- Món thứ 2 k thể bỏ_qua khi đến quán đó là thịt nướng , như những quán khác thì thịt nướng sẽ bé xíu xíu và tròn tròn , quán này thì to lắm , 10k/xiên , mình ăn 4 xiên mà vẫn k chán : ( ( - Khoai chiên phô_mai ở đây cứ lạ_lạ thế_nào ấy , mình thấy k đc ngon cho lắm nhưng đc cái là nhiều , đầy ứ ứ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen1:8">
+				<text>Tổng_kết lại là , với 1 quán ở phố cổ như này , với cái giá bỏ ra thì đúng là đáng để ăn , quá rẻ .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen2">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen2:0" OutOfScope="TRUE">
+				<text>1 trong những quán chân gà sả ớt đầu_tiên tại hn .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen2:1"> <!-- sua -->
+				<text>Chân gà ăn siêu ngon cộng vs nước_chấm hợp vị nữa 😝 quán có nhiều món cũng ngon như khoai rán , nem_chua vv quán cũng khá đông nên hay hết chỗ lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen2:2" OutOfScope="TRUE">
+				<text>Thi_thoảng thèm lại ghé : 3</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen3">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:0" OutOfScope="TRUE"> <!-- sua -->
+				<text>Aigoo quán này chắc không cần giới_thiệu nhiều 😂 Hot nhất phố Lương_Ngọc_Quyến luôn rồi .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:1" OutOfScope="TRUE">
+				<text>Ưu_điểm : dù đông đến mấy nhưng nhớ order của KH 1 cách siêu dã_man luôn - không cần ghi 👍 🏻 👍 🏻 👍 🏻 .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:2">
+				<text>Hầu_như món nào ở đây cũng ngon , chân gà to giòn sần_sật , ngấm gia_vị đậm_đà cực .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:3">
+				<text>Nem_rán ngoài giòn_tan trong vẫn mềm và nóng_hổi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:4">
+				<text>Bánh mỳ mật_ong siêu ngon luôn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:5">
+				<text>Khoai lắc thì đẫm phô_mai thích dã_man Ôi ngô , phô_mai que , cút lộn ... ngon tất 😂 .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen3:5">
+				<text>Nhược_điểm : ngon thật nhưng giá thì hơi chát so với mặt_bằng các quán_ăn vặt 😂 đi team 3-4ng mà mng 150-170k đấy ạ Vấn_đề nữa_là mất tiền gửi xe 20k nữa chưa huhu 😭</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen4">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen4:0" OutOfScope="TRUE">
+				<text>Bình_thường mình cũng hay ngồi luôn tại quán_ăn , mà do hôm_nay trời rét nên lại order qua Now.vn vì lười đi quá > "  Dịch_vụ của Now phần_lớn làm mình hài_lòng vì thường giao khá đúng giờ , có hôm còn trước cả giờ hẹn ^ ^ Tên quán cũng chính là món chủ_đạo và có_lẽ quán cũng nổi vì món này thật .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen4:1"> <!-- sua -->
+				<text>Chân gà dai vừa_phải , không bị quá chua , vị vừa_miệng chấm với gia_vị và tại quán còn phục_vụ cả bia_tươi , combo chân gà và bia lúc_nào cũng được mọi người order nhiều nhất thì_phải ^ ^ Mình rất khoái món khoai lắc phô_mai ở đây , order về nhà thì không được giòn như ở quán , nhưng vị của khoai thì vẫn ngon như_vậy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen4:2">
+				<text>Thích lắm , đồ ở quán giá cũng ko đắt .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen4:3" OutOfScope="TRUE">
+				<text>Ngồi tụ_tập với bạn_bè giữa phố Lương_Ngọc_Quyến nhộn_nhịp là quá chuẩn luôn !</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen5">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen5:0">
+				<text>Chân gà to , nhiều thịt , gặm thích , muối chấm ổn : p nem_rán khá ngon , khoai lắc phô_mai bình_thường , hơi ỉu va ít phô_mai , k có gì đặc_biệt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen5:1">
+				<text>Giá thì mình k nhớ rõ , nhưng cũng k đắt_đỏ so với chất_lượng .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen5:2">
+				<text>Phục_vụ nhanh vèo_vèo , thân_thiện : ) ) ) ) chỗ ngồi hơi chật trội giống như những quán khác ở khu_vực này , còn hơi ẩm_thấp nữa , mình không thích lắm , nhưng đồ_ăn ngon nên mình hay đặt qua Delivery_Now để được giao về nhà : v Nói_chung quán khá ổn ; )</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen6">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:0" OutOfScope="TRUE">
+				<text>Cuối tuần lượn_lờ Hồ_Gươm với phố cổ là kiểu gì cũng vào đây ăn 😌 .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:1">
+				<text>Trong mấy hàng ở đây thì mình ưng nhất hàng này tại có chân gà ngâm sả ớt ăn ngon cực , chân gà giòn , to ngâm trong cái nước sốt đậm vị , chấm thêm tí gia_vị của quán thì ôi_thôi besttt luôn ạ 😭 , khoai_tây chiên lắc phô_mai 50K một đĩa mà lắc nhiều phô_mai thơm ngon lắm , nem_rán giòn , to chấm vào cái tương_ớt có tí tỏi ăn càng cuốn hơn , nem nướng cũng thế huhu ở đây nhiều món ngon lắm mà phục_vụ nhanh nữa ngồi tí là đủ đồ rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:2" OutOfScope="TRUE">
+				<text>Nói_chung ăn_ở quán nhiều lần lắm rồi và sẽ quay lại dài_dài ạ 👍</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen7">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:1">
+				<text>khu_phố nhộn_nhịp này cuối tuần luôn đông khách , mình thấy chỗ này là giá_cả ổn nhất ở đây , chân gà làm_ăn đượm vị , giòn dai xần xật , thơm vị tắc , chứ ko phải chân gà lấy trong tủ_lạnh như quán ở ngay đầu đường cách đó mấy căn .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:2">
+				<text>chỗ ngồi thì sát nhau gần_như cựa mình cũng khó vào dịp cao_điểm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen6:3">
+				<text>ngoài_ra có món khoai lắc cũng xuất_sắc lắm , phô_mai thơm ngọt ngọt hoà với khoai chiên uống bia cực vào luôn , mình đi 2 người , uống 2 bia , 1 đia chân gà và khoai lắc có 150k , sẽ quay lại , nhân_viên nhanh_nhẹn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen7">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen7:0">
+				<text>Quán này nằm trên tạ hiện , hôm nào cũng đông kín bàn vì quá là nổi_tiếng luôn rồi , chân gà to giòn và rất cay huhu , cay lắm nhé các bạn Mình gọi thêm cả trứng cút xào me nữa , nước sốt khá ngon nhưng trứng ăn lại hơi tanh kiểu là không đảo kĩ với sốt vậy Ngồi gặm chân gà uống bia xong nghe nhạc free ở mấy quán bar bên_cạnh thì đã phải_biết ý nhờ haha</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen8">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:0">
+				<text>Lại là 1 địa_điểm yêu_thích của mình , và món sở_trường gà : ) ) Chân gà sả ớt mắt to có đủ các món từ nem_rán , nem nướng , khoai cho_đến chân gà .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:1">
+				<text>Tất_cả các món này đều là món mình thích .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:2" OutOfScope="TRUE">
+				<text>Và mình cũng thích lên phố thì ăn_ở đây nhất , lần nào cũng vậy .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:3" OutOfScope="TRUE">
+				<text>Nem nướng ở quán k thua j nem ấu triệu luôn .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:4" OutOfScope="TRUE">
+				<text>Món mình đặc_biệt thích .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen8:5">
+				<text>Từ nước_chấm đến đồ_ăn tất_cả mọi thứ đều làm mình yêu_thích mắt to : ) ) ) Nếu chưa biết ăn xế ở đâu chiều nay , thì các bạn có_thể đến đây thử ; )</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen9">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:0">
+				<text>Muốn ăn chân gà xả ớt phải qua MẮ t to mới ngon cơ .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:1">
+				<text>Vị chua_cay của ớt , quất , sả hợp ly làm_sao , chân vẫn giòn , vẫn ngấm đù nước ngâm , chấm chanh ớt quên sầu lun .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:2">
+				<text>Ở đây có nem nướng quạt ngay sau khi gọi nên ăn nóng rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:3">
+				<text>Ớt cay cũng ngon nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:4">
+				<text>Khoai chiên chờ hơi lâu nhựng gián ròn chấp_nhận đc .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen9:5">
+				<text>Cuối tuần quán đông dã_man , có thêm cả dịch_vụ bán bóng cười dấy : ) ) ) ah cái ưng nhất_là mình gọi trà chanh , trà quất ít đường và trả đồ đúng í như_thế , duyệt</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen10">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:0" OutOfScope="TRUE">
+				<text>Ăn xong đứng_dậy lấy xe mất luôn 2 chục cũng xót phết .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:1" OutOfScope="TRUE">
+				<text>Kiểu 2 chục chẳng đáng bao_nhiêu nhưng không nghĩ là để xe ngay cửa cũng mất tiền nên cứ như bị ăn_cướp ấy .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:2">
+				<text>Chân gà xả ớt ở đây ăn được phết , ngấm gia_vị , ngấm vị quất ớt đủ cả .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:3">
+				<text>Nước_chấm ở đây giống muối ớt chanh khá ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:4">
+				<text>Bạn mình thì mê cái món thịt xiên sốt BBQ 10k/xiên ở đây lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:5">
+				<text>Tẩm ướp vừa_vặn , mỗi_tội sốt chấm cay nên hơi lệch vị BBQ .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen10:6">
+				<text>Món trà chanh bạc_hà hình_như không phải của hàng này đâu , nhưng cứ gọi thì ngt đi lấy từ chỗ khác cho mình ấy 20k/cốc uống ngon lắm</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen11">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:0" OutOfScope="TRUE">
+				<text>Bọn mình có gọi chân gà , khoai , chè thái sầu , nước dừa .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:1">
+				<text>Đồ_ăn thì cũng ok , chân gà làm ngon tẩm ướp vừa_miệng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:2">
+				<text>Chè cũng ngon nhiều nguyên_liệu .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:3">
+				<text>Khoai hình_như bọn mình gọi khoai lắc phô_mai ăn cũng ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:4">
+				<text>Tuy_nhiên , cái thái_độ nhân_viên ở đây thì mình k chấp_nhận được .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:5">
+				<text>Nhớ có cái bà nhân_viên ở đây đã k niềm_nở rồi mặt còn kiểu thái_độ thế_nào í ghét vchh .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen11:6" OutOfScope="TRUE">
+				<text>Ở đây sẽ mất thêm tiền gửi xe 10 / c .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen12">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen12:0">
+				<text>- chân gà xả ớt hay chiên mắm điều ngon - 50k / đĩa 4 chân : ) ) , đắt hoen chỗ khác 10k nhg trên phố nên paie vậy thui - lên phố thì ăn chứ đông_đúc ồn_ào mệt mõi : ) )</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen13">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen13:0">
+				<text>1 tuần ăn 3 lần chân gà , công_nhận là chân gà chiên mắm ở đây vẫn có vị riêng , đậm_đà .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen13:1">
+				<text>Khoai lắc phô_mai ăn được đó .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen13:2">
+				<text>Điểm cộng mà làm mình thích ở đây có 2 món nem nươngs vs hộp xoài .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen13:3">
+				<text>Nem rất ngon , đến mức tụi mình gọi thêm đĩa nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen13:4">
+				<text>Xoài chấm muối ớt cũng ngon nhắm</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen14">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:0" OutOfScope="TRUE">
+				<text>✨ Vị_trí : quán nằm đoạn lương ngọc quyến chỗ phố cổ quá là trung_tâm nhé .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:1" OutOfScope="TRUE">
+				<text>Thêm nữa quán quá là thân_quen với tất_cả mọi ng rồi a .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:2">
+				<text>Ko gian bên trong tương_đối thoáng chứ ko được rộng lắm a .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:3">
+				<text>Ngoài_ra có chỗ ngồ bên ngoài đông vui lắm nhé .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:4">
+				<text>Giá_cả : 1 đĩa chân gà là 50k thuộc giá tầm ok nhé ✨ Chất_lượng : mình thấy ăn khá là ổn a .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:5" OutOfScope="TRUE">
+				<text>So với các quán chân gà sả ớ thì quán vẫn là chuẩn nhất a .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen14:6">
+				<text>Ăn vừa_phải mà phần nước sốt kèm cay_cay vừa_phải khá là ok nhé</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen15">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen15:0">
+				<text>Vị_trí : thấy khá to , mà ăn_ở đây cảm_thấy đỡ ồn_ào , xô_bồ hơn bên Tạ hiện 🌽 Không_gian : khá bé , ngồi vỉa_hè sẽ thoáng hơn 🌽 Chất_lượng : chân gà ở đây ngon vch luôn ý , cả cái nem sống như trong ảnh này nx này .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen15:1">
+				<text>Ớt chấm ngon dã_man , cay_xè rất kích_thích vị_giác : ) ) ) kiểu càng ăb càng muốn ăn thêm : ) ) ) trà chanh hơi ngọt mà toàn đá thôi .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen15:2">
+				<text>Nhg uống vs mấy đồ nhắm tn lại thấy rất hợp ^ ^ 🌽 Giá_cả : như ở menu thì thấy giá cx ổn , chak cx giá chung ở khu này thôi .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen15:3">
+				<text>Ở khu_phố cổ lại phục_vụ cho tây nên sẽ k tránh khỏi giá hơi cao .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen16">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen16:0">
+				<text>Phố_thị đông_đúc , ng qua kẻ lại nên ko khí zui lắm , đồ nhậu có chân gà sả ớt , thịt xiên nướng , sụn gà rang múi , khoai_tây chiên , nem_rán blabla blo .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen16:1">
+				<text>Kết nhất_là món chân gà , chân max to , ướp thơm ngon , giòn sật sật , cơ_mà ko hiểu sao lần nào ăn về cũng làm 1 trận ỉa_chảy : ) ) ) ) Nhậu " lai_rai " thế_này mà đến lúc thanh_toán cũng ngót_nghét 150k/ng đó</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen17">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:0">
+				<text>Mình thích chân gà ở đây cực_kì , chân gà giòn to chua_chua ngọt ngọg mà rất ngấm nước huhu ăn thích cực không dừng nổi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:1">
+				<text>50n 1 đĩa có tầm 5 6 cái chân cắt đôi to_đùng Nem phùng ở đây cũng rẻ mà ngon lắm .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:2">
+				<text>Một cuộn bé_bé xinh_xinh có 15n thôi Mình thử qua thịt xiên ăn cũng ổn 10n 1 cái , nem_chua rán loại không bột 50n 1 đĩa 10 cái Nước thì mình gọi trà chanh lúc uống cũ g được .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:3">
+				<text>Lúc hơi đắng @ @ Nhân_viên thì nhân_viên nam thì được chứ nv nữ rất chảnh , bơ khách luôn .</text>
+				<Opinion category="REST#SERVICE" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:4">
+				<text>Chỗ ngồi thì hơi chật_chội vì phải chen_chúc ngồi san_sát nhau nhưng không không_khí rất vui_vẻ náo_nhiệt đúng kiểu dân nhậu : ) ) .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:5">
+				<text>Điểm trừ là phải gửi xe , mất tận 20n cơ gửi ngay đối_diện quán = = "</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen17">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:0" OutOfScope="TRUE"> <!-- sua-->
+				<text>Có 1 thời_gian mình bị cuồng chân gà ở đây luôn ý .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:1">
+				<text>Chân gà mềm chua_chua cay_cay ngọt ngọt kích_thích vị_giác cực_kì .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:2">
+				<text>Tuy giá có hơi chát 1 chút cho 1 đĩa chân gà nhưng vì thèm nên mình k thể nhịn nổi .</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:3">
+				<text>Nem lắc phô_mai ở đây cũng khá ngon , tuy_nhiên mình thấy vẫn hơi ít bột phô_mai nhiều hơn chút thì tốt .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:4">
+				<text>Nem_chua béo_tròn giòn giòn chấm thêm ít tương_ớt là tuyệt_cú mèo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:5">
+				<text>Cút lộn xào me thì mình k thíc lắm vì thấy hơi ít sốt mà cũng k dậy_mùi me .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen17:6" OutOfScope="TRUE"> <!-- sua -->
+				<text>Tuy_nhiên mình chỉ thíc chân gà thôi nên k quan_tâm lắm : )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen18">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:0">
+				<text>🐘 Ăn_ở đây suốt thích lắm tại ở phố cổ nhộn_nhịp đông vui có không_khí dã_man .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:1">
+				<text>Chỗ ngồi bé thôi nhưng không quá chật_chội , hơi bẩn lúc đông khách .</text>
+				<Opinion category="REST#AMBIENCE" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:2">
+				<text>🐘 Chân gà sả ớt ở đây ngon dã_man , kiểu da giòn ngấm nước ngâm , đĩa cx khá đầy_đặn .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:3">
+				<text>Nước_chấm ngon dễ ăn , hơi cay_cay gặm gặm thích lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:4">
+				<text>Mỗi_tội chân gà ko cắt móng nhìn hơi mất thẩm_mĩ .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:5">
+				<text>Khoai chiên đĩa siêu to siêu nhiều .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:6">
+				<text>Bảo nv chiên giòn và nhiều phomai thì đúng chuẩn siêu nhiều phomai luôn , ngập đĩa thơm_nức .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:7">
+				<text>Phomai que ở đây ngon lắm vì vỏ mỏng thôi , bên trong ngập cheese ăn khá ưng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen18:8">
+				<text>🐘 Giá đồ ổn không quá chát , nhân_viên tuy ko được tận_tình và có phần hơi câng_câng nhưng thôi bỏ_qua</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen19">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen19:0" OutOfScope="TRUE">
+				<text>Thằng bạn mình làm thêm ở beer 2ku xong trong lúc chờ nó làm chán chán sang đây ăn thử , nghe tên lạ_lạ thấy cũng đông khách .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen19:1" OutOfScope="TRUE">
+				<text>Mạn phố cổ toàn mấy hàng_quán vỉa_hè đông_nghẹt người luôn , mấy lần mình đến đều đông hết .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen19:2">
+				<text>Chân gà ở đây to lắm luôn , hấp sả ớt thơm_lừng xong chấm nước_chấm chua_ngọt tuyệt_vời luôn , gọi thử bạch_tuộc ăn cũng giòn giòn sần_sật ngon ghê_gớm quá hợp để nhậu_nhẹt các kiểu luôn : ) )</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen20">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen20:0">
+				<text>Chiều nào tôi cx đc dẫn đi ăn chân gà đó vì sang bên kia hổng có mấy món này mà ăn đâuuu 😰 ❤ ️ Mình gọi 1 bát chân gà xả ớt , mà ướp tẩm chua_chua ngọt ngọt ăn thíc lắm ^ ^ Lại có lá sả nên rất thơm 😃 Cộng vs 1 bát nước_chấm chua_ngọt và ngậy cực_kì ấn_tượng 💋 Gọi thêm cả 1 đĩa sụn rang muối , món này cũng ngon nè !</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen20:1">
+				<text>Nước ở đây cx đa_dạng , ngoài mấy loại nước chanh , trà đá , trà đào , . . thì còn có cả sữa_chua rồi nếp_cẩm các thứ cơ nhé ❗ ️ ❗ ️ ❗ ️ ❤ ️ Ở đây lúc bminh tới là tầm chiều_chiều nên chọn ngồi trong nhà , nhg tối thì thấy mng có_vẻ có xu_hướng ngồi ra ngoài đường để hoà chung kkhi luôn = ) ) )</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen21">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:0">
+				<text>Quán đối_diện bar Gecko và gần phố đi bộ nên siêu đông ✔ ️ K có chỗ để xe nên tìm chỗ để cx khá vất_vả : ( ( ( ngồi cx chật_chội nhg dk cái thoáng vs nt ms hưởng tí không_khí ônd ào tấp_nập trên phố Tạ hiện cx vui ^ ^ ✔ ️ Ở đây nổi nhất_là chân gà sả ớt nhg mình chỉ thấy nước ướp ấy ngon chứ minhd thì k thích ăn chân gà 😃 🙄 😂 .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:1">
+				<text>Ngoài_ra menu còn rất đa_dạng mấy món ăn vặt như nem_chua , khoai chiên , nem sống ...</text>
+				<Opinion  category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:2">
+				<text>Thì mình thấy ngon nhất_là nem_chua và khoai_tây lắc nha 😂 .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:3">
+				<text>Đến đây k uống dk bia thì cứ trà chanh mà triển : ) ) ) siêu rẻ siêu đã khát : ) ) ) ✔ ️ Phục_vụ ở đây đông nhg nhanh_nhẹn và niềm_nở lắm nha</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen21">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:0" OutOfScope="TRUE">
+				<text>Từ hồi biết đến quán Mắt to này mình mới ăn chân gà đấy chứ trước đấy chả ăn bao_giờ luôn ^ ^ .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:1">
+				<text>Phải công_nhận món chân gà hấp sả ớt ở đây làm ngon thật , dấm rất vừa_miệng , chua_ngọt cay đều vừa_vặn í : ) ) chân gà quán xếp hết ra đia rồi , khách gọi một cái là có hàng luôn , một đĩa 50k ăn bao ngon 😂 😂 😂 ở đây ngoài chân gà mình còn thích ăn khoai_tây lắc phô_mai , ăn ngon thôi rồi ấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:2">
+				<text>Thi_thoảng đổi gió có_thể gọi thêm khoai lắc xí muội ăn cũng được .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen21:3">
+				<text>Quán đông người , khách ra_vào liên_tục nên có điểm trừ là_hơi nhiều rác .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen22">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen22:0">
+				<text>Vị_trí : Quán nắm ngay đối_diện bar gecko và nằm gần phố đi bộ khu trung_tâm nên lúc_nào cũng đông khủng_khiếp .</text>
+				<Opinion category="REST#GENERAL" polarity="negative"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen22:1" OutOfScope="TRUE">
+				<text>Không_gian : Quán ban_đầu chỉ là cửa_hàng nhỏ nhưng bây h thành 2 bên rồi .</text>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen22:2">
+				<text>Có hẳn biển_hiệu mắt to = ) ) ) Menu : Quán thì đã quá nổi_tiếng vì chân gà sả ớt rồi nhưng menu thì đa_dạng lắm .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen22:3">
+				<text>Món ăn vặt gì cũng có hết ko thiếu cái gì : nem nướng , nem_rán , thịt xiên , khoai_tây chiên , khoai_tây phô_mai , mực rồi bạch_tuộc nướng , cá_bò , cá chỉ vàng ... . .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen22:4" OutOfScope="TRUE">
+				<text>Quán có 1 điểm rất buồn_cười là ai cũng phải gọi cô chủ là Mắt to ơi để cho nó có thương_hiệu = ) ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid= "ChanGaHapSaOtLuongNgocQuyen23">
+		<sentences>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen23:0">
+				<text>Quán nằm trong khu_phố cổ lại đúng phố bia Tạ_Hiện nữa nên xung_quanh lúc_nào cũng đông vui nhộn_nhịp nhất_là dịp cuối tuần , mỗi_tội hơi bất_tiện những ngày cuối tuần cấm đường .</text>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen23:1">
+				<text>Quán có menu khá đa_dạng , nhiều món ăn vặt , ăn_nhậu tất_nhiên là không_thể thiếu bia_bọt được .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="ChanGaHapSaOtLuongNgocQuyen23:2">
+				<text>ĐI cùng bạn nó muốn thử chân gà sả ớt nên cũng gọi chân gà sả ớt , được_cái chân gà ăn khá ổn , mình không thích ăn chân gà nhưng ăn thử để xem vị như nào khá vừa_miệng mà cũng hợp để uống bia</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+</Reviews>

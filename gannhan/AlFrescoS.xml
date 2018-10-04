@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<Reviews>
+	<Review rid="AlFrescoS1">
+		<sentences>
+			<sentence id="AlFrescoS1:0">
+				<text>Sườn nướng là combo mình hay lựa_chọn nhất khi ăn cùng gia_đình tại đây , sườn thấm mềm ngọt và ngon , nước sốt chấm cũng gây thích_thú , đặc_biệt mình thích khoai_tây ăn kèm giữ được vị ngọt mềm tự_nhiên của khoai_tây .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS1:1" OutOfScope="TRUE">
+				<text>Nên đi vào những ngày trong tuần vì cuối tuần thường hay bị full bàn chờ khá là lâu .</text>
+			</sentence>
+			<sentence id="AlFrescoS1:2">
+				<text>Mình đặc_biệt thích khi đi có trẻ_em thì_có giấy màu và bút màu cho các bạn nhỏ tô màu .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS1:3">
+				<text>Chỗ ngồi rộng_rãi và an_toàn cho các bạn nhỏ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS1:4">
+				<text>Vì_vậy không_gian ở đây rất thích_hợp cho gia_đình có trẻ_em .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS2">
+		<sentences>
+			<sentence id="AlFrescoS2:0">
+				<text>Lâu rồi mới quay lại ăn_ở Al_Fresco ' s , đồ_ăn cũng ngon nhưng phục_vụ hơi lâu , lúc mình đợi dessert .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS2:1">
+				<text>Không_gian cũng hơi tối nên ko selfie được nhiều</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS3">
+		<sentences>
+			<sentence id="AlFrescoS3:0">
+				<text>Không_chỉ pizza siêu ngon àm tráng_miệng cũng tuyệt_vời nữa .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS3:1">
+				<text>con mình hoi quậy thì ở đây cso đồ cho vẽ và cả nhà banh để chơi nwuax , khá tuyệt</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS4">
+		<sentences>
+			<sentence id="AlFrescoS4:0">
+				<text>Pizza chỗ này thì thần_thánh khỏi nói rồi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS4:1">
+				<text>Ngon , chất_lượng , giá hơi cao nhưng không có gfi để chê</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+				<Opinion category="REST#GENERAL" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS5">
+		<sentences>
+			<sentence id="AlFrescoS5:0" OutOfScope="TRUE">
+				<text>Trước giờ toàn ăn pizza bên Mote .</text>
+			</sentence>
+			<sentence id="AlFrescoS5:1" OutOfScope="TRUE">
+				<text>Nay đc mấy đứa bạn rủ qua đây ăn thử .</text>
+			</sentence>
+			<sentence id="AlFrescoS5:2">
+				<text>Đúng là ngon thiệt , ăn đáng_giá đồng_tiền lắm : " > … .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS5:3" OutOfScope="TRUE">
+				<text>Các bạn nên thử</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS6">
+		<sentences>
+			<sentence id="AlFrescoS6:0" OutOfScope="TRUE">
+				<text>Mình đã nghe những người bạn truyền tai nhau quán này rất oke .</text>
+			</sentence>
+			<sentence id="AlFrescoS6:1" OutOfScope="TRUE">
+				<text>Nên mình và 1 người bạn nữa tới và ăn tối ở đây .</text>
+			</sentence>
+			<sentence id="AlFrescoS6:2">
+				<text>Đây là lần đầu_tiên mình đến , cảm_giác ban_đầu thì rất thoải_mái vì bước vào thấy không_gian rộng và nhân_viên rất nhiệt_tình .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS6:3" OutOfScope="TRUE">
+				<text>Mình và người bạn mình đã gọi salad , 1 món ăn kèm và 1 pizza cỡ trung để ăn share .</text>
+			</sentence>
+			<sentence id="AlFrescoS6:4" OutOfScope="TRUE">
+				<text>Bọn mình uống rất nhiều bia 😅 🍻 .</text>
+			</sentence>
+			<sentence id="AlFrescoS6:5">
+				<text>Đồ_ăn ở đây thì đúng như mọi người khen rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS6:6">
+				<text>Mình cảm_thấy rất ngon .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS6:7">
+				<text>Mình và người bạn mình đều làm trong ngành dịch_vụ nên hiểu được cảm_giác khi đi vào 1 nhà_hàng gọi được thức_ăn mà mình thấy hài_lòng và thưởng_thức trọn_vẹn thì không còn gì để nói . !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS6:8">
+				<text>Mấy bạn nhân_viên ở đây rất dễ_thương .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS6:9" OutOfScope="TRUE">
+				<text>Có 1 bạn nhân_viên nữ ( tên Quỳnh ) trong lúc bọn mình ăn còn tới bắt_chuyện và nói_chuyện hỏi feedback về món ăn và về thái_độ phục_vụ .</text>
+			</sentence>
+			<sentence id="AlFrescoS6:10">
+				<text>Chốt lại thì mình chỉ muốn nói mọi thứ ở đây excellent ! ! ! 👍 🏻 👍 🏻 👍 🏻 chắc_chắn mình sẽ dẫn gia_đình và bạn_bè quay trở_lại . !</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS7">
+		<sentences>
+			<sentence id="AlFrescoS7:0" OutOfScope="TRUE">
+				<text>Thực_ra cả nhà ngoại mình là fan ruột của Al fresco ' s luôn .</text>
+			</sentence>
+			<sentence id="AlFrescoS7:1" OutOfScope="TRUE">
+				<text>Cứ tới dịp là hay order hoặc tới quán_ăn luôn .</text>
+			</sentence>
+			<sentence id="AlFrescoS7:2">
+				<text>Chất_lượng thì quá tốt rồi .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS7:3">
+				<text>Không_gian quán thoáng với sang_trọng nữa .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS7:4">
+				<text>Thích nhất_là mỗi lần ngồi đợi là lấy bút màu ngồi nghịch = ) ) Pizza dù là ăn tại_chỗ hay ship về vẫn luôn nóng_hổi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS7:5" OutOfScope="TRUE">
+				<text>Mình thích ăn bánh đế dày hơn .</text>
+			</sentence>
+			<sentence id="AlFrescoS7:6" OutOfScope="TRUE">
+				<text>Cảm_giác cầm tay_không nó chắc_chắn hơn ấy = ) )</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS8">
+		<sentences>
+			<sentence id="AlFrescoS8:0">
+				<text>Đồ_ăn ngon , hợp_khẩu vị</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS9">
+		<sentences>
+			<sentence id="AlFrescoS9:0">
+				<text>Về không_gian rộng_rãi khá là sang .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS9:1">
+				<text>Nhân_viên phục_vụ tốt , thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS9:2">
+				<text>Giá_cả so với mặt_bằng chung vậy_là ổn , chất_lượng ngon tuyệt , pizza ngon , chuẩn vị luôn nè .</text>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS9:3">
+				<text>Vị_trí cũng rất dễ tìm .</text>
+				<Opinion category="REST#LOCATION" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS9:4" OutOfScope="TRUE">
+				<text>Quán hay có những chương_trình khuyến_mãi như mua một tặng một thứ 3 hay cộng thêm 49k để được một loại bánh cùng size vào thứ 6 .</text>
+			</sentence>
+			<sentence id="AlFrescoS9:5" OutOfScope="TRUE">
+				<text>Nếu học_sinh sinh_viên thì nên lựa những ngày này ăn sẽ tiết_kiệm hơn nhiều .</text>
+			</sentence>
+			<sentence id="AlFrescoS9:6">
+				<text>Món ăn đa_dạng có_thể gọi combo ăn cũng rất tiện</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS10">
+		<sentences>
+			<sentence id="AlFrescoS10:0" OutOfScope="TRUE">
+				<text>Cái này chị chủ mua cho ở hội an lận .</text>
+			</sentence>
+			<sentence id="AlFrescoS10:1" OutOfScope="TRUE">
+				<text>Vỏ bánh mỏng ngon hơn bánh dày .</text>
+			</sentence>
+			<sentence id="AlFrescoS10:2" OutOfScope="TRUE">
+				<text>Nói_chung mình thì ko thích pizza lắm đc cái dễ ăn hơn các quán khác , ko nghe mùii hành với ớt chuông nhiều .</text>
+			</sentence>
+			<sentence id="AlFrescoS10:3">
+				<text>Mỳ ý là best nhất ❤ ️</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS11">
+		<sentences>
+			<sentence id="AlFrescoS11:0">
+				<text>Khoái pizza này nhất .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS11:1" OutOfScope="TRUE">
+				<text>cứ ỉm im mà chịu_khó cập_nhật page là thấy quá_trời trời khuyến_mãi .</text>
+			</sentence>
+			<sentence id="AlFrescoS11:2" OutOfScope="TRUE">
+				<text>khuyến_mãi đàng_hoàng cái gì ra cái đấy ko như pizza hut kiểu như lừa_đảo hình 1 đăng ra bánh 1 kiểu hay mấy cái km xàm xàm lấp_lửng .</text>
+			</sentence>
+			<sentence id="AlFrescoS11:3" OutOfScope="TRUE">
+				<text>Pizza size xl , mua 1 +49 k tặng 1 .</text>
+			</sentence>
+			<sentence id="AlFrescoS11:4">
+				<text>ăn_ở đây thì xác_định là no cành hông ra .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS11:5">
+				<text>Trưa sang đây ăn set lunch cho hoành_tráng mừng ngày kỉ_niệm , set cũng nhiều có mỳ ý , pizza , salat , tráng_miệng nữa .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS11:6">
+				<text>không_gian sang_trọng , nhìn như cửa_hàng ăn nc ngoài , nhân_viên lịch_sự lắm</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS12">
+		<sentences>
+			<sentence id="AlFrescoS12:0" OutOfScope="TRUE">
+				<text>Đang_Giáng sinh nên quán chỉ áp_dụng menu holiday , ko áp_dụng bất_kì chương_trình khuyến_mãi nào .</text>
+			</sentence>
+			<sentence id="AlFrescoS12:1">
+				<text>Mình đi 3 người gọi 4 món là no căng rồi .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS12:2">
+				<text>Pizza seafood deluxe đế mỏng ok , nhiều cheese , ăn nóng ngon lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS12:3">
+				<text>Mỳ ý hải_sản cũng thế , sốt kem khá béo .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS12:4">
+				<text>Salad thì được trộn đều , trình_bày đẹp_mắt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS12:5">
+				<text>Cánh_gà sốt cay thì mình ko ăn vì bạn mình nói cay lắm : ) ) </text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS12:6">
+				<text>Nhân_viên phục_vụ tận_tình , luôn tươi_cười với khách , bưng món nào ra cũng chúc khách ăn ngon_miệng hết : ) ) Không_gian 2 tầng , tầng 2 nghe_nói rộng lắm .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS13">
+		<sentences>
+			<sentence id="AlFrescoS13:0">
+				<text>Quán có set lunch ăn khá lợi tiền .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS13:1" OutOfScope="TRUE">
+				<text>Mỗi set 185k - 215k , gọi thêm set thứ 2 chỉ thêm 30k .</text>
+			</sentence>
+			<sentence id="AlFrescoS13:2">
+				<text>Đồ_ăn ngon , phục_vụ tuyệt_vời .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS14">
+		<sentences>
+			<sentence id="AlFrescoS14:0" OutOfScope="TRUE">
+				<text>Order mang về pizza BBQ size S .</text>
+			</sentence>
+			<sentence id="AlFrescoS14:1">
+				<text>Pizza ngon nhiều nhân nhiều thịt nhưng_mà đế hơi mỏng .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AlFrescoS14:2" OutOfScope="TRUE">
+				<text>Mình k thích cái hộp bên này bánh nóng dính cả vào hộp k có đc tốt như Hut .</text>
+			</sentence>
+			<sentence id="AlFrescoS14:3" OutOfScope="TRUE">
+				<text>Đế bánh bên Hut mình thấy ngon hơn .</text>
+			</sentence>
+			<sentence id="AlFrescoS14:4" OutOfScope="TRUE">
+				<text>Nhưng_Hut nhân k bằng bên này .</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS15">
+		<sentences>
+			<sentence id="AlFrescoS15:0">
+				<text>Đồ_ăn ngon lắm 😍 Hầu_như món nào cũng ngon , mình thích pizza ở đây nhất trong tất_cả những chỗ pizza mình đã ăn , nêm nếm ở đây khá hợp với người Việt tại do bình_thường mình ăn bên nước_ngoài thì đo ăn hơi nhạt_nhẽo khó mà đáp_ứng được khẩu_vị của người Việt 😍 Soup cũng ngon mà dessert cũng ngon</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS16">
+		<sentences>
+			<sentence id="AlFrescoS16:0" OutOfScope="TRUE">
+				<text>Lâu lắm mới ghé lại .</text>
+			</sentence>
+			<sentence id="AlFrescoS16:1">
+				<text>Nhân_viên phục_vụ chuyên_nghiệp , nhiệt_tình .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS16:2">
+				<text>Pizza giòn ( mình gọi đế mỏng ) ăn_không ngấy .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS16:3">
+				<text>Mì ý ngon nhưng cảm_giác hơi ít hơi xưa , hải_sản tươi đi ngày mưa_gió nhưng hải_sản không thấy tanh .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS16:4">
+				<text>Không_gian đẹp , sang phù_hợp đi vs gia_đình hoặc hội nhóm</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS17">
+		<sentences>
+			<sentence id="AlFrescoS17:0">
+				<text>Đồ_ăn ở đây rất ngon ❤ ️ Nhân_viên rất thân_thiện ❤ ️ Giá_cả tuy hơi mắc nhưng rất đáng ❤ ️</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS18">
+		<sentences>
+			<sentence id="AlFrescoS18:0">
+				<text>Pizza ngon , chuẩn vị vì chủ là ng nước_ngoài .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS18:1">
+				<text>Nhân_viên thân_thiện , niềm_nở .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS18:2">
+				<text>Có_điều nước ở đây hơi đắt</text>
+				<Opinion category="REST#PRICES" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS19">
+		<sentences>
+			<sentence id="AlFrescoS19:0">
+				<text>Pizza ngon , giá bánh vừa_phải , nhưng giá nước khá đắt .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+			<sentence id="AlFrescoS19:1">
+				<text>Hôm mình đi quán đông nhưng nhân_viên vẫn phục_vụ rất tốt , thân_thiện .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS19:2">
+				<text>Đặc_biệt trên mỗi bàn có giấy và bút tô màu cực_kỳ dễ_thương .</text>
+				<Opinion category="REST#GENERAL" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS20">
+		<sentences>
+			<sentence id="AlFrescoS20:0">
+				<text>Tiện đường đi chơi nên ghé vào ăn một_mình , salad cá_ngừ ở đây đắt hơn khá nhiều so với các nhà_hàng khác 120k một phần nhưng_mà ăn rất ngon đáng đồng_tiền , bơ 70k một ly đầy lun mịn và rất thơm ^ ^ rau ở đây sạch nên giá cao 90k một đĩa rau</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+				<Opinion category="REST#PRICES" polarity="neutral"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS21">
+		<sentences>
+			<sentence id="AlFrescoS21:0">
+				<text>Lâu rồi mới ghé lại đây ăn , đồ_ăn thì vẫn ngon như trước , nhưng có hai điều thiệt sự rất ko hài_lòng về nhà_hàng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS21:1">
+				<text>Thứ 1 , thái_độ nhân_viên phục_vụ ko tốt , lúc mình đi vào ko có ai ra chào chỉ bàn nào cả .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS21:2">
+				<text>Tới lúc lấy order thì mình order xong , bạn ngồi cạnh mình chưa order thì nhân_viên bỏ đi làm_việc khác , tới khi mình kêu lại chưa order xong e ơi thì chỉ cười_cười ko xin_lỗi khách hay j cả .</text>
+				<Opinion category="REST#SERVICE" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS21:3">
+				<text>Thứ 2 là nhà_vệ_sinh của nhà_hàng quá bẩn , cần xem_xét lại .</text>
+				<Opinion category="REST#AMBIENCE" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS21:4" OutOfScope="TRUE">
+				<text>Mình hi_vọng quản_lí nhà_hàng sẽ đọc được review này để khắc_phục những lỗi này</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS22">
+		<sentences>
+			<sentence id="AlFrescoS22:0" OutOfScope="TRUE">
+				<text>Bữa ở lại cty , cả bọn rủ đặt pizza về ăn .</text>
+			</sentence>
+			<sentence id="AlFrescoS22:1">
+				<text>Pizza ở đây ngon cũng hàng Top ở Đà_Nẵng .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS22:2">
+				<text>Bánh đặt về khi nào cũng nóng_hôi_hổi .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS22:3">
+				<text>Phô_mai dày_cui , ăn no chán_chê lun .</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS22:4" OutOfScope="TRUE">
+				<text>Giá bánh thì tầm 110k cho bánh nhỏ 180k chp bánh lớn thì_phải </text>
+			</sentence>
+			<sentence id="AlFrescoS22:5" OutOfScope="TRUE">
+				<text>Ko nhớ lắm .</text>
+			</sentence>
+			<sentence id="AlFrescoS22:6" OutOfScope="TRUE">
+				<text>Đặt về rùi mới biết quán t 5 khuyến_mãi .</text>
+			</sentence>
+			<sentence id="AlFrescoS22:7" OutOfScope="TRUE">
+				<text>Hic .</text>
+			</sentence>
+			<sentence id="AlFrescoS22:8" OutOfScope="TRUE">
+				<text>Đau cả lòng</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS23">
+		<sentences>
+			<sentence id="AlFrescoS23:0">
+				<text>Không_gian quán rộng_rãi , mát_mẻ , đông khách , khách nước_ngoài nhiều lắm .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS23:1">
+				<text>Pizza size S mà to cực 😘 Đang có chương_trình khuyến_mãi , mua pizza size lớn sẽ được tặng thêm 1 pizza từ 1-6 trong Menu .</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS23:2">
+				<text>Mình thật_sự không thích tương_ớt ở đây cho lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS23:3" OutOfScope="TRUE">
+				<text>Ăn pizza không kèm với tương ngon hơn là chấm tương .</text>
+			</sentence>
+			<sentence id="AlFrescoS23:4">
+				<text>Tương_ớt mà ngon thì tuyệt luôn , hơi thất_vọng chút vì lần đầu ăn_ở đây .</text>
+				<Opinion category="REST#QUALITY" polarity="negative"/>
+			</sentence>
+			<sentence id="AlFrescoS23:5">
+				<text>Còn pizza thì nhiều quá , ăn_không hết , đến nổi ngán luôn 😂</text>
+				<Opinion category="REST#STYLEOPTIONS" polarity="negative"/>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS24">
+		<sentences>
+			<sentence id="AlFrescoS24:0" OutOfScope="TRUE">
+				<text>Khá lâu mới thử lại pizza , lần này được mời Al_Fresco ' s .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:1" OutOfScope="TRUE">
+				<text>Đế dày , hải_sản .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:2" OutOfScope="TRUE">
+				<text>Giá hình_như 140k thì_phải .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:3">
+				<text>Pizza hải_sản là loại mình thích nhất .</text>
+				<Opinion category="" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS24:4" OutOfScope="TRUE">
+				<text>Có tôm và mực , thêm phomai phủ kín .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:5">
+				<text>Pizza bò cũng được , có_điều mình không thích bò nên cũng không chuộng lắm .</text>
+				<Opinion category="REST#QUALITY" polarity="neutral"/>
+			</sentence>
+			<sentence id="AlFrescoS24:6" OutOfScope="TRUE">
+				<text>Order mang về nên bánh đế dày , viền không quá cứng .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:7" OutOfScope="TRUE">
+				<text>Hay có khuyến_mãi hàng tuần mua 1 tặng 1 thì_phải .</text>
+			</sentence>
+			<sentence id="AlFrescoS24:8" OutOfScope="TRUE">
+				<text>Mà k nhớ thứ 3 hay thứ 5</text>
+			</sentence>
+		</sentences>
+	</Review>
+	<Review rid="AlFrescoS25">
+		<sentences>
+			<sentence id="AlFrescoS25:0" OutOfScope="TRUE">
+				<text>Tui viết review này trong nỗi tiếc_nuối vô vàng .</text>
+			</sentence>
+			<sentence id="AlFrescoS25:1" OutOfScope="TRUE">
+				<text>Ko phải vì đồ ăn_dở mà mua rùi mới biết có thứ 5 mua 1 tặng 1 .</text>
+			</sentence>
+			<sentence id="AlFrescoS25:2">
+				<text>Trong khi tui mua thứ 4 : ( ( Hồi xưa đi ngang kiu ôi cái quán j đẹp dễ_sợ .</text>
+				<Opinion category="REST#AMBIENCE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS25:3" OutOfScope="TRUE">
+				<text>Sau mới để_ý là Al_Fresco : D_Pizza ở đây mình thích hơn bên pizza hut .</text>
+			</sentence>
+			<sentence id="AlFrescoS25:4" OutOfScope="TRUE">
+				<text>Mình đặt qua Deliverynow .</text>
+			</sentence>
+			<sentence id="AlFrescoS25:5">
+				<text>Nhân_viên giao hàng nhanh .</text>
+				<Opinion category="REST#SERVICE" polarity="positive"/>
+			</sentence>
+			<sentence id="AlFrescoS25:6">
+				<text>Bánh còn nóng lun</text>
+				<Opinion category="REST#QUALITY" polarity="positive"/>
+			</sentence>
+		</sentences>
+	</Review> 
+</Reviews>
