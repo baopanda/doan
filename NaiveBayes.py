@@ -46,6 +46,7 @@ df = pd.DataFrame({"datas": datas, "categories": categories})
 # print(datas)
 # print(df)
 X_train, X_valid, y_train, y_valid = train_test_split(datas, categories, test_size=0.2, random_state=50)
+
 print(y_valid)
 vectorizer = CountVectorizer()
 transformed_x_train = vectorizer.fit_transform(X_train)
