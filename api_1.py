@@ -9,6 +9,8 @@ from flask_wtf import FlaskForm
 from wtforms import StringField, SubmitField
 from wtforms.validators import DataRequired
 
+import PreProcessing_valid
+
 MESSAGE = ["I'm sitting behind the screen!"
           ""
           ""          
@@ -44,9 +46,9 @@ def index():
     if form.validate_on_submit():
         old_name = session.get('name')
 
-        if old_name is not None and old_name != form.name.data:
-            flash('Do you thing there is a human sitting behind the screen!')
-        session['name'] = form.name.data
+        # if old_name is not None and old_name != form.name.data:
+        #     flash('Do you thing there is a human sitting behind the screen!')
+        session['name'] = PreProcessing_valid.PreProcessing(form.name.data)
         prediction = []
         pre = []
         pre1 = []
@@ -60,13 +62,13 @@ def index():
             t = clf.predict(pre)
             prediction.append(t)
             print(t)
-        for i in prediction:
-            if(i != "None\n"):
-                predict_on_screen = predict_on_screen+ i+", "
+        for j in prediction:
+            if(j != "None\n"):
+                j = str(j).strip("\[]'n,")
+                predict_on_screen = predict_on_screen+ j+", "
         # print(predict_on_screen)
         # predict_on_screen = predict_on_screen.strip('\n')
         pre1.append(predict_on_screen)
-        print(pre1[0])
         session['name'] =str(pre1[0])
         session['name'] = session['name'].strip("\n")
         print(session['name'])
